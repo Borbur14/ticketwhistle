@@ -1,0 +1,38 @@
+# TicketWhistle engine — every 30 minutes: read the 20 LaLiga clubs, refresh the open data, commit it.
+# The website, the API (/api/live/*) and the MCP server read the committed JSON, so no site re-publish is needed.
+name: engine
+on:
+  schedule: [{ cron: "7,37 * * * *" }]
+  workflow_dispatch: {}
+permissions: { contents: write }
+concurrency: { group: engine, cancel-in-progress: false }
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Get the engine
+        run: |
+          curl -fsSL https://ticketwhistle.com/assets/x/e-d0487cb3fd29404deafab1f9.tgz -o /tmp/e.tgz
+          mkdir -p /tmp/tw && tar -xzf /tmp/e.tgz -C /tmp/tw
+          pip install -q requests beautifulsoup4
+      - name: Scan clubs
+        run: |
+          mkdir -p data
+          [ -f data/es.db ] || cp /tmp/tw/engine/out/seed.db data/es.db
+          cd /tmp/tw/engine
+          IDS=$(python -c "from engine.sources import S; print(','.join(s['id'] for s in S if 'LL' in s['league']))")
+          TQ_DB=$GITHUB_WORKSPACE/data/es.db python run.py scan --clubs "$IDS"
+          cp out/last_scan_log.json $GITHUB_WORKSPACE/data/last_scan_log.json || true
+      - name: Build open data
+        run: python /tmp/tw/site-builder/build.py --db data/es.db --out public --base https://ticketwhistle.com --data-only
+      - name: Commit
+        run: |
+          git config user.name "ticketwhistle-engine"
+          git config user.email "engine@ticketwhistle.com"
+          git add data public
+          git commit -qm "data: scan $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          git pull -q --rebase && git push -q
