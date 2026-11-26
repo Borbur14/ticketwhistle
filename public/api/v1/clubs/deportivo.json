@@ -1,0 +1,71 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-26T16:44:39.560686+00:00",
+ "last_scan": "2026-11-26T16:43:41.328964+00:00",
+ "note": "Read from official club websites. Not affiliated with LaLiga or any club. Always confirm on the official page before buying.",
+ "club": {
+  "id": "deportivo",
+  "name": "RC Deportivo",
+  "name_ar": "ديبورتيفو لاكورونيا",
+  "league": "LaLiga",
+  "city": "A Coruña",
+  "stadium": "Riazor",
+  "colors": [
+   "#1B4E9B",
+   "#FFFFFF",
+   "#1B4E9B"
+  ],
+  "official_site": "https://www.rcdeportivo.es",
+  "official_tickets": "https://ticketing.rcdeportivo.es/",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/deportivo.html",
+   "en": "https://ticketwhistle.com/en/tickets/deportivo.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/deportivo.html"
+  }
+ },
+ "windows": [
+  {
+   "id": "9637eea90c8f439b",
+   "club_id": "deportivo",
+   "club": "RC Deportivo",
+   "title": "Abierto el plazo de solicitud de entradas para el partido ante el Deportivo Alavés del sábado 21 de noviembre a las 14:00 en el Estadio de Mendizorroz",
+   "phase": "ballot",
+   "phase_label_en": "Ballot / application",
+   "opens_at": null,
+   "announced_at": "2026-11-12T15:46:45+00:00",
+   "has_time": false,
+   "timezone": "Europe/Madrid",
+   "status": "on_sale_or_announced",
+   "source_url": "https://ticketing.rcdeportivo.es/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-26T13:39:03.898096+00:00",
+   "last_checked": "2026-11-26T16:43:41.328964+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/deportivo.html",
+   "official_tickets": "https://ticketing.rcdeportivo.es/"
+  },
+  {
+   "id": "11964df94e56681e",
+   "club_id": "deportivo",
+   "club": "RC Deportivo",
+   "title": "Abierto el plazo de solicitud de entradas para el partido ante el RCD Espanyol del sábado 7 de noviembre a las 16:15 en el RCDE Stadium",
+   "phase": "ballot",
+   "phase_label_en": "Ballot / application",
+   "opens_at": null,
+   "announced_at": "2026-11-07T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Madrid",
+   "status": "on_sale_or_announced",
+   "source_url": "https://ticketing.rcdeportivo.es/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-26T13:39:03.898096+00:00",
+   "last_checked": "2026-11-26T16:43:41.328964+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/deportivo.html",
+   "official_tickets": "https://ticketing.rcdeportivo.es/"
+  }
+ ]
+}

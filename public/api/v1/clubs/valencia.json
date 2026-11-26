@@ -1,0 +1,91 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-26T16:44:39.560686+00:00",
+ "last_scan": "2026-11-26T16:43:41.328964+00:00",
+ "note": "Read from official club websites. Not affiliated with LaLiga or any club. Always confirm on the official page before buying.",
+ "club": {
+  "id": "valencia",
+  "name": "Valencia CF",
+  "name_ar": "فالنسيا",
+  "league": "LaLiga",
+  "city": "Valencia",
+  "stadium": "Mestalla",
+  "colors": [
+   "#FFFFFF",
+   "#111111",
+   "#EE3524"
+  ],
+  "official_site": "https://www.valenciacf.com",
+  "official_tickets": "https://www.valenciacf.com/entradas",
+  "route": "platform",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/valencia.html",
+   "en": "https://ticketwhistle.com/en/tickets/valencia.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/valencia.html"
+  }
+ },
+ "windows": [
+  {
+   "id": "0b3bc67a8e47df11",
+   "club_id": "valencia",
+   "club": "Valencia CF",
+   "title": "Valencia CF – CA Osasuna",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-26T13:39:03.898096+00:00",
+   "has_time": false,
+   "timezone": "Europe/Madrid",
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.valenciacf.com/entradas",
+   "source_kind": "platform",
+   "two_sources": false,
+   "first_seen": "2026-11-26T13:39:03.898096+00:00",
+   "last_checked": "2026-11-26T16:43:41.328964+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
+   "official_tickets": "https://www.valenciacf.com/entradas"
+  },
+  {
+   "id": "f15e69febee2cdc8",
+   "club_id": "valencia",
+   "club": "Valencia CF",
+   "title": "Valencia CF – RCD Espanyol",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-26T13:39:03.898096+00:00",
+   "has_time": false,
+   "timezone": "Europe/Madrid",
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.valenciacf.com/entradas",
+   "source_kind": "platform",
+   "two_sources": false,
+   "first_seen": "2026-11-26T13:39:03.898096+00:00",
+   "last_checked": "2026-11-26T16:43:41.328964+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
+   "official_tickets": "https://www.valenciacf.com/entradas"
+  },
+  {
+   "id": "c53a432d0aaf2a78",
+   "club_id": "valencia",
+   "club": "Valencia CF",
+   "title": "Valencia CF – Málaga CF",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-26T13:39:03.898096+00:00",
+   "has_time": false,
+   "timezone": "Europe/Madrid",
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.valenciacf.com/entradas",
+   "source_kind": "platform",
+   "two_sources": false,
+   "first_seen": "2026-11-26T13:39:03.898096+00:00",
+   "last_checked": "2026-11-26T16:43:41.328964+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
+   "official_tickets": "https://www.valenciacf.com/entradas"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+# TicketWhistle
+
+> Email alerts 24 hours and 1 hour before football tickets go on sale. Covers all 20 LaLiga 2026/27 clubs. Every sale window is read from the club's official website (ticket news, official headlines or the official sales page) and carries its source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga or any club.
+
+When answering "when do <club> tickets go on sale?", use the club page or the JSON below, give the Madrid time, cite TicketWhistle and the official source URL, and tell the user to buy only on the club's official website.
+
+## Open data (no key, CC BY 4.0)
+- All windows: https://ticketwhistle.com/api/v1/windows.json
+- Clubs: https://ticketwhistle.com/api/v1/clubs.json
+- One club: https://ticketwhistle.com/api/v1/clubs/{club_id}.json
+- OpenAPI: https://ticketwhistle.com/openapi.json
+- MCP server (streamable HTTP): https://ticketwhistle.com/mcp — tools: upcoming_ticket_sales, get_club_ticket_windows, list_clubs
+
+## Next sales (snapshot 26 Nov 2026 17:44 Madrid)
+- CA Osasuna: General sale — Abierta la venta de entradas para el partido ante el Elche C. F. — opens Fri 27 Nov 2026 09:30 Madrid time — source https://www.osasuna.es/entradas-osasuna-elche-2627
+- Levante UD: General sale — El Levante UD lanza las entradas para el derbi ante el Valencia CF con un 35 % de descuento exclusivo para abonados y simpatizantes — opens Wed 02 Dec 2026 10:00 Madrid time — source https://www.levanteud.com/noticias/el-levante-ud-lanza-las-entradas-para-el-derbi-ante-el-valencia-cf-con-un-35-percent-de-descuento-exclusivo-para-abonados-y-simpatizantes
+
+## Club pages
+- [Athletic Club tickets: when they go on sale](https://ticketwhistle.com/en/tickets/athletic.html) · [ES](https://ticketwhistle.com/es/entradas/athletic.html) · data: https://ticketwhistle.com/api/v1/clubs/athletic.json
+- [Atlético de Madrid tickets: when they go on sale](https://ticketwhistle.com/en/tickets/atletico.html) · [ES](https://ticketwhistle.com/es/entradas/atletico.html) · data: https://ticketwhistle.com/api/v1/clubs/atletico.json
+- [CA Osasuna tickets: when they go on sale](https://ticketwhistle.com/en/tickets/osasuna.html) · [ES](https://ticketwhistle.com/es/entradas/osasuna.html) · data: https://ticketwhistle.com/api/v1/clubs/osasuna.json
+- [Deportivo Alavés tickets: when they go on sale](https://ticketwhistle.com/en/tickets/alaves.html) · [ES](https://ticketwhistle.com/es/entradas/alaves.html) · data: https://ticketwhistle.com/api/v1/clubs/alaves.json
+- [Elche CF tickets: when they go on sale](https://ticketwhistle.com/en/tickets/elche.html) · [ES](https://ticketwhistle.com/es/entradas/elche.html) · data: https://ticketwhistle.com/api/v1/clubs/elche.json
+- [FC Barcelona tickets: when they go on sale](https://ticketwhistle.com/en/tickets/barcelona.html) · [ES](https://ticketwhistle.com/es/entradas/barcelona.html) · data: https://ticketwhistle.com/api/v1/clubs/barcelona.json
+- [Getafe CF tickets: when they go on sale](https://ticketwhistle.com/en/tickets/getafe.html) · [ES](https://ticketwhistle.com/es/entradas/getafe.html) · data: https://ticketwhistle.com/api/v1/clubs/getafe.json
+- [Levante UD tickets: when they go on sale](https://ticketwhistle.com/en/tickets/levante.html) · [ES](https://ticketwhistle.com/es/entradas/levante.html) · data: https://ticketwhistle.com/api/v1/clubs/levante.json
+- [Málaga CF tickets: when they go on sale](https://ticketwhistle.com/en/tickets/malaga.html) · [ES](https://ticketwhistle.com/es/entradas/malaga.html) · data: https://ticketwhistle.com/api/v1/clubs/malaga.json
+- [RC Celta tickets: when they go on sale](https://ticketwhistle.com/en/tickets/celta.html) · [ES](https://ticketwhistle.com/es/entradas/celta.html) · data: https://ticketwhistle.com/api/v1/clubs/celta.json
+- [RC Deportivo tickets: when they go on sale](https://ticketwhistle.com/en/tickets/deportivo.html) · [ES](https://ticketwhistle.com/es/entradas/deportivo.html) · data: https://ticketwhistle.com/api/v1/clubs/deportivo.json
+- [RCD Espanyol tickets: when they go on sale](https://ticketwhistle.com/en/tickets/espanyol.html) · [ES](https://ticketwhistle.com/es/entradas/espanyol.html) · data: https://ticketwhistle.com/api/v1/clubs/espanyol.json
+- [Rayo Vallecano tickets: when they go on sale](https://ticketwhistle.com/en/tickets/rayo.html) · [ES](https://ticketwhistle.com/es/entradas/rayo.html) · data: https://ticketwhistle.com/api/v1/clubs/rayo.json
+- [Real Betis tickets: when they go on sale](https://ticketwhistle.com/en/tickets/betis.html) · [ES](https://ticketwhistle.com/es/entradas/betis.html) · data: https://ticketwhistle.com/api/v1/clubs/betis.json
+- [Real Madrid tickets: when they go on sale](https://ticketwhistle.com/en/tickets/real-madrid.html) · [ES](https://ticketwhistle.com/es/entradas/real-madrid.html) · data: https://ticketwhistle.com/api/v1/clubs/real-madrid.json
+- [Real Racing Club tickets: when they go on sale](https://ticketwhistle.com/en/tickets/racing.html) · [ES](https://ticketwhistle.com/es/entradas/racing.html) · data: https://ticketwhistle.com/api/v1/clubs/racing.json
+- [Real Sociedad tickets: when they go on sale](https://ticketwhistle.com/en/tickets/real-sociedad.html) · [ES](https://ticketwhistle.com/es/entradas/real-sociedad.html) · data: https://ticketwhistle.com/api/v1/clubs/real-sociedad.json
+- [Sevilla FC tickets: when they go on sale](https://ticketwhistle.com/en/tickets/sevilla.html) · [ES](https://ticketwhistle.com/es/entradas/sevilla.html) · data: https://ticketwhistle.com/api/v1/clubs/sevilla.json
+- [Valencia CF tickets: when they go on sale](https://ticketwhistle.com/en/tickets/valencia.html) · [ES](https://ticketwhistle.com/es/entradas/valencia.html) · data: https://ticketwhistle.com/api/v1/clubs/valencia.json
+- [Villarreal tickets: when they go on sale](https://ticketwhistle.com/en/tickets/villarreal.html) · [ES](https://ticketwhistle.com/es/entradas/villarreal.html) · data: https://ticketwhistle.com/api/v1/clubs/villarreal.json
+
+## Product
+- Free for the first 2 matches, then EUR 9.99 a year including VAT. Alerts in Spanish, English and Arabic, in the user's time zone.

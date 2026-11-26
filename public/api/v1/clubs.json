@@ -1,0 +1,430 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-26T16:44:39.560686+00:00",
+ "last_scan": "2026-11-26T16:43:41.328964+00:00",
+ "note": "Read from official club websites. Not affiliated with LaLiga or any club. Always confirm on the official page before buying.",
+ "clubs": [
+  {
+   "id": "real-madrid",
+   "name": "Real Madrid",
+   "name_ar": "ريال مدريد",
+   "league": "LaLiga",
+   "city": "Madrid",
+   "stadium": "Santiago Bernabéu",
+   "colors": [
+    "#FFFFFF",
+    "#FEBE10",
+    "#00529F"
+   ],
+   "official_site": "https://www.realmadrid.com",
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/real-madrid.html",
+    "en": "https://ticketwhistle.com/en/tickets/real-madrid.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/real-madrid.html"
+   }
+  },
+  {
+   "id": "barcelona",
+   "name": "FC Barcelona",
+   "name_ar": "برشلونة",
+   "league": "LaLiga",
+   "city": "Barcelona",
+   "stadium": "Spotify Camp Nou",
+   "colors": [
+    "#A50044",
+    "#004D98",
+    "#EDBB00"
+   ],
+   "official_site": "https://www.fcbarcelona.com",
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/barcelona.html",
+    "en": "https://ticketwhistle.com/en/tickets/barcelona.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/barcelona.html"
+   }
+  },
+  {
+   "id": "atletico",
+   "name": "Atlético de Madrid",
+   "name_ar": "أتلتيكو مدريد",
+   "league": "LaLiga",
+   "city": "Madrid",
+   "stadium": "Riyadh Air Metropolitano",
+   "colors": [
+    "#CB3524",
+    "#FFFFFF",
+    "#272E61"
+   ],
+   "official_site": "https://www.atleticodemadrid.com",
+   "official_tickets": "https://www.atleticodemadrid.com/entradas",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/atletico.html",
+    "en": "https://ticketwhistle.com/en/tickets/atletico.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/atletico.html"
+   }
+  },
+  {
+   "id": "betis",
+   "name": "Real Betis",
+   "name_ar": "ريال بيتيس",
+   "league": "LaLiga",
+   "city": "Sevilla",
+   "stadium": null,
+   "colors": [
+    "#00954C",
+    "#FFFFFF",
+    "#00954C"
+   ],
+   "official_site": "https://www.realbetisbalompie.es",
+   "official_tickets": "https://www.realbetisbalompie.es/entradas",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/betis.html",
+    "en": "https://ticketwhistle.com/en/tickets/betis.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/betis.html"
+   }
+  },
+  {
+   "id": "villarreal",
+   "name": "Villarreal",
+   "name_ar": "فياريال",
+   "league": "LaLiga",
+   "city": "Vila-real",
+   "stadium": "Estadio de la Cerámica",
+   "colors": [
+    "#FFE114",
+    "#005187",
+    "#FFE114"
+   ],
+   "official_site": "https://villarrealcf.es",
+   "official_tickets": "https://villarrealcf.es/es/venta-de-entradas/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/villarreal.html",
+    "en": "https://ticketwhistle.com/en/tickets/villarreal.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/villarreal.html"
+   }
+  },
+  {
+   "id": "alaves",
+   "name": "Deportivo Alavés",
+   "name_ar": "ديبورتيفو ألافيس",
+   "league": "LaLiga",
+   "city": "Vitoria-Gasteiz",
+   "stadium": "Mendizorroza",
+   "colors": [
+    "#0761AF",
+    "#FFFFFF",
+    "#0761AF"
+   ],
+   "official_site": "https://www.deportivoalaves.com",
+   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/alaves.html",
+    "en": "https://ticketwhistle.com/en/tickets/alaves.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/alaves.html"
+   }
+  },
+  {
+   "id": "athletic",
+   "name": "Athletic Club",
+   "name_ar": "أتلتيك بلباو",
+   "league": "LaLiga",
+   "city": "Bilbao",
+   "stadium": "San Mamés",
+   "colors": [
+    "#EE2523",
+    "#FFFFFF",
+    "#111111"
+   ],
+   "official_site": "https://www.athletic-club.eus",
+   "official_tickets": "https://www.athletic-club.eus/es/entradas/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/athletic.html",
+    "en": "https://ticketwhistle.com/en/tickets/athletic.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/athletic.html"
+   }
+  },
+  {
+   "id": "celta",
+   "name": "RC Celta",
+   "name_ar": "سيلتا فيغو",
+   "league": "LaLiga",
+   "city": "Vigo",
+   "stadium": "Balaídos",
+   "colors": [
+    "#8AC3EE",
+    "#FFFFFF",
+    "#E30613"
+   ],
+   "official_site": "https://rccelta.es",
+   "official_tickets": "https://rccelta.es/entradas/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/celta.html",
+    "en": "https://ticketwhistle.com/en/tickets/celta.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/celta.html"
+   }
+  },
+  {
+   "id": "deportivo",
+   "name": "RC Deportivo",
+   "name_ar": "ديبورتيفو لاكورونيا",
+   "league": "LaLiga",
+   "city": "A Coruña",
+   "stadium": "Riazor",
+   "colors": [
+    "#1B4E9B",
+    "#FFFFFF",
+    "#1B4E9B"
+   ],
+   "official_site": "https://www.rcdeportivo.es",
+   "official_tickets": "https://ticketing.rcdeportivo.es/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/deportivo.html",
+    "en": "https://ticketwhistle.com/en/tickets/deportivo.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/deportivo.html"
+   }
+  },
+  {
+   "id": "elche",
+   "name": "Elche CF",
+   "name_ar": "إلتشي",
+   "league": "LaLiga",
+   "city": "Elche",
+   "stadium": "Martínez Valero",
+   "colors": [
+    "#FFFFFF",
+    "#05642C",
+    "#FFFFFF"
+   ],
+   "official_site": "https://www.elchecf.es",
+   "official_tickets": "https://www.elchecf.es/entradas",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/elche.html",
+    "en": "https://ticketwhistle.com/en/tickets/elche.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/elche.html"
+   }
+  },
+  {
+   "id": "espanyol",
+   "name": "RCD Espanyol",
+   "name_ar": "إسبانيول",
+   "league": "LaLiga",
+   "city": "Cornellà-El Prat",
+   "stadium": "RCDE Stadium",
+   "colors": [
+    "#007FC8",
+    "#FFFFFF",
+    "#007FC8"
+   ],
+   "official_site": "https://www.rcdespanyol.com",
+   "official_tickets": "https://tickets.rcdespanyol.com/index.php/es/entradas-es",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/espanyol.html",
+    "en": "https://ticketwhistle.com/en/tickets/espanyol.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/espanyol.html"
+   }
+  },
+  {
+   "id": "getafe",
+   "name": "Getafe CF",
+   "name_ar": "خيتافي",
+   "league": "LaLiga",
+   "city": "Getafe",
+   "stadium": "Coliseum",
+   "colors": [
+    "#005999",
+    "#FFFFFF",
+    "#005999"
+   ],
+   "official_site": "https://www.getafecf.com",
+   "official_tickets": "https://www.getafecf.com/entradas",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/getafe.html",
+    "en": "https://ticketwhistle.com/en/tickets/getafe.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/getafe.html"
+   }
+  },
+  {
+   "id": "levante",
+   "name": "Levante UD",
+   "name_ar": "ليفانتي",
+   "league": "LaLiga",
+   "city": "Valencia",
+   "stadium": "Ciutat de València",
+   "colors": [
+    "#B4053F",
+    "#004F98",
+    "#B4053F"
+   ],
+   "official_site": "https://www.levanteud.com",
+   "official_tickets": "https://www.levanteud.com/entradas",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/levante.html",
+    "en": "https://ticketwhistle.com/en/tickets/levante.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/levante.html"
+   }
+  },
+  {
+   "id": "osasuna",
+   "name": "CA Osasuna",
+   "name_ar": "أوساسونا",
+   "league": "LaLiga",
+   "city": "Pamplona",
+   "stadium": "El Sadar",
+   "colors": [
+    "#D91A21",
+    "#0A346F",
+    "#D91A21"
+   ],
+   "official_site": "https://www.osasuna.es",
+   "official_tickets": "https://entradas.osasuna.es/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/osasuna.html",
+    "en": "https://ticketwhistle.com/en/tickets/osasuna.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/osasuna.html"
+   }
+  },
+  {
+   "id": "racing",
+   "name": "Real Racing Club",
+   "name_ar": "راسينغ سانتاندير",
+   "league": "LaLiga",
+   "city": "Santander",
+   "stadium": "El Sardinero",
+   "colors": [
+    "#00A04B",
+    "#FFFFFF",
+    "#111111"
+   ],
+   "official_site": "https://www.realracingclub.es",
+   "official_tickets": "https://taquilla.realracingclub.es/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/racing.html",
+    "en": "https://ticketwhistle.com/en/tickets/racing.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/racing.html"
+   }
+  },
+  {
+   "id": "rayo",
+   "name": "Rayo Vallecano",
+   "name_ar": "رايو فاليكانو",
+   "league": "LaLiga",
+   "city": "Madrid",
+   "stadium": "Estadio de Vallecas",
+   "colors": [
+    "#FFFFFF",
+    "#E53027",
+    "#FFFFFF"
+   ],
+   "official_site": "https://www.rayovallecano.es",
+   "official_tickets": "https://www.rayovallecano.es/entradas",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/rayo.html",
+    "en": "https://ticketwhistle.com/en/tickets/rayo.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/rayo.html"
+   }
+  },
+  {
+   "id": "real-sociedad",
+   "name": "Real Sociedad",
+   "name_ar": "ريال سوسيداد",
+   "league": "LaLiga",
+   "city": "San Sebastián",
+   "stadium": "Anoeta",
+   "colors": [
+    "#0067B1",
+    "#FFFFFF",
+    "#0067B1"
+   ],
+   "official_site": "https://www.realsociedad.eus",
+   "official_tickets": "https://ticketing.realsociedad.eus/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/real-sociedad.html",
+    "en": "https://ticketwhistle.com/en/tickets/real-sociedad.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/real-sociedad.html"
+   }
+  },
+  {
+   "id": "sevilla",
+   "name": "Sevilla FC",
+   "name_ar": "إشبيلية",
+   "league": "LaLiga",
+   "city": "Sevilla",
+   "stadium": "Ramón Sánchez-Pizjuán",
+   "colors": [
+    "#FFFFFF",
+    "#D81E05",
+    "#FFFFFF"
+   ],
+   "official_site": "https://sevillafc.es",
+   "official_tickets": "https://sevillafc.es/entradas",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/sevilla.html",
+    "en": "https://ticketwhistle.com/en/tickets/sevilla.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/sevilla.html"
+   }
+  },
+  {
+   "id": "valencia",
+   "name": "Valencia CF",
+   "name_ar": "فالنسيا",
+   "league": "LaLiga",
+   "city": "Valencia",
+   "stadium": "Mestalla",
+   "colors": [
+    "#FFFFFF",
+    "#111111",
+    "#EE3524"
+   ],
+   "official_site": "https://www.valenciacf.com",
+   "official_tickets": "https://www.valenciacf.com/entradas",
+   "route": "platform",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/valencia.html",
+    "en": "https://ticketwhistle.com/en/tickets/valencia.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/valencia.html"
+   }
+  },
+  {
+   "id": "malaga",
+   "name": "Málaga CF",
+   "name_ar": "ملقة",
+   "league": "LaLiga",
+   "city": "Málaga",
+   "stadium": "La Rosaleda",
+   "colors": [
+    "#5AAAE7",
+    "#FFFFFF",
+    "#5AAAE7"
+   ],
+   "official_site": "https://www.malagacf.com",
+   "official_tickets": "https://www.malagacf.com/entradas",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/malaga.html",
+    "en": "https://ticketwhistle.com/en/tickets/malaga.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/malaga.html"
+   }
+  }
+ ]
+}

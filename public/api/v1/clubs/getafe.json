@@ -1,0 +1,51 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-26T16:44:39.560686+00:00",
+ "last_scan": "2026-11-26T16:43:41.328964+00:00",
+ "note": "Read from official club websites. Not affiliated with LaLiga or any club. Always confirm on the official page before buying.",
+ "club": {
+  "id": "getafe",
+  "name": "Getafe CF",
+  "name_ar": "خيتافي",
+  "league": "LaLiga",
+  "city": "Getafe",
+  "stadium": "Coliseum",
+  "colors": [
+   "#005999",
+   "#FFFFFF",
+   "#005999"
+  ],
+  "official_site": "https://www.getafecf.com",
+  "official_tickets": "https://www.getafecf.com/entradas",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/getafe.html",
+   "en": "https://ticketwhistle.com/en/tickets/getafe.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/getafe.html"
+  }
+ },
+ "windows": [
+  {
+   "id": "e93bce5d70ca412f",
+   "club_id": "getafe",
+   "club": "Getafe CF",
+   "title": "Entradas a la venta para el encuentro frente al RCD Espanyol",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-23T18:04:29+00:00",
+   "has_time": false,
+   "timezone": "Europe/Madrid",
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.getafecf.com/entradas",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-26T13:39:03.898096+00:00",
+   "last_checked": "2026-11-26T16:43:41.328964+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/getafe.html",
+   "official_tickets": "https://www.getafecf.com/entradas"
+  }
+ ]
+}
