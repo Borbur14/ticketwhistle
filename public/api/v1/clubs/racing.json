@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T04:44:27.134067+00:00",
- "last_scan": "2026-11-27T04:43:28.854173+00:00",
+ "generated_at": "2026-11-27T05:14:27.674623+00:00",
+ "last_scan": "2026-11-27T05:13:29.381647+00:00",
  "note": "Read from official club websites. Not affiliated with LaLiga or any club. Always confirm on the official page before buying.",
  "club": {
   "id": "racing",
@@ -24,7 +24,8 @@
    "es": "https://ticketwhistle.com/es/entradas/racing.html",
    "en": "https://ticketwhistle.com/en/tickets/racing.html",
    "ar": "https://ticketwhistle.com/ar/tickets/racing.html"
-  }
+  },
+  "official_alternatives": []
  },
  "windows": [
   {
@@ -43,7 +44,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T04:43:28.854173+00:00",
+   "last_checked": "2026-11-27T05:13:29.381647+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
    "official_tickets": "https://taquilla.realracingclub.es/",
    "slug": "racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c",
@@ -69,7 +70,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T04:43:28.854173+00:00",
+   "last_checked": "2026-11-27T05:13:29.381647+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
    "official_tickets": "https://taquilla.realracingclub.es/",
    "slug": "racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa",
@@ -95,7 +96,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T04:43:28.854173+00:00",
+   "last_checked": "2026-11-27T05:13:29.381647+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
    "official_tickets": "https://taquilla.realracingclub.es/",
    "slug": "racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933",
@@ -121,7 +122,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T04:43:28.854173+00:00",
+   "last_checked": "2026-11-27T05:13:29.381647+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
    "official_tickets": "https://taquilla.realracingclub.es/",
    "slug": "racing-proceso-venta-entradas-partidos-e4ace55d",
