@@ -1,0 +1,38 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T19:42:39.031487+00:00",
+ "last_scan": "2026-11-27T19:26:43.211697+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "andorra",
+  "name": "FC Andorra",
+  "name_ar": "أندورا",
+  "league": "Segunda División",
+  "country": "ESP",
+  "timezone": "Europe/Madrid",
+  "city": "Encamp",
+  "stadium": "Nou Estadi Encamp",
+  "european_competition": null,
+  "colors": [
+   "#13216A",
+   "#A6192E",
+   "#FEDF00"
+  ],
+  "flag_css": "linear-gradient(90deg,#13216A 0.0% 33.3%,#A6192E 33.3% 66.7%,#13216A 66.7% 100.0%)",
+  "official_site": "https://www.fcandorra.com",
+  "official_tickets": "https://www.fcandorra.com",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/andorra.html",
+   "en": "https://ticketwhistle.com/en/tickets/andorra.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/andorra.html",
+   "it": "https://ticketwhistle.com/it/biglietti/andorra.html",
+   "fr": "https://ticketwhistle.com/fr/billets/andorra.html",
+   "de": "https://ticketwhistle.com/de/tickets/andorra.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": []
+}

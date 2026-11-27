@@ -1,0 +1,101 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T19:42:39.031487+00:00",
+ "last_scan": "2026-11-27T19:26:43.211697+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "derby",
+  "name": "Derby County",
+  "name_ar": "ديربي كاونتي",
+  "league": "Championship",
+  "country": "ENG",
+  "timezone": "Europe/London",
+  "city": "Derby",
+  "stadium": "Pride Park",
+  "european_competition": null,
+  "colors": [
+   "#FFFFFF",
+   "#111111",
+   "#FFFFFF"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#111111 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+  "official_site": "https://www.dcfc.co.uk",
+  "official_tickets": "https://tickets.dcfc.co.uk/",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/derby.html",
+   "en": "https://ticketwhistle.com/en/tickets/derby.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/derby.html",
+   "it": "https://ticketwhistle.com/it/biglietti/derby.html",
+   "fr": "https://ticketwhistle.com/fr/billets/derby.html",
+   "de": "https://ticketwhistle.com/de/tickets/derby.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "ffc9f1c023b8f294",
+   "club_id": "derby",
+   "club": "Derby County",
+   "title": "TICKETS: Middlesbrough (A)",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-17T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Championship",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://tickets.dcfc.co.uk/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T19:26:43.211697+00:00",
+   "last_checked": "2026-11-27T19:26:43.211697+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/derby.html",
+   "official_tickets": "https://tickets.dcfc.co.uk/",
+   "slug": "derby-tickets-middlesbrough-ffc9f1c0",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/derby-tickets-middlesbrough-ffc9f1c0.html",
+    "en": "https://ticketwhistle.com/en/sales/derby-tickets-middlesbrough-ffc9f1c0.html",
+    "ar": "https://ticketwhistle.com/ar/sales/derby-tickets-middlesbrough-ffc9f1c0.html",
+    "it": "https://ticketwhistle.com/it/vendite/derby-tickets-middlesbrough-ffc9f1c0.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/derby-tickets-middlesbrough-ffc9f1c0.html",
+    "de": "https://ticketwhistle.com/de/verkauf/derby-tickets-middlesbrough-ffc9f1c0.html"
+   }
+  },
+  {
+   "id": "0bbb1b1085c899f8",
+   "club_id": "derby",
+   "club": "Derby County",
+   "title": "TICKETS: Watford (H)",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-12T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Championship",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://tickets.dcfc.co.uk/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T19:26:43.211697+00:00",
+   "last_checked": "2026-11-27T19:26:43.211697+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/derby.html",
+   "official_tickets": "https://tickets.dcfc.co.uk/",
+   "slug": "derby-tickets-watford-h-0bbb1b10",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/derby-tickets-watford-h-0bbb1b10.html",
+    "en": "https://ticketwhistle.com/en/sales/derby-tickets-watford-h-0bbb1b10.html",
+    "ar": "https://ticketwhistle.com/ar/sales/derby-tickets-watford-h-0bbb1b10.html",
+    "it": "https://ticketwhistle.com/it/vendite/derby-tickets-watford-h-0bbb1b10.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/derby-tickets-watford-h-0bbb1b10.html",
+    "de": "https://ticketwhistle.com/de/verkauf/derby-tickets-watford-h-0bbb1b10.html"
+   }
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T19:42:39.031487+00:00",
+ "last_scan": "2026-11-27T19:26:43.211697+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "lincoln",
+  "name": "Lincoln City",
+  "name_ar": "لينكولن سيتي",
+  "league": "Championship",
+  "country": "ENG",
+  "timezone": "Europe/London",
+  "city": "Lincoln",
+  "stadium": "Sincil Bank",
+  "european_competition": null,
+  "colors": [
+   "#E2231A",
+   "#FFFFFF",
+   "#E2231A"
+  ],
+  "flag_css": "linear-gradient(90deg,#E2231A 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#E2231A 66.7% 100.0%)",
+  "official_site": "https://www.weareimps.com",
+  "official_tickets": "https://www.weareimps.com/tickets",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/lincoln.html",
+   "en": "https://ticketwhistle.com/en/tickets/lincoln.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/lincoln.html",
+   "it": "https://ticketwhistle.com/it/biglietti/lincoln.html",
+   "fr": "https://ticketwhistle.com/fr/billets/lincoln.html",
+   "de": "https://ticketwhistle.com/de/tickets/lincoln.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "20ffecd5ddeec3a6",
+   "club_id": "lincoln",
+   "club": "Lincoln City",
+   "title": "Tickets – Burnley (A)",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-26T09:57:50+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Championship",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.weareimps.com/tickets",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T19:26:43.211697+00:00",
+   "last_checked": "2026-11-27T19:26:43.211697+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/lincoln.html",
+   "official_tickets": "https://www.weareimps.com/tickets",
+   "slug": "lincoln-tickets-burnley-20ffecd5",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/lincoln-tickets-burnley-20ffecd5.html",
+    "en": "https://ticketwhistle.com/en/sales/lincoln-tickets-burnley-20ffecd5.html",
+    "ar": "https://ticketwhistle.com/ar/sales/lincoln-tickets-burnley-20ffecd5.html",
+    "it": "https://ticketwhistle.com/it/vendite/lincoln-tickets-burnley-20ffecd5.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/lincoln-tickets-burnley-20ffecd5.html",
+    "de": "https://ticketwhistle.com/de/verkauf/lincoln-tickets-burnley-20ffecd5.html"
+   }
+  },
+  {
+   "id": "d618f53728956eb4",
+   "club_id": "lincoln",
+   "club": "Lincoln City",
+   "title": "Limited tickets remaining for City's upcoming home fixtures",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-19T13:02:14+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Championship",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.weareimps.com/tickets",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T19:26:43.211697+00:00",
+   "last_checked": "2026-11-27T19:26:43.211697+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/lincoln.html",
+   "official_tickets": "https://www.weareimps.com/tickets",
+   "slug": "lincoln-limited-tickets-remaining-city-s-upcoming-home-d618f537",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/lincoln-limited-tickets-remaining-city-s-upcoming-home-d618f537.html",
+    "en": "https://ticketwhistle.com/en/sales/lincoln-limited-tickets-remaining-city-s-upcoming-home-d618f537.html",
+    "ar": "https://ticketwhistle.com/ar/sales/lincoln-limited-tickets-remaining-city-s-upcoming-home-d618f537.html",
+    "it": "https://ticketwhistle.com/it/vendite/lincoln-limited-tickets-remaining-city-s-upcoming-home-d618f537.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/lincoln-limited-tickets-remaining-city-s-upcoming-home-d618f537.html",
+    "de": "https://ticketwhistle.com/de/verkauf/lincoln-limited-tickets-remaining-city-s-upcoming-home-d618f537.html"
+   }
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T19:42:39.031487+00:00",
+ "last_scan": "2026-11-27T19:26:43.211697+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "sporting-gijon",
+  "name": "Real Sporting de Gijón",
+  "name_ar": "سبورتينغ خيخون",
+  "league": "Segunda División",
+  "country": "ESP",
+  "timezone": "Europe/Madrid",
+  "city": "Gijón",
+  "stadium": "El Molinón",
+  "european_competition": null,
+  "colors": [
+   "#D4002B",
+   "#FFFFFF",
+   "#D4002B"
+  ],
+  "flag_css": "linear-gradient(90deg,#D4002B 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#D4002B 66.7% 100.0%)",
+  "official_site": "https://www.realsporting.com",
+  "official_tickets": "https://www.realsporting.com",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/sporting-gijon.html",
+   "en": "https://ticketwhistle.com/en/tickets/sporting-gijon.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/sporting-gijon.html",
+   "it": "https://ticketwhistle.com/it/biglietti/sporting-gijon.html",
+   "fr": "https://ticketwhistle.com/fr/billets/sporting-gijon.html",
+   "de": "https://ticketwhistle.com/de/tickets/sporting-gijon.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "6f83b507873b8920",
+   "club_id": "sporting-gijon",
+   "club": "Real Sporting de Gijón",
+   "title": "Entradas CE Sabadell-Sporting de la Copa",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-25T17:08:17+00:00",
+   "has_time": false,
+   "timezone": "Europe/Madrid",
+   "league": "Segunda División",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.realsporting.com",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T19:26:43.211697+00:00",
+   "last_checked": "2026-11-27T19:26:43.211697+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/sporting-gijon.html",
+   "official_tickets": "https://www.realsporting.com",
+   "slug": "sporting-gijon-entradas-ce-sabadell-copa-6f83b507",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/sporting-gijon-entradas-ce-sabadell-copa-6f83b507.html",
+    "en": "https://ticketwhistle.com/en/sales/sporting-gijon-entradas-ce-sabadell-copa-6f83b507.html",
+    "ar": "https://ticketwhistle.com/ar/sales/sporting-gijon-entradas-ce-sabadell-copa-6f83b507.html",
+    "it": "https://ticketwhistle.com/it/vendite/sporting-gijon-entradas-ce-sabadell-copa-6f83b507.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/sporting-gijon-entradas-ce-sabadell-copa-6f83b507.html",
+    "de": "https://ticketwhistle.com/de/verkauf/sporting-gijon-entradas-ce-sabadell-copa-6f83b507.html"
+   }
+  },
+  {
+   "id": "8ccac35742400b77",
+   "club_id": "sporting-gijon",
+   "club": "Real Sporting de Gijón",
+   "title": "Entradas para el UD Almería-Real Sporting",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-17T12:37:30+00:00",
+   "has_time": false,
+   "timezone": "Europe/Madrid",
+   "league": "Segunda División",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.realsporting.com",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T19:26:43.211697+00:00",
+   "last_checked": "2026-11-27T19:26:43.211697+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/sporting-gijon.html",
+   "official_tickets": "https://www.realsporting.com",
+   "slug": "sporting-gijon-entradas-almeria-real-8ccac357",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/sporting-gijon-entradas-almeria-real-8ccac357.html",
+    "en": "https://ticketwhistle.com/en/sales/sporting-gijon-entradas-almeria-real-8ccac357.html",
+    "ar": "https://ticketwhistle.com/ar/sales/sporting-gijon-entradas-almeria-real-8ccac357.html",
+    "it": "https://ticketwhistle.com/it/vendite/sporting-gijon-entradas-almeria-real-8ccac357.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/sporting-gijon-entradas-almeria-real-8ccac357.html",
+    "de": "https://ticketwhistle.com/de/verkauf/sporting-gijon-entradas-almeria-real-8ccac357.html"
+   }
+  }
+ ]
+}

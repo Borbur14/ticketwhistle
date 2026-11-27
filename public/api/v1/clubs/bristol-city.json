@@ -1,0 +1,101 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T19:42:39.031487+00:00",
+ "last_scan": "2026-11-27T19:26:43.211697+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "bristol-city",
+  "name": "Bristol City",
+  "name_ar": "بريستول سيتي",
+  "league": "Championship",
+  "country": "ENG",
+  "timezone": "Europe/London",
+  "city": "Bristol",
+  "stadium": "Ashton Gate",
+  "european_competition": null,
+  "colors": [
+   "#E21B23",
+   "#FFFFFF",
+   "#E21B23"
+  ],
+  "flag_css": "linear-gradient(90deg,#E21B23 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#E21B23 66.7% 100.0%)",
+  "official_site": "https://www.bcfc.co.uk",
+  "official_tickets": "https://www.bcfc.co.uk/tickets",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/bristol-city.html",
+   "en": "https://ticketwhistle.com/en/tickets/bristol-city.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/bristol-city.html",
+   "it": "https://ticketwhistle.com/it/biglietti/bristol-city.html",
+   "fr": "https://ticketwhistle.com/fr/billets/bristol-city.html",
+   "de": "https://ticketwhistle.com/de/tickets/bristol-city.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "9a5a7ea61417f04b",
+   "club_id": "bristol-city",
+   "club": "Bristol City",
+   "title": "Student ticket offer for Wrexham",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-17T18:28:37+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Championship",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.bcfc.co.uk/tickets",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T19:26:43.211697+00:00",
+   "last_checked": "2026-11-27T19:26:43.211697+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/bristol-city.html",
+   "official_tickets": "https://www.bcfc.co.uk/tickets",
+   "slug": "bristol-city-student-ticket-offer-wrexham-9a5a7ea6",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/bristol-city-student-ticket-offer-wrexham-9a5a7ea6.html",
+    "en": "https://ticketwhistle.com/en/sales/bristol-city-student-ticket-offer-wrexham-9a5a7ea6.html",
+    "ar": "https://ticketwhistle.com/ar/sales/bristol-city-student-ticket-offer-wrexham-9a5a7ea6.html",
+    "it": "https://ticketwhistle.com/it/vendite/bristol-city-student-ticket-offer-wrexham-9a5a7ea6.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/bristol-city-student-ticket-offer-wrexham-9a5a7ea6.html",
+    "de": "https://ticketwhistle.com/de/verkauf/bristol-city-student-ticket-offer-wrexham-9a5a7ea6.html"
+   }
+  },
+  {
+   "id": "aeea66ca4f29dba2",
+   "club_id": "bristol-city",
+   "club": "Bristol City",
+   "title": "West Ham tickets set for priority sale",
+   "phase": "member_sale",
+   "phase_label_en": "Members' sale",
+   "opens_at": null,
+   "announced_at": "2026-11-12T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Championship",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.bcfc.co.uk/tickets",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T19:26:43.211697+00:00",
+   "last_checked": "2026-11-27T19:26:43.211697+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/bristol-city.html",
+   "official_tickets": "https://www.bcfc.co.uk/tickets",
+   "slug": "bristol-city-west-ham-tickets-set-priority-sale-aeea66ca",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/bristol-city-west-ham-tickets-set-priority-sale-aeea66ca.html",
+    "en": "https://ticketwhistle.com/en/sales/bristol-city-west-ham-tickets-set-priority-sale-aeea66ca.html",
+    "ar": "https://ticketwhistle.com/ar/sales/bristol-city-west-ham-tickets-set-priority-sale-aeea66ca.html",
+    "it": "https://ticketwhistle.com/it/vendite/bristol-city-west-ham-tickets-set-priority-sale-aeea66ca.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/bristol-city-west-ham-tickets-set-priority-sale-aeea66ca.html",
+    "de": "https://ticketwhistle.com/de/verkauf/bristol-city-west-ham-tickets-set-priority-sale-aeea66ca.html"
+   }
+  }
+ ]
+}

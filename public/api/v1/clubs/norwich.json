@@ -1,0 +1,38 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T19:42:39.031487+00:00",
+ "last_scan": "2026-11-27T19:26:43.211697+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "norwich",
+  "name": "Norwich City",
+  "name_ar": "نوريتش سيتي",
+  "league": "Championship",
+  "country": "ENG",
+  "timezone": "Europe/London",
+  "city": "Norwich",
+  "stadium": "Carrow Road",
+  "european_competition": null,
+  "colors": [
+   "#FFF200",
+   "#00A650",
+   "#FFF200"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFF200 0.0% 33.3%,#00A650 33.3% 66.7%,#FFF200 66.7% 100.0%)",
+  "official_site": "https://www.canaries.co.uk",
+  "official_tickets": "https://www.canaries.co.uk/tickets",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/norwich.html",
+   "en": "https://ticketwhistle.com/en/tickets/norwich.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/norwich.html",
+   "it": "https://ticketwhistle.com/it/biglietti/norwich.html",
+   "fr": "https://ticketwhistle.com/fr/billets/norwich.html",
+   "de": "https://ticketwhistle.com/de/tickets/norwich.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": []
+}

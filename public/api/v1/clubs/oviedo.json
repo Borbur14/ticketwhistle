@@ -1,0 +1,101 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T19:42:39.031487+00:00",
+ "last_scan": "2026-11-27T19:26:43.211697+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "oviedo",
+  "name": "Real Oviedo",
+  "name_ar": "ريال أوفييدو",
+  "league": "Segunda División",
+  "country": "ESP",
+  "timezone": "Europe/Madrid",
+  "city": "Oviedo",
+  "stadium": "Carlos Tartiere",
+  "european_competition": null,
+  "colors": [
+   "#0047AB",
+   "#FFFFFF",
+   "#0047AB"
+  ],
+  "flag_css": "linear-gradient(90deg,#0047AB 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#0047AB 66.7% 100.0%)",
+  "official_site": "https://www.realoviedo.es",
+  "official_tickets": "https://www.realoviedo.es/entradas",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/oviedo.html",
+   "en": "https://ticketwhistle.com/en/tickets/oviedo.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/oviedo.html",
+   "it": "https://ticketwhistle.com/it/biglietti/oviedo.html",
+   "fr": "https://ticketwhistle.com/fr/billets/oviedo.html",
+   "de": "https://ticketwhistle.com/de/tickets/oviedo.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "cf4ba2a954611005",
+   "club_id": "oviedo",
+   "club": "Real Oviedo",
+   "title": "Entradas para el partido ante el Andorra",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-26T15:59:24+00:00",
+   "has_time": false,
+   "timezone": "Europe/Madrid",
+   "league": "Segunda División",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.realoviedo.es/entradas",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T19:26:43.211697+00:00",
+   "last_checked": "2026-11-27T19:26:43.211697+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/oviedo.html",
+   "official_tickets": "https://www.realoviedo.es/entradas",
+   "slug": "oviedo-entradas-partido-andorra-cf4ba2a9",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/oviedo-entradas-partido-andorra-cf4ba2a9.html",
+    "en": "https://ticketwhistle.com/en/sales/oviedo-entradas-partido-andorra-cf4ba2a9.html",
+    "ar": "https://ticketwhistle.com/ar/sales/oviedo-entradas-partido-andorra-cf4ba2a9.html",
+    "it": "https://ticketwhistle.com/it/vendite/oviedo-entradas-partido-andorra-cf4ba2a9.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/oviedo-entradas-partido-andorra-cf4ba2a9.html",
+    "de": "https://ticketwhistle.com/de/verkauf/oviedo-entradas-partido-andorra-cf4ba2a9.html"
+   }
+  },
+  {
+   "id": "692c5353843100c2",
+   "club_id": "oviedo",
+   "club": "Real Oviedo",
+   "title": "Reparto de entradas para el derbi asturiano",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-24T05:42:10+00:00",
+   "has_time": false,
+   "timezone": "Europe/Madrid",
+   "league": "Segunda División",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.realoviedo.es/entradas",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T19:26:43.211697+00:00",
+   "last_checked": "2026-11-27T19:26:43.211697+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/oviedo.html",
+   "official_tickets": "https://www.realoviedo.es/entradas",
+   "slug": "oviedo-reparto-entradas-derbi-asturiano-692c5353",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/oviedo-reparto-entradas-derbi-asturiano-692c5353.html",
+    "en": "https://ticketwhistle.com/en/sales/oviedo-reparto-entradas-derbi-asturiano-692c5353.html",
+    "ar": "https://ticketwhistle.com/ar/sales/oviedo-reparto-entradas-derbi-asturiano-692c5353.html",
+    "it": "https://ticketwhistle.com/it/vendite/oviedo-reparto-entradas-derbi-asturiano-692c5353.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/oviedo-reparto-entradas-derbi-asturiano-692c5353.html",
+    "de": "https://ticketwhistle.com/de/verkauf/oviedo-reparto-entradas-derbi-asturiano-692c5353.html"
+   }
+  }
+ ]
+}

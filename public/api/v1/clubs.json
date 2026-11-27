@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T14:47:49.746421+00:00",
- "last_scan": "2026-11-27T14:38:58.498322+00:00",
+ "generated_at": "2026-11-27T19:42:39.031487+00:00",
+ "last_scan": "2026-11-27T19:26:43.211697+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "clubs": [
   {
@@ -3256,6 +3256,1340 @@
     "it": "https://ticketwhistle.com/it/biglietti/venezia.html",
     "fr": "https://ticketwhistle.com/fr/billets/venezia.html",
     "de": "https://ticketwhistle.com/de/tickets/venezia.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "albacete",
+   "name": "Albacete BP",
+   "name_ar": "ألباسيتي",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Albacete",
+   "stadium": "Carlos Belmonte",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#111111",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#111111 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.albacetebalompie.es",
+   "official_tickets": "https://albacetebalompie.compralaentrada.com/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/albacete.html",
+    "en": "https://ticketwhistle.com/en/tickets/albacete.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/albacete.html",
+    "it": "https://ticketwhistle.com/it/biglietti/albacete.html",
+    "fr": "https://ticketwhistle.com/fr/billets/albacete.html",
+    "de": "https://ticketwhistle.com/de/tickets/albacete.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "almeria",
+   "name": "UD Almería",
+   "name_ar": "ألميريا",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Almería",
+   "stadium": "UD Almería Stadium",
+   "european_competition": null,
+   "colors": [
+    "#E2001A",
+    "#FFFFFF",
+    "#E2001A"
+   ],
+   "flag_css": "linear-gradient(90deg,#E2001A 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#E2001A 66.7% 100.0%)",
+   "official_site": "https://www.udalmeriasad.com",
+   "official_tickets": "https://www.udalmeriasad.com",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/almeria.html",
+    "en": "https://ticketwhistle.com/en/tickets/almeria.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/almeria.html",
+    "it": "https://ticketwhistle.com/it/biglietti/almeria.html",
+    "fr": "https://ticketwhistle.com/fr/billets/almeria.html",
+    "de": "https://ticketwhistle.com/de/tickets/almeria.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "andorra",
+   "name": "FC Andorra",
+   "name_ar": "أندورا",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Encamp",
+   "stadium": "Nou Estadi Encamp",
+   "european_competition": null,
+   "colors": [
+    "#13216A",
+    "#A6192E",
+    "#FEDF00"
+   ],
+   "flag_css": "linear-gradient(90deg,#13216A 0.0% 33.3%,#A6192E 33.3% 66.7%,#13216A 66.7% 100.0%)",
+   "official_site": "https://www.fcandorra.com",
+   "official_tickets": "https://www.fcandorra.com",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/andorra.html",
+    "en": "https://ticketwhistle.com/en/tickets/andorra.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/andorra.html",
+    "it": "https://ticketwhistle.com/it/biglietti/andorra.html",
+    "fr": "https://ticketwhistle.com/fr/billets/andorra.html",
+    "de": "https://ticketwhistle.com/de/tickets/andorra.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "burgos",
+   "name": "Burgos CF",
+   "name_ar": "بورغوس",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Burgos",
+   "stadium": "El Plantío",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#111111",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#111111 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.burgoscf.es",
+   "official_tickets": "https://entradas.burgoscf.es/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/burgos.html",
+    "en": "https://ticketwhistle.com/en/tickets/burgos.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/burgos.html",
+    "it": "https://ticketwhistle.com/it/biglietti/burgos.html",
+    "fr": "https://ticketwhistle.com/fr/billets/burgos.html",
+    "de": "https://ticketwhistle.com/de/tickets/burgos.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "cadiz",
+   "name": "Cádiz CF",
+   "name_ar": "قادش",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Cádiz",
+   "stadium": "Nuevo Mirandilla",
+   "european_competition": null,
+   "colors": [
+    "#FFD500",
+    "#0047AB",
+    "#FFD500"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFD500 0.0% 33.3%,#0047AB 33.3% 66.7%,#FFD500 66.7% 100.0%)",
+   "official_site": "https://www.cadizcf.com",
+   "official_tickets": "https://entradas.cadizcf.com",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/cadiz.html",
+    "en": "https://ticketwhistle.com/en/tickets/cadiz.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/cadiz.html",
+    "it": "https://ticketwhistle.com/it/biglietti/cadiz.html",
+    "fr": "https://ticketwhistle.com/fr/billets/cadiz.html",
+    "de": "https://ticketwhistle.com/de/tickets/cadiz.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "castellon",
+   "name": "CD Castellón",
+   "name_ar": "كاستيون",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Castellón de la Plana",
+   "stadium": "Castàlia",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#111111",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#111111 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.cdcastellon.com",
+   "official_tickets": "https://www.cdcastellon.com",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/castellon.html",
+    "en": "https://ticketwhistle.com/en/tickets/castellon.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/castellon.html",
+    "it": "https://ticketwhistle.com/it/biglietti/castellon.html",
+    "fr": "https://ticketwhistle.com/fr/billets/castellon.html",
+    "de": "https://ticketwhistle.com/de/tickets/castellon.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "celta-b",
+   "name": "Celta Fortuna",
+   "name_ar": "سيلتا فورتونا",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Vigo",
+   "stadium": "Balaídos",
+   "european_competition": null,
+   "colors": [
+    "#8AC3EE",
+    "#FFFFFF",
+    "#8AC3EE"
+   ],
+   "flag_css": "linear-gradient(90deg,#8AC3EE 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#8AC3EE 66.7% 100.0%)",
+   "official_site": "https://rccelta.es",
+   "official_tickets": "https://rccelta.es/entradas/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/celta-b.html",
+    "en": "https://ticketwhistle.com/en/tickets/celta-b.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/celta-b.html",
+    "it": "https://ticketwhistle.com/it/biglietti/celta-b.html",
+    "fr": "https://ticketwhistle.com/fr/billets/celta-b.html",
+    "de": "https://ticketwhistle.com/de/tickets/celta-b.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "ceuta",
+   "name": "AD Ceuta FC",
+   "name_ar": "سبتة",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Ceuta",
+   "stadium": "Alfonso Murube",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#111111",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#111111 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.adceutafc.com",
+   "official_tickets": "https://adceutafc.compralaentrada.com/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/ceuta.html",
+    "en": "https://ticketwhistle.com/en/tickets/ceuta.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/ceuta.html",
+    "it": "https://ticketwhistle.com/it/biglietti/ceuta.html",
+    "fr": "https://ticketwhistle.com/fr/billets/ceuta.html",
+    "de": "https://ticketwhistle.com/de/tickets/ceuta.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "cordoba",
+   "name": "Córdoba CF",
+   "name_ar": "قرطبة",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Córdoba",
+   "stadium": "Nuevo Arcángel",
+   "european_competition": null,
+   "colors": [
+    "#00843D",
+    "#FFFFFF",
+    "#00843D"
+   ],
+   "flag_css": "linear-gradient(90deg,#00843D 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#00843D 66.7% 100.0%)",
+   "official_site": "https://www.cordobacf.com",
+   "official_tickets": "https://entradas.cordobacf.com/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/cordoba.html",
+    "en": "https://ticketwhistle.com/en/tickets/cordoba.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/cordoba.html",
+    "it": "https://ticketwhistle.com/it/biglietti/cordoba.html",
+    "fr": "https://ticketwhistle.com/fr/billets/cordoba.html",
+    "de": "https://ticketwhistle.com/de/tickets/cordoba.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "eibar",
+   "name": "SD Eibar",
+   "name_ar": "إيبار",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Eibar",
+   "stadium": "Ipurua",
+   "european_competition": null,
+   "colors": [
+    "#9E1B32",
+    "#0033A0",
+    "#9E1B32"
+   ],
+   "flag_css": "linear-gradient(90deg,#9E1B32 0.0% 33.3%,#0033A0 33.3% 66.7%,#9E1B32 66.7% 100.0%)",
+   "official_site": "https://www.sdeibar.com",
+   "official_tickets": "https://sdeibar.entradas.com/ticketing/es",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/eibar.html",
+    "en": "https://ticketwhistle.com/en/tickets/eibar.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/eibar.html",
+    "it": "https://ticketwhistle.com/it/biglietti/eibar.html",
+    "fr": "https://ticketwhistle.com/fr/billets/eibar.html",
+    "de": "https://ticketwhistle.com/de/tickets/eibar.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "eldense",
+   "name": "CD Eldense",
+   "name_ar": "إلدينسي",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Elda",
+   "stadium": "Pepico Amat",
+   "european_competition": null,
+   "colors": [
+    "#E2231A",
+    "#0033A0",
+    "#E2231A"
+   ],
+   "flag_css": "linear-gradient(90deg,#E2231A 0.0% 33.3%,#0033A0 33.3% 66.7%,#E2231A 66.7% 100.0%)",
+   "official_site": "https://www.cdeldense.es",
+   "official_tickets": "https://www.cdeldense.es",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/eldense.html",
+    "en": "https://ticketwhistle.com/en/tickets/eldense.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/eldense.html",
+    "it": "https://ticketwhistle.com/it/biglietti/eldense.html",
+    "fr": "https://ticketwhistle.com/fr/billets/eldense.html",
+    "de": "https://ticketwhistle.com/de/tickets/eldense.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "girona",
+   "name": "Girona FC",
+   "name_ar": "جيرونا",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Girona",
+   "stadium": "Montilivi",
+   "european_competition": null,
+   "colors": [
+    "#CD2534",
+    "#FFFFFF",
+    "#CD2534"
+   ],
+   "flag_css": "linear-gradient(90deg,#CD2534 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#CD2534 66.7% 100.0%)",
+   "official_site": "https://www.gironafc.cat",
+   "official_tickets": "https://www.gironafc.cat/ca/entrades",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/girona.html",
+    "en": "https://ticketwhistle.com/en/tickets/girona.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/girona.html",
+    "it": "https://ticketwhistle.com/it/biglietti/girona.html",
+    "fr": "https://ticketwhistle.com/fr/billets/girona.html",
+    "de": "https://ticketwhistle.com/de/tickets/girona.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "granada",
+   "name": "Granada CF",
+   "name_ar": "غرناطة",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Granada",
+   "stadium": "Nuevo Los Cármenes",
+   "european_competition": null,
+   "colors": [
+    "#C8102E",
+    "#FFFFFF",
+    "#C8102E"
+   ],
+   "flag_css": "linear-gradient(90deg,#C8102E 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#C8102E 66.7% 100.0%)",
+   "official_site": "https://www.granadacf.es",
+   "official_tickets": "https://www.granadacf.es",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/granada.html",
+    "en": "https://ticketwhistle.com/en/tickets/granada.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/granada.html",
+    "it": "https://ticketwhistle.com/it/biglietti/granada.html",
+    "fr": "https://ticketwhistle.com/fr/billets/granada.html",
+    "de": "https://ticketwhistle.com/de/tickets/granada.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "las-palmas",
+   "name": "UD Las Palmas",
+   "name_ar": "لاس بالماس",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Atlantic/Canary",
+   "city": "Las Palmas de Gran Canaria",
+   "stadium": "Estadio de Gran Canaria",
+   "european_competition": null,
+   "colors": [
+    "#FFE400",
+    "#0055A4",
+    "#FFE400"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFE400 0.0% 33.3%,#0055A4 33.3% 66.7%,#FFE400 66.7% 100.0%)",
+   "official_site": "https://www.udlaspalmas.es",
+   "official_tickets": "https://www.udlaspalmas.es/entradas",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/las-palmas.html",
+    "en": "https://ticketwhistle.com/en/tickets/las-palmas.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/las-palmas.html",
+    "it": "https://ticketwhistle.com/it/biglietti/las-palmas.html",
+    "fr": "https://ticketwhistle.com/fr/billets/las-palmas.html",
+    "de": "https://ticketwhistle.com/de/tickets/las-palmas.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "leganes",
+   "name": "CD Leganés",
+   "name_ar": "ليغانيس",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Leganés",
+   "stadium": "Butarque",
+   "european_competition": null,
+   "colors": [
+    "#0055A4",
+    "#FFFFFF",
+    "#0055A4"
+   ],
+   "flag_css": "linear-gradient(90deg,#0055A4 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#0055A4 66.7% 100.0%)",
+   "official_site": "https://www.cdleganes.com",
+   "official_tickets": "https://cdleganes.entradas.com/ticketing/es",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/leganes.html",
+    "en": "https://ticketwhistle.com/en/tickets/leganes.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/leganes.html",
+    "it": "https://ticketwhistle.com/it/biglietti/leganes.html",
+    "fr": "https://ticketwhistle.com/fr/billets/leganes.html",
+    "de": "https://ticketwhistle.com/de/tickets/leganes.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "mallorca",
+   "name": "RCD Mallorca",
+   "name_ar": "مايوركا",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Palma",
+   "stadium": "Son Moix",
+   "european_competition": null,
+   "colors": [
+    "#E20613",
+    "#111111",
+    "#E20613"
+   ],
+   "flag_css": "linear-gradient(90deg,#E20613 0.0% 33.3%,#111111 33.3% 66.7%,#E20613 66.7% 100.0%)",
+   "official_site": "https://www.rcdmallorca.es",
+   "official_tickets": "https://www.rcdmallorca.es/entradas",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/mallorca.html",
+    "en": "https://ticketwhistle.com/en/tickets/mallorca.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/mallorca.html",
+    "it": "https://ticketwhistle.com/it/biglietti/mallorca.html",
+    "fr": "https://ticketwhistle.com/fr/billets/mallorca.html",
+    "de": "https://ticketwhistle.com/de/tickets/mallorca.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "oviedo",
+   "name": "Real Oviedo",
+   "name_ar": "ريال أوفييدو",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Oviedo",
+   "stadium": "Carlos Tartiere",
+   "european_competition": null,
+   "colors": [
+    "#0047AB",
+    "#FFFFFF",
+    "#0047AB"
+   ],
+   "flag_css": "linear-gradient(90deg,#0047AB 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#0047AB 66.7% 100.0%)",
+   "official_site": "https://www.realoviedo.es",
+   "official_tickets": "https://www.realoviedo.es/entradas",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/oviedo.html",
+    "en": "https://ticketwhistle.com/en/tickets/oviedo.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/oviedo.html",
+    "it": "https://ticketwhistle.com/it/biglietti/oviedo.html",
+    "fr": "https://ticketwhistle.com/fr/billets/oviedo.html",
+    "de": "https://ticketwhistle.com/de/tickets/oviedo.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "real-sociedad-b",
+   "name": "Real Sociedad B",
+   "name_ar": "ريال سوسيداد ب",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "San Sebastián",
+   "stadium": "Zubieta",
+   "european_competition": null,
+   "colors": [
+    "#0067B1",
+    "#FFFFFF",
+    "#0067B1"
+   ],
+   "flag_css": "linear-gradient(90deg,#0067B1 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#0067B1 66.7% 100.0%)",
+   "official_site": "https://www.realsociedad.eus",
+   "official_tickets": "https://ticketing.realsociedad.eus/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/real-sociedad-b.html",
+    "en": "https://ticketwhistle.com/en/tickets/real-sociedad-b.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/real-sociedad-b.html",
+    "it": "https://ticketwhistle.com/it/biglietti/real-sociedad-b.html",
+    "fr": "https://ticketwhistle.com/fr/billets/real-sociedad-b.html",
+    "de": "https://ticketwhistle.com/de/tickets/real-sociedad-b.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "sabadell",
+   "name": "CE Sabadell",
+   "name_ar": "ساباديل",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Sabadell",
+   "stadium": "Nova Creu Alta",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#0033A0",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#0033A0 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.cesabadellfc.com",
+   "official_tickets": "https://www.cesabadellfc.com",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/sabadell.html",
+    "en": "https://ticketwhistle.com/en/tickets/sabadell.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/sabadell.html",
+    "it": "https://ticketwhistle.com/it/biglietti/sabadell.html",
+    "fr": "https://ticketwhistle.com/fr/billets/sabadell.html",
+    "de": "https://ticketwhistle.com/de/tickets/sabadell.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "sporting-gijon",
+   "name": "Real Sporting de Gijón",
+   "name_ar": "سبورتينغ خيخون",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Gijón",
+   "stadium": "El Molinón",
+   "european_competition": null,
+   "colors": [
+    "#D4002B",
+    "#FFFFFF",
+    "#D4002B"
+   ],
+   "flag_css": "linear-gradient(90deg,#D4002B 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#D4002B 66.7% 100.0%)",
+   "official_site": "https://www.realsporting.com",
+   "official_tickets": "https://www.realsporting.com",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/sporting-gijon.html",
+    "en": "https://ticketwhistle.com/en/tickets/sporting-gijon.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/sporting-gijon.html",
+    "it": "https://ticketwhistle.com/it/biglietti/sporting-gijon.html",
+    "fr": "https://ticketwhistle.com/fr/billets/sporting-gijon.html",
+    "de": "https://ticketwhistle.com/de/tickets/sporting-gijon.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "tenerife",
+   "name": "CD Tenerife",
+   "name_ar": "تينيريفي",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Atlantic/Canary",
+   "city": "Santa Cruz de Tenerife",
+   "stadium": "Heliodoro Rodríguez López",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#0055A4",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#0055A4 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.clubdeportivotenerife.es",
+   "official_tickets": "https://entradas.clubdeportivotenerife.es/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/tenerife.html",
+    "en": "https://ticketwhistle.com/en/tickets/tenerife.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/tenerife.html",
+    "it": "https://ticketwhistle.com/it/biglietti/tenerife.html",
+    "fr": "https://ticketwhistle.com/fr/billets/tenerife.html",
+    "de": "https://ticketwhistle.com/de/tickets/tenerife.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "valladolid",
+   "name": "Real Valladolid",
+   "name_ar": "بلد الوليد",
+   "league": "Segunda División",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
+   "city": "Valladolid",
+   "stadium": "José Zorrilla",
+   "european_competition": null,
+   "colors": [
+    "#6A2C91",
+    "#FFFFFF",
+    "#6A2C91"
+   ],
+   "flag_css": "linear-gradient(90deg,#6A2C91 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#6A2C91 66.7% 100.0%)",
+   "official_site": "https://www.realvalladolid.es",
+   "official_tickets": "https://entradas.realvalladolid.es/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/valladolid.html",
+    "en": "https://ticketwhistle.com/en/tickets/valladolid.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/valladolid.html",
+    "it": "https://ticketwhistle.com/it/biglietti/valladolid.html",
+    "fr": "https://ticketwhistle.com/fr/billets/valladolid.html",
+    "de": "https://ticketwhistle.com/de/tickets/valladolid.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "birmingham",
+   "name": "Birmingham City",
+   "name_ar": "برمنغهام سيتي",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Birmingham",
+   "stadium": "St Andrew's",
+   "european_competition": null,
+   "colors": [
+    "#0000FF",
+    "#FFFFFF",
+    "#0000FF"
+   ],
+   "flag_css": "linear-gradient(90deg,#0000FF 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#0000FF 66.7% 100.0%)",
+   "official_site": "https://www.bcfc.com",
+   "official_tickets": "https://www.bcfc.com/tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/birmingham.html",
+    "en": "https://ticketwhistle.com/en/tickets/birmingham.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/birmingham.html",
+    "it": "https://ticketwhistle.com/it/biglietti/birmingham.html",
+    "fr": "https://ticketwhistle.com/fr/billets/birmingham.html",
+    "de": "https://ticketwhistle.com/de/tickets/birmingham.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "blackburn",
+   "name": "Blackburn Rovers",
+   "name_ar": "بلاكبيرن روفرز",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Blackburn",
+   "stadium": "Ewood Park",
+   "european_competition": null,
+   "colors": [
+    "#009EE0",
+    "#FFFFFF",
+    "#009EE0"
+   ],
+   "flag_css": "linear-gradient(90deg,#009EE0 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#009EE0 66.7% 100.0%)",
+   "official_site": "https://www.rovers.co.uk",
+   "official_tickets": "https://www.rovers.co.uk/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/blackburn.html",
+    "en": "https://ticketwhistle.com/en/tickets/blackburn.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/blackburn.html",
+    "it": "https://ticketwhistle.com/it/biglietti/blackburn.html",
+    "fr": "https://ticketwhistle.com/fr/billets/blackburn.html",
+    "de": "https://ticketwhistle.com/de/tickets/blackburn.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "bolton",
+   "name": "Bolton Wanderers",
+   "name_ar": "بولتون واندررز",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Bolton",
+   "stadium": "Toughsheet Community Stadium",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#1C1C5C",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#1C1C5C 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.bwfc.co.uk",
+   "official_tickets": "https://www.eticketing.co.uk/bwfc",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/bolton.html",
+    "en": "https://ticketwhistle.com/en/tickets/bolton.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/bolton.html",
+    "it": "https://ticketwhistle.com/it/biglietti/bolton.html",
+    "fr": "https://ticketwhistle.com/fr/billets/bolton.html",
+    "de": "https://ticketwhistle.com/de/tickets/bolton.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "bristol-city",
+   "name": "Bristol City",
+   "name_ar": "بريستول سيتي",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Bristol",
+   "stadium": "Ashton Gate",
+   "european_competition": null,
+   "colors": [
+    "#E21B23",
+    "#FFFFFF",
+    "#E21B23"
+   ],
+   "flag_css": "linear-gradient(90deg,#E21B23 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#E21B23 66.7% 100.0%)",
+   "official_site": "https://www.bcfc.co.uk",
+   "official_tickets": "https://www.bcfc.co.uk/tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/bristol-city.html",
+    "en": "https://ticketwhistle.com/en/tickets/bristol-city.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/bristol-city.html",
+    "it": "https://ticketwhistle.com/it/biglietti/bristol-city.html",
+    "fr": "https://ticketwhistle.com/fr/billets/bristol-city.html",
+    "de": "https://ticketwhistle.com/de/tickets/bristol-city.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "burnley",
+   "name": "Burnley",
+   "name_ar": "بيرنلي",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Burnley",
+   "stadium": "Turf Moor",
+   "european_competition": null,
+   "colors": [
+    "#6C1D45",
+    "#99D6EA",
+    "#6C1D45"
+   ],
+   "flag_css": "linear-gradient(90deg,#6C1D45 0.0% 33.3%,#99D6EA 33.3% 66.7%,#6C1D45 66.7% 100.0%)",
+   "official_site": "https://www.burnleyfootballclub.com",
+   "official_tickets": "https://www.burnleyfootballclub.com/tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/burnley.html",
+    "en": "https://ticketwhistle.com/en/tickets/burnley.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/burnley.html",
+    "it": "https://ticketwhistle.com/it/biglietti/burnley.html",
+    "fr": "https://ticketwhistle.com/fr/billets/burnley.html",
+    "de": "https://ticketwhistle.com/de/tickets/burnley.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "cardiff",
+   "name": "Cardiff City",
+   "name_ar": "كارديف سيتي",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Cardiff",
+   "stadium": "Cardiff City Stadium",
+   "european_competition": null,
+   "colors": [
+    "#0070B5",
+    "#FFFFFF",
+    "#0070B5"
+   ],
+   "flag_css": "linear-gradient(90deg,#0070B5 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#0070B5 66.7% 100.0%)",
+   "official_site": "https://www.cardiffcityfc.co.uk",
+   "official_tickets": "https://tickets.cardiffcityfc.co.uk/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/cardiff.html",
+    "en": "https://ticketwhistle.com/en/tickets/cardiff.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/cardiff.html",
+    "it": "https://ticketwhistle.com/it/biglietti/cardiff.html",
+    "fr": "https://ticketwhistle.com/fr/billets/cardiff.html",
+    "de": "https://ticketwhistle.com/de/tickets/cardiff.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "charlton",
+   "name": "Charlton Athletic",
+   "name_ar": "تشارلتون أثلتيك",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "London",
+   "stadium": "The Valley",
+   "european_competition": null,
+   "colors": [
+    "#D4021D",
+    "#FFFFFF",
+    "#D4021D"
+   ],
+   "flag_css": "linear-gradient(90deg,#D4021D 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#D4021D 66.7% 100.0%)",
+   "official_site": "https://www.cafc.co.uk",
+   "official_tickets": "https://www.cafc.co.uk",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/charlton.html",
+    "en": "https://ticketwhistle.com/en/tickets/charlton.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/charlton.html",
+    "it": "https://ticketwhistle.com/it/biglietti/charlton.html",
+    "fr": "https://ticketwhistle.com/fr/billets/charlton.html",
+    "de": "https://ticketwhistle.com/de/tickets/charlton.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "derby",
+   "name": "Derby County",
+   "name_ar": "ديربي كاونتي",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Derby",
+   "stadium": "Pride Park",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#111111",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#111111 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.dcfc.co.uk",
+   "official_tickets": "https://tickets.dcfc.co.uk/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/derby.html",
+    "en": "https://ticketwhistle.com/en/tickets/derby.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/derby.html",
+    "it": "https://ticketwhistle.com/it/biglietti/derby.html",
+    "fr": "https://ticketwhistle.com/fr/billets/derby.html",
+    "de": "https://ticketwhistle.com/de/tickets/derby.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "lincoln",
+   "name": "Lincoln City",
+   "name_ar": "لينكولن سيتي",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Lincoln",
+   "stadium": "Sincil Bank",
+   "european_competition": null,
+   "colors": [
+    "#E2231A",
+    "#FFFFFF",
+    "#E2231A"
+   ],
+   "flag_css": "linear-gradient(90deg,#E2231A 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#E2231A 66.7% 100.0%)",
+   "official_site": "https://www.weareimps.com",
+   "official_tickets": "https://www.weareimps.com/tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/lincoln.html",
+    "en": "https://ticketwhistle.com/en/tickets/lincoln.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/lincoln.html",
+    "it": "https://ticketwhistle.com/it/biglietti/lincoln.html",
+    "fr": "https://ticketwhistle.com/fr/billets/lincoln.html",
+    "de": "https://ticketwhistle.com/de/tickets/lincoln.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "middlesbrough",
+   "name": "Middlesbrough",
+   "name_ar": "ميدلزبره",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Middlesbrough",
+   "stadium": "Riverside Stadium",
+   "european_competition": null,
+   "colors": [
+    "#E11B22",
+    "#FFFFFF",
+    "#E11B22"
+   ],
+   "flag_css": "linear-gradient(90deg,#E11B22 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#E11B22 66.7% 100.0%)",
+   "official_site": "https://www.mfc.co.uk",
+   "official_tickets": "https://www.mfc.co.uk/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/middlesbrough.html",
+    "en": "https://ticketwhistle.com/en/tickets/middlesbrough.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/middlesbrough.html",
+    "it": "https://ticketwhistle.com/it/biglietti/middlesbrough.html",
+    "fr": "https://ticketwhistle.com/fr/billets/middlesbrough.html",
+    "de": "https://ticketwhistle.com/de/tickets/middlesbrough.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "millwall",
+   "name": "Millwall",
+   "name_ar": "ميلوول",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "London",
+   "stadium": "The Den",
+   "european_competition": null,
+   "colors": [
+    "#001D5E",
+    "#FFFFFF",
+    "#001D5E"
+   ],
+   "flag_css": "linear-gradient(90deg,#001D5E 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#001D5E 66.7% 100.0%)",
+   "official_site": "https://www.millwallfc.co.uk",
+   "official_tickets": "https://www.millwallfc.co.uk/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/millwall.html",
+    "en": "https://ticketwhistle.com/en/tickets/millwall.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/millwall.html",
+    "it": "https://ticketwhistle.com/it/biglietti/millwall.html",
+    "fr": "https://ticketwhistle.com/fr/billets/millwall.html",
+    "de": "https://ticketwhistle.com/de/tickets/millwall.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "norwich",
+   "name": "Norwich City",
+   "name_ar": "نوريتش سيتي",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Norwich",
+   "stadium": "Carrow Road",
+   "european_competition": null,
+   "colors": [
+    "#FFF200",
+    "#00A650",
+    "#FFF200"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFF200 0.0% 33.3%,#00A650 33.3% 66.7%,#FFF200 66.7% 100.0%)",
+   "official_site": "https://www.canaries.co.uk",
+   "official_tickets": "https://www.canaries.co.uk/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/norwich.html",
+    "en": "https://ticketwhistle.com/en/tickets/norwich.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/norwich.html",
+    "it": "https://ticketwhistle.com/it/biglietti/norwich.html",
+    "fr": "https://ticketwhistle.com/fr/billets/norwich.html",
+    "de": "https://ticketwhistle.com/de/tickets/norwich.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "portsmouth",
+   "name": "Portsmouth",
+   "name_ar": "بورتسموث",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Portsmouth",
+   "stadium": "Fratton Park",
+   "european_competition": null,
+   "colors": [
+    "#001489",
+    "#FFFFFF",
+    "#C8102E"
+   ],
+   "flag_css": "linear-gradient(90deg,#001489 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#001489 66.7% 100.0%)",
+   "official_site": "https://www.portsmouthfc.co.uk",
+   "official_tickets": "https://www.portsmouthfc.co.uk/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/portsmouth.html",
+    "en": "https://ticketwhistle.com/en/tickets/portsmouth.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/portsmouth.html",
+    "it": "https://ticketwhistle.com/it/biglietti/portsmouth.html",
+    "fr": "https://ticketwhistle.com/fr/billets/portsmouth.html",
+    "de": "https://ticketwhistle.com/de/tickets/portsmouth.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "preston",
+   "name": "Preston North End",
+   "name_ar": "بريستون نورث إند",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Preston",
+   "stadium": "Deepdale",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#1C2A5B",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#1C2A5B 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.pnefc.net",
+   "official_tickets": "https://www.pnefc.net/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/preston.html",
+    "en": "https://ticketwhistle.com/en/tickets/preston.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/preston.html",
+    "it": "https://ticketwhistle.com/it/biglietti/preston.html",
+    "fr": "https://ticketwhistle.com/fr/billets/preston.html",
+    "de": "https://ticketwhistle.com/de/tickets/preston.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "qpr",
+   "name": "Queens Park Rangers",
+   "name_ar": "كوينز بارك رينجرز",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "London",
+   "stadium": "Loftus Road",
+   "european_competition": null,
+   "colors": [
+    "#1D5BA4",
+    "#FFFFFF",
+    "#1D5BA4"
+   ],
+   "flag_css": "linear-gradient(90deg,#1D5BA4 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#1D5BA4 66.7% 100.0%)",
+   "official_site": "https://www.qpr.co.uk",
+   "official_tickets": "https://www.qpr.co.uk/tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/qpr.html",
+    "en": "https://ticketwhistle.com/en/tickets/qpr.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/qpr.html",
+    "it": "https://ticketwhistle.com/it/biglietti/qpr.html",
+    "fr": "https://ticketwhistle.com/fr/billets/qpr.html",
+    "de": "https://ticketwhistle.com/de/tickets/qpr.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "sheffield-utd",
+   "name": "Sheffield United",
+   "name_ar": "شيفيلد يونايتد",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Sheffield",
+   "stadium": "Bramall Lane",
+   "european_competition": null,
+   "colors": [
+    "#EE2737",
+    "#FFFFFF",
+    "#111111"
+   ],
+   "flag_css": "linear-gradient(90deg,#EE2737 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#EE2737 66.7% 100.0%)",
+   "official_site": "https://www.sufc.co.uk",
+   "official_tickets": "https://www.sufc.co.uk/category/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/sheffield-utd.html",
+    "en": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/sheffield-utd.html",
+    "it": "https://ticketwhistle.com/it/biglietti/sheffield-utd.html",
+    "fr": "https://ticketwhistle.com/fr/billets/sheffield-utd.html",
+    "de": "https://ticketwhistle.com/de/tickets/sheffield-utd.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "southampton",
+   "name": "Southampton",
+   "name_ar": "ساوثهامبتون",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Southampton",
+   "stadium": "St Mary's Stadium",
+   "european_competition": null,
+   "colors": [
+    "#D71920",
+    "#FFFFFF",
+    "#111111"
+   ],
+   "flag_css": "linear-gradient(90deg,#D71920 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#D71920 66.7% 100.0%)",
+   "official_site": "https://www.southamptonfc.com",
+   "official_tickets": "https://www.southamptonfc.com",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/southampton.html",
+    "en": "https://ticketwhistle.com/en/tickets/southampton.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/southampton.html",
+    "it": "https://ticketwhistle.com/it/biglietti/southampton.html",
+    "fr": "https://ticketwhistle.com/fr/billets/southampton.html",
+    "de": "https://ticketwhistle.com/de/tickets/southampton.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "stoke",
+   "name": "Stoke City",
+   "name_ar": "ستوك سيتي",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Stoke-on-Trent",
+   "stadium": "bet365 Stadium",
+   "european_competition": null,
+   "colors": [
+    "#E03A3E",
+    "#FFFFFF",
+    "#E03A3E"
+   ],
+   "flag_css": "linear-gradient(90deg,#E03A3E 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#E03A3E 66.7% 100.0%)",
+   "official_site": "https://www.stokecityfc.com",
+   "official_tickets": "https://www.stokecityfc.com/tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/stoke.html",
+    "en": "https://ticketwhistle.com/en/tickets/stoke.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/stoke.html",
+    "it": "https://ticketwhistle.com/it/biglietti/stoke.html",
+    "fr": "https://ticketwhistle.com/fr/billets/stoke.html",
+    "de": "https://ticketwhistle.com/de/tickets/stoke.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "swansea",
+   "name": "Swansea City",
+   "name_ar": "سوانزي سيتي",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Swansea",
+   "stadium": "Swansea.com Stadium",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#111111",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#111111 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.swanseacity.com",
+   "official_tickets": "https://www.swanseacity.com/ticketing-information",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/swansea.html",
+    "en": "https://ticketwhistle.com/en/tickets/swansea.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/swansea.html",
+    "it": "https://ticketwhistle.com/it/biglietti/swansea.html",
+    "fr": "https://ticketwhistle.com/fr/billets/swansea.html",
+    "de": "https://ticketwhistle.com/de/tickets/swansea.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "watford",
+   "name": "Watford",
+   "name_ar": "واتفورد",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Watford",
+   "stadium": "Vicarage Road",
+   "european_competition": null,
+   "colors": [
+    "#FBEE23",
+    "#111111",
+    "#ED2127"
+   ],
+   "flag_css": "linear-gradient(90deg,#FBEE23 0.0% 33.3%,#111111 33.3% 66.7%,#FBEE23 66.7% 100.0%)",
+   "official_site": "https://www.watfordfc.com",
+   "official_tickets": "https://www.watfordfc.com",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/watford.html",
+    "en": "https://ticketwhistle.com/en/tickets/watford.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/watford.html",
+    "it": "https://ticketwhistle.com/it/biglietti/watford.html",
+    "fr": "https://ticketwhistle.com/fr/billets/watford.html",
+    "de": "https://ticketwhistle.com/de/tickets/watford.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "west-brom",
+   "name": "West Bromwich Albion",
+   "name_ar": "وست بروميتش ألبيون",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "West Bromwich",
+   "stadium": "The Hawthorns",
+   "european_competition": null,
+   "colors": [
+    "#122F67",
+    "#FFFFFF",
+    "#122F67"
+   ],
+   "flag_css": "linear-gradient(90deg,#122F67 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#122F67 66.7% 100.0%)",
+   "official_site": "https://www.wba.co.uk",
+   "official_tickets": "https://www.wba.co.uk/tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/west-brom.html",
+    "en": "https://ticketwhistle.com/en/tickets/west-brom.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/west-brom.html",
+    "it": "https://ticketwhistle.com/it/biglietti/west-brom.html",
+    "fr": "https://ticketwhistle.com/fr/billets/west-brom.html",
+    "de": "https://ticketwhistle.com/de/tickets/west-brom.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "west-ham",
+   "name": "West Ham United",
+   "name_ar": "وست هام يونايتد",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "London",
+   "stadium": "London Stadium",
+   "european_competition": null,
+   "colors": [
+    "#7A263A",
+    "#1BB1E7",
+    "#7A263A"
+   ],
+   "flag_css": "linear-gradient(90deg,#7A263A 0.0% 33.3%,#1BB1E7 33.3% 66.7%,#7A263A 66.7% 100.0%)",
+   "official_site": "https://www.whufc.com",
+   "official_tickets": "https://www.whufc.com/en/tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/west-ham.html",
+    "en": "https://ticketwhistle.com/en/tickets/west-ham.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/west-ham.html",
+    "it": "https://ticketwhistle.com/it/biglietti/west-ham.html",
+    "fr": "https://ticketwhistle.com/fr/billets/west-ham.html",
+    "de": "https://ticketwhistle.com/de/tickets/west-ham.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "wolves",
+   "name": "Wolverhampton Wanderers",
+   "name_ar": "وولفرهامبتون",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Wolverhampton",
+   "stadium": "Molineux",
+   "european_competition": null,
+   "colors": [
+    "#FDB913",
+    "#231F20",
+    "#FDB913"
+   ],
+   "flag_css": "linear-gradient(90deg,#FDB913 0.0% 33.3%,#231F20 33.3% 66.7%,#FDB913 66.7% 100.0%)",
+   "official_site": "https://www.wolves.co.uk",
+   "official_tickets": "https://www.wolves.co.uk/tickets-hospitality/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/wolves.html",
+    "en": "https://ticketwhistle.com/en/tickets/wolves.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/wolves.html",
+    "it": "https://ticketwhistle.com/it/biglietti/wolves.html",
+    "fr": "https://ticketwhistle.com/fr/billets/wolves.html",
+    "de": "https://ticketwhistle.com/de/tickets/wolves.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "wrexham",
+   "name": "Wrexham AFC",
+   "name_ar": "ريكسهام",
+   "league": "Championship",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Wrexham",
+   "stadium": "Racecourse Ground",
+   "european_competition": null,
+   "colors": [
+    "#D71920",
+    "#FFFFFF",
+    "#D71920"
+   ],
+   "flag_css": "linear-gradient(90deg,#D71920 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#D71920 66.7% 100.0%)",
+   "official_site": "https://www.wrexhamafc.co.uk",
+   "official_tickets": "https://www.wrexhamafc.co.uk/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/wrexham.html",
+    "en": "https://ticketwhistle.com/en/tickets/wrexham.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/wrexham.html",
+    "it": "https://ticketwhistle.com/it/biglietti/wrexham.html",
+    "fr": "https://ticketwhistle.com/fr/billets/wrexham.html",
+    "de": "https://ticketwhistle.com/de/tickets/wrexham.html"
    },
    "official_alternatives": []
   }

@@ -1,0 +1,70 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T19:42:39.031487+00:00",
+ "last_scan": "2026-11-27T19:26:43.211697+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "celta-b",
+  "name": "Celta Fortuna",
+  "name_ar": "سيلتا فورتونا",
+  "league": "Segunda División",
+  "country": "ESP",
+  "timezone": "Europe/Madrid",
+  "city": "Vigo",
+  "stadium": "Balaídos",
+  "european_competition": null,
+  "colors": [
+   "#8AC3EE",
+   "#FFFFFF",
+   "#8AC3EE"
+  ],
+  "flag_css": "linear-gradient(90deg,#8AC3EE 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#8AC3EE 66.7% 100.0%)",
+  "official_site": "https://rccelta.es",
+  "official_tickets": "https://rccelta.es/entradas/",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/celta-b.html",
+   "en": "https://ticketwhistle.com/en/tickets/celta-b.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/celta-b.html",
+   "it": "https://ticketwhistle.com/it/biglietti/celta-b.html",
+   "fr": "https://ticketwhistle.com/fr/billets/celta-b.html",
+   "de": "https://ticketwhistle.com/de/tickets/celta-b.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "ee3c9f9ad21a5d94",
+   "club_id": "celta-b",
+   "club": "Celta Fortuna",
+   "title": "Celta Fortuna - Real Valladolid | Disponibles las entradas de una cita ineludible en casa para empujar a los canteranos",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-10T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Madrid",
+   "league": "Segunda División",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://rccelta.es/entradas/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T19:26:43.211697+00:00",
+   "last_checked": "2026-11-27T19:26:43.211697+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/celta-b.html",
+   "official_tickets": "https://rccelta.es/entradas/",
+   "slug": "celta-b-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-ee3c9f9a",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/celta-b-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-ee3c9f9a.html",
+    "en": "https://ticketwhistle.com/en/sales/celta-b-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-ee3c9f9a.html",
+    "ar": "https://ticketwhistle.com/ar/sales/celta-b-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-ee3c9f9a.html",
+    "it": "https://ticketwhistle.com/it/vendite/celta-b-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-ee3c9f9a.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/celta-b-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-ee3c9f9a.html",
+    "de": "https://ticketwhistle.com/de/verkauf/celta-b-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-ee3c9f9a.html"
+   }
+  }
+ ]
+}
