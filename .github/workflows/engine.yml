@@ -1,4 +1,4 @@
-# TicketWhistle engine: read the 20 LaLiga clubs every 30 minutes, refresh the open data, commit it.
+# TicketWhistle engine: read every club on the site (LaLiga + Premier League) every 30 minutes, refresh the open data, commit it.
 # The website, the API (/api/live/*) and the MCP server read the committed JSON, so no site re-publish is needed.
 # GitHub's own schedule can skip or delay runs for hours, so each run keeps going for ~5.5 h and scans
 # every 30 minutes itself, fetching the latest engine each round. The schedule only has to fire a few times a day.
@@ -18,7 +18,9 @@ jobs:
         with: { python-version: "3.12" }
       - name: Set up
         run: |
-          pip install -q requests beautifulsoup4
+          pip install -q requests beautifulsoup4 playwright
+          # some English clubs build their ticket news in the browser: a headless Chromium reads them like a visitor
+          python -m playwright install --with-deps chromium > /dev/null
           git config user.name "ticketwhistle-engine"
           git config user.email "engine@ticketwhistle.com"
       - name: Scan every 30 minutes
@@ -28,11 +30,11 @@ jobs:
             START=$(date +%s)
             # fresh engine every round, so site updates reach the scanner within 30 minutes
             if curl -fsSL https://ticketwhistle.com/assets/x/e-d0487cb3fd29404deafab1f9.tgz -o /tmp/e.tgz; then rm -rf /tmp/tw && mkdir -p /tmp/tw && tar -xzf /tmp/e.tgz -C /tmp/tw; fi
-            IDS=$(cd /tmp/tw/engine && python -c "from engine.sources import S; print(','.join(s['id'] for s in S if 'LL' in s['league']))")
+            IDS=$(cd /tmp/tw/engine && python -c "import engine.sources as m; print(','.join(getattr(m, 'LIVE', [s['id'] for s in m.S if 'LL' in s['league']])))")
             git pull -q --rebase || true
             mkdir -p data
             [ -f data/es.db ] || cp /tmp/tw/engine/out/seed.db data/es.db
-            ( cd /tmp/tw/engine && TQ_DB=$GITHUB_WORKSPACE/data/es.db timeout 1200 python run.py scan --clubs "$IDS" ) || echo "scan failed, keeping last data"
+            ( cd /tmp/tw/engine && TQ_DB=$GITHUB_WORKSPACE/data/es.db timeout 1500 python run.py scan --clubs "$IDS" ) || echo "scan failed, keeping last data"
             cp /tmp/tw/engine/out/last_scan_log.json data/last_scan_log.json 2>/dev/null || true
             python /tmp/tw/site-builder/build.py --db data/es.db --out public --base https://ticketwhistle.com --data-only || echo "build failed"
             git add data public
