@@ -29,62 +29,56 @@
   "https://www.asroma.com/sitemaps/news-sitemap-it.xml 200",
   "gnews 200"
  ],
- "leeds": [
-  "https://www.leedsunited.com/sitemaps/sitemap/0.xml 200"
+ "crystal-palace": [
+  "https://www.cpfc.co.uk/news/tickets/ 200"
  ],
  "brentford": [
   "https://www.brentfordfc.com/sitemaps/sitemap/0.xml 200"
  ],
- "crystal-palace": [
-  "https://www.cpfc.co.uk/news/tickets/ 200"
- ],
  "chelsea": [
   "https://www.chelseafc.com/en/sitemap.xml 200"
- ],
- "aston-villa": [
-  "https://www.avfc.co.uk/news/tickets 200"
  ],
  "ipswich": [
   "https://www.itfc.co.uk/sitemap.xml 200",
   "gnews 200"
  ],
+ "aston-villa": [
+  "https://www.avfc.co.uk/news/tickets 200"
+ ],
+ "leeds": [
+  "https://www.leedsunited.com/sitemaps/sitemap/0.xml 200"
+ ],
+ "liverpool": [
+  "https://www.liverpoolfc.com/tickets?category=mens 200"
+ ],
  "athletic": [
   "https://www.athletic-club.eus 403",
   "gnews 200"
- ],
- "arsenal": [
-  "https://www.arsenal.com/sitemaps/articles/sitemap.xml 200"
  ],
  "inter": [
   "https://www.inter.it/it/notizie/categoria/stadio-e-biglietti 200",
   "gnews 200"
  ],
- "villarreal": [
-  "https://villarrealcf.es/sitemap.xml 200",
-  "gnews 200"
+ "arsenal": [
+  "https://www.arsenal.com/sitemaps/articles/sitemap.xml 200"
  ],
- "napoli": [
-  "https://sscnapoli.it/news/ 200",
+ "elche": [
+  "https://www.elchecf.es/noticias 200",
   "gnews 200"
  ],
  "espanyol": [
   "https://www.rcdespanyol.com/es/noticias 200",
   "gnews 200"
  ],
- "betis": [
-  "https://www.realbetisbalompie.es/noticias 200",
+ "villarreal": [
+  "https://villarrealcf.es/sitemap.xml 200",
   "gnews 200"
  ],
- "elche": [
-  "https://www.elchecf.es/noticias 200",
-  "gnews 200"
+ "newcastle": [
+  "https://www.newcastleunited.com/sitemaps/latest-news-sitemap.xml 200"
  ],
- "levante": [
-  "https://www.levanteud.com/noticias 200",
-  "gnews 200"
- ],
- "deportivo": [
-  "https://www.rcdeportivo.es/es/sitemap.xml 200",
+ "real-sociedad": [
+  "https://www.realsociedad.eus/es/noticias 200",
   "gnews 200"
  ],
  "alaves": [
@@ -95,97 +89,108 @@
   "https://comofootball.com/sitemap.xml 200",
   "gnews 200"
  ],
- "liverpool": [
-  "https://www.liverpoolfc.com/tickets?category=mens 200"
- ],
- "racing": [
-  "https://realracingclub.es/sitemap.xml 200",
+ "getafe": [
+  "https://www.getafecf.com/noticias 200",
   "gnews 200"
  ],
- "cagliari": [
-  "https://www.cagliaricalcio.com 200",
+ "betis": [
+  "https://www.realbetisbalompie.es/noticias 200",
   "gnews 200"
  ],
- "rayo": [
-  "https://www.rayovallecano.es/noticias 200",
+ "levante": [
+  "https://www.levanteud.com/noticias 200",
   "gnews 200"
  ],
  "valencia": [
   "https://www.valenciacf.com/entradas 200",
   "gnews 200"
  ],
+ "napoli": [
+  "https://sscnapoli.it/news/ 200",
+  "gnews 200"
+ ],
+ "rayo": [
+  "https://www.rayovallecano.es/noticias 200",
+  "gnews 200"
+ ],
  "osasuna": [
   "https://www.osasuna.es/sitemap.xml 200",
-  "gnews 200"
- ],
- "celta": [
-  "https://rccelta.es/sitemap_index.xml 200",
-  "gnews 200"
- ],
- "real-sociedad": [
-  "https://www.realsociedad.eus/es/noticias 200",
-  "gnews 200"
- ],
- "malaga": [
-  "https://www.malagacf.com/noticias 200",
-  "gnews 200"
- ],
- "getafe": [
-  "https://www.getafecf.com/noticias 200",
-  "gnews 200"
- ],
- "bologna": [
-  "https://www.bolognafc.it/biglietti/ 200",
-  "gnews 200"
- ],
- "atalanta": [
-  "https://www.atalanta.it/sitemap-article.xml 200",
-  "gnews 200"
- ],
- "fiorentina": [
-  "https://www.acffiorentina.com/ticketing/prima-squadra-maschile 200",
-  "gnews 200"
- ],
- "frosinone": [
-  "https://www.frosinonecalcio.com/sitemap_index.xml 200",
   "gnews 200"
  ],
  "genoa": [
   "https://genoacfc.it 200",
   "gnews 200"
  ],
- "newcastle": [
-  "https://www.newcastleunited.com/sitemaps/latest-news-sitemap.xml 200",
-  "  https://www.newcastleunited.com/en/news/brentford-a-premier-league-ticket-news-2026-27 ERROR ReadTimeout",
-  "  https://www.newcastleunited.com/en/news/ipswich-town-a-premier-league-ticket-news-2026-27 ERROR ReadTimeout",
-  "  https://www.newcastleunited.com/en/news/fulham-a-premier-league-ticket-news-2026-27 ERROR ReadTimeout"
+ "celta": [
+  "https://rccelta.es/sitemap_index.xml 200",
+  "gnews 200"
  ],
- "monza": [
-  "https://www.acmonza.com/ 200",
+ "malaga": [
+  "https://www.malagacf.com/noticias 200",
+  "gnews 200"
+ ],
+ "cagliari": [
+  "https://www.cagliaricalcio.com 200",
+  "gnews 200"
+ ],
+ "deportivo": [
+  "https://www.rcdeportivo.es/es/sitemap.xml 200",
+  "gnews 200"
+ ],
+ "bologna": [
+  "https://www.bolognafc.it/biglietti/ 200",
+  "gnews 200"
+ ],
+ "racing": [
+  "https://realracingclub.es/sitemap.xml 200",
   "gnews 200"
  ],
  "sevilla": [
   "https://sevillafc.es/sitemap/sitemap1.xml.gz 200",
   "gnews 200"
  ],
+ "lazio": [
+  "https://www.sslazio.it/it/news/biglietteria 200",
+  "gnews 200"
+ ],
+ "atalanta": [
+  "https://www.atalanta.it/sitemap-article.xml 200",
+  "gnews 200"
+ ],
+ "venezia": [
+  "https://www.veneziafc.it/sitemap-article.xml 200",
+  "gnews 200"
+ ],
+ "monza": [
+  "https://www.acmonza.com/ 200",
+  "gnews 200"
+ ],
+ "frosinone": [
+  "https://www.frosinonecalcio.com/sitemap_index.xml 200",
+  "gnews 200"
+ ],
+ "fiorentina": [
+  "https://www.acffiorentina.com/ticketing/prima-squadra-maschile 200",
+  "gnews 200"
+ ],
  "lecce": [
   "https://uslecce.it/sitemap_index.xml 200",
+  "gnews 200"
+ ],
+ "parma": [
+  "https://www.parmacalcio1913.com/sitemap_index.xml 200",
   "gnews 200"
  ],
  "milan": [
   "https://www.acmilan.com/it/news/articoli/ticketing 200",
   "gnews 200"
  ],
+ "sassuolo": [
+  "https://www.sassuolocalcio.it/sitemap_index.xml 200",
+  "gnews 200"
+ ],
  "torino": [
   "https://www.torinofc.it/news/biglietteria 200",
-  "gnews 200"
- ],
- "lazio": [
-  "https://www.sslazio.it/it/news/biglietteria 200",
-  "gnews 200"
- ],
- "venezia": [
-  "https://www.veneziafc.it/sitemap-article.xml 200",
   "gnews 200"
  ],
  "juventus": [
@@ -194,14 +199,6 @@
  ],
  "udinese": [
   "https://www.udinese.it/news/biglietti 200",
-  "gnews 200"
- ],
- "parma": [
-  "https://www.parmacalcio1913.com/sitemap_index.xml 200",
-  "gnews 200"
- ],
- "sassuolo": [
-  "https://www.sassuolocalcio.it/sitemap_index.xml 200",
   "gnews 200"
  ],
  "bournemouth": [
