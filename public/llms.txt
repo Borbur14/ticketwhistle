@@ -13,8 +13,7 @@ Full text for AI systems: https://ticketwhistle.com/llms-full.txt · New sales f
 - OpenAPI: https://ticketwhistle.com/openapi.json
 - MCP server (streamable HTTP): https://ticketwhistle.com/mcp — tools: upcoming_ticket_sales, get_club_ticket_windows, list_clubs
 
-## Next sales (snapshot 27 Nov 2026 09:15 Madrid · 08:15 UK)
-- [CA Osasuna: General sale — Abierta la venta de entradas para el partido ante el Elche C. F.](https://ticketwhistle.com/en/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html) — opens Fri 27 Nov 2026 09:30 Madrid time — official source https://www.osasuna.es/entradas-osasuna-elche-2627
+## Next sales (snapshot 27 Nov 2026 09:45 Madrid · 08:45 UK)
 - [Aston Villa: Ballot / application — Chelsea ticket details](https://ticketwhistle.com/en/sales/aston-villa-chelsea-ticket-details-002c33ae.html) — opens Fri 27 Nov 2026 09:30 UK time — official source https://www.avfc.co.uk/news/2026/november/19/ticketing-Chelsea-away-ticket-details-26-27/
 - [Arsenal: Ballot / application — Ticket Information: Arsenal v Newcastle United](https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-8ffde009.html) — opens Fri 27 Nov 2026 12:00 UK time — official source https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
 - [Leeds United: Members' sale — Ticket information for Fulham home fixture](https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-3630c757.html) — opens Fri 27 Nov 2026 13:00 UK time — official source https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
@@ -34,6 +33,7 @@ Full text for AI systems: https://ticketwhistle.com/llms-full.txt · New sales f
 - [Levante UD: General sale — El Levante UD lanza las entradas para el derbi ante el Valencia CF con un 35 % de descuento exclusivo para abonados y simpatizantes](https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html) — opens Wed 02 Dec 2026 10:00 Madrid time — official source https://www.levanteud.com/noticias/el-levante-ud-lanza-las-entradas-para-el-derbi-ante-el-valencia-cf-con-un-35-percent-de-descuento-exclusivo-para-abonados-y-simpatizantes
 - [Leeds United: Ballot / application — Ticket information for Fulham home fixture](https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-0db1126a.html) — opens Wed 02 Dec 2026 10:00 UK time — official source https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
 - [Arsenal: Members' sale — Ticket Information: Arsenal v Sabah](https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-965c4813.html) — opens Wed 02 Dec 2026 12:00 UK time — official source https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
+- [Arsenal: Ballot / application — Ticket Information: Arsenal v Newcastle United](https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-bcf6f803.html) — opens Thu 03 Dec 2026 00:00 UK time — official source https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
 
 Every sale also has its own page: https://ticketwhistle.com/en/sales/<slug>.html (Spanish: /es/ventas/, Arabic: /ar/sales/). All of them: https://ticketwhistle.com/sitemap-sales.xml
 

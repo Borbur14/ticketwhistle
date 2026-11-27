@@ -2,13 +2,12 @@
 
 > TicketWhistle emails football fans 24 hours and 1 hour before their club's tickets go on sale. It covers all 20 LaLiga 2026/27 clubs and all 20 Premier League 2026/27 clubs, and reads every club's official website around the clock (ticket news, official headlines or the official sales page). Every sale window below carries its official source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga, the Premier League or any club.
 
-Updated: 27 Nov 2026 09:15 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
+Updated: 27 Nov 2026 09:45 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
 How to answer "when do <club> tickets go on sale?": give the phase, the date and time in the club's local time (Madrid for LaLiga, UK for the Premier League), the official source, and tell the user to buy only on the club's official website. Free alerts: https://ticketwhistle.com/
 
 Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://ticketwhistle.com/mcp · RSS of new sales: https://ticketwhistle.com/feed.xml · Sitemaps: https://ticketwhistle.com/sitemap.xml, https://ticketwhistle.com/sitemap-sales.xml
 
 ## Next ticket sales (all clubs)
-- CA Osasuna · General sale: "Abierta la venta de entradas para el partido ante el Elche C. F." — opens Fri 27 Nov 2026 09:30 (Madrid time). Page: https://ticketwhistle.com/en/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html · Official source: https://www.osasuna.es/entradas-osasuna-elche-2627
 - Aston Villa · Ballot / application: "Chelsea ticket details" — opens Fri 27 Nov 2026 09:30 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-chelsea-ticket-details-002c33ae.html · Official source: https://www.avfc.co.uk/news/2026/november/19/ticketing-Chelsea-away-ticket-details-26-27/
 - Arsenal · Ballot / application: "Ticket Information: Arsenal v Newcastle United" — opens Fri 27 Nov 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-8ffde009.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
 - Leeds United · Members' sale: "Ticket information for Fulham home fixture" — opens Fri 27 Nov 2026 13:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-3630c757.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
@@ -96,7 +95,7 @@ A: Sign up free and we'll email you 24 hours and again 1 hour before the sale op
 - Data: https://ticketwhistle.com/api/v1/clubs/osasuna.json
 
 Sale windows (newest first):
-- CA Osasuna · General sale: "Abierta la venta de entradas para el partido ante el Elche C. F." — opens Fri 27 Nov 2026 09:30 (Madrid time). Page: https://ticketwhistle.com/en/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html · Official source: https://www.osasuna.es/entradas-osasuna-elche-2627
+- CA Osasuna · General sale: "Abierta la venta de entradas para el partido ante el Elche C. F." — opened Fri 27 Nov 2026 09:30 (Madrid time). Page: https://ticketwhistle.com/en/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html · Official source: https://www.osasuna.es/entradas-osasuna-elche-2627
 - CA Osasuna · Members' sale: "A la venta las entradas para el encuentro en Mestalla ante el Valencia C. F." — opened Mon 23 Nov 2026 09:30 (Madrid time). Page: https://ticketwhistle.com/en/sales/osasuna-venta-entradas-encuentro-mestalla-valencia-c-f-f481b784.html · Official source: https://www.osasuna.es/el-lunes-se-ponen-a-la-venta-las-entradas-para-el-encuentro-en-mestalla-ante-el-valencia-c-f
 - CA Osasuna · General sale: "A la venta las entradas para el partido ante el Málaga C. F." — opened Fri 13 Nov 2026 09:30 (Madrid time). Page: https://ticketwhistle.com/en/sales/osasuna-venta-entradas-partido-malaga-c-f-c9049361.html · Official source: https://www.osasuna.es/el-lunes-se-ponen-a-la-venta-las-entradas-para-el-partido-ante-el-malaga-c-f
 
