@@ -1,7 +1,7 @@
 # TicketWhistle engine: read the 20 LaLiga clubs every 30 minutes, refresh the open data, commit it.
 # The website, the API (/api/live/*) and the MCP server read the committed JSON, so no site re-publish is needed.
 # GitHub's own schedule can skip or delay runs for hours, so each run keeps going for ~5.5 h and scans
-# every 30 minutes itself. The schedule only has to fire a few times a day to keep the data fresh.
+# every 30 minutes itself, fetching the latest engine each round. The schedule only has to fire a few times a day.
 name: engine
 on:
   schedule: [{ cron: "7,37 * * * *" }]
@@ -16,19 +16,19 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - name: Get the engine
+      - name: Set up
         run: |
-          curl -fsSL https://ticketwhistle.com/assets/x/e-d0487cb3fd29404deafab1f9.tgz -o /tmp/e.tgz
-          mkdir -p /tmp/tw && tar -xzf /tmp/e.tgz -C /tmp/tw
           pip install -q requests beautifulsoup4
           git config user.name "ticketwhistle-engine"
           git config user.email "engine@ticketwhistle.com"
       - name: Scan every 30 minutes
         run: |
-          IDS=$(cd /tmp/tw/engine && python -c "from engine.sources import S; print(','.join(s['id'] for s in S if 'LL' in s['league']))")
           END=$(( $(date +%s) + 330*60 ))
           while :; do
             START=$(date +%s)
+            # fresh engine every round, so site updates reach the scanner within 30 minutes
+            if curl -fsSL https://ticketwhistle.com/assets/x/e-d0487cb3fd29404deafab1f9.tgz -o /tmp/e.tgz; then rm -rf /tmp/tw && mkdir -p /tmp/tw && tar -xzf /tmp/e.tgz -C /tmp/tw; fi
+            IDS=$(cd /tmp/tw/engine && python -c "from engine.sources import S; print(','.join(s['id'] for s in S if 'LL' in s['league']))")
             git pull -q --rebase || true
             mkdir -p data
             [ -f data/es.db ] || cp /tmp/tw/engine/out/seed.db data/es.db
