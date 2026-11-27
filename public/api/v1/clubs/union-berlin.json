@@ -1,0 +1,70 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T11:47:26.638975+00:00",
+ "last_scan": "2026-11-27T11:38:58.640933+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "union-berlin",
+  "name": "Union Berlin",
+  "name_ar": "يونيون برلين",
+  "league": "Bundesliga",
+  "country": "GER",
+  "timezone": "Europe/Berlin",
+  "city": "Berlin",
+  "stadium": "Stadion An der Alten Försterei",
+  "european_competition": null,
+  "colors": [
+   "#EB1923",
+   "#FFFFFF",
+   "#EB1923"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#EB1923 9%)",
+  "official_site": "https://www.fc-union-berlin.de",
+  "official_tickets": "https://tickets.union-zeughaus.de/",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/union-berlin.html",
+   "en": "https://ticketwhistle.com/en/tickets/union-berlin.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/union-berlin.html",
+   "it": "https://ticketwhistle.com/it/biglietti/union-berlin.html",
+   "fr": "https://ticketwhistle.com/fr/billets/union-berlin.html",
+   "de": "https://ticketwhistle.com/de/tickets/union-berlin.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "4085d3f9ced42c69",
+   "club_id": "union-berlin",
+   "club": "Union Berlin",
+   "title": "Ticket promotion for the home game against Mainz",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-16T12:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Berlin",
+   "league": "Bundesliga",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://tickets.union-zeughaus.de/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T11:38:58.640933+00:00",
+   "last_checked": "2026-11-27T11:38:58.640933+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/union-berlin.html",
+   "official_tickets": "https://tickets.union-zeughaus.de/",
+   "slug": "union-berlin-ticket-promotion-home-game-against-mainz-4085d3f9",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/union-berlin-ticket-promotion-home-game-against-mainz-4085d3f9.html",
+    "en": "https://ticketwhistle.com/en/sales/union-berlin-ticket-promotion-home-game-against-mainz-4085d3f9.html",
+    "ar": "https://ticketwhistle.com/ar/sales/union-berlin-ticket-promotion-home-game-against-mainz-4085d3f9.html",
+    "it": "https://ticketwhistle.com/it/vendite/union-berlin-ticket-promotion-home-game-against-mainz-4085d3f9.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/union-berlin-ticket-promotion-home-game-against-mainz-4085d3f9.html",
+    "de": "https://ticketwhistle.com/de/verkauf/union-berlin-ticket-promotion-home-game-against-mainz-4085d3f9.html"
+   }
+  }
+ ]
+}

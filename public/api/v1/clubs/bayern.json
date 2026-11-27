@@ -1,0 +1,38 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T11:47:26.638975+00:00",
+ "last_scan": "2026-11-27T11:38:58.640933+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "bayern",
+  "name": "Bayern München",
+  "name_ar": "بايرن ميونخ",
+  "league": "Bundesliga",
+  "country": "GER",
+  "timezone": "Europe/Berlin",
+  "city": "München",
+  "stadium": "Allianz Arena",
+  "european_competition": "UCL",
+  "colors": [
+   "#DC052D",
+   "#FFFFFF",
+   "#0066B2"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#0066B2 9% 14%,#DC052D 14%)",
+  "official_site": "https://fcbayern.com",
+  "official_tickets": "https://fcbayern.com/de/tickets",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/bayern.html",
+   "en": "https://ticketwhistle.com/en/tickets/bayern.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/bayern.html",
+   "it": "https://ticketwhistle.com/it/biglietti/bayern.html",
+   "fr": "https://ticketwhistle.com/fr/billets/bayern.html",
+   "de": "https://ticketwhistle.com/de/tickets/bayern.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": []
+}

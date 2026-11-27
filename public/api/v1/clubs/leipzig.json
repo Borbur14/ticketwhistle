@@ -1,0 +1,101 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T11:47:26.638975+00:00",
+ "last_scan": "2026-11-27T11:38:58.640933+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "leipzig",
+  "name": "RB Leipzig",
+  "name_ar": "لايبزيغ",
+  "league": "Bundesliga",
+  "country": "GER",
+  "timezone": "Europe/Berlin",
+  "city": "Leipzig",
+  "stadium": "Red Bull Arena",
+  "european_competition": "UCL",
+  "colors": [
+   "#FFFFFF",
+   "#DD0741",
+   "#0C2043"
+  ],
+  "flag_css": "linear-gradient(90deg,#DD0741 0% 7%,#0C2043 7% 14%,#FFFFFF 14%)",
+  "official_site": "https://www.rbleipzig.com",
+  "official_tickets": "https://rbleipzig.com/de/matches-tickets",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/leipzig.html",
+   "en": "https://ticketwhistle.com/en/tickets/leipzig.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/leipzig.html",
+   "it": "https://ticketwhistle.com/it/biglietti/leipzig.html",
+   "fr": "https://ticketwhistle.com/fr/billets/leipzig.html",
+   "de": "https://ticketwhistle.com/de/tickets/leipzig.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "eb977ce5fc8f5e75",
+   "club_id": "leipzig",
+   "club": "RB Leipzig",
+   "title": "Tickets für das Duell gegen Borussia Dortmund",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-24T22:19:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Berlin",
+   "league": "Bundesliga",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://rbleipzig.com/de/matches-tickets",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T11:38:58.640933+00:00",
+   "last_checked": "2026-11-27T11:38:58.640933+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/leipzig.html",
+   "official_tickets": "https://rbleipzig.com/de/matches-tickets",
+   "slug": "leipzig-tickets-fur-das-duell-gegen-borussia-dortmund-eb977ce5",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/leipzig-tickets-fur-das-duell-gegen-borussia-dortmund-eb977ce5.html",
+    "en": "https://ticketwhistle.com/en/sales/leipzig-tickets-fur-das-duell-gegen-borussia-dortmund-eb977ce5.html",
+    "ar": "https://ticketwhistle.com/ar/sales/leipzig-tickets-fur-das-duell-gegen-borussia-dortmund-eb977ce5.html",
+    "it": "https://ticketwhistle.com/it/vendite/leipzig-tickets-fur-das-duell-gegen-borussia-dortmund-eb977ce5.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/leipzig-tickets-fur-das-duell-gegen-borussia-dortmund-eb977ce5.html",
+    "de": "https://ticketwhistle.com/de/verkauf/leipzig-tickets-fur-das-duell-gegen-borussia-dortmund-eb977ce5.html"
+   }
+  },
+  {
+   "id": "bc2f517e41980f48",
+   "club_id": "leipzig",
+   "club": "RB Leipzig",
+   "title": "Tickets fürs Heimspiel gegen Lens sichern",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-23T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Berlin",
+   "league": "Bundesliga",
+   "competition": "UCL",
+   "status": "on_sale_or_announced",
+   "source_url": "https://rbleipzig.com/de/matches-tickets",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T11:38:58.640933+00:00",
+   "last_checked": "2026-11-27T11:38:58.640933+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/leipzig.html",
+   "official_tickets": "https://rbleipzig.com/de/matches-tickets",
+   "slug": "leipzig-tickets-furs-heimspiel-gegen-lens-sichern-bc2f517e",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/leipzig-tickets-furs-heimspiel-gegen-lens-sichern-bc2f517e.html",
+    "en": "https://ticketwhistle.com/en/sales/leipzig-tickets-furs-heimspiel-gegen-lens-sichern-bc2f517e.html",
+    "ar": "https://ticketwhistle.com/ar/sales/leipzig-tickets-furs-heimspiel-gegen-lens-sichern-bc2f517e.html",
+    "it": "https://ticketwhistle.com/it/vendite/leipzig-tickets-furs-heimspiel-gegen-lens-sichern-bc2f517e.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/leipzig-tickets-furs-heimspiel-gegen-lens-sichern-bc2f517e.html",
+    "de": "https://ticketwhistle.com/de/verkauf/leipzig-tickets-furs-heimspiel-gegen-lens-sichern-bc2f517e.html"
+   }
+  }
+ ]
+}

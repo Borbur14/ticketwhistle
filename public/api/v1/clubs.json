@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T11:15:30.436223+00:00",
- "last_scan": "2026-11-27T11:08:58.908075+00:00",
+ "generated_at": "2026-11-27T11:47:26.638975+00:00",
+ "last_scan": "2026-11-27T11:38:58.640933+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "clubs": [
   {
@@ -696,6 +696,64 @@
    ]
   },
   {
+   "id": "psg",
+   "name": "Paris Saint-Germain",
+   "name_ar": "باريس سان جيرمان",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Paris",
+   "stadium": "Parc des Princes",
+   "european_competition": "UCL",
+   "colors": [
+    "#004170",
+    "#DA291C",
+    "#004170"
+   ],
+   "flag_css": "linear-gradient(90deg,#DA291C 0% 7%,#FFFFFF 7% 11%,#004170 11%)",
+   "official_site": "https://www.psg.fr",
+   "official_tickets": "https://billetterie.psg.fr/fr/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/psg.html",
+    "en": "https://ticketwhistle.com/en/tickets/psg.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/psg.html",
+    "it": "https://ticketwhistle.com/it/biglietti/psg.html",
+    "fr": "https://ticketwhistle.com/fr/billets/psg.html",
+    "de": "https://ticketwhistle.com/de/tickets/psg.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "bayern",
+   "name": "Bayern München",
+   "name_ar": "بايرن ميونخ",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "München",
+   "stadium": "Allianz Arena",
+   "european_competition": "UCL",
+   "colors": [
+    "#DC052D",
+    "#FFFFFF",
+    "#0066B2"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#0066B2 9% 14%,#DC052D 14%)",
+   "official_site": "https://fcbayern.com",
+   "official_tickets": "https://fcbayern.com/de/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/bayern.html",
+    "en": "https://ticketwhistle.com/en/tickets/bayern.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/bayern.html",
+    "it": "https://ticketwhistle.com/it/biglietti/bayern.html",
+    "fr": "https://ticketwhistle.com/fr/billets/bayern.html",
+    "de": "https://ticketwhistle.com/de/tickets/bayern.html"
+   },
+   "official_alternatives": []
+  },
+  {
    "id": "real-madrid",
    "name": "Real Madrid",
    "name_ar": "ريال مدريد",
@@ -822,6 +880,35 @@
    "official_alternatives": []
   },
   {
+   "id": "dortmund",
+   "name": "Borussia Dortmund",
+   "name_ar": "بوروسيا دورتموند",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Dortmund",
+   "stadium": "Signal Iduna Park",
+   "european_competition": "UCL",
+   "colors": [
+    "#FDE100",
+    "#111111",
+    "#FDE100"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0% 12%,#FDE100 12%)",
+   "official_site": "https://www.bvb.de",
+   "official_tickets": "https://www.bvb.de/de/de/tickets.html",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/dortmund.html",
+    "en": "https://ticketwhistle.com/en/tickets/dortmund.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/dortmund.html",
+    "it": "https://ticketwhistle.com/it/biglietti/dortmund.html",
+    "fr": "https://ticketwhistle.com/fr/billets/dortmund.html",
+    "de": "https://ticketwhistle.com/de/tickets/dortmund.html"
+   },
+   "official_alternatives": []
+  },
+  {
    "id": "roma",
    "name": "AS Roma",
    "name_ar": "روما",
@@ -885,6 +972,35 @@
    ]
   },
   {
+   "id": "lille",
+   "name": "LOSC Lille",
+   "name_ar": "ليل",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Lille",
+   "stadium": "Stade Pierre-Mauroy",
+   "european_competition": "UCL",
+   "colors": [
+    "#E01E13",
+    "#FFFFFF",
+    "#1C2C5B"
+   ],
+   "flag_css": "linear-gradient(90deg,#1C2C5B 0% 9%,#FFFFFF 9% 14%,#E01E13 14%)",
+   "official_site": "https://www.losc.fr",
+   "official_tickets": "https://billetterie.losc.fr/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/lille.html",
+    "en": "https://ticketwhistle.com/en/tickets/lille.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/lille.html",
+    "it": "https://ticketwhistle.com/it/biglietti/lille.html",
+    "fr": "https://ticketwhistle.com/fr/billets/lille.html",
+    "de": "https://ticketwhistle.com/de/tickets/lille.html"
+   },
+   "official_alternatives": []
+  },
+  {
    "id": "napoli",
    "name": "Napoli",
    "name_ar": "نابولي",
@@ -910,6 +1026,35 @@
     "it": "https://ticketwhistle.com/it/biglietti/napoli.html",
     "fr": "https://ticketwhistle.com/fr/billets/napoli.html",
     "de": "https://ticketwhistle.com/de/tickets/napoli.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "leipzig",
+   "name": "RB Leipzig",
+   "name_ar": "لايبزيغ",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Leipzig",
+   "stadium": "Red Bull Arena",
+   "european_competition": "UCL",
+   "colors": [
+    "#FFFFFF",
+    "#DD0741",
+    "#0C2043"
+   ],
+   "flag_css": "linear-gradient(90deg,#DD0741 0% 7%,#0C2043 7% 14%,#FFFFFF 14%)",
+   "official_site": "https://www.rbleipzig.com",
+   "official_tickets": "https://rbleipzig.com/de/matches-tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/leipzig.html",
+    "en": "https://ticketwhistle.com/en/tickets/leipzig.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/leipzig.html",
+    "it": "https://ticketwhistle.com/it/biglietti/leipzig.html",
+    "fr": "https://ticketwhistle.com/fr/billets/leipzig.html",
+    "de": "https://ticketwhistle.com/de/tickets/leipzig.html"
    },
    "official_alternatives": []
   },
@@ -948,6 +1093,35 @@
    ]
   },
   {
+   "id": "stuttgart",
+   "name": "VfB Stuttgart",
+   "name_ar": "شتوتغارت",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Stuttgart",
+   "stadium": "MHPArena",
+   "european_competition": "UCL",
+   "colors": [
+    "#FFFFFF",
+    "#E32219",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#E32219 0% 12%,#FFFFFF 12%)",
+   "official_site": "https://www.vfb.de",
+   "official_tickets": "https://tickets.vfb.de/shop/103",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/stuttgart.html",
+    "en": "https://ticketwhistle.com/en/tickets/stuttgart.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/stuttgart.html",
+    "it": "https://ticketwhistle.com/it/biglietti/stuttgart.html",
+    "fr": "https://ticketwhistle.com/fr/billets/stuttgart.html",
+    "de": "https://ticketwhistle.com/de/tickets/stuttgart.html"
+   },
+   "official_alternatives": []
+  },
+  {
    "id": "como",
    "name": "Como 1907",
    "name_ar": "كومو",
@@ -973,6 +1147,35 @@
     "it": "https://ticketwhistle.com/it/biglietti/como.html",
     "fr": "https://ticketwhistle.com/fr/billets/como.html",
     "de": "https://ticketwhistle.com/de/tickets/como.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "lens",
+   "name": "RC Lens",
+   "name_ar": "لانس",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Lens",
+   "stadium": "Stade Bollaert-Delelis",
+   "european_competition": "UCL",
+   "colors": [
+    "#FFD100",
+    "#E2001A",
+    "#FFD100"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFD100 0.0% 50.0%,#E2001A 50.0% 100.0%)",
+   "official_site": "https://www.rclens.fr",
+   "official_tickets": "https://billetterie.rclens.fr/fr/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/lens.html",
+    "en": "https://ticketwhistle.com/en/tickets/lens.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/lens.html",
+    "it": "https://ticketwhistle.com/it/biglietti/lens.html",
+    "fr": "https://ticketwhistle.com/fr/billets/lens.html",
+    "de": "https://ticketwhistle.com/de/tickets/lens.html"
    },
    "official_alternatives": []
   },
@@ -1665,6 +1868,847 @@
    "official_alternatives": []
   },
   {
+   "id": "angers",
+   "name": "Angers SCO",
+   "name_ar": "أنجيه",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Angers",
+   "stadium": "Stade Raymond-Kopa",
+   "european_competition": null,
+   "colors": [
+    "#111111",
+    "#FFFFFF",
+    "#111111"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#111111 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#111111 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#111111 85.7% 100.0%)",
+   "official_site": "https://angers-sco.fr",
+   "official_tickets": "https://billetterie.angers-sco.fr/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/angers.html",
+    "en": "https://ticketwhistle.com/en/tickets/angers.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/angers.html",
+    "it": "https://ticketwhistle.com/it/biglietti/angers.html",
+    "fr": "https://ticketwhistle.com/fr/billets/angers.html",
+    "de": "https://ticketwhistle.com/de/tickets/angers.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "auxerre",
+   "name": "AJ Auxerre",
+   "name_ar": "أوكسير",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Auxerre",
+   "stadium": "Stade de l'Abbé-Deschamps",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#0057A8",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#0057A8 0% 12%,#FFFFFF 12%)",
+   "official_site": "https://www.aja.fr",
+   "official_tickets": "https://billetterie.aja.fr/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/auxerre.html",
+    "en": "https://ticketwhistle.com/en/tickets/auxerre.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/auxerre.html",
+    "it": "https://ticketwhistle.com/it/biglietti/auxerre.html",
+    "fr": "https://ticketwhistle.com/fr/billets/auxerre.html",
+    "de": "https://ticketwhistle.com/de/tickets/auxerre.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "brest",
+   "name": "Stade Brestois",
+   "name_ar": "بريست",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Brest",
+   "stadium": "Stade Francis-Le Blé",
+   "european_competition": null,
+   "colors": [
+    "#E2001A",
+    "#FFFFFF",
+    "#E2001A"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#E2001A 9%)",
+   "official_site": "https://www.sb29.bzh",
+   "official_tickets": "https://www.sb29.bzh/billetterie.php",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/brest.html",
+    "en": "https://ticketwhistle.com/en/tickets/brest.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/brest.html",
+    "it": "https://ticketwhistle.com/it/biglietti/brest.html",
+    "fr": "https://ticketwhistle.com/fr/billets/brest.html",
+    "de": "https://ticketwhistle.com/de/tickets/brest.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "le-havre",
+   "name": "Le Havre AC",
+   "name_ar": "لوهافر",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Le Havre",
+   "stadium": "Stade Océane",
+   "european_competition": null,
+   "colors": [
+    "#0D2C54",
+    "#7BB2E0",
+    "#0D2C54"
+   ],
+   "flag_css": "linear-gradient(90deg,#7BB2E0 0.0% 50.0%,#0D2C54 50.0% 100.0%)",
+   "official_site": "https://hac.football",
+   "official_tickets": "https://billetterie.hac.football/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/le-havre.html",
+    "en": "https://ticketwhistle.com/en/tickets/le-havre.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/le-havre.html",
+    "it": "https://ticketwhistle.com/it/biglietti/le-havre.html",
+    "fr": "https://ticketwhistle.com/fr/billets/le-havre.html",
+    "de": "https://ticketwhistle.com/de/tickets/le-havre.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "le-mans",
+   "name": "Le Mans FC",
+   "name_ar": "لومان",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Le Mans",
+   "stadium": "Stade Marie-Marvingt",
+   "european_competition": null,
+   "colors": [
+    "#E30613",
+    "#FFD200",
+    "#E30613"
+   ],
+   "flag_css": "linear-gradient(90deg,#E30613 0.0% 20.0%,#FFD200 20.0% 40.0%,#E30613 40.0% 60.0%,#FFD200 60.0% 80.0%,#E30613 80.0% 100.0%)",
+   "official_site": "https://www.lemansfc.fr",
+   "official_tickets": "https://billetterie.lemansfc.fr/fr",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/le-mans.html",
+    "en": "https://ticketwhistle.com/en/tickets/le-mans.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/le-mans.html",
+    "it": "https://ticketwhistle.com/it/biglietti/le-mans.html",
+    "fr": "https://ticketwhistle.com/fr/billets/le-mans.html",
+    "de": "https://ticketwhistle.com/de/tickets/le-mans.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "lorient",
+   "name": "FC Lorient",
+   "name_ar": "لوريان",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Lorient",
+   "stadium": "Stade du Moustoir",
+   "european_competition": null,
+   "colors": [
+    "#F47920",
+    "#111111",
+    "#F47920"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0% 12%,#F47920 12%)",
+   "official_site": "https://www.fclorient.bzh",
+   "official_tickets": "https://billetterie.fclorient.bzh/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/lorient.html",
+    "en": "https://ticketwhistle.com/en/tickets/lorient.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/lorient.html",
+    "it": "https://ticketwhistle.com/it/biglietti/lorient.html",
+    "fr": "https://ticketwhistle.com/fr/billets/lorient.html",
+    "de": "https://ticketwhistle.com/de/tickets/lorient.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "lyon",
+   "name": "Olympique Lyonnais",
+   "name_ar": "ليون",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Lyon",
+   "stadium": "Groupama Stadium",
+   "european_competition": "UEL",
+   "colors": [
+    "#FFFFFF",
+    "#0033A0",
+    "#DA291C"
+   ],
+   "flag_css": "linear-gradient(90deg,#0033A0 0% 7%,#DA291C 7% 14%,#FFFFFF 14%)",
+   "official_site": "https://www.ol.fr",
+   "official_tickets": "https://billetterie.ol.fr/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/lyon.html",
+    "en": "https://ticketwhistle.com/en/tickets/lyon.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/lyon.html",
+    "it": "https://ticketwhistle.com/it/biglietti/lyon.html",
+    "fr": "https://ticketwhistle.com/fr/billets/lyon.html",
+    "de": "https://ticketwhistle.com/de/tickets/lyon.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "marseille",
+   "name": "Olympique de Marseille",
+   "name_ar": "مرسيليا",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Marseille",
+   "stadium": "Stade Vélodrome",
+   "european_competition": "UEL",
+   "colors": [
+    "#FFFFFF",
+    "#2FAEE0",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#2FAEE0 0% 12%,#FFFFFF 12%)",
+   "official_site": "https://www.om.fr",
+   "official_tickets": "https://billetterie.om.fr/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/marseille.html",
+    "en": "https://ticketwhistle.com/en/tickets/marseille.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/marseille.html",
+    "it": "https://ticketwhistle.com/it/biglietti/marseille.html",
+    "fr": "https://ticketwhistle.com/fr/billets/marseille.html",
+    "de": "https://ticketwhistle.com/de/tickets/marseille.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "monaco",
+   "name": "AS Monaco",
+   "name_ar": "موناكو",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Monaco",
+   "stadium": "Stade Louis-II",
+   "european_competition": "UECL",
+   "colors": [
+    "#E2001A",
+    "#FFFFFF",
+    "#E2001A"
+   ],
+   "flag_css": "linear-gradient(90deg,#E2001A 0.0% 50.0%,#FFFFFF 50.0% 100.0%)",
+   "official_site": "https://www.asmonaco.com",
+   "official_tickets": "https://billetterie.asmonaco.com/fr/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/monaco.html",
+    "en": "https://ticketwhistle.com/en/tickets/monaco.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/monaco.html",
+    "it": "https://ticketwhistle.com/it/biglietti/monaco.html",
+    "fr": "https://ticketwhistle.com/fr/billets/monaco.html",
+    "de": "https://ticketwhistle.com/de/tickets/monaco.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "nice",
+   "name": "OGC Nice",
+   "name_ar": "نيس",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Nice",
+   "stadium": "Allianz Riviera",
+   "european_competition": null,
+   "colors": [
+    "#E2001A",
+    "#111111",
+    "#E2001A"
+   ],
+   "flag_css": "linear-gradient(90deg,#E2001A 0.0% 14.3%,#111111 14.3% 28.6%,#E2001A 28.6% 42.9%,#111111 42.9% 57.1%,#E2001A 57.1% 71.4%,#111111 71.4% 85.7%,#E2001A 85.7% 100.0%)",
+   "official_site": "https://www.ogcnice.com",
+   "official_tickets": "https://billetterie.ogcnice.com/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/nice.html",
+    "en": "https://ticketwhistle.com/en/tickets/nice.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/nice.html",
+    "it": "https://ticketwhistle.com/it/biglietti/nice.html",
+    "fr": "https://ticketwhistle.com/fr/billets/nice.html",
+    "de": "https://ticketwhistle.com/de/tickets/nice.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "paris-fc",
+   "name": "Paris FC",
+   "name_ar": "باريس إف سي",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Paris",
+   "stadium": "Stade Jean-Bouin",
+   "european_competition": null,
+   "colors": [
+    "#0F1E44",
+    "#FFFFFF",
+    "#0F1E44"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#0F1E44 9%)",
+   "official_site": "https://parisfc.fr",
+   "official_tickets": "https://billetterie.parisfc.fr/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/paris-fc.html",
+    "en": "https://ticketwhistle.com/en/tickets/paris-fc.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/paris-fc.html",
+    "it": "https://ticketwhistle.com/it/biglietti/paris-fc.html",
+    "fr": "https://ticketwhistle.com/fr/billets/paris-fc.html",
+    "de": "https://ticketwhistle.com/de/tickets/paris-fc.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "rennes",
+   "name": "Stade Rennais",
+   "name_ar": "رين",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Rennes",
+   "stadium": "Roazhon Park",
+   "european_competition": "UEL",
+   "colors": [
+    "#E2001A",
+    "#111111",
+    "#E2001A"
+   ],
+   "flag_css": "linear-gradient(90deg,#E2001A 0.0% 50.0%,#111111 50.0% 100.0%)",
+   "official_site": "https://www.staderennais.com",
+   "official_tickets": "https://billetterie.staderennais.com/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/rennes.html",
+    "en": "https://ticketwhistle.com/en/tickets/rennes.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/rennes.html",
+    "it": "https://ticketwhistle.com/it/biglietti/rennes.html",
+    "fr": "https://ticketwhistle.com/fr/billets/rennes.html",
+    "de": "https://ticketwhistle.com/de/tickets/rennes.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "strasbourg",
+   "name": "RC Strasbourg",
+   "name_ar": "ستراسبورغ",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Strasbourg",
+   "stadium": "Stade de la Meinau",
+   "european_competition": null,
+   "colors": [
+    "#009FE3",
+    "#FFFFFF",
+    "#009FE3"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 12%,#009FE3 12%)",
+   "official_site": "https://www.rcstrasbourgalsace.fr",
+   "official_tickets": "https://billetterie.rcstrasbourgalsace.fr/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/strasbourg.html",
+    "en": "https://ticketwhistle.com/en/tickets/strasbourg.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/strasbourg.html",
+    "it": "https://ticketwhistle.com/it/biglietti/strasbourg.html",
+    "fr": "https://ticketwhistle.com/fr/billets/strasbourg.html",
+    "de": "https://ticketwhistle.com/de/tickets/strasbourg.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "toulouse",
+   "name": "Toulouse FC",
+   "name_ar": "تولوز",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Toulouse",
+   "stadium": "Stadium de Toulouse",
+   "european_competition": null,
+   "colors": [
+    "#5B2C83",
+    "#FFFFFF",
+    "#5B2C83"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#5B2C83 9%)",
+   "official_site": "https://www.toulousefc.com",
+   "official_tickets": "https://billetterie.toulousefc.com/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/toulouse.html",
+    "en": "https://ticketwhistle.com/en/tickets/toulouse.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/toulouse.html",
+    "it": "https://ticketwhistle.com/it/biglietti/toulouse.html",
+    "fr": "https://ticketwhistle.com/fr/billets/toulouse.html",
+    "de": "https://ticketwhistle.com/de/tickets/toulouse.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "troyes",
+   "name": "ESTAC Troyes",
+   "name_ar": "تروا",
+   "league": "Ligue 1",
+   "country": "FRA",
+   "timezone": "Europe/Paris",
+   "city": "Troyes",
+   "stadium": "Stade de l'Aube",
+   "european_competition": null,
+   "colors": [
+    "#0055A4",
+    "#FFFFFF",
+    "#0055A4"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#0055A4 9%)",
+   "official_site": "https://www.estac.fr",
+   "official_tickets": "https://ticket.estac.fr/fr",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/troyes.html",
+    "en": "https://ticketwhistle.com/en/tickets/troyes.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/troyes.html",
+    "it": "https://ticketwhistle.com/it/biglietti/troyes.html",
+    "fr": "https://ticketwhistle.com/fr/billets/troyes.html",
+    "de": "https://ticketwhistle.com/de/tickets/troyes.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "augsburg",
+   "name": "FC Augsburg",
+   "name_ar": "أوغسبورغ",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Augsburg",
+   "stadium": "WWK Arena",
+   "european_competition": null,
+   "colors": [
+    "#BA3733",
+    "#FFFFFF",
+    "#46714D"
+   ],
+   "flag_css": "linear-gradient(90deg,#BA3733 0% 7%,#46714D 7% 14%,#FFFFFF 14%)",
+   "official_site": "https://www.fcaugsburg.de",
+   "official_tickets": "https://www.fcaugsburg.de/page/ticket-heimspiele-15",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/augsburg.html",
+    "en": "https://ticketwhistle.com/en/tickets/augsburg.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/augsburg.html",
+    "it": "https://ticketwhistle.com/it/biglietti/augsburg.html",
+    "fr": "https://ticketwhistle.com/fr/billets/augsburg.html",
+    "de": "https://ticketwhistle.com/de/tickets/augsburg.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "union-berlin",
+   "name": "Union Berlin",
+   "name_ar": "يونيون برلين",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Berlin",
+   "stadium": "Stadion An der Alten Försterei",
+   "european_competition": null,
+   "colors": [
+    "#EB1923",
+    "#FFFFFF",
+    "#EB1923"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#EB1923 9%)",
+   "official_site": "https://www.fc-union-berlin.de",
+   "official_tickets": "https://tickets.union-zeughaus.de/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/union-berlin.html",
+    "en": "https://ticketwhistle.com/en/tickets/union-berlin.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/union-berlin.html",
+    "it": "https://ticketwhistle.com/it/biglietti/union-berlin.html",
+    "fr": "https://ticketwhistle.com/fr/billets/union-berlin.html",
+    "de": "https://ticketwhistle.com/de/tickets/union-berlin.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "bremen",
+   "name": "Werder Bremen",
+   "name_ar": "فيردر بريمن",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Bremen",
+   "stadium": "Weserstadion",
+   "european_competition": null,
+   "colors": [
+    "#1D9053",
+    "#FFFFFF",
+    "#1D9053"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#1D9053 9%)",
+   "official_site": "https://www.werder.de",
+   "official_tickets": "https://www.werder.de/tickets/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/bremen.html",
+    "en": "https://ticketwhistle.com/en/tickets/bremen.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/bremen.html",
+    "it": "https://ticketwhistle.com/it/biglietti/bremen.html",
+    "fr": "https://ticketwhistle.com/fr/billets/bremen.html",
+    "de": "https://ticketwhistle.com/de/tickets/bremen.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "elversberg",
+   "name": "SV Elversberg",
+   "name_ar": "إلفرسبرغ",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Spiesen-Elversberg",
+   "stadium": "Ursapharm-Arena an der Kaiserlinde",
+   "european_competition": null,
+   "colors": [
+    "#111111",
+    "#FFFFFF",
+    "#111111"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0.0% 20.0%,#FFFFFF 20.0% 40.0%,#111111 40.0% 60.0%,#FFFFFF 60.0% 80.0%,#111111 80.0% 100.0%)",
+   "official_site": "https://sv07elversberg.de",
+   "official_tickets": "https://sv07elversberg.de/ursapharm-arena/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/elversberg.html",
+    "en": "https://ticketwhistle.com/en/tickets/elversberg.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/elversberg.html",
+    "it": "https://ticketwhistle.com/it/biglietti/elversberg.html",
+    "fr": "https://ticketwhistle.com/fr/billets/elversberg.html",
+    "de": "https://ticketwhistle.com/de/tickets/elversberg.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "frankfurt",
+   "name": "Eintracht Frankfurt",
+   "name_ar": "آينتراخت فرانكفورت",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Frankfurt",
+   "stadium": "Deutsche Bank Park",
+   "european_competition": null,
+   "colors": [
+    "#E1000F",
+    "#111111",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#E1000F 0% 9%,#FFFFFF 9% 14%,#111111 14%)",
+   "official_site": "https://www.eintracht.de",
+   "official_tickets": "https://tickets.eintracht.de/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/frankfurt.html",
+    "en": "https://ticketwhistle.com/en/tickets/frankfurt.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/frankfurt.html",
+    "it": "https://ticketwhistle.com/it/biglietti/frankfurt.html",
+    "fr": "https://ticketwhistle.com/fr/billets/frankfurt.html",
+    "de": "https://ticketwhistle.com/de/tickets/frankfurt.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "freiburg",
+   "name": "SC Freiburg",
+   "name_ar": "فرايبورغ",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Freiburg",
+   "stadium": "Europa-Park Stadion",
+   "european_competition": "UECL",
+   "colors": [
+    "#E2001A",
+    "#111111",
+    "#E2001A"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0% 9%,#E2001A 9%)",
+   "official_site": "https://www.scfreiburg.com",
+   "official_tickets": "https://www.scfreiburg.com/heimtickets/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/freiburg.html",
+    "en": "https://ticketwhistle.com/en/tickets/freiburg.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/freiburg.html",
+    "it": "https://ticketwhistle.com/it/biglietti/freiburg.html",
+    "fr": "https://ticketwhistle.com/fr/billets/freiburg.html",
+    "de": "https://ticketwhistle.com/de/tickets/freiburg.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "hamburg",
+   "name": "Hamburger SV",
+   "name_ar": "هامبورغ",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Hamburg",
+   "stadium": "Volksparkstadion",
+   "european_competition": null,
+   "colors": [
+    "#0A3F86",
+    "#FFFFFF",
+    "#111111"
+   ],
+   "flag_css": "linear-gradient(90deg,#0A3F86 0% 7%,#111111 7% 14%,#FFFFFF 14%)",
+   "official_site": "https://www.hsv.de",
+   "official_tickets": "https://www.ticket-onlineshop.com/ols/hsv/de",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/hamburg.html",
+    "en": "https://ticketwhistle.com/en/tickets/hamburg.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/hamburg.html",
+    "it": "https://ticketwhistle.com/it/biglietti/hamburg.html",
+    "fr": "https://ticketwhistle.com/fr/billets/hamburg.html",
+    "de": "https://ticketwhistle.com/de/tickets/hamburg.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "hoffenheim",
+   "name": "TSG Hoffenheim",
+   "name_ar": "هوفنهايم",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Sinsheim",
+   "stadium": "PreZero Arena",
+   "european_competition": "UEL",
+   "colors": [
+    "#1C63B7",
+    "#FFFFFF",
+    "#1C63B7"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#1C63B7 9%)",
+   "official_site": "https://www.tsg-hoffenheim.de",
+   "official_tickets": "https://www.tsg-hoffenheim.de/tickets/ticketcenter",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/hoffenheim.html",
+    "en": "https://ticketwhistle.com/en/tickets/hoffenheim.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/hoffenheim.html",
+    "it": "https://ticketwhistle.com/it/biglietti/hoffenheim.html",
+    "fr": "https://ticketwhistle.com/fr/billets/hoffenheim.html",
+    "de": "https://ticketwhistle.com/de/tickets/hoffenheim.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "koeln",
+   "name": "1. FC Köln",
+   "name_ar": "كولن",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Köln",
+   "stadium": "RheinEnergieStadion",
+   "european_competition": null,
+   "colors": [
+    "#ED1C24",
+    "#FFFFFF",
+    "#ED1C24"
+   ],
+   "flag_css": "linear-gradient(90deg,#ED1C24 0% 12%,#FFFFFF 12%)",
+   "official_site": "https://fc.de",
+   "official_tickets": "https://fc.de/service/stadionerlebnis/ticketing",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/koeln.html",
+    "en": "https://ticketwhistle.com/en/tickets/koeln.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/koeln.html",
+    "it": "https://ticketwhistle.com/it/biglietti/koeln.html",
+    "fr": "https://ticketwhistle.com/fr/billets/koeln.html",
+    "de": "https://ticketwhistle.com/de/tickets/koeln.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "leverkusen",
+   "name": "Bayer Leverkusen",
+   "name_ar": "باير ليفركوزن",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Leverkusen",
+   "stadium": "BayArena",
+   "european_competition": "UEL",
+   "colors": [
+    "#E32221",
+    "#111111",
+    "#E32221"
+   ],
+   "flag_css": "linear-gradient(90deg,#E32221 0.0% 50.0%,#111111 50.0% 100.0%)",
+   "official_site": "https://www.bayer04.de",
+   "official_tickets": "https://ticketshop.bayer04.de",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/leverkusen.html",
+    "en": "https://ticketwhistle.com/en/tickets/leverkusen.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/leverkusen.html",
+    "it": "https://ticketwhistle.com/it/biglietti/leverkusen.html",
+    "fr": "https://ticketwhistle.com/fr/billets/leverkusen.html",
+    "de": "https://ticketwhistle.com/de/tickets/leverkusen.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "mainz",
+   "name": "Mainz 05",
+   "name_ar": "ماينز",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Mainz",
+   "stadium": "MEWA Arena",
+   "european_competition": null,
+   "colors": [
+    "#C3141E",
+    "#FFFFFF",
+    "#C3141E"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#C3141E 9%)",
+   "official_site": "https://www.mainz05.de",
+   "official_tickets": "https://www.mainz05.de/tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/mainz.html",
+    "en": "https://ticketwhistle.com/en/tickets/mainz.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/mainz.html",
+    "it": "https://ticketwhistle.com/it/biglietti/mainz.html",
+    "fr": "https://ticketwhistle.com/fr/billets/mainz.html",
+    "de": "https://ticketwhistle.com/de/tickets/mainz.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "gladbach",
+   "name": "Borussia Mönchengladbach",
+   "name_ar": "بوروسيا مونشنغلادباخ",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Mönchengladbach",
+   "stadium": "Borussia-Park",
+   "european_competition": null,
+   "colors": [
+    "#111111",
+    "#FFFFFF",
+    "#00A651"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0% 7%,#00A651 7% 14%,#FFFFFF 14%)",
+   "official_site": "https://www.borussia.de",
+   "official_tickets": "https://www.borussia.de/tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/gladbach.html",
+    "en": "https://ticketwhistle.com/en/tickets/gladbach.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/gladbach.html",
+    "it": "https://ticketwhistle.com/it/biglietti/gladbach.html",
+    "fr": "https://ticketwhistle.com/fr/billets/gladbach.html",
+    "de": "https://ticketwhistle.com/de/tickets/gladbach.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "paderborn",
+   "name": "SC Paderborn",
+   "name_ar": "بادربورن",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Paderborn",
+   "stadium": "Home Deluxe Arena",
+   "european_competition": null,
+   "colors": [
+    "#005CA9",
+    "#111111",
+    "#005CA9"
+   ],
+   "flag_css": "linear-gradient(90deg,#005CA9 0.0% 14.3%,#111111 14.3% 28.6%,#005CA9 28.6% 42.9%,#111111 42.9% 57.1%,#005CA9 57.1% 71.4%,#111111 71.4% 85.7%,#005CA9 85.7% 100.0%)",
+   "official_site": "https://www.scp07.de",
+   "official_tickets": "https://www.scp07.de/Tickets-kaufen/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/paderborn.html",
+    "en": "https://ticketwhistle.com/en/tickets/paderborn.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/paderborn.html",
+    "it": "https://ticketwhistle.com/it/biglietti/paderborn.html",
+    "fr": "https://ticketwhistle.com/fr/billets/paderborn.html",
+    "de": "https://ticketwhistle.com/de/tickets/paderborn.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "schalke",
+   "name": "Schalke 04",
+   "name_ar": "شالكه",
+   "league": "Bundesliga",
+   "country": "GER",
+   "timezone": "Europe/Berlin",
+   "city": "Gelsenkirchen",
+   "stadium": "Veltins-Arena",
+   "european_competition": null,
+   "colors": [
+    "#004D9D",
+    "#FFFFFF",
+    "#004D9D"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#004D9D 9%)",
+   "official_site": "https://schalke04.de",
+   "official_tickets": "https://tickets.schalke04.de/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/schalke.html",
+    "en": "https://ticketwhistle.com/en/tickets/schalke.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/schalke.html",
+    "it": "https://ticketwhistle.com/it/biglietti/schalke.html",
+    "fr": "https://ticketwhistle.com/fr/billets/schalke.html",
+    "de": "https://ticketwhistle.com/de/tickets/schalke.html"
+   },
+   "official_alternatives": []
+  },
+  {
    "id": "lazio",
    "name": "Lazio",
    "name_ar": "لاتسيو",
@@ -1948,7 +2992,14 @@
     "inter",
     "napoli",
     "roma",
-    "como"
+    "como",
+    "psg",
+    "lille",
+    "lens",
+    "bayern",
+    "dortmund",
+    "leipzig",
+    "stuttgart"
    ],
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-champions-league.html",
@@ -1973,7 +3024,12 @@
     "real-sociedad",
     "celta",
     "juventus",
-    "milan"
+    "milan",
+    "lyon",
+    "marseille",
+    "rennes",
+    "hoffenheim",
+    "leverkusen"
    ],
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-europa-league.html",
@@ -1994,7 +3050,9 @@
    "clubs": [
     "brighton",
     "getafe",
-    "atalanta"
+    "atalanta",
+    "monaco",
+    "freiburg"
    ],
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-conference-league.html",

@@ -1,0 +1,70 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T11:47:26.638975+00:00",
+ "last_scan": "2026-11-27T11:38:58.640933+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "paris-fc",
+  "name": "Paris FC",
+  "name_ar": "باريس إف سي",
+  "league": "Ligue 1",
+  "country": "FRA",
+  "timezone": "Europe/Paris",
+  "city": "Paris",
+  "stadium": "Stade Jean-Bouin",
+  "european_competition": null,
+  "colors": [
+   "#0F1E44",
+   "#FFFFFF",
+   "#0F1E44"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#0F1E44 9%)",
+  "official_site": "https://parisfc.fr",
+  "official_tickets": "https://billetterie.parisfc.fr/",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/paris-fc.html",
+   "en": "https://ticketwhistle.com/en/tickets/paris-fc.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/paris-fc.html",
+   "it": "https://ticketwhistle.com/it/biglietti/paris-fc.html",
+   "fr": "https://ticketwhistle.com/fr/billets/paris-fc.html",
+   "de": "https://ticketwhistle.com/de/tickets/paris-fc.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "b831c8a9f924d228",
+   "club_id": "paris-fc",
+   "club": "Paris FC",
+   "title": "Ouverture de la billetterie pour Paris FC - Angers (J11) - Paris FC",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": "2026-11-22T00:00:00+01:00",
+   "announced_at": null,
+   "has_time": false,
+   "timezone": "Europe/Paris",
+   "league": "Ligue 1",
+   "competition": null,
+   "status": "past",
+   "source_url": "https://parisfc.fr/equipe-pro/ouverture-de-la-billetterie-pour-paris-fc-angers-j11/",
+   "source_kind": "article",
+   "two_sources": false,
+   "first_seen": "2026-11-27T11:38:58.640933+00:00",
+   "last_checked": "2026-11-27T11:38:58.640933+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/paris-fc.html",
+   "official_tickets": "https://billetterie.parisfc.fr/",
+   "slug": "paris-fc-ouverture-billetterie-pour-angers-j11-b831c8a9",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/paris-fc-ouverture-billetterie-pour-angers-j11-b831c8a9.html",
+    "en": "https://ticketwhistle.com/en/sales/paris-fc-ouverture-billetterie-pour-angers-j11-b831c8a9.html",
+    "ar": "https://ticketwhistle.com/ar/sales/paris-fc-ouverture-billetterie-pour-angers-j11-b831c8a9.html",
+    "it": "https://ticketwhistle.com/it/vendite/paris-fc-ouverture-billetterie-pour-angers-j11-b831c8a9.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/paris-fc-ouverture-billetterie-pour-angers-j11-b831c8a9.html",
+    "de": "https://ticketwhistle.com/de/verkauf/paris-fc-ouverture-billetterie-pour-angers-j11-b831c8a9.html"
+   }
+  }
+ ]
+}

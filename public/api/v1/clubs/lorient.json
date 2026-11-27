@@ -1,0 +1,70 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T11:47:26.638975+00:00",
+ "last_scan": "2026-11-27T11:38:58.640933+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "lorient",
+  "name": "FC Lorient",
+  "name_ar": "لوريان",
+  "league": "Ligue 1",
+  "country": "FRA",
+  "timezone": "Europe/Paris",
+  "city": "Lorient",
+  "stadium": "Stade du Moustoir",
+  "european_competition": null,
+  "colors": [
+   "#F47920",
+   "#111111",
+   "#F47920"
+  ],
+  "flag_css": "linear-gradient(90deg,#111111 0% 12%,#F47920 12%)",
+  "official_site": "https://www.fclorient.bzh",
+  "official_tickets": "https://billetterie.fclorient.bzh/",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/lorient.html",
+   "en": "https://ticketwhistle.com/en/tickets/lorient.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/lorient.html",
+   "it": "https://ticketwhistle.com/it/biglietti/lorient.html",
+   "fr": "https://ticketwhistle.com/fr/billets/lorient.html",
+   "de": "https://ticketwhistle.com/de/tickets/lorient.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "cf7078b4260a2f50",
+   "club_id": "lorient",
+   "club": "FC Lorient",
+   "title": "Havre AC - FC Lorient : La billetterie est ouverte - FC Lorient",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": "2026-11-06T17:00:00+01:00",
+   "announced_at": null,
+   "has_time": true,
+   "timezone": "Europe/Paris",
+   "league": "Ligue 1",
+   "competition": null,
+   "status": "past",
+   "source_url": "https://www.fclorient.bzh/havre-ac-fc-lorient-la-billetterie-est-ouverte/",
+   "source_kind": "article",
+   "two_sources": false,
+   "first_seen": "2026-11-27T11:38:58.640933+00:00",
+   "last_checked": "2026-11-27T11:38:58.640933+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/lorient.html",
+   "official_tickets": "https://billetterie.fclorient.bzh/",
+   "slug": "lorient-havre-ac-billetterie-est-ouverte-cf7078b4",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/lorient-havre-ac-billetterie-est-ouverte-cf7078b4.html",
+    "en": "https://ticketwhistle.com/en/sales/lorient-havre-ac-billetterie-est-ouverte-cf7078b4.html",
+    "ar": "https://ticketwhistle.com/ar/sales/lorient-havre-ac-billetterie-est-ouverte-cf7078b4.html",
+    "it": "https://ticketwhistle.com/it/vendite/lorient-havre-ac-billetterie-est-ouverte-cf7078b4.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/lorient-havre-ac-billetterie-est-ouverte-cf7078b4.html",
+    "de": "https://ticketwhistle.com/de/verkauf/lorient-havre-ac-billetterie-est-ouverte-cf7078b4.html"
+   }
+  }
+ ]
+}

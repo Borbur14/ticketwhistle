@@ -1,0 +1,38 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T11:47:26.638975+00:00",
+ "last_scan": "2026-11-27T11:38:58.640933+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "frankfurt",
+  "name": "Eintracht Frankfurt",
+  "name_ar": "آينتراخت فرانكفورت",
+  "league": "Bundesliga",
+  "country": "GER",
+  "timezone": "Europe/Berlin",
+  "city": "Frankfurt",
+  "stadium": "Deutsche Bank Park",
+  "european_competition": null,
+  "colors": [
+   "#E1000F",
+   "#111111",
+   "#FFFFFF"
+  ],
+  "flag_css": "linear-gradient(90deg,#E1000F 0% 9%,#FFFFFF 9% 14%,#111111 14%)",
+  "official_site": "https://www.eintracht.de",
+  "official_tickets": "https://tickets.eintracht.de/",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/frankfurt.html",
+   "en": "https://ticketwhistle.com/en/tickets/frankfurt.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/frankfurt.html",
+   "it": "https://ticketwhistle.com/it/biglietti/frankfurt.html",
+   "fr": "https://ticketwhistle.com/fr/billets/frankfurt.html",
+   "de": "https://ticketwhistle.com/de/tickets/frankfurt.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": []
+}

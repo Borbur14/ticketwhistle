@@ -1,0 +1,70 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T11:47:26.638975+00:00",
+ "last_scan": "2026-11-27T11:38:58.640933+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "gladbach",
+  "name": "Borussia Mönchengladbach",
+  "name_ar": "بوروسيا مونشنغلادباخ",
+  "league": "Bundesliga",
+  "country": "GER",
+  "timezone": "Europe/Berlin",
+  "city": "Mönchengladbach",
+  "stadium": "Borussia-Park",
+  "european_competition": null,
+  "colors": [
+   "#111111",
+   "#FFFFFF",
+   "#00A651"
+  ],
+  "flag_css": "linear-gradient(90deg,#111111 0% 7%,#00A651 7% 14%,#FFFFFF 14%)",
+  "official_site": "https://www.borussia.de",
+  "official_tickets": "https://www.borussia.de/tickets",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/gladbach.html",
+   "en": "https://ticketwhistle.com/en/tickets/gladbach.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/gladbach.html",
+   "it": "https://ticketwhistle.com/it/biglietti/gladbach.html",
+   "fr": "https://ticketwhistle.com/fr/billets/gladbach.html",
+   "de": "https://ticketwhistle.com/de/tickets/gladbach.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "0051f7d6fa5d8a52",
+   "club_id": "gladbach",
+   "club": "Borussia Mönchengladbach",
+   "title": "Tickets für #BMGSVD sichern",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-24T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Berlin",
+   "league": "Bundesliga",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.borussia.de/tickets",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T11:38:58.640933+00:00",
+   "last_checked": "2026-11-27T11:38:58.640933+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/gladbach.html",
+   "official_tickets": "https://www.borussia.de/tickets",
+   "slug": "gladbach-tickets-fur-bmgsvd-sichern-0051f7d6",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/gladbach-tickets-fur-bmgsvd-sichern-0051f7d6.html",
+    "en": "https://ticketwhistle.com/en/sales/gladbach-tickets-fur-bmgsvd-sichern-0051f7d6.html",
+    "ar": "https://ticketwhistle.com/ar/sales/gladbach-tickets-fur-bmgsvd-sichern-0051f7d6.html",
+    "it": "https://ticketwhistle.com/it/vendite/gladbach-tickets-fur-bmgsvd-sichern-0051f7d6.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/gladbach-tickets-fur-bmgsvd-sichern-0051f7d6.html",
+    "de": "https://ticketwhistle.com/de/verkauf/gladbach-tickets-fur-bmgsvd-sichern-0051f7d6.html"
+   }
+  }
+ ]
+}

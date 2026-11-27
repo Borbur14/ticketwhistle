@@ -1,0 +1,38 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T11:47:26.638975+00:00",
+ "last_scan": "2026-11-27T11:38:58.640933+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "le-mans",
+  "name": "Le Mans FC",
+  "name_ar": "لومان",
+  "league": "Ligue 1",
+  "country": "FRA",
+  "timezone": "Europe/Paris",
+  "city": "Le Mans",
+  "stadium": "Stade Marie-Marvingt",
+  "european_competition": null,
+  "colors": [
+   "#E30613",
+   "#FFD200",
+   "#E30613"
+  ],
+  "flag_css": "linear-gradient(90deg,#E30613 0.0% 20.0%,#FFD200 20.0% 40.0%,#E30613 40.0% 60.0%,#FFD200 60.0% 80.0%,#E30613 80.0% 100.0%)",
+  "official_site": "https://www.lemansfc.fr",
+  "official_tickets": "https://billetterie.lemansfc.fr/fr",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/le-mans.html",
+   "en": "https://ticketwhistle.com/en/tickets/le-mans.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/le-mans.html",
+   "it": "https://ticketwhistle.com/it/biglietti/le-mans.html",
+   "fr": "https://ticketwhistle.com/fr/billets/le-mans.html",
+   "de": "https://ticketwhistle.com/de/tickets/le-mans.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": []
+}

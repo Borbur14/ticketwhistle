@@ -1,0 +1,70 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T11:47:26.638975+00:00",
+ "last_scan": "2026-11-27T11:38:58.640933+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "troyes",
+  "name": "ESTAC Troyes",
+  "name_ar": "تروا",
+  "league": "Ligue 1",
+  "country": "FRA",
+  "timezone": "Europe/Paris",
+  "city": "Troyes",
+  "stadium": "Stade de l'Aube",
+  "european_competition": null,
+  "colors": [
+   "#0055A4",
+   "#FFFFFF",
+   "#0055A4"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#0055A4 9%)",
+  "official_site": "https://www.estac.fr",
+  "official_tickets": "https://ticket.estac.fr/fr",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/troyes.html",
+   "en": "https://ticketwhistle.com/en/tickets/troyes.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/troyes.html",
+   "it": "https://ticketwhistle.com/it/biglietti/troyes.html",
+   "fr": "https://ticketwhistle.com/fr/billets/troyes.html",
+   "de": "https://ticketwhistle.com/de/tickets/troyes.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "7d7ee323e6a9f0b7",
+   "club_id": "troyes",
+   "club": "ESTAC Troyes",
+   "title": "La billetterie pour ESTAC - Strasbourg est ouverte ! - ESTAC",
+   "phase": "general_sale",
+   "phase_label_en": "General sale",
+   "opens_at": "2026-08-27T00:00:00+02:00",
+   "announced_at": null,
+   "has_time": false,
+   "timezone": "Europe/Paris",
+   "league": "Ligue 1",
+   "competition": null,
+   "status": "past",
+   "source_url": "https://www.estac.fr/priorite-abonnes-la-billetterie-pour-estac-strasbourg-ouverte/",
+   "source_kind": "article",
+   "two_sources": false,
+   "first_seen": "2026-11-27T11:38:58.640933+00:00",
+   "last_checked": "2026-11-27T11:38:58.640933+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/troyes.html",
+   "official_tickets": "https://ticket.estac.fr/fr",
+   "slug": "troyes-billetterie-pour-estac-strasbourg-est-ouverte-estac-7d7ee323",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/troyes-billetterie-pour-estac-strasbourg-est-ouverte-estac-7d7ee323.html",
+    "en": "https://ticketwhistle.com/en/sales/troyes-billetterie-pour-estac-strasbourg-est-ouverte-estac-7d7ee323.html",
+    "ar": "https://ticketwhistle.com/ar/sales/troyes-billetterie-pour-estac-strasbourg-est-ouverte-estac-7d7ee323.html",
+    "it": "https://ticketwhistle.com/it/vendite/troyes-billetterie-pour-estac-strasbourg-est-ouverte-estac-7d7ee323.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/troyes-billetterie-pour-estac-strasbourg-est-ouverte-estac-7d7ee323.html",
+    "de": "https://ticketwhistle.com/de/verkauf/troyes-billetterie-pour-estac-strasbourg-est-ouverte-estac-7d7ee323.html"
+   }
+  }
+ ]
+}

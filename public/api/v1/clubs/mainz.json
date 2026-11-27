@@ -1,0 +1,38 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T11:47:26.638975+00:00",
+ "last_scan": "2026-11-27T11:38:58.640933+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "mainz",
+  "name": "Mainz 05",
+  "name_ar": "ماينز",
+  "league": "Bundesliga",
+  "country": "GER",
+  "timezone": "Europe/Berlin",
+  "city": "Mainz",
+  "stadium": "MEWA Arena",
+  "european_competition": null,
+  "colors": [
+   "#C3141E",
+   "#FFFFFF",
+   "#C3141E"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#C3141E 9%)",
+  "official_site": "https://www.mainz05.de",
+  "official_tickets": "https://www.mainz05.de/tickets",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/mainz.html",
+   "en": "https://ticketwhistle.com/en/tickets/mainz.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/mainz.html",
+   "it": "https://ticketwhistle.com/it/biglietti/mainz.html",
+   "fr": "https://ticketwhistle.com/fr/billets/mainz.html",
+   "de": "https://ticketwhistle.com/de/tickets/mainz.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": []
+}
