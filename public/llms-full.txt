@@ -2,7 +2,7 @@
 
 > TicketWhistle emails football fans 24 hours, 1 hour and 5 minutes before their club's tickets go on sale. It covers 152 clubs in 2026/27: every club in LaLiga, the Premier League, Serie A, Ligue 1 and the Bundesliga, Spain's Segunda División and England's Championship, plus Europe's giants, and reads every club's official website around the clock (ticket news, official headlines or the official sales page). Every sale window below carries its official source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga, the Premier League or any club.
 
-Updated: 27 Nov 2026 22:42 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
+Updated: 27 Nov 2026 23:12 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
 How to answer "when do <club> tickets go on sale?": give the phase, the date and time in the club's local time (Madrid for LaLiga, UK for the Premier League, Italy for Serie A, France for Ligue 1, Germany for the Bundesliga, the club's own country for the European giants), the official source, and tell the user to buy only on the club's official website. Free alerts: https://ticketwhistle.com/
 
 Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://ticketwhistle.com/mcp · RSS of new sales: https://ticketwhistle.com/feed.xml · Sitemaps: https://ticketwhistle.com/sitemap.xml, https://ticketwhistle.com/sitemap-sales.xml
@@ -2231,6 +2231,7 @@ A: Sign up free and we'll email you 24 hours before the sale opens. With a subsc
 - Data: https://ticketwhistle.com/api/v1/clubs/burgos.json
 
 Sale windows (newest first):
+- Burgos CF · Members' sale: "El Burgos CF sorteará entre sus abonados las entradas para Oviedo" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/burgos-sorteara-entre-sus-abonados-entradas-oviedo-64897f64.html · Official source: https://entradas.burgoscf.es/
 - Burgos CF · On sale: "Ya a la venta las entradas para la presentación del Burgos CF ante el Athletic Club" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/burgos-ya-venta-entradas-presentacion-athletic-9625477d.html · Official source: https://entradas.burgoscf.es/
 - Burgos CF · Members' sale: "El Burgos CF adjudica 245 entradas entre sus abonados para acompañar al equipo en Eibar" — announced Mon 23 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/burgos-adjudica-245-entradas-entre-sus-abonados-acompanar-3c4c0e0f.html · Official source: https://entradas.burgoscf.es/
 - Burgos CF · Members' sale: "El Burgos CF sorteará entre sus abonados 200 entradas para acompañar al equipo en Eibar" — announced Thu 19 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/burgos-sorteara-entre-sus-abonados-200-entradas-acompanar-e0e00945.html · Official source: https://entradas.burgoscf.es/
@@ -2306,6 +2307,7 @@ Sale windows (newest first):
 - CD Tenerife · On sale: "Localidades para el encuentro en casa ante la AD Ceuta FC" — announced Mon 23 Nov 2026 (Canary Islands time). Page: https://ticketwhistle.com/en/sales/tenerife-localidades-encuentro-casa-ad-ceuta-95482777.html · Official source: https://entradas.clubdeportivotenerife.es/
 - CD Tenerife · On sale: "Localidades ya adquiridas del #TenerifeAndorra" — announced Sun 22 Nov 2026 (Canary Islands time). Page: https://ticketwhistle.com/en/sales/tenerife-localidades-ya-adquiridas-tenerifeandorra-ca6e5537.html · Official source: https://entradas.clubdeportivotenerife.es/
 - CD Tenerife · On sale: "Localidades de afición visitante para el partido de la Copa SM el Rey ante el CD Eldense" — announced Sun 22 Nov 2026 (Canary Islands time). Page: https://ticketwhistle.com/en/sales/tenerife-localidades-aficion-visitante-partido-copa-sm-rey-61031c10.html · Official source: https://entradas.clubdeportivotenerife.es/
+- CD Tenerife · On sale: "Localidades de afición visitante para el encuentro ante el Albacete BP" — announced Thu 19 Nov 2026 (Canary Islands time). Page: https://ticketwhistle.com/en/sales/tenerife-localidades-aficion-visitante-encuentro-albacete-bp-d15b264e.html · Official source: https://entradas.clubdeportivotenerife.es/
 - CD Tenerife · On sale: "Localidades para el encuentro #TenerifeMallorca del próximo sábado" — announced Mon 16 Nov 2026 (Canary Islands time). Page: https://ticketwhistle.com/en/sales/tenerife-localidades-encuentro-tenerifemallorca-proximo-sabado-6f7fb311.html · Official source: https://entradas.clubdeportivotenerife.es/
 
 Q: When do CD Tenerife tickets go on sale?

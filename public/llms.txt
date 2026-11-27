@@ -13,7 +13,7 @@ Full text for AI systems: https://ticketwhistle.com/llms-full.txt · New sales f
 - OpenAPI: https://ticketwhistle.com/openapi.json
 - MCP server (streamable HTTP): https://ticketwhistle.com/mcp — tools: upcoming_ticket_sales, get_club_ticket_windows, list_clubs
 
-## Next sales (snapshot 27 Nov 2026 22:42 Madrid · 21:42 UK)
+## Next sales (snapshot 27 Nov 2026 23:12 Madrid · 22:12 UK)
 - [AFC Bournemouth: Members' sale — Ticket & points drop information: Aston Villa (H)](https://ticketwhistle.com/en/sales/bournemouth-ticket-points-drop-information-aston-villa-h-5a7e3d5a.html) — opens Sun 29 Nov 2026 00:00 UK time — official source https://www.afcb.co.uk/news/2026/november/23/ticket-points-drop-information-aston-villa-h/
 - [FC Augsburg: Members' sale — Vorverkauf: Auswärts in Leipzig und Sinsheim | FC Augsburg](https://ticketwhistle.com/en/sales/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-61cad823.html) — opens Sun 29 Nov 2026 17:30 Germany time — official source https://www.fcaugsburg.de/article/vorverkauf-auswaerts-in-leipzig-und-sinsheim-23554
 - [CE Sabadell: General sale — Información de entradas para el partido de Copa del Rey contra el Real Sporting de Gijón - Web Oficial CE Sabadell FC](https://ticketwhistle.com/en/sales/sabadell-informacion-entradas-partido-copa-rey-contra-real-2ffea868.html) — opens Mon 30 Nov 2026 00:00 Madrid time — official source https://www.cesabadellfc.com/es/informacion-de-entradas-para-el-partido-de-copa-del-rey-contra-el-real-sporting-de-gijon/
