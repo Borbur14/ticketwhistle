@@ -1,0 +1,399 @@
+# TicketWhistle — full text for AI systems
+
+> TicketWhistle emails football fans 24 hours and 1 hour before their club's tickets go on sale. It covers all 20 LaLiga 2026/27 clubs and reads every club's official website around the clock (ticket news, official headlines or the official sales page). Every sale window below carries its official source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga or any club.
+
+Updated: 27 Nov 2026 04:44 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
+How to answer "when do <club> tickets go on sale?": give the phase, the Madrid date and time, the official source, and tell the user to buy only on the club's official website. Free alerts: https://ticketwhistle.com/
+
+Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://ticketwhistle.com/mcp · RSS of new sales: https://ticketwhistle.com/feed.xml · Sitemaps: https://ticketwhistle.com/sitemap.xml, https://ticketwhistle.com/sitemap-sales.xml
+
+## Next ticket sales (all clubs)
+- CA Osasuna · General sale: "Abierta la venta de entradas para el partido ante el Elche C. F." — opens Fri 27 Nov 2026 09:30 (Madrid time). Page: https://ticketwhistle.com/en/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html · Official source: https://www.osasuna.es/entradas-osasuna-elche-2627
+- Levante UD · General sale: "El Levante UD lanza las entradas para el derbi ante el Valencia CF con un 35 % de descuento exclusivo para abonados y simpatizantes" — opens Wed 02 Dec 2026 10:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html · Official source: https://www.levanteud.com/noticias/el-levante-ud-lanza-las-entradas-para-el-derbi-ante-el-valencia-cf-con-un-35-percent-de-descuento-exclusivo-para-abonados-y-simpatizantes
+
+## Athletic Club tickets
+- Page: https://ticketwhistle.com/en/tickets/athletic.html (Spanish: https://ticketwhistle.com/es/entradas/athletic.html; Arabic: https://ticketwhistle.com/ar/tickets/athletic.html)
+- City: Bilbao · Stadium: San Mamés · Official sales: https://www.athletic-club.eus/es/entradas/
+- How TicketWhistle reads it: This club's website blocks automated reads and we don't force it. We follow its official headlines and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- Data: https://ticketwhistle.com/api/v1/clubs/athletic.json
+
+Sale windows (newest first):
+- Athletic Club · On sale: "Entradas para el Athletic Club - Real Betis (J17-LaLiga)" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/athletic-entradas-real-betis-j17-laliga-621fed2d.html · Official source: https://www.athletic-club.eus/es/entradas/
+- Athletic Club · On sale: "Entradas para el CD Numancia-Athletic Club" — announced Tue 24 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/athletic-entradas-cd-numancia-8d1cdeab.html · Official source: https://www.athletic-club.eus/es/entradas/
+- Athletic Club · Registration: "Inscripción en Entradas de niño/a para el partido vs Real Madrid" — announced Mon 23 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html · Official source: https://www.athletic-club.eus/es/entradas/
+- Athletic Club · On sale: "Entradas para el Málaga CF-Athletic Club" — announced Wed 18 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/athletic-entradas-malaga-80ce0526.html · Official source: https://www.athletic-club.eus/es/entradas/
+- Athletic Club · On sale: "Venta de entradas para el Athletic Club - Real Madrid (J15 - LaLiga)" — announced Mon 16 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/athletic-venta-entradas-real-madrid-j15-laliga-19c32f20.html · Official source: https://www.athletic-club.eus/es/entradas/
+- Athletic Club · Accessible seats: "El Athletic Club habilita la compra online de entradas para PMR" — announced Tue 10 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/athletic-habilita-compra-online-entradas-pmr-88c7dee4.html · Official source: https://www.athletic-club.eus/es/entradas/
+
+Q: When do Athletic Club tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Athletic Club tickets?
+A: Only on the club's official sales website: athletic-club.eus. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Atlético de Madrid tickets
+- Page: https://ticketwhistle.com/en/tickets/atletico.html (Spanish: https://ticketwhistle.com/es/entradas/atletico.html; Arabic: https://ticketwhistle.com/ar/tickets/atletico.html)
+- City: Madrid · Stadium: Riyadh Air Metropolitano · Official sales: https://www.atleticodemadrid.com/entradas
+- How TicketWhistle reads it: This club's website blocks automated reads and we don't force it. We follow its official headlines and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- Data: https://ticketwhistle.com/api/v1/clubs/atletico.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do Atlético de Madrid tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Atlético de Madrid tickets?
+A: Only on the club's official sales website: atleticodemadrid.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## CA Osasuna tickets
+- Page: https://ticketwhistle.com/en/tickets/osasuna.html (Spanish: https://ticketwhistle.com/es/entradas/osasuna.html; Arabic: https://ticketwhistle.com/ar/tickets/osasuna.html)
+- City: Pamplona · Stadium: El Sadar · Official sales: https://entradas.osasuna.es/
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/osasuna.json
+
+Sale windows (newest first):
+- CA Osasuna · General sale: "Abierta la venta de entradas para el partido ante el Elche C. F." — opens Fri 27 Nov 2026 09:30 (Madrid time). Page: https://ticketwhistle.com/en/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html · Official source: https://www.osasuna.es/entradas-osasuna-elche-2627
+- CA Osasuna · Members' sale: "A la venta las entradas para el encuentro en Mestalla ante el Valencia C. F." — opened Mon 23 Nov 2026 09:30 (Madrid time). Page: https://ticketwhistle.com/en/sales/osasuna-venta-entradas-encuentro-mestalla-valencia-c-f-f481b784.html · Official source: https://www.osasuna.es/el-lunes-se-ponen-a-la-venta-las-entradas-para-el-encuentro-en-mestalla-ante-el-valencia-c-f
+- CA Osasuna · General sale: "A la venta las entradas para el partido ante el Málaga C. F." — opened Fri 13 Nov 2026 09:30 (Madrid time). Page: https://ticketwhistle.com/en/sales/osasuna-venta-entradas-partido-malaga-c-f-c9049361.html · Official source: https://www.osasuna.es/el-lunes-se-ponen-a-la-venta-las-entradas-para-el-partido-ante-el-malaga-c-f
+
+Q: When do CA Osasuna tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy CA Osasuna tickets?
+A: Only on the club's official sales website: entradas.osasuna.es. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Deportivo Alavés tickets
+- Page: https://ticketwhistle.com/en/tickets/alaves.html (Spanish: https://ticketwhistle.com/es/entradas/alaves.html; Arabic: https://ticketwhistle.com/ar/tickets/alaves.html)
+- City: Vitoria-Gasteiz · Stadium: Mendizorroza · Official sales: https://entradas.deportivoalaves.com/b2c/ticketSale/matches
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/alaves.json
+
+Sale windows (newest first):
+- Deportivo Alavés · Ballot / application: "Solicitud Entradas Real Oviedo vs Deportivo Alavés" — opened Fri 08 May 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-real-oviedo-deportivo-1fdc8a28.html · Official source: https://deportivoalaves.com:443/es/solicitud-entradas-oviedo-alaves
+- Deportivo Alavés · Members' sale: "Solicitud Entradas Valencia CF vs Deportivo Alavés" — opened Mon 02 Mar 2026 20:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-valencia-deportivo-a1559f7d.html · Official source: https://deportivoalaves.com:443/es/solicitud-entradas-valencia-alaves
+- Deportivo Alavés · Ballot / application: "Solicitud Entradas Valencia CF vs Deportivo Alavés" — opened Thu 26 Feb 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-valencia-deportivo-079e1e63.html · Official source: https://deportivoalaves.com:443/es/solicitud-entradas-valencia-alaves
+- Deportivo Alavés · Members' sale: "Solicitud Entradas Villarreal CF vs Deportivo Alavés" — opened Mon 05 Jan 2026 16:30 (Madrid time). Page: https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-villarreal-deportivo-1adbf96e.html · Official source: https://deportivoalaves.com:443/es/solicitud-entradas-villarreal-alaves
+- Deportivo Alavés · Ballot / application: "Solicitud Entradas Villarreal CF vs Deportivo Alavés" — opened Mon 05 Jan 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-villarreal-deportivo-02b1368f.html · Official source: https://deportivoalaves.com:443/es/solicitud-entradas-villarreal-alaves
+- Deportivo Alavés · Ballot / application: "Solicitud Entradas Portugalete vs Deportivo Alavés" — opened Thu 27 Nov 2025 (Madrid time). Page: https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-portugalete-deportivo-e57a0249.html · Official source: https://deportivoalaves.com:443/es/solicitud-entradas-portu-alaves
+- Deportivo Alavés · Members' sale: "Solicitud Entradas Portugalete vs Deportivo Alavés" — opened Thu 27 Nov 2025 (Madrid time). Page: https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-portugalete-deportivo-985e1621.html · Official source: https://deportivoalaves.com:443/es/solicitud-entradas-portu-alaves
+- Deportivo Alavés · Members' sale: "Solicitud Entradas Portugalete vs Deportivo Alavés" — opened Mon 24 Nov 2025 (Madrid time). Page: https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-portugalete-deportivo-e4885021.html · Official source: https://deportivoalaves.com:443/es/solicitud-entradas-portu-alaves
+
+Q: When do Deportivo Alavés tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Deportivo Alavés tickets?
+A: Only on the club's official sales website: entradas.deportivoalaves.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Elche CF tickets
+- Page: https://ticketwhistle.com/en/tickets/elche.html (Spanish: https://ticketwhistle.com/es/entradas/elche.html; Arabic: https://ticketwhistle.com/ar/tickets/elche.html)
+- City: Elche · Stadium: Martínez Valero · Official sales: https://www.elchecf.es/entradas
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/elche.json
+
+Sale windows (newest first):
+- Elche CF · Members' sale: "CA Osasuna-Elche CF: información de entradas para el próximo partido en El Sadar" — opened Thu 26 Nov 2026 16:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/elche-osasuna-informacion-entradas-proximo-partido-sadar-56054e1d.html · Official source: https://www.elchecf.es/noticias/ca-osasuna-elche-cf-informacion-de-entradas-para-el-proximo-partido-en-el-sadar
+- Elche CF · Ballot / application: "CA Osasuna-Elche CF: información de entradas para el próximo partido en El Sadar" — opened Thu 26 Nov 2026 16:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/elche-osasuna-informacion-entradas-proximo-partido-sadar-4f8e8058.html · Official source: https://www.elchecf.es/noticias/ca-osasuna-elche-cf-informacion-de-entradas-para-el-proximo-partido-en-el-sadar
+- Elche CF · Ballot / application: "FC Cartagena-Elche CF: información de entradas para la segunda eliminatoria de la Copa del Rey" — opened Tue 24 Nov 2026 17:30 (Madrid time). Page: https://ticketwhistle.com/en/sales/elche-cartagena-informacion-entradas-segunda-eliminatoria-copa-rey-667a62e0.html · Official source: https://www.elchecf.es/noticias/fc-cartagena-elche-cf-informacion-de-entradas-para-la-segunda-eliminatoria-de-la-copa-del-rey
+- Elche CF · On sale: "Elche CF–Atlético de Madrid y Elche CF–Sevilla FC: Información de entradas para los próximos partidos en el Martínez Valero" — announced Mon 16 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/elche-cfatletico-madrid-cfsevilla-informacion-entradas-proximos-partidos-ec2f5e83.html · Official source: https://www.elchecf.es/entradas
+
+Q: When do Elche CF tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Elche CF tickets?
+A: Only on the club's official sales website: elchecf.es. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## FC Barcelona tickets
+- Page: https://ticketwhistle.com/en/tickets/barcelona.html (Spanish: https://ticketwhistle.com/es/entradas/barcelona.html; Arabic: https://ticketwhistle.com/ar/tickets/barcelona.html)
+- City: Barcelona · Stadium: Spotify Camp Nou · Official sales: https://www.fcbarcelona.es/es/entradas
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/barcelona.json
+
+Sale windows (newest first):
+- FC Barcelona · General sale: "FC Barcelona v Atletico Madrid · La Liga · Wed 02 Dec 21:30" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/barcelona-atletico-madrid-liga-wed-02-dec-21-5d4266a7.html · Official source: https://www.fcbarcelona.com/en/tickets/football/regular/champions-league
+- FC Barcelona · General sale: "FC Barcelona v Celta De Vigo · La Liga · Sat 05 Dec 21:00" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/barcelona-celta-vigo-liga-sat-05-dec-21-f2a8bff9.html · Official source: https://www.fcbarcelona.com/en/tickets/football/regular/champions-league
+- FC Barcelona · General sale: "FC Barcelona v Manchester City · UEFA Champions League · Tue 08 Dec 21:00" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/barcelona-manchester-city-uefa-champions-league-tue-08-e9e4b177.html · Official source: https://www.fcbarcelona.com/en/tickets/football/regular/champions-league
+- FC Barcelona · General sale: "FC Barcelona v Real Sociedad · La Liga · Sun 20 Dec" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/barcelona-real-sociedad-liga-sun-20-dec-3815122f.html · Official source: https://www.fcbarcelona.com/en/tickets/football/regular/champions-league
+- FC Barcelona · General sale: "FC Barcelona v Elche · La Liga · Sun 17 Jan" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/barcelona-elche-liga-sun-17-jan-ff725e77.html · Official source: https://www.fcbarcelona.com/en/tickets/football/regular/champions-league
+- FC Barcelona · General sale: "FC Barcelona v Como 1907 · UEFA Champions League · Wed 27 Jan 21:00" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/barcelona-como-1907-uefa-champions-league-wed-27-273472f8.html · Official source: https://www.fcbarcelona.com/en/tickets/football/regular/champions-league
+- FC Barcelona · General sale: "FC Barcelona v Valencia Cf · La Liga · Sun 31 Jan" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/barcelona-valencia-liga-sun-31-jan-ac187d56.html · Official source: https://www.fcbarcelona.com/en/tickets/football/regular/champions-league
+- FC Barcelona · General sale: "FC Barcelona v Levante · La Liga · Sun 21 Feb" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/barcelona-levante-liga-sun-21-feb-a46c8dd5.html · Official source: https://www.fcbarcelona.com/en/tickets/football/regular/champions-league
+- FC Barcelona · General sale: "FC Barcelona v Real Betis · La Liga · Sun 07 Mar" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/barcelona-real-betis-liga-sun-07-mar-2d39cbec.html · Official source: https://www.fcbarcelona.com/en/tickets/football/regular/champions-league
+- FC Barcelona · General sale: "FC Barcelona v Deportivo De La Coruna · La Liga · Sun 14 Mar" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/barcelona-deportivo-coruna-liga-sun-14-mar-0e959028.html · Official source: https://www.fcbarcelona.com/en/tickets/football/regular/champions-league
+- FC Barcelona · General sale: "FC Barcelona v Sevilla · La Liga · Sun 04 Apr" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/barcelona-sevilla-liga-sun-04-apr-203c1c61.html · Official source: https://www.fcbarcelona.com/en/tickets/football/regular/champions-league
+- FC Barcelona · General sale: "FC Barcelona v Espanyol · La Liga · Sun 18 Apr" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/barcelona-espanyol-liga-sun-18-apr-612bfa08.html · Official source: https://www.fcbarcelona.com/en/tickets/football/regular/champions-league
+
+Q: When do FC Barcelona tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy FC Barcelona tickets?
+A: Only on the club's official sales website: fcbarcelona.es. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Getafe CF tickets
+- Page: https://ticketwhistle.com/en/tickets/getafe.html (Spanish: https://ticketwhistle.com/es/entradas/getafe.html; Arabic: https://ticketwhistle.com/ar/tickets/getafe.html)
+- City: Getafe · Stadium: Coliseum · Official sales: https://www.getafecf.com/entradas
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/getafe.json
+
+Sale windows (newest first):
+- Getafe CF · On sale: "Entradas a la venta para el encuentro frente al RCD Espanyol" — announced Mon 23 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/getafe-entradas-venta-encuentro-frente-espanyol-e93bce5d.html · Official source: https://www.getafecf.com/entradas
+
+Q: When do Getafe CF tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Getafe CF tickets?
+A: Only on the club's official sales website: getafecf.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Levante UD tickets
+- Page: https://ticketwhistle.com/en/tickets/levante.html (Spanish: https://ticketwhistle.com/es/entradas/levante.html; Arabic: https://ticketwhistle.com/ar/tickets/levante.html)
+- City: Valencia · Stadium: Ciutat de València · Official sales: https://www.levanteud.com/entradas
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/levante.json
+
+Sale windows (newest first):
+- Levante UD · General sale: "El Levante UD lanza las entradas para el derbi ante el Valencia CF con un 35 % de descuento exclusivo para abonados y simpatizantes" — opens Wed 02 Dec 2026 10:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html · Official source: https://www.levanteud.com/noticias/el-levante-ud-lanza-las-entradas-para-el-derbi-ante-el-valencia-cf-con-un-35-percent-de-descuento-exclusivo-para-abonados-y-simpatizantes
+- Levante UD · Members' sale: "El Levante UD lanza las entradas para el derbi ante el Valencia CF con un 35 % de descuento exclusivo para abonados y simpatizantes" — opened Wed 25 Nov 2026 10:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html · Official source: https://www.levanteud.com/noticias/el-levante-ud-lanza-las-entradas-para-el-derbi-ante-el-valencia-cf-con-un-35-percent-de-descuento-exclusivo-para-abonados-y-simpatizantes
+- Levante UD · On sale: "A la venta las entradas para el Levante UD-Real Madrid" — announced Fri 20 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/levante-venta-entradas-real-madrid-0ddaf040.html · Official source: https://www.levanteud.com/entradas
+- Levante UD · On sale: "Continúan a la venta las entradas para el partido ante el Real Madrid" — announced Mon 09 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/levante-continuan-venta-entradas-partido-real-madrid-4ff9d435.html · Official source: https://www.levanteud.com/entradas
+
+Q: When do Levante UD tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Levante UD tickets?
+A: Only on the club's official sales website: levanteud.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Málaga CF tickets
+- Page: https://ticketwhistle.com/en/tickets/malaga.html (Spanish: https://ticketwhistle.com/es/entradas/malaga.html; Arabic: https://ticketwhistle.com/ar/tickets/malaga.html)
+- City: Málaga · Stadium: La Rosaleda · Official sales: https://www.malagacf.com/entradas
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/malaga.json
+
+Sale windows (newest first):
+- Málaga CF · On sale: "Ya son 1.874 las entradas vendidas para el Málaga-Real Madrid" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/malaga-ya-son-1-874-entradas-vendidas-real-c91a6995.html · Official source: https://www.malagacf.com/entradas
+- Málaga CF · Ballot / application: "Sorteo de compra de entradas para el Santiago Bernabéu" — announced Mon 16 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/malaga-sorteo-compra-entradas-santiago-bernabeu-c2e9fb4f.html · Official source: https://www.malagacf.com/entradas
+- Málaga CF · On sale: "Información de venta de entradas para la primera eliminatoria del play-off en La Rosaleda" — announced Thu 12 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/malaga-informacion-venta-entradas-primera-eliminatoria-play-off-ef8158dd.html · Official source: https://www.malagacf.com/entradas
+
+Q: When do Málaga CF tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Málaga CF tickets?
+A: Only on the club's official sales website: malagacf.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## RC Celta tickets
+- Page: https://ticketwhistle.com/en/tickets/celta.html (Spanish: https://ticketwhistle.com/es/entradas/celta.html; Arabic: https://ticketwhistle.com/ar/tickets/celta.html)
+- City: Vigo · Stadium: Balaídos · Official sales: https://rccelta.es/entradas/
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/celta.json
+
+Sale windows (newest first):
+- RC Celta · On sale: "A la venta las entradas para el partido de Copa del Rey ante el Arosa SC" — announced Wed 25 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html · Official source: https://rccelta.es/entradas/
+- RC Celta · Ballot / application: "El Celta abre el proceso de solicitud de entradas para el partido ante el Marsella" — announced Mon 23 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html · Official source: https://rccelta.es/entradas/
+- RC Celta · Ballot / application: "Xa dispoñibles as entradas para apoiar o Celta no Camp Nou | Celta" — opened Mon 23 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html · Official source: https://rccelta.es/gl/club/actualidad/entradas-barcelona-celta-camp-nou/
+- RC Celta · Ballot / application: "Ya disponibles las entradas para apoyar al Celta en el Camp Nou | Celta" — opened Mon 23 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html · Official source: https://rccelta.es/club/actualidad/entradas-barcelona-celta-camp-nou/
+- RC Celta · On sale: "Celta Fortuna - Real Valladolid | Disponibles las entradas de una cita ineludible en casa para empujar a los canteranos" — announced Tue 10 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/celta-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-a9a116ea.html · Official source: https://rccelta.es/entradas/
+- RC Celta · On sale: "La última noche europea de 2026 en Abanca Balaídos ya tiene entradas | Celta - Bournemouth" — announced Tue 10 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/celta-ultima-noche-europea-2026-abanca-balaidos-ya-47a174af.html · Official source: https://rccelta.es/entradas/
+- RC Celta · On sale: "Entradas a la venta para el Celta – Villarreal CF" — announced Sat 07 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/celta-entradas-venta-villarreal-063fd3bc.html · Official source: https://rccelta.es/entradas/
+
+Q: When do RC Celta tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy RC Celta tickets?
+A: Only on the club's official sales website: rccelta.es. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## RC Deportivo tickets
+- Page: https://ticketwhistle.com/en/tickets/deportivo.html (Spanish: https://ticketwhistle.com/es/entradas/deportivo.html; Arabic: https://ticketwhistle.com/ar/tickets/deportivo.html)
+- City: A Coruña · Stadium: Riazor · Official sales: https://ticketing.rcdeportivo.es/
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/deportivo.json
+
+Sale windows (newest first):
+- RC Deportivo · Ballot / application: "Abierto el plazo de solicitud de entradas para el partido ante el Deportivo Alavés del sábado 21 de noviembre a las 14:00 en el Estadio de Mendizorroz" — announced Thu 12 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/deportivo-abierto-plazo-solicitud-entradas-partido-alaves-sabado-9637eea9.html · Official source: https://ticketing.rcdeportivo.es/
+- RC Deportivo · Ballot / application: "Abierto el plazo de solicitud de entradas para el partido ante el RCD Espanyol del sábado 7 de noviembre a las 16:15 en el RCDE Stadium" — announced Sat 07 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/deportivo-abierto-plazo-solicitud-entradas-partido-espanyol-sabado-11964df9.html · Official source: https://ticketing.rcdeportivo.es/
+
+Q: When do RC Deportivo tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy RC Deportivo tickets?
+A: Only on the club's official sales website: ticketing.rcdeportivo.es. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## RCD Espanyol tickets
+- Page: https://ticketwhistle.com/en/tickets/espanyol.html (Spanish: https://ticketwhistle.com/es/entradas/espanyol.html; Arabic: https://ticketwhistle.com/ar/tickets/espanyol.html)
+- City: Cornellà-El Prat · Stadium: RCDE Stadium · Official sales: https://tickets.rcdespanyol.com/index.php/es/entradas-es
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/espanyol.json
+
+Sale windows (newest first):
+- RCD Espanyol · Members' sale: "Entradas para el Deportivo Alavés - RCD Espanyol" — opened Tue 24 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/espanyol-entradas-deportivo-alaves-2ca106db.html · Official source: https://www.rcdespanyol.com/es/noticia/entradas-para-el-deportivo-alaves-rcd-espanyol/21077
+- RCD Espanyol · On sale: "Entradas para el Athletic Club-RCD Espanyol" — announced Mon 09 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/espanyol-entradas-athletic-ff89ffa4.html · Official source: https://tickets.rcdespanyol.com/index.php/es/entradas-es
+
+Q: When do RCD Espanyol tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy RCD Espanyol tickets?
+A: Only on the club's official sales website: tickets.rcdespanyol.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Rayo Vallecano tickets
+- Page: https://ticketwhistle.com/en/tickets/rayo.html (Spanish: https://ticketwhistle.com/es/entradas/rayo.html; Arabic: https://ticketwhistle.com/ar/tickets/rayo.html)
+- City: Madrid · Stadium: Estadio de Vallecas · Official sales: https://www.rayovallecano.es/entradas
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/rayo.json
+
+Sale windows (newest first):
+- Rayo Vallecano · On sale: "Entradas para el CE Europa" — announced Wed 25 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/rayo-entradas-ce-europa-3dd80d87.html · Official source: https://www.rayovallecano.es/entradas
+- Rayo Vallecano · On sale: "Entradas para el Rayo Vallecano - Valencia CF" — announced Wed 18 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/rayo-entradas-vallecano-valencia-663c944a.html · Official source: https://www.rayovallecano.es/entradas
+- Rayo Vallecano · On sale: "Información de las entradas para el Real Betis" — announced Mon 16 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/rayo-informacion-entradas-real-betis-bc713dfc.html · Official source: https://www.rayovallecano.es/entradas
+- Rayo Vallecano · On sale: "Información de las entradas para el Real Sociedad" — announced Sun 08 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/rayo-informacion-entradas-real-sociedad-eb1ced1a.html · Official source: https://www.rayovallecano.es/entradas
+
+Q: When do Rayo Vallecano tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Rayo Vallecano tickets?
+A: Only on the club's official sales website: rayovallecano.es. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Real Betis tickets
+- Page: https://ticketwhistle.com/en/tickets/betis.html (Spanish: https://ticketwhistle.com/es/entradas/betis.html; Arabic: https://ticketwhistle.com/ar/tickets/betis.html)
+- City: Sevilla · Official sales: https://www.realbetisbalompie.es/entradas
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/betis.json
+
+Sale windows (newest first):
+- Real Betis · Ballot / application: "Abierto el proceso de solicitud de entradas para el CD Extremadura - Real Betis - Real Betis Balompié" — opened Wed 25 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/betis-abierto-proceso-solicitud-entradas-cd-extremadura-real-3ba75c13.html · Official source: https://www.realbetisbalompie.es/noticias/noticias/abierto-el-proceso-de-solicitud-de-entradas-para-el-cd-extremadura-real-betis-32886
+- Real Betis · Ballot / application: "Abierto el proceso de solicitud de entradas del Atlético de Madrid - Real Betis - Real Betis Balompié" — opened Mon 23 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/betis-abierto-proceso-solicitud-entradas-atletico-madrid-real-e0eef01c.html · Official source: https://www.realbetisbalompie.es/noticias/noticias/abierto-el-proceso-de-solicitud-de-entradas-del-atletico-de-madrid-real-betis-32880
+- Real Betis · Ballot / application: "Abierto el plazo de solicitud de entradas para el SD Huesca-Real Betis - Real Betis Balompié" — announced Sun 15 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/betis-abierto-plazo-solicitud-entradas-huesca-real-real-7ed46d90.html · Official source: https://www.realbetisbalompie.es/entradas
+- Real Betis · On sale: "Abierto el proceso de entradas para el Slovan Bratislava - Real Betis - Real Betis Balompié" — announced Fri 13 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/betis-abierto-proceso-entradas-slovan-bratislava-real-real-0921b926.html · Official source: https://www.realbetisbalompie.es/entradas
+- Real Betis · On sale: "Abierto el proceso de entradas para #ElGranDerbi - Real Betis Balompié" — announced Tue 10 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/betis-abierto-proceso-entradas-elgranderbi-real-balompie-42639128.html · Official source: https://www.realbetisbalompie.es/entradas
+- Real Betis · Ballot / application: "Abierto el plazo de solicitud de entradas para el Athletic Club-Real Betis" — announced Fri 06 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/betis-abierto-plazo-solicitud-entradas-athletic-real-911d48da.html · Official source: https://www.realbetisbalompie.es/entradas
+
+Q: When do Real Betis tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Real Betis tickets?
+A: Only on the club's official sales website: realbetisbalompie.es. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Real Madrid tickets
+- Page: https://ticketwhistle.com/en/tickets/real-madrid.html (Spanish: https://ticketwhistle.com/es/entradas/real-madrid.html; Arabic: https://ticketwhistle.com/ar/tickets/real-madrid.html)
+- City: Madrid · Stadium: Santiago Bernabéu · Official sales: https://www.realmadrid.com/es-ES/entradas
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/real-madrid.json
+
+Sale windows (newest first):
+- Real Madrid · Ballot / application: "¡Participa en nuestro sorteo de entradas de diciembre para Socios y Madridistas!" — announced Thu 19 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/real-madrid-participa-nuestro-sorteo-entradas-diciembre-socios-madridistas-4b718980.html · Official source: https://www.realmadrid.com/es-ES/entradas
+- Real Madrid · Members' sale: "Real Madrid CF | Web oficial del Real Madrid CF" — opened Tue 10 Nov 2026 12:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/real-madrid-web-oficial-7e7f955d.html · Official source: https://www.realmadrid.com/es-ES/entradas
+- Real Madrid · Members' sale: "Real Madrid CF | Web oficial del Real Madrid CF" — opened Fri 06 Nov 2026 12:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/real-madrid-web-oficial-a8b57ce5.html · Official source: https://www.realmadrid.com/es-ES/entradas
+- Real Madrid · General sale: "Real Madrid CF | Web oficial del Real Madrid CF" — opened Tue 20 Oct 2026 15:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/real-madrid-web-oficial-cb59ae9d.html · Official source: https://www.realmadrid.com/es-ES/entradas
+- Real Madrid · Members' sale: "Real Madrid CF | Web oficial del Real Madrid CF" — opened Tue 20 Oct 2026 12:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/real-madrid-web-oficial-84fac0db.html · Official source: https://www.realmadrid.com/es-ES/entradas
+- Real Madrid · Members' sale: "Real Madrid CF | Web oficial del Real Madrid CF" — opened Mon 19 Oct 2026 12:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/real-madrid-web-oficial-3ec00ae8.html · Official source: https://www.realmadrid.com/es-ES/entradas
+
+Q: When do Real Madrid tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Real Madrid tickets?
+A: Only on the club's official sales website: realmadrid.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Real Racing Club tickets
+- Page: https://ticketwhistle.com/en/tickets/racing.html (Spanish: https://ticketwhistle.com/es/entradas/racing.html; Arabic: https://ticketwhistle.com/ar/tickets/racing.html)
+- City: Santander · Stadium: El Sardinero · Official sales: https://taquilla.realracingclub.es/
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/racing.json
+
+Sale windows (newest first):
+- Real Racing Club · On sale: "El Levante UD envía 405 entradas del Ciutat de Valencia para la afición racinguista" — announced Sat 21 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html · Official source: https://taquilla.realracingclub.es/
+- Real Racing Club · On sale: "Las entradas para el Racing- Real Sociedad, disponibles online y en las taquillas" — announced Wed 18 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa.html · Official source: https://taquilla.realracingclub.es/
+- Real Racing Club · On sale: "Venta anticipada de entradas para la visita de la Real Sociedad a los Campos de Sport" — announced Fri 13 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933.html · Official source: https://taquilla.realracingclub.es/
+- Real Racing Club · On sale: "Proceso de venta de entradas para los partidos del Racing" — announced Thu 12 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/racing-proceso-venta-entradas-partidos-e4ace55d.html · Official source: https://taquilla.realracingclub.es/
+
+Q: When do Real Racing Club tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Real Racing Club tickets?
+A: Only on the club's official sales website: taquilla.realracingclub.es. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Real Sociedad tickets
+- Page: https://ticketwhistle.com/en/tickets/real-sociedad.html (Spanish: https://ticketwhistle.com/es/entradas/real-sociedad.html; Arabic: https://ticketwhistle.com/ar/tickets/real-sociedad.html)
+- City: San Sebastián · Stadium: Anoeta · Official sales: https://ticketing.realsociedad.eus/
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/real-sociedad.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do Real Sociedad tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Real Sociedad tickets?
+A: Only on the club's official sales website: ticketing.realsociedad.eus. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Sevilla FC tickets
+- Page: https://ticketwhistle.com/en/tickets/sevilla.html (Spanish: https://ticketwhistle.com/es/entradas/sevilla.html; Arabic: https://ticketwhistle.com/ar/tickets/sevilla.html)
+- City: Sevilla · Stadium: Ramón Sánchez-Pizjuán · Official sales: https://sevillafc.es/entradas
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/sevilla.json
+
+Sale windows (newest first):
+- Sevilla FC · Members' sale: "Las entradas de visitante para el Elche CF-Sevilla FC, disponibles a 30 euros para los socios" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/sevilla-entradas-visitante-elche-disponibles-30-euros-socios-d8a411b7.html · Official source: https://sevillafc.es/entradas
+- Sevilla FC · Registration: "Disponible la inscripción para las entradas para la Copa del Rey ante el Atlético paso" — announced Wed 25 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/sevilla-disponible-inscripcion-entradas-copa-rey-atletico-paso-577d61db.html · Official source: https://sevillafc.es/entradas
+- Sevilla FC · On sale: "El Sevilla FC consigue ampliar el número de entradas para san sebastián a 570" — announced Mon 16 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/sevilla-consigue-ampliar-numero-entradas-san-sebastian-570-82513f01.html · Official source: https://sevillafc.es/entradas
+- Sevilla FC · Members' sale: "La alta demanda para el derbi obligará a sortear el cupo de localidades para socios menores de 5 años" — announced Mon 16 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/sevilla-alta-demanda-derbi-obligara-sortear-cupo-localidades-764c78aa.html · Official source: https://sevillafc.es/entradas
+- Sevilla FC · Registration: "Abiertas las inscripciones para las entradas visitantes del Real Sociedad-sevilla" — announced Mon 16 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/sevilla-abiertas-inscripciones-entradas-visitantes-real-sociedad-1efeeb24.html · Official source: https://sevillafc.es/entradas
+
+Q: When do Sevilla FC tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Sevilla FC tickets?
+A: Only on the club's official sales website: sevillafc.es. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Valencia CF tickets
+- Page: https://ticketwhistle.com/en/tickets/valencia.html (Spanish: https://ticketwhistle.com/es/entradas/valencia.html; Arabic: https://ticketwhistle.com/ar/tickets/valencia.html)
+- City: Valencia · Stadium: Mestalla · Official sales: https://www.valenciacf.com/entradas
+- How TicketWhistle reads it: This club doesn't publish ticket news per match: it puts each match straight on its sales page. We read it every 30 minutes and alert you as soon as one appears.
+- Data: https://ticketwhistle.com/api/v1/clubs/valencia.json
+
+Sale windows (newest first):
+- Valencia CF · On sale: "Valencia CF – CA Osasuna" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/valencia-osasuna-0b3bc67a.html · Official source: https://www.valenciacf.com/entradas
+- Valencia CF · On sale: "Valencia CF – RCD Espanyol" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/valencia-espanyol-f15e69fe.html · Official source: https://www.valenciacf.com/entradas
+- Valencia CF · On sale: "Valencia CF – Málaga CF" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/valencia-malaga-c53a432d.html · Official source: https://www.valenciacf.com/entradas
+
+Q: When do Valencia CF tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Valencia CF tickets?
+A: Only on the club's official sales website: valenciacf.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Villarreal tickets
+- Page: https://ticketwhistle.com/en/tickets/villarreal.html (Spanish: https://ticketwhistle.com/es/entradas/villarreal.html; Arabic: https://ticketwhistle.com/ar/tickets/villarreal.html)
+- City: Vila-real · Stadium: Estadio de la Cerámica · Official sales: https://villarrealcf.es/es/venta-de-entradas/
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/villarreal.json
+
+Sale windows (newest first):
+- Villarreal · On sale: "Venta de entradas visitantes para el Sestao River" — announced Thu 26 Nov 2026 (Madrid time). Page: https://ticketwhistle.com/en/sales/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html · Official source: https://villarrealcf.es/es/venta-de-entradas/
+
+Q: When do Villarreal tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Villarreal tickets?
+A: Only on the club's official sales website: villarrealcf.es. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Product and company
+- Free for the first 2 matches, then EUR 9.99 a year including VAT, renews yearly, cancel any time. Alerts in Spanish, English and Arabic, in the fan's own time zone.
+- Run by Ithela FZ LLC (Fujairah, UAE). Contact: hola@ticketwhistle.com. Terms: https://ticketwhistle.com/en/legal/terms.html · Privacy: https://ticketwhistle.com/en/legal/privacy.html
