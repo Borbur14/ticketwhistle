@@ -1,82 +1,82 @@
 {
- "athletic": [
-  "https://www.athletic-club.eus 403",
-  "gnews 200"
- ],
  "atletico": [
   "https://www.atleticodemadrid.com 403",
   "gnews 200"
  ],
- "espanyol": [
-  "https://www.rcdespanyol.com/es/noticias 200",
-  "gnews 200"
- ],
- "levante": [
-  "https://www.levanteud.com/noticias 200",
-  "gnews 200"
- ],
- "real-madrid": [
-  "https://www.realmadrid.com/es-ES/entradas 200",
-  "gnews 200"
- ],
- "betis": [
-  "https://www.realbetisbalompie.es/noticias 200",
-  "gnews 200"
- ],
- "elche": [
-  "https://www.elchecf.es/noticias 200",
-  "gnews 200"
- ],
- "villarreal": [
-  "https://villarrealcf.es/sitemap.xml 200",
+ "athletic": [
+  "https://www.athletic-club.eus 403",
   "gnews 200"
  ],
  "barcelona": [
   "https://www.fcbarcelona.com/en/tickets/football/regular/champions-league 200",
   "gnews 200"
  ],
- "real-sociedad": [
-  "https://www.realsociedad.eus/es/noticias 200",
-  "gnews 200"
- ],
- "alaves": [
-  "https://www.deportivoalaves.com/sitemap-deportivo-alaves.xml 200",
+ "real-madrid": [
+  "https://www.realmadrid.com/es-ES/entradas 200",
   "gnews 200"
  ],
  "getafe": [
   "https://www.getafecf.com/noticias 200",
   "gnews 200"
  ],
+ "levante": [
+  "https://www.levanteud.com/noticias 200",
+  "gnews 200"
+ ],
+ "espanyol": [
+  "https://www.rcdespanyol.com/es/noticias 200",
+  "gnews 200"
+ ],
+ "villarreal": [
+  "https://villarrealcf.es/sitemap.xml 200",
+  "gnews 200"
+ ],
+ "elche": [
+  "https://www.elchecf.es/noticias 200",
+  "gnews 200"
+ ],
  "valencia": [
   "https://www.valenciacf.com/entradas 200",
-  "gnews 200"
- ],
- "sevilla": [
-  "https://sevillafc.es/sitemap/sitemap1.xml.gz 200",
-  "gnews 200"
- ],
- "malaga": [
-  "https://www.malagacf.com/noticias 200",
-  "gnews 200"
- ],
- "rayo": [
-  "https://www.rayovallecano.es/noticias 200",
   "gnews 200"
  ],
  "racing": [
   "https://realracingclub.es/sitemap.xml 200",
   "gnews 200"
  ],
+ "real-sociedad": [
+  "https://www.realsociedad.eus/es/noticias 200",
+  "gnews 200"
+ ],
+ "betis": [
+  "https://www.realbetisbalompie.es/noticias 200",
+  "gnews 200"
+ ],
+ "alaves": [
+  "https://www.deportivoalaves.com/sitemap-deportivo-alaves.xml 200",
+  "gnews 200"
+ ],
+ "sevilla": [
+  "https://sevillafc.es/sitemap/sitemap1.xml.gz 200",
+  "gnews 200"
+ ],
  "deportivo": [
   "https://www.rcdeportivo.es/es/sitemap.xml 200",
+  "gnews 200"
+ ],
+ "rayo": [
+  "https://www.rayovallecano.es/noticias 200",
+  "gnews 200"
+ ],
+ "celta": [
+  "https://rccelta.es/sitemap_index.xml 200",
   "gnews 200"
  ],
  "osasuna": [
   "https://www.osasuna.es/sitemap.xml 200",
   "gnews 200"
  ],
- "celta": [
-  "https://rccelta.es/sitemap_index.xml 200",
+ "malaga": [
+  "https://www.malagacf.com/noticias 200",
   "gnews 200"
  ]
 }
