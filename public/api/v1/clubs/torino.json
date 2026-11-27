@@ -1,0 +1,64 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T09:45:30.422571+00:00",
+ "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "torino",
+  "name": "Torino",
+  "name_ar": "تورينو",
+  "league": "Serie A",
+  "country": "ITA",
+  "timezone": "Europe/Rome",
+  "city": "Torino",
+  "stadium": "Stadio Olimpico Grande Torino",
+  "european_competition": null,
+  "colors": [
+   "#881F19",
+   "#FFFFFF",
+   "#881F19"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#881F19 9%)",
+  "official_site": "https://www.torinofc.it",
+  "official_tickets": "https://www.torinofc.it/biglietteria",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/torino.html",
+   "en": "https://ticketwhistle.com/en/tickets/torino.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/torino.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "814c2eb599102ec9",
+   "club_id": "torino",
+   "club": "Torino",
+   "title": "Napoli-Torino: info e biglietti",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": "2026-11-16T16:00:00+01:00",
+   "announced_at": null,
+   "has_time": true,
+   "timezone": "Europe/Rome",
+   "league": "Serie A",
+   "competition": null,
+   "status": "past",
+   "source_url": "https://www.torinofc.it/news/12/11/2026/napoli-torino-info-e-biglietti_45878",
+   "source_kind": "article",
+   "two_sources": true,
+   "first_seen": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/torino.html",
+   "official_tickets": "https://www.torinofc.it/biglietteria",
+   "slug": "torino-napoli-info-e-biglietti-814c2eb5",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/torino-napoli-info-e-biglietti-814c2eb5.html",
+    "en": "https://ticketwhistle.com/en/sales/torino-napoli-info-e-biglietti-814c2eb5.html",
+    "ar": "https://ticketwhistle.com/ar/sales/torino-napoli-info-e-biglietti-814c2eb5.html"
+   }
+  }
+ ]
+}

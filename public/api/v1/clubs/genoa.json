@@ -1,0 +1,92 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T09:45:30.422571+00:00",
+ "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "genoa",
+  "name": "Genoa",
+  "name_ar": "جنوى",
+  "league": "Serie A",
+  "country": "ITA",
+  "timezone": "Europe/Rome",
+  "city": "Genova",
+  "stadium": "Stadio Luigi Ferraris",
+  "european_competition": null,
+  "colors": [
+   "#A50F2D",
+   "#002147",
+   "#A50F2D"
+  ],
+  "flag_css": "linear-gradient(90deg,#A50F2D 0.0% 50.0%,#002147 50.0% 100.0%)",
+  "official_site": "https://genoacfc.it",
+  "official_tickets": "https://genoacfc.it/biglietteria/",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/genoa.html",
+   "en": "https://ticketwhistle.com/en/tickets/genoa.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/genoa.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "617e43dc8908a109",
+   "club_id": "genoa",
+   "club": "Genoa",
+   "title": "Dalle 12 aperte le prevendite partite vs Torino e Udinese – Tariffe agevolate con Dna Genoa",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-19T16:34:02+00:00",
+   "has_time": false,
+   "timezone": "Europe/Rome",
+   "league": "Serie A",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://genoacfc.it/biglietteria/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/genoa.html",
+   "official_tickets": "https://genoacfc.it/biglietteria/",
+   "slug": "genoa-dalle-12-aperte-le-prevendite-partite-torino-617e43dc",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/genoa-dalle-12-aperte-le-prevendite-partite-torino-617e43dc.html",
+    "en": "https://ticketwhistle.com/en/sales/genoa-dalle-12-aperte-le-prevendite-partite-torino-617e43dc.html",
+    "ar": "https://ticketwhistle.com/ar/sales/genoa-dalle-12-aperte-le-prevendite-partite-torino-617e43dc.html"
+   }
+  },
+  {
+   "id": "95c1e38604d30d0c",
+   "club_id": "genoa",
+   "club": "Genoa",
+   "title": "Sassuolo-Genoa biglietti Ospiti in vendita senza restrizioni da martedì 17/11 – Circuito Vivaticket – Carovana di pullman dei clubs",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-11T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Rome",
+   "league": "Serie A",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://genoacfc.it/biglietteria/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/genoa.html",
+   "official_tickets": "https://genoacfc.it/biglietteria/",
+   "slug": "genoa-sassuolo-biglietti-ospiti-in-vendita-senza-restrizioni-95c1e386",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/genoa-sassuolo-biglietti-ospiti-in-vendita-senza-restrizioni-95c1e386.html",
+    "en": "https://ticketwhistle.com/en/sales/genoa-sassuolo-biglietti-ospiti-in-vendita-senza-restrizioni-95c1e386.html",
+    "ar": "https://ticketwhistle.com/ar/sales/genoa-sassuolo-biglietti-ospiti-in-vendita-senza-restrizioni-95c1e386.html"
+   }
+  }
+ ]
+}

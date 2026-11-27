@@ -1,0 +1,120 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T09:45:30.422571+00:00",
+ "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "milan",
+  "name": "AC Milan",
+  "name_ar": "ميلان",
+  "league": "Serie A",
+  "country": "ITA",
+  "timezone": "Europe/Rome",
+  "city": "Milano",
+  "stadium": "San Siro",
+  "european_competition": "UEL",
+  "colors": [
+   "#FB090B",
+   "#111111",
+   "#FB090B"
+  ],
+  "flag_css": "linear-gradient(90deg,#FB090B 0.0% 14.3%,#111111 14.3% 28.6%,#FB090B 28.6% 42.9%,#111111 42.9% 57.1%,#FB090B 57.1% 71.4%,#111111 71.4% 85.7%,#FB090B 85.7% 100.0%)",
+  "official_site": "https://www.acmilan.com",
+  "official_tickets": "https://www.acmilan.com/it/biglietteria",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/milan.html",
+   "en": "https://ticketwhistle.com/en/tickets/milan.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/milan.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "c139aeaab68595b0",
+   "club_id": "milan",
+   "club": "AC Milan",
+   "title": "AC Milan-Torino: in vendita i biglietti per la 20ª giornata di Serie A 2026/2027 a San Siro",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-26T13:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Rome",
+   "league": "Serie A",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.acmilan.com/it/biglietteria",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/milan.html",
+   "official_tickets": "https://www.acmilan.com/it/biglietteria",
+   "slug": "milan-ac-torino-in-vendita-i-biglietti-per-c139aeaa",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/milan-ac-torino-in-vendita-i-biglietti-per-c139aeaa.html",
+    "en": "https://ticketwhistle.com/en/sales/milan-ac-torino-in-vendita-i-biglietti-per-c139aeaa.html",
+    "ar": "https://ticketwhistle.com/ar/sales/milan-ac-torino-in-vendita-i-biglietti-per-c139aeaa.html"
+   }
+  },
+  {
+   "id": "4eea9340f67ee3ea",
+   "club_id": "milan",
+   "club": "AC Milan",
+   "title": "AC Milan-Fiorentina: in vendita i biglietti per la 18ª giornata di Serie A 2026/2027 a San Siro",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-19T14:30:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Rome",
+   "league": "Serie A",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.acmilan.com/it/biglietteria",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/milan.html",
+   "official_tickets": "https://www.acmilan.com/it/biglietteria",
+   "slug": "milan-ac-fiorentina-in-vendita-i-biglietti-per-4eea9340",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/milan-ac-fiorentina-in-vendita-i-biglietti-per-4eea9340.html",
+    "en": "https://ticketwhistle.com/en/sales/milan-ac-fiorentina-in-vendita-i-biglietti-per-4eea9340.html",
+    "ar": "https://ticketwhistle.com/ar/sales/milan-ac-fiorentina-in-vendita-i-biglietti-per-4eea9340.html"
+   }
+  },
+  {
+   "id": "a26ceae7ec58d877",
+   "club_id": "milan",
+   "club": "AC Milan",
+   "title": "AC Milan-Como: in vendita i biglietti per la 16ª giornata di Serie A 2026/2027 a San Siro",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-12T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Rome",
+   "league": "Serie A",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.acmilan.com/it/biglietteria",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/milan.html",
+   "official_tickets": "https://www.acmilan.com/it/biglietteria",
+   "slug": "milan-ac-como-in-vendita-i-biglietti-per-a26ceae7",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/milan-ac-como-in-vendita-i-biglietti-per-a26ceae7.html",
+    "en": "https://ticketwhistle.com/en/sales/milan-ac-como-in-vendita-i-biglietti-per-a26ceae7.html",
+    "ar": "https://ticketwhistle.com/ar/sales/milan-ac-como-in-vendita-i-biglietti-per-a26ceae7.html"
+   }
+  }
+ ]
+}

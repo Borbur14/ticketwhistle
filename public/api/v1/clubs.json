@@ -2,9 +2,9 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T08:45:02.292043+00:00",
- "last_scan": "2026-11-27T08:43:28.868655+00:00",
- "note": "Read from official club websites. Not affiliated with LaLiga, the Premier League, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "generated_at": "2026-11-27T09:45:30.422571+00:00",
+ "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "clubs": [
   {
    "id": "arsenal",
@@ -667,6 +667,32 @@
    ]
   },
   {
+   "id": "inter",
+   "name": "Inter",
+   "name_ar": "إنتر ميلان",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Milano",
+   "stadium": "San Siro",
+   "european_competition": "UCL",
+   "colors": [
+    "#0068A8",
+    "#111111",
+    "#0068A8"
+   ],
+   "flag_css": "linear-gradient(90deg,#0068A8 0.0% 14.3%,#111111 14.3% 28.6%,#0068A8 28.6% 42.9%,#111111 42.9% 57.1%,#0068A8 57.1% 71.4%,#111111 71.4% 85.7%,#0068A8 85.7% 100.0%)",
+   "official_site": "https://www.inter.it",
+   "official_tickets": "https://www.inter.it/it/biglietti",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/inter.html",
+    "en": "https://ticketwhistle.com/en/tickets/inter.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/inter.html"
+   },
+   "official_alternatives": []
+  },
+  {
    "id": "barcelona",
    "name": "FC Barcelona",
    "name_ar": "برشلونة",
@@ -724,6 +750,32 @@
    "official_alternatives": []
   },
   {
+   "id": "roma",
+   "name": "AS Roma",
+   "name_ar": "روما",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Roma",
+   "stadium": "Stadio Olimpico",
+   "european_competition": "UCL",
+   "colors": [
+    "#8E1F2F",
+    "#F0BC42",
+    "#8E1F2F"
+   ],
+   "flag_css": "linear-gradient(90deg,#F0BC42 0% 9%,#8E1F2F 9%)",
+   "official_site": "https://www.asroma.com",
+   "official_tickets": "https://www.asroma.com/it/biglietti",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/roma.html",
+    "en": "https://ticketwhistle.com/en/tickets/roma.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/roma.html"
+   },
+   "official_alternatives": []
+  },
+  {
    "id": "betis",
    "name": "Real Betis",
    "name_ar": "ريال بيتيس",
@@ -755,6 +807,32 @@
    ]
   },
   {
+   "id": "napoli",
+   "name": "Napoli",
+   "name_ar": "نابولي",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Napoli",
+   "stadium": "Stadio Diego Armando Maradona",
+   "european_competition": "UCL",
+   "colors": [
+    "#12A0D7",
+    "#FFFFFF",
+    "#12A0D7"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#12A0D7 9%)",
+   "official_site": "https://sscnapoli.it",
+   "official_tickets": "https://sscnapoli.ticketone.it/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/napoli.html",
+    "en": "https://ticketwhistle.com/en/tickets/napoli.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/napoli.html"
+   },
+   "official_alternatives": []
+  },
+  {
    "id": "villarreal",
    "name": "Villarreal",
    "name_ar": "فياريال",
@@ -784,6 +862,32 @@
      "url": "https://villarrealcf.es/es/estadio-de-la-ceramica/experiencias/"
     }
    ]
+  },
+  {
+   "id": "como",
+   "name": "Como 1907",
+   "name_ar": "كومو",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Como",
+   "stadium": "Stadio Giuseppe Sinigaglia",
+   "european_competition": "UCL",
+   "colors": [
+    "#003DA5",
+    "#FFFFFF",
+    "#003DA5"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#003DA5 9%)",
+   "official_site": "https://www.comofootball.com",
+   "official_tickets": "https://comofootball.com/biglietti/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/como.html",
+    "en": "https://ticketwhistle.com/en/tickets/como.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/como.html"
+   },
+   "official_alternatives": []
   },
   {
    "id": "alaves",
@@ -1224,6 +1328,422 @@
      "url": "https://www.malagacf.com/en/vip"
     }
    ]
+  },
+  {
+   "id": "atalanta",
+   "name": "Atalanta",
+   "name_ar": "أتالانتا",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Bergamo",
+   "stadium": "New Balance Arena",
+   "european_competition": "UECL",
+   "colors": [
+    "#1E71B8",
+    "#111111",
+    "#1E71B8"
+   ],
+   "flag_css": "linear-gradient(90deg,#1E71B8 0.0% 14.3%,#111111 14.3% 28.6%,#1E71B8 28.6% 42.9%,#111111 42.9% 57.1%,#1E71B8 57.1% 71.4%,#111111 71.4% 85.7%,#1E71B8 85.7% 100.0%)",
+   "official_site": "https://www.atalanta.it",
+   "official_tickets": "https://www.atalanta.it/biglietteria",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/atalanta.html",
+    "en": "https://ticketwhistle.com/en/tickets/atalanta.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/atalanta.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "bologna",
+   "name": "Bologna",
+   "name_ar": "بولونيا",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Bologna",
+   "stadium": "Stadio Renato Dall'Ara",
+   "european_competition": null,
+   "colors": [
+    "#A21C26",
+    "#1A2F48",
+    "#A21C26"
+   ],
+   "flag_css": "linear-gradient(90deg,#A21C26 0.0% 20.0%,#1A2F48 20.0% 40.0%,#A21C26 40.0% 60.0%,#1A2F48 60.0% 80.0%,#A21C26 80.0% 100.0%)",
+   "official_site": "https://www.bolognafc.it",
+   "official_tickets": "https://www.bolognafc.it/biglietti/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/bologna.html",
+    "en": "https://ticketwhistle.com/en/tickets/bologna.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/bologna.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "cagliari",
+   "name": "Cagliari",
+   "name_ar": "كالياري",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Cagliari",
+   "stadium": "Unipol Domus",
+   "european_competition": null,
+   "colors": [
+    "#A6192E",
+    "#002350",
+    "#A6192E"
+   ],
+   "flag_css": "linear-gradient(90deg,#A6192E 0.0% 50.0%,#002350 50.0% 100.0%)",
+   "official_site": "https://www.cagliaricalcio.com",
+   "official_tickets": "https://www.cagliaricalcio.com",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/cagliari.html",
+    "en": "https://ticketwhistle.com/en/tickets/cagliari.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/cagliari.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "fiorentina",
+   "name": "Fiorentina",
+   "name_ar": "فيورنتينا",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Firenze",
+   "stadium": "Stadio Artemio Franchi",
+   "european_competition": null,
+   "colors": [
+    "#482E92",
+    "#FFFFFF",
+    "#482E92"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#482E92 9%)",
+   "official_site": "https://www.acffiorentina.com",
+   "official_tickets": "https://www.acffiorentina.com/ticketing",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/fiorentina.html",
+    "en": "https://ticketwhistle.com/en/tickets/fiorentina.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/fiorentina.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "frosinone",
+   "name": "Frosinone",
+   "name_ar": "فروزينوني",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Frosinone",
+   "stadium": "Stadio Benito Stirpe",
+   "european_competition": null,
+   "colors": [
+    "#FFD700",
+    "#0047AB",
+    "#FFD700"
+   ],
+   "flag_css": "linear-gradient(90deg,#0047AB 0% 12%,#FFD700 12%)",
+   "official_site": "https://www.frosinonecalcio.com",
+   "official_tickets": "https://www.frosinonecalcio.com/biglietti/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/frosinone.html",
+    "en": "https://ticketwhistle.com/en/tickets/frosinone.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/frosinone.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "genoa",
+   "name": "Genoa",
+   "name_ar": "جنوى",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Genova",
+   "stadium": "Stadio Luigi Ferraris",
+   "european_competition": null,
+   "colors": [
+    "#A50F2D",
+    "#002147",
+    "#A50F2D"
+   ],
+   "flag_css": "linear-gradient(90deg,#A50F2D 0.0% 50.0%,#002147 50.0% 100.0%)",
+   "official_site": "https://genoacfc.it",
+   "official_tickets": "https://genoacfc.it/biglietteria/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/genoa.html",
+    "en": "https://ticketwhistle.com/en/tickets/genoa.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/genoa.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "juventus",
+   "name": "Juventus",
+   "name_ar": "يوفنتوس",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Torino",
+   "stadium": "Allianz Stadium",
+   "european_competition": "UEL",
+   "colors": [
+    "#111111",
+    "#FFFFFF",
+    "#111111"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#111111 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#111111 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#111111 85.7% 100.0%)",
+   "official_site": "https://www.juventus.com",
+   "official_tickets": "https://www.juventus.com/it/biglietti/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/juventus.html",
+    "en": "https://ticketwhistle.com/en/tickets/juventus.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/juventus.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "lazio",
+   "name": "Lazio",
+   "name_ar": "لاتسيو",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Roma",
+   "stadium": "Stadio Olimpico",
+   "european_competition": null,
+   "colors": [
+    "#87D8F7",
+    "#FFFFFF",
+    "#87D8F7"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#87D8F7 9%)",
+   "official_site": "https://www.sslazio.it",
+   "official_tickets": "https://www.sslazio.it/it/biglietteria/matches",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/lazio.html",
+    "en": "https://ticketwhistle.com/en/tickets/lazio.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/lazio.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "lecce",
+   "name": "Lecce",
+   "name_ar": "ليتشي",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Lecce",
+   "stadium": "Stadio Via del Mare",
+   "european_competition": null,
+   "colors": [
+    "#FFDD00",
+    "#D2001F",
+    "#FFDD00"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFDD00 0.0% 14.3%,#D2001F 14.3% 28.6%,#FFDD00 28.6% 42.9%,#D2001F 42.9% 57.1%,#FFDD00 57.1% 71.4%,#D2001F 71.4% 85.7%,#FFDD00 85.7% 100.0%)",
+   "official_site": "https://uslecce.it",
+   "official_tickets": "https://uslecce.it/biglietteria/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/lecce.html",
+    "en": "https://ticketwhistle.com/en/tickets/lecce.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/lecce.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "milan",
+   "name": "AC Milan",
+   "name_ar": "ميلان",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Milano",
+   "stadium": "San Siro",
+   "european_competition": "UEL",
+   "colors": [
+    "#FB090B",
+    "#111111",
+    "#FB090B"
+   ],
+   "flag_css": "linear-gradient(90deg,#FB090B 0.0% 14.3%,#111111 14.3% 28.6%,#FB090B 28.6% 42.9%,#111111 42.9% 57.1%,#FB090B 57.1% 71.4%,#111111 71.4% 85.7%,#FB090B 85.7% 100.0%)",
+   "official_site": "https://www.acmilan.com",
+   "official_tickets": "https://www.acmilan.com/it/biglietteria",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/milan.html",
+    "en": "https://ticketwhistle.com/en/tickets/milan.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/milan.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "monza",
+   "name": "Monza",
+   "name_ar": "مونزا",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Monza",
+   "stadium": "U-Power Stadium",
+   "european_competition": null,
+   "colors": [
+    "#E30613",
+    "#FFFFFF",
+    "#E30613"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 12%,#E30613 12%)",
+   "official_site": "https://www.acmonza.com",
+   "official_tickets": "https://www.acmonza.com/it/ticketing/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/monza.html",
+    "en": "https://ticketwhistle.com/en/tickets/monza.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/monza.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "parma",
+   "name": "Parma",
+   "name_ar": "بارما",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Parma",
+   "stadium": "Stadio Ennio Tardini",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#111111",
+    "#FFD200"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0% 9%,#FFD200 9% 15%,#FFFFFF 15%)",
+   "official_site": "https://www.parmacalcio1913.com",
+   "official_tickets": "https://www.parmacalcio1913.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/parma.html",
+    "en": "https://ticketwhistle.com/en/tickets/parma.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/parma.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "sassuolo",
+   "name": "Sassuolo",
+   "name_ar": "ساسولو",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Reggio Emilia",
+   "stadium": "Mapei Stadium",
+   "european_competition": null,
+   "colors": [
+    "#00A752",
+    "#111111",
+    "#00A752"
+   ],
+   "flag_css": "linear-gradient(90deg,#00A752 0.0% 14.3%,#111111 14.3% 28.6%,#00A752 28.6% 42.9%,#111111 42.9% 57.1%,#00A752 57.1% 71.4%,#111111 71.4% 85.7%,#00A752 85.7% 100.0%)",
+   "official_site": "https://www.sassuolocalcio.it",
+   "official_tickets": "https://www.sassuolocalcio.it/biglietteria/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/sassuolo.html",
+    "en": "https://ticketwhistle.com/en/tickets/sassuolo.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/sassuolo.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "torino",
+   "name": "Torino",
+   "name_ar": "تورينو",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Torino",
+   "stadium": "Stadio Olimpico Grande Torino",
+   "european_competition": null,
+   "colors": [
+    "#881F19",
+    "#FFFFFF",
+    "#881F19"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#881F19 9%)",
+   "official_site": "https://www.torinofc.it",
+   "official_tickets": "https://www.torinofc.it/biglietteria",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/torino.html",
+    "en": "https://ticketwhistle.com/en/tickets/torino.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/torino.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "udinese",
+   "name": "Udinese",
+   "name_ar": "أودينيزي",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Udine",
+   "stadium": "Bluenergy Stadium",
+   "european_competition": null,
+   "colors": [
+    "#111111",
+    "#FFFFFF",
+    "#111111"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#111111 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#111111 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#111111 85.7% 100.0%)",
+   "official_site": "https://www.udinese.it",
+   "official_tickets": "https://www.udinese.it/biglietti",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/udinese.html",
+    "en": "https://ticketwhistle.com/en/tickets/udinese.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/udinese.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "venezia",
+   "name": "Venezia",
+   "name_ar": "فينيسيا",
+   "league": "Serie A",
+   "country": "ITA",
+   "timezone": "Europe/Rome",
+   "city": "Venezia",
+   "stadium": "Stadio Pier Luigi Penzo",
+   "european_competition": null,
+   "colors": [
+    "#111111",
+    "#FF6600",
+    "#00703C"
+   ],
+   "flag_css": "linear-gradient(90deg,#FF6600 0% 9%,#00703C 9% 15%,#111111 15%)",
+   "official_site": "https://www.veneziafc.it",
+   "official_tickets": "https://www.veneziafc.it/tickets/biglietteria",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/venezia.html",
+    "en": "https://ticketwhistle.com/en/tickets/venezia.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/venezia.html"
+   },
+   "official_alternatives": []
   }
  ],
  "competitions": [
@@ -1244,7 +1764,11 @@
     "barcelona",
     "atletico",
     "betis",
-    "villarreal"
+    "villarreal",
+    "inter",
+    "napoli",
+    "roma",
+    "como"
    ],
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-champions-league.html",
@@ -1264,7 +1788,9 @@
     "crystal-palace",
     "sunderland",
     "real-sociedad",
-    "celta"
+    "celta",
+    "juventus",
+    "milan"
    ],
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-europa-league.html",
@@ -1281,7 +1807,8 @@
    "season": "2026-27",
    "clubs": [
     "brighton",
-    "getafe"
+    "getafe",
+    "atalanta"
    ],
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-conference-league.html",

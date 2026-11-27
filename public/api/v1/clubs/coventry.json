@@ -2,9 +2,9 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T08:45:02.292043+00:00",
- "last_scan": "2026-11-27T08:43:28.868655+00:00",
- "note": "Read from official club websites. Not affiliated with LaLiga, the Premier League, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "generated_at": "2026-11-27T09:45:30.422571+00:00",
+ "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "coventry",
   "name": "Coventry City",
@@ -36,5 +36,90 @@
    }
   ]
  },
- "windows": []
+ "windows": [
+  {
+   "id": "b5fdbe5c068ebed6",
+   "club_id": "coventry",
+   "club": "Coventry City",
+   "title": "Ticket exchange open for Chelsea (H)",
+   "phase": "resale",
+   "phase_label_en": "Official resale",
+   "opens_at": "2026-12-27T14:00:00+00:00",
+   "announced_at": null,
+   "has_time": true,
+   "timezone": "Europe/London",
+   "league": "Premier League",
+   "competition": null,
+   "status": "upcoming",
+   "source_url": "https://www.ccfc.co.uk/news/2026/november/23/ticket-exchange-open-for-chelsea-h/",
+   "source_kind": "article",
+   "two_sources": false,
+   "first_seen": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/coventry.html",
+   "official_tickets": "https://www.eticketing.co.uk/ccfc",
+   "slug": "coventry-ticket-exchange-open-chelsea-h-b5fdbe5c",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/coventry-ticket-exchange-open-chelsea-h-b5fdbe5c.html",
+    "en": "https://ticketwhistle.com/en/sales/coventry-ticket-exchange-open-chelsea-h-b5fdbe5c.html",
+    "ar": "https://ticketwhistle.com/ar/sales/coventry-ticket-exchange-open-chelsea-h-b5fdbe5c.html"
+   }
+  },
+  {
+   "id": "39d9904b0ee271d1",
+   "club_id": "coventry",
+   "club": "Coventry City",
+   "title": "Aston Villa, Chelsea & Brentford (H) fixtures: Ticket details revealed",
+   "phase": "member_sale",
+   "phase_label_en": "Members' sale",
+   "opens_at": "2026-11-25T10:00:00+00:00",
+   "announced_at": null,
+   "has_time": true,
+   "timezone": "Europe/London",
+   "league": "Premier League",
+   "competition": null,
+   "status": "past",
+   "source_url": "https://www.ccfc.co.uk/news/2026/november/17/aston-villa--chelsea---brentford--h--fixtures--ticket-details-revealed/",
+   "source_kind": "article",
+   "two_sources": false,
+   "first_seen": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/coventry.html",
+   "official_tickets": "https://www.eticketing.co.uk/ccfc",
+   "slug": "coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-39d9904b",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-39d9904b.html",
+    "en": "https://ticketwhistle.com/en/sales/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-39d9904b.html",
+    "ar": "https://ticketwhistle.com/ar/sales/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-39d9904b.html"
+   }
+  },
+  {
+   "id": "323d70cae924e875",
+   "club_id": "coventry",
+   "club": "Coventry City",
+   "title": "Aston Villa, Chelsea & Brentford (H) fixtures: Ticket details revealed",
+   "phase": "member_sale",
+   "phase_label_en": "Members' sale",
+   "opens_at": "2026-11-17T10:00:00+00:00",
+   "announced_at": null,
+   "has_time": true,
+   "timezone": "Europe/London",
+   "league": "Premier League",
+   "competition": null,
+   "status": "past",
+   "source_url": "https://www.ccfc.co.uk/news/2026/november/17/aston-villa--chelsea---brentford--h--fixtures--ticket-details-revealed/",
+   "source_kind": "article",
+   "two_sources": false,
+   "first_seen": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/coventry.html",
+   "official_tickets": "https://www.eticketing.co.uk/ccfc",
+   "slug": "coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-323d70ca",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-323d70ca.html",
+    "en": "https://ticketwhistle.com/en/sales/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-323d70ca.html",
+    "ar": "https://ticketwhistle.com/ar/sales/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-323d70ca.html"
+   }
+  }
+ ]
 }

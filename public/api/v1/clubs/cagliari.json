@@ -1,0 +1,64 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T09:45:30.422571+00:00",
+ "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "cagliari",
+  "name": "Cagliari",
+  "name_ar": "كالياري",
+  "league": "Serie A",
+  "country": "ITA",
+  "timezone": "Europe/Rome",
+  "city": "Cagliari",
+  "stadium": "Unipol Domus",
+  "european_competition": null,
+  "colors": [
+   "#A6192E",
+   "#002350",
+   "#A6192E"
+  ],
+  "flag_css": "linear-gradient(90deg,#A6192E 0.0% 50.0%,#002350 50.0% 100.0%)",
+  "official_site": "https://www.cagliaricalcio.com",
+  "official_tickets": "https://www.cagliaricalcio.com",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/cagliari.html",
+   "en": "https://ticketwhistle.com/en/tickets/cagliari.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/cagliari.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "a4128a832fa5562a",
+   "club_id": "cagliari",
+   "club": "Cagliari",
+   "title": "Cagliari-Milan, i biglietti: due fasi di vendita",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-18T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Rome",
+   "league": "Serie A",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.cagliaricalcio.com",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/cagliari.html",
+   "official_tickets": "https://www.cagliaricalcio.com",
+   "slug": "cagliari-milan-i-biglietti-due-fasi-di-vendita-a4128a83",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/cagliari-milan-i-biglietti-due-fasi-di-vendita-a4128a83.html",
+    "en": "https://ticketwhistle.com/en/sales/cagliari-milan-i-biglietti-due-fasi-di-vendita-a4128a83.html",
+    "ar": "https://ticketwhistle.com/ar/sales/cagliari-milan-i-biglietti-due-fasi-di-vendita-a4128a83.html"
+   }
+  }
+ ]
+}
