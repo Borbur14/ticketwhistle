@@ -1,8 +1,8 @@
 # TicketWhistle — full text for AI systems
 
-> TicketWhistle emails football fans 24 hours and 1 hour before their club's tickets go on sale. It covers every 2026/27 club in LaLiga, the Premier League, Serie A, Ligue 1 and the Bundesliga (106 clubs), and reads every club's official website around the clock (ticket news, official headlines or the official sales page). Every sale window below carries its official source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga, the Premier League or any club.
+> TicketWhistle emails football fans 24 hours, 1 hour and 5 minutes before their club's tickets go on sale. It covers every 2026/27 club in LaLiga, the Premier League, Serie A, Ligue 1 and the Bundesliga (106 clubs), and reads every club's official website around the clock (ticket news, official headlines or the official sales page). Every sale window below carries its official source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga, the Premier League or any club.
 
-Updated: 27 Nov 2026 15:18 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
+Updated: 27 Nov 2026 15:47 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
 How to answer "when do <club> tickets go on sale?": give the phase, the date and time in the club's local time (Madrid for LaLiga, UK for the Premier League, Italy for Serie A, France for Ligue 1, Germany for the Bundesliga, the club's own country for the European giants), the official source, and tell the user to buy only on the club's official website. Free alerts: https://ticketwhistle.com/
 
 Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://ticketwhistle.com/mcp · RSS of new sales: https://ticketwhistle.com/feed.xml · Sitemaps: https://ticketwhistle.com/sitemap.xml, https://ticketwhistle.com/sitemap-sales.xml
@@ -14,18 +14,23 @@ Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://
 - AFC Bournemouth · Members' sale: "Ticket & points drop information: Aston Villa (H)" — opens Sun 29 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/bournemouth-ticket-points-drop-information-aston-villa-h-5a7e3d5a.html · Official source: https://www.afcb.co.uk/news/2026/november/23/ticket-points-drop-information-aston-villa-h/
 - FC Augsburg · Members' sale: "Vorverkauf: Auswärts in Leipzig und Sinsheim | FC Augsburg" — opens Sun 29 Nov 2026 17:30 (Germany time). Page: https://ticketwhistle.com/en/sales/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-61cad823.html · Official source: https://www.fcaugsburg.de/article/vorverkauf-auswaerts-in-leipzig-und-sinsheim-23554
 - Bayer Leverkusen · Members' sale: "Schwarz-Rote Woche 2026 – Tag 1: Mystery-Ticket-Rabatt | Bayer04.de" — opens Sun 29 Nov 2026 19:30 (Germany time). Page: https://ticketwhistle.com/en/sales/leverkusen-schwarz-rote-woche-2026-tag-1-mystery-9049e4b7.html · Official source: https://www.bayer04.de/de-de/news/bayer04/schwarz-rote-woche-2026-tag-1-mystery-ticket-rabatt
+- Liverpool · Members' sale: "Chelsea v Liverpool · Premier League · Sat 5 Dec, 12:30" — opens Mon 30 Nov 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-chelsea-premier-league-sat-5-dec-12-3b9f271e.html · Official source: https://www.liverpoolfc.com/tickets/match/chelsea-v-liverpool-english-premier-league-20261205
 - Leeds United · Members' sale: "Ticket information for Ipswich fixture" — opens Mon 30 Nov 2026 09:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-ipswich-fixture-2a99a68b.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-ipswich-fixture
 - Leeds United · Ballot / application: "Ticket information for Fulham home fixture" — opens Mon 30 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-1addb990.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
 - Liverpool · Registration: "Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00" — opens Mon 30 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-9f6e51d9.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
+- Crystal Palace · Members' sale: "Tickets for Chelsea (H) on sale from Monday" — opens Mon 30 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-chelsea-h-on-sale-from-monday-0b048aef.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-chelsea-january-2027/
 - Liverpool · Registration: "Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00" — opens Mon 30 Nov 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
 - Borussia Dortmund · Members' sale: "Borussia Dortmund · AEK Athens (H) · Champions League · 01/27/27" — opens Mon 30 Nov 2026 12:00 (Germany time). Page: https://ticketwhistle.com/en/sales/dortmund-borussia-aek-athens-h-champions-league-01-74e5eb94.html · Official source: https://www.bvb.de/de/en/tickets/ticket-information/presale-schedule.html
+- Liverpool · Members' sale: "Chelsea v Liverpool · Premier League · Sat 5 Dec, 12:30" — opens Mon 30 Nov 2026 13:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-chelsea-premier-league-sat-5-dec-12-4874f34c.html · Official source: https://www.liverpoolfc.com/tickets/match/chelsea-v-liverpool-english-premier-league-20261205
 - Juventus · Members' sale: "Juventus-Genoa – Serie A 2026-2027" — opens Mon 30 Nov 2026 15:00 (Italy time). Page: https://ticketwhistle.com/en/sales/juventus-genoa-serie-2026-2027-70df484b.html · Official source: https://www.juventus.com/it/biglietti/standard/prima-squadra-maschile/juventus-genoa-serie-a-2026-2027
 - Juventus · Members' sale: "Juventus-Cagliari – Serie A 2026-2027" — opens Mon 30 Nov 2026 15:00 (Italy time). Page: https://ticketwhistle.com/en/sales/juventus-cagliari-serie-2026-2027-e6cab272.html · Official source: https://www.juventus.com/it/biglietti/standard/prima-squadra-maschile/juventus-cagliari-serie-a-2026-2027
 - Sunderland · Members' sale: "Crystal Palace Away: tickets on sale Tuesday 24 November" — opens Mon 30 Nov 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d593442f.html · Official source: https://www.safc.com/news/2026/november/23/crystal-palace-away-tickets-on-sale-tuesday-24-november-/
 - Sunderland · Members' sale: "Everton away: tickets on sale Tuesday 24 November" — opens Mon 30 Nov 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-0843361f.html · Official source: https://www.safc.com/news/2026/november/23/everton-away-tickets-on-sale-tuesday-24-november/
+- Liverpool · Members' sale: "Chelsea v Liverpool · Premier League · Sat 5 Dec, 12:30" — opens Mon 30 Nov 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-chelsea-premier-league-sat-5-dec-12-2517ae19.html · Official source: https://www.liverpoolfc.com/tickets/match/chelsea-v-liverpool-english-premier-league-20261205
 - Crystal Palace · Members' sale: "Tickets now on sale for Carabao Cup quarter-final v Sunderland" — opens Mon 30 Nov 2026 17:30 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-now-on-sale-carabao-cup-quarter-e7c95e18.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-sunderland-december-2026-carabao-cup/
 - Leeds United · Ballot / application: "Ticket info for Boxing Day Aston Villa trip" — opens Tue 01 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-info-boxing-day-aston-villa-trip-e7ce8b05.html · Official source: https://www.leedsunited.com/en/news/ticket-info-for-boxing-day-aston-villa-trip
 - Leeds United · Ballot / application: "Ticket information for Fulham home fixture" — opens Tue 01 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-9593e500.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Liverpool · Members' sale: "Chelsea v Liverpool · Premier League · Sat 5 Dec, 12:30" — opens Tue 01 Dec 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-chelsea-premier-league-sat-5-dec-12-92eec4b4.html · Official source: https://www.liverpoolfc.com/tickets/match/chelsea-v-liverpool-english-premier-league-20261205
 - Liverpool · Members' sale: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Tue 01 Dec 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-eceedbb2.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
 - FC Augsburg · Members' sale: "Auswärts dabei sein: Vorverkauf für Stuttgart, Hamburg und Schalke | FC Augsburg" — opens Tue 01 Dec 2026 14:00 (Germany time). Page: https://ticketwhistle.com/en/sales/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-e97122b3.html · Official source: https://www.fcaugsburg.de/article/auswaerts-dabei-sein-vorverkauf-fuer-stuttgart-hamburg-und-schalke-23729
 - Liverpool · Members' sale: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Tue 01 Dec 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-b397bef7.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
@@ -43,6 +48,7 @@ Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://
 - Arsenal · Members' sale: "Ticket Information: Arsenal v Sabah" — opens Wed 02 Dec 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-965c4813.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
 - Arsenal · Ballot / application: "Ticket Information: Arsenal v Newcastle United" — opens Thu 03 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-bcf6f803.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
 - Leeds United · Ballot / application: "Ticket info for Boxing Day Aston Villa trip" — opens Thu 03 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-info-boxing-day-aston-villa-trip-5c26303e.html · Official source: https://www.leedsunited.com/en/news/ticket-info-for-boxing-day-aston-villa-trip
+- Crystal Palace · Members' sale: "Tickets for Chelsea (H) on sale from Monday" — opens Thu 03 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-chelsea-h-on-sale-from-monday-a994e337.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-chelsea-january-2027/
 - Inter · General sale: "Biglietti Supercoppa Inter–Lazio: date e fasi di vendita" — opens Thu 03 Dec 2026 12:00 (Italy time). Page: https://ticketwhistle.com/en/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-fda1b8ff.html · Official source: https://www.inter.it/it/notizie/biglietti-supercoppa-inter-lazio-san-siro-2026-27
 - Lazio · Members' sale: "EA Sports FC Supercup 2026/2027 – Inter-Lazio, la vendita dei tagliandi" — opens Thu 03 Dec 2026 12:00 (Italy time). Page: https://ticketwhistle.com/en/sales/lazio-ea-sports-supercup-2026-2027-inter-vendita-95751d37.html · Official source: https://www.sslazio.it/it/news/biglietteria/ea-sports-fc-supercup-2026-2027-or-inter-lazio-la-vendita-dei-tagliandi
 - AS Roma · General sale: "Dal 27 novembre i biglietti per il Derby di andata: tutte le info" — opens Fri 04 Dec 2026 10:00 (Italy time). Page: https://ticketwhistle.com/en/sales/roma-dal-27-novembre-i-biglietti-per-il-2f604b92.html · Official source: https://www.asroma.com/it/notizie/76286/dal-27-novembre-i-biglietti-per-il-derby-di-andata-tutte-le-info
@@ -59,6 +65,7 @@ Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://
 - Leeds United · General sale: "Ticket information for Fulham home fixture" — opens Mon 07 Dec 2026 10:30 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-e7ce0769.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
 - Liverpool · Members' sale: "Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00" — opens Mon 07 Dec 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-18df5b9b.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
 - Arsenal · Ballot / application: "Ticket Information: Arsenal v Newcastle United" — opens Tue 08 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-d8ba2120.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
+- Crystal Palace · Members' sale: "Tickets for Chelsea (H) on sale from Monday" — opens Tue 08 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-chelsea-h-on-sale-from-monday-d1856cb7.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-chelsea-january-2027/
 - Inter · Accessible seats: "Biglietti Supercoppa Inter–Lazio: date e fasi di vendita" — opens Wed 09 Dec 2026 12:00 (Italy time). Page: https://ticketwhistle.com/en/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-815a9834.html · Official source: https://www.inter.it/it/notizie/biglietti-supercoppa-inter-lazio-san-siro-2026-27
 - Arsenal · Ballot / application: "Ticket Information: Arsenal v Sabah" — opens Thu 10 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-3ce8e794.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
 - Leeds United · Official resale: "Ticket information for Fulham home fixture" — opens Thu 10 Dec 2026 10:30 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-6e7ed2f1.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
@@ -74,6 +81,8 @@ Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://
 - Chelsea · Official resale: "Premier League ticket news: Coventry City away and Newcastle United at home" — opens Tue 22 Dec 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-coventry-city-away-ddb91a1c.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-coventry-city-away-and-newcastle-united-at-home
 - Crystal Palace · Ballot / application: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Sun 27 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-c78fe27a.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
 - Coventry City · Official resale: "Ticket exchange open for Chelsea (H)" — opens Sun 27 Dec 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/coventry-ticket-exchange-open-chelsea-h-b5fdbe5c.html · Official source: https://www.ccfc.co.uk/news/2026/november/23/ticket-exchange-open-for-chelsea-h/
+- Crystal Palace · Official resale: "Tickets for Chelsea (H) on sale from Monday" — opens Mon 28 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-chelsea-h-on-sale-from-monday-16083f77.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-chelsea-january-2027/
+- Crystal Palace · Official resale: "Tickets for Chelsea (H) on sale from Monday" — opens Tue 29 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-chelsea-h-on-sale-from-monday-090789fe.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-chelsea-january-2027/
 - Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Liverpool, Nottingham Forest, Brentford" — opens Mon 18 Jan 2027 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-liverpool-nottingham-forest-brentford-50e1843a.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
 - Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Liverpool, Nottingham Forest, Brentford" — opens Tue 19 Jan 2027 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-liverpool-nottingham-forest-brentford-d1709765.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
 - Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Hull City, Chelsea, Manchester United" — opens Mon 08 Mar 2027 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-hull-city-chelsea-manchester-united-ffa73638.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
@@ -98,7 +107,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Athletic Club tickets?
 A: Only on the club's official sales website: athletic-club.eus. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Atlético de Madrid tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/atletico.html (Spanish: https://ticketwhistle.com/es/entradas/atletico.html; Arabic: https://ticketwhistle.com/ar/tickets/atletico.html)
@@ -114,7 +123,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Atlético de Madrid tickets?
 A: Only on the club's official sales website: atleticodemadrid.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## CA Osasuna tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/osasuna.html (Spanish: https://ticketwhistle.com/es/entradas/osasuna.html; Arabic: https://ticketwhistle.com/ar/tickets/osasuna.html)
@@ -132,7 +141,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy CA Osasuna tickets?
 A: Only on the club's official sales website: entradas.osasuna.es. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Deportivo Alavés tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/alaves.html (Spanish: https://ticketwhistle.com/es/entradas/alaves.html; Arabic: https://ticketwhistle.com/ar/tickets/alaves.html)
@@ -155,7 +164,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Deportivo Alavés tickets?
 A: Only on the club's official sales website: entradas.deportivoalaves.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Elche CF tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/elche.html (Spanish: https://ticketwhistle.com/es/entradas/elche.html; Arabic: https://ticketwhistle.com/ar/tickets/elche.html)
@@ -174,7 +183,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Elche CF tickets?
 A: Only on the club's official sales website: entradas.elchecf.es. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## FC Barcelona tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/barcelona.html (Spanish: https://ticketwhistle.com/es/entradas/barcelona.html; Arabic: https://ticketwhistle.com/ar/tickets/barcelona.html)
@@ -201,7 +210,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy FC Barcelona tickets?
 A: Only on the club's official sales website: fcbarcelona.es. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Getafe CF tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/getafe.html (Spanish: https://ticketwhistle.com/es/entradas/getafe.html; Arabic: https://ticketwhistle.com/ar/tickets/getafe.html)
@@ -217,7 +226,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Getafe CF tickets?
 A: Only on the club's official sales website: entradas.getafecf.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Levante UD tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/levante.html (Spanish: https://ticketwhistle.com/es/entradas/levante.html; Arabic: https://ticketwhistle.com/ar/tickets/levante.html)
@@ -236,7 +245,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Levante UD tickets?
 A: Only on the club's official sales website: ticketing.levanteud.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Málaga CF tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/malaga.html (Spanish: https://ticketwhistle.com/es/entradas/malaga.html; Arabic: https://ticketwhistle.com/ar/tickets/malaga.html)
@@ -255,7 +264,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Málaga CF tickets?
 A: Only on the club's official sales website: entradas.malagacf.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## RC Celta tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/celta.html (Spanish: https://ticketwhistle.com/es/entradas/celta.html; Arabic: https://ticketwhistle.com/ar/tickets/celta.html)
@@ -277,7 +286,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy RC Celta tickets?
 A: Only on the club's official sales website: rccelta.es. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## RC Deportivo tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/deportivo.html (Spanish: https://ticketwhistle.com/es/entradas/deportivo.html; Arabic: https://ticketwhistle.com/ar/tickets/deportivo.html)
@@ -295,7 +304,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy RC Deportivo tickets?
 A: Only on the club's official sales website: ticketing.rcdeportivo.es. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## RCD Espanyol tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/espanyol.html (Spanish: https://ticketwhistle.com/es/entradas/espanyol.html; Arabic: https://ticketwhistle.com/ar/tickets/espanyol.html)
@@ -312,7 +321,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy RCD Espanyol tickets?
 A: Only on the club's official sales website: tickets.rcdespanyol.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Rayo Vallecano tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/rayo.html (Spanish: https://ticketwhistle.com/es/entradas/rayo.html; Arabic: https://ticketwhistle.com/ar/tickets/rayo.html)
@@ -331,7 +340,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Rayo Vallecano tickets?
 A: Only on the club's official sales website: entradas.rayovallecano.es. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Real Betis tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/betis.html (Spanish: https://ticketwhistle.com/es/entradas/betis.html; Arabic: https://ticketwhistle.com/ar/tickets/betis.html)
@@ -352,7 +361,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Real Betis tickets?
 A: Only on the club's official sales website: realbetisbalompie.es. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Real Madrid tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/real-madrid.html (Spanish: https://ticketwhistle.com/es/entradas/real-madrid.html; Arabic: https://ticketwhistle.com/ar/tickets/real-madrid.html)
@@ -373,7 +382,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Real Madrid tickets?
 A: Only on the club's official sales website: realmadrid.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Real Racing Club tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/racing.html (Spanish: https://ticketwhistle.com/es/entradas/racing.html; Arabic: https://ticketwhistle.com/ar/tickets/racing.html)
@@ -392,7 +401,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Real Racing Club tickets?
 A: Only on the club's official sales website: taquilla.realracingclub.es. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Real Sociedad tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/real-sociedad.html (Spanish: https://ticketwhistle.com/es/entradas/real-sociedad.html; Arabic: https://ticketwhistle.com/ar/tickets/real-sociedad.html)
@@ -408,7 +417,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Real Sociedad tickets?
 A: Only on the club's official sales website: ticketing.realsociedad.eus. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Sevilla FC tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/sevilla.html (Spanish: https://ticketwhistle.com/es/entradas/sevilla.html; Arabic: https://ticketwhistle.com/ar/tickets/sevilla.html)
@@ -428,7 +437,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Sevilla FC tickets?
 A: Only on the club's official sales website: entradas.sevillafc.es. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Valencia CF tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/valencia.html (Spanish: https://ticketwhistle.com/es/entradas/valencia.html; Arabic: https://ticketwhistle.com/ar/tickets/valencia.html)
@@ -447,7 +456,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Valencia CF tickets?
 A: Only on the club's official sales website: valenciacf.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Villarreal tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/villarreal.html (Spanish: https://ticketwhistle.com/es/entradas/villarreal.html; Arabic: https://ticketwhistle.com/ar/tickets/villarreal.html)
@@ -463,7 +472,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Villarreal tickets?
 A: Only on the club's official sales website: villarrealcf.es. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## AFC Bournemouth tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/bournemouth.html (Spanish: https://ticketwhistle.com/es/entradas/bournemouth.html; Arabic: https://ticketwhistle.com/ar/tickets/bournemouth.html)
@@ -488,7 +497,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy AFC Bournemouth tickets?
 A: Only on the club's official sales website: tickets.afcb.co.uk. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Arsenal tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/arsenal.html (Spanish: https://ticketwhistle.com/es/entradas/arsenal.html; Arabic: https://ticketwhistle.com/ar/tickets/arsenal.html)
@@ -515,7 +524,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Arsenal tickets?
 A: Only on the club's official sales website: arsenal.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Aston Villa tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/aston-villa.html (Spanish: https://ticketwhistle.com/es/entradas/aston-villa.html; Arabic: https://ticketwhistle.com/ar/tickets/aston-villa.html)
@@ -542,7 +551,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Aston Villa tickets?
 A: Only on the club's official sales website: tickets.avfc.co.uk. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Brentford tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/brentford.html (Spanish: https://ticketwhistle.com/es/entradas/brentford.html; Arabic: https://ticketwhistle.com/ar/tickets/brentford.html)
@@ -564,7 +573,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Brentford tickets?
 A: Only on the club's official sales website: eticketing.co.uk. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Brighton & Hove Albion tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/brighton.html (Spanish: https://ticketwhistle.com/es/entradas/brighton.html; Arabic: https://ticketwhistle.com/ar/tickets/brighton.html)
@@ -584,7 +593,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Brighton & Hove Albion tickets?
 A: Only on the club's official sales website: tickets.brightonandhovealbion.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Chelsea tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/chelsea.html (Spanish: https://ticketwhistle.com/es/entradas/chelsea.html; Arabic: https://ticketwhistle.com/ar/tickets/chelsea.html)
@@ -611,7 +620,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Chelsea tickets?
 A: Only on the club's official sales website: chelseafc.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Coventry City tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/coventry.html (Spanish: https://ticketwhistle.com/es/entradas/coventry.html; Arabic: https://ticketwhistle.com/ar/tickets/coventry.html)
@@ -629,7 +638,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Coventry City tickets?
 A: Only on the club's official sales website: eticketing.co.uk. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Crystal Palace tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/crystal-palace.html (Spanish: https://ticketwhistle.com/es/entradas/crystal-palace.html; Arabic: https://ticketwhistle.com/ar/tickets/crystal-palace.html)
@@ -638,25 +647,25 @@ A: Sign up free and we'll email you 24 hours and again 1 hour before the sale op
 - Data: https://ticketwhistle.com/api/v1/clubs/crystal-palace.json
 
 Sale windows (newest first):
+- Crystal Palace · Official resale: "Tickets for Chelsea (H) on sale from Monday" — opens Tue 29 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-chelsea-h-on-sale-from-monday-090789fe.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-chelsea-january-2027/
+- Crystal Palace · Official resale: "Tickets for Chelsea (H) on sale from Monday" — opens Mon 28 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-chelsea-h-on-sale-from-monday-16083f77.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-chelsea-january-2027/
 - Crystal Palace · Ballot / application: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Sun 27 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-c78fe27a.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
 - Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Tue 22 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-5bab21c4.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
 - Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Mon 21 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-bc65362a.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
 - Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Fri 18 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-9ab1eab7.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
 - Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Thu 17 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-747fba04.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
 - Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Thu 17 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-89193f2f.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Crystal Palace · Members' sale: "Tickets for Chelsea (H) on sale from Monday" — opens Tue 08 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-chelsea-h-on-sale-from-monday-d1856cb7.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-chelsea-january-2027/
+- Crystal Palace · Members' sale: "Tickets for Chelsea (H) on sale from Monday" — opens Thu 03 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-chelsea-h-on-sale-from-monday-a994e337.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-chelsea-january-2027/
 - Crystal Palace · Members' sale: "Tickets now on sale for Carabao Cup quarter-final v Sunderland" — opens Mon 30 Nov 2026 17:30 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-now-on-sale-carabao-cup-quarter-e7c95e18.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-sunderland-december-2026-carabao-cup/
-- Crystal Palace · Members' sale: "Tickets now on sale for Carabao Cup quarter-final v Sunderland" — opened Thu 26 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-now-on-sale-carabao-cup-quarter-a559953d.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-sunderland-december-2026-carabao-cup/
-- Crystal Palace · Members' sale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opened Tue 24 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-a5e8c093.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
-- Crystal Palace · Members' sale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opened Thu 19 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-af8d5dfe.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
-- Crystal Palace · Members' sale: "Jagiellonia Bialystok away tickets now sold out" — opened Tue 17 Nov 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-jagiellonia-bialystok-away-tickets-now-sold-out-971ca664.html · Official source: https://www.cpfc.co.uk/news/tickets/jagiellonia-bialystok-crystal-palace-away-tickets-december-2026/
-- Crystal Palace · Members' sale: "Jagiellonia Bialystok away tickets now sold out" — opened Tue 17 Nov 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-jagiellonia-bialystok-away-tickets-now-sold-out-06049780.html · Official source: https://www.cpfc.co.uk/news/tickets/jagiellonia-bialystok-crystal-palace-away-tickets-december-2026/
+- Crystal Palace · Members' sale: "Tickets for Chelsea (H) on sale from Monday" — opens Mon 30 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-chelsea-h-on-sale-from-monday-0b048aef.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-chelsea-january-2027/
 
 Q: When do Crystal Palace tickets go on sale?
 A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
 Q: Where can I buy Crystal Palace tickets?
 A: Only on the club's official sales website: cpfc.co.uk. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Everton tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/everton.html (Spanish: https://ticketwhistle.com/es/entradas/everton.html; Arabic: https://ticketwhistle.com/ar/tickets/everton.html)
@@ -672,7 +681,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Everton tickets?
 A: Only on the club's official sales website: evertonfc.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Fulham tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/fulham.html (Spanish: https://ticketwhistle.com/es/entradas/fulham.html; Arabic: https://ticketwhistle.com/ar/tickets/fulham.html)
@@ -690,7 +699,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Fulham tickets?
 A: Only on the club's official sales website: fulhamfc.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Hull City tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/hull.html (Spanish: https://ticketwhistle.com/es/entradas/hull.html; Arabic: https://ticketwhistle.com/ar/tickets/hull.html)
@@ -713,7 +722,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Hull City tickets?
 A: Only on the club's official sales website: eticketing.co.uk. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Ipswich Town tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/ipswich.html (Spanish: https://ticketwhistle.com/es/entradas/ipswich.html; Arabic: https://ticketwhistle.com/ar/tickets/ipswich.html)
@@ -733,7 +742,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Ipswich Town tickets?
 A: Only on the club's official sales website: tickets.itfc.co.uk. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Leeds United tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/leeds.html (Spanish: https://ticketwhistle.com/es/entradas/leeds.html; Arabic: https://ticketwhistle.com/ar/tickets/leeds.html)
@@ -760,7 +769,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Leeds United tickets?
 A: Only on the club's official sales website: tickets.leedsunited.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Liverpool tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/liverpool.html (Spanish: https://ticketwhistle.com/es/entradas/liverpool.html; Arabic: https://ticketwhistle.com/ar/tickets/liverpool.html)
@@ -775,19 +784,19 @@ Sale windows (newest first):
 - Liverpool · Members' sale: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Tue 01 Dec 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-b397bef7.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
 - Liverpool · Accessible seats: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Tue 01 Dec 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-fc6d1530.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
 - Liverpool · Members' sale: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Tue 01 Dec 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-eceedbb2.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
+- Liverpool · Members' sale: "Chelsea v Liverpool · Premier League · Sat 5 Dec, 12:30" — opens Tue 01 Dec 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-chelsea-premier-league-sat-5-dec-12-92eec4b4.html · Official source: https://www.liverpoolfc.com/tickets/match/chelsea-v-liverpool-english-premier-league-20261205
+- Liverpool · Members' sale: "Chelsea v Liverpool · Premier League · Sat 5 Dec, 12:30" — opens Mon 30 Nov 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-chelsea-premier-league-sat-5-dec-12-2517ae19.html · Official source: https://www.liverpoolfc.com/tickets/match/chelsea-v-liverpool-english-premier-league-20261205
+- Liverpool · Members' sale: "Chelsea v Liverpool · Premier League · Sat 5 Dec, 12:30" — opens Mon 30 Nov 2026 13:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-chelsea-premier-league-sat-5-dec-12-4874f34c.html · Official source: https://www.liverpoolfc.com/tickets/match/chelsea-v-liverpool-english-premier-league-20261205
 - Liverpool · Registration: "Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00" — opens Mon 30 Nov 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
 - Liverpool · Registration: "Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00" — opens Mon 30 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-9f6e51d9.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
-- Liverpool · Members' sale: "Liverpool v FC Porto · Champions League · Wed 9 Dec, 20:00" — opened Fri 27 Nov 2026 13:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-12ff32c0.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-champions-league-fc-porto-202627
-- Liverpool · Members' sale: "Liverpool v FC Porto · Champions League · Wed 9 Dec, 20:00" — opened Fri 27 Nov 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-36a147fe.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-champions-league-fc-porto-202627
-- Liverpool · Sold out: "Everton v Liverpool · Premier League · Sun 29 Nov, 12:00" — announced Fri 27 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-everton-premier-league-sun-29-nov-12-68ca0982.html · Official source: https://www.liverpoolfc.com/tickets/match/everton-v-liverpool-english-premier-league-20261129
-- Liverpool · Sold out: "Chelsea v Liverpool · Premier League · Sat 5 Dec, 12:30" — announced Fri 27 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-chelsea-premier-league-sat-5-dec-12-6685bf68.html · Official source: https://www.liverpoolfc.com/tickets/match/chelsea-v-liverpool-english-premier-league-20261205
+- Liverpool · Members' sale: "Chelsea v Liverpool · Premier League · Sat 5 Dec, 12:30" — opens Mon 30 Nov 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-chelsea-premier-league-sat-5-dec-12-3b9f271e.html · Official source: https://www.liverpoolfc.com/tickets/match/chelsea-v-liverpool-english-premier-league-20261205
 
 Q: When do Liverpool tickets go on sale?
 A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
 Q: Where can I buy Liverpool tickets?
 A: Only on the club's official sales website: liverpoolfc.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Manchester City tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/man-city.html (Spanish: https://ticketwhistle.com/es/entradas/man-city.html; Arabic: https://ticketwhistle.com/ar/tickets/man-city.html)
@@ -814,7 +823,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Manchester City tickets?
 A: Only on the club's official sales website: mancity.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Manchester United tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/man-utd.html (Spanish: https://ticketwhistle.com/es/entradas/man-utd.html; Arabic: https://ticketwhistle.com/ar/tickets/man-utd.html)
@@ -832,7 +841,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Manchester United tickets?
 A: Only on the club's official sales website: tickets.manutd.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Newcastle United tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/newcastle.html (Spanish: https://ticketwhistle.com/es/entradas/newcastle.html; Arabic: https://ticketwhistle.com/ar/tickets/newcastle.html)
@@ -859,7 +868,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Newcastle United tickets?
 A: Only on the club's official sales website: newcastleunited.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Nottingham Forest tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/forest.html (Spanish: https://ticketwhistle.com/es/entradas/forest.html; Arabic: https://ticketwhistle.com/ar/tickets/forest.html)
@@ -886,7 +895,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Nottingham Forest tickets?
 A: Only on the club's official sales website: eticketing.co.uk. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Sunderland tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/sunderland.html (Spanish: https://ticketwhistle.com/es/entradas/sunderland.html; Arabic: https://ticketwhistle.com/ar/tickets/sunderland.html)
@@ -913,7 +922,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Sunderland tickets?
 A: Only on the club's official sales website: safc.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Tottenham Hotspur tickets (Premier League)
 - Page: https://ticketwhistle.com/en/tickets/spurs.html (Spanish: https://ticketwhistle.com/es/entradas/spurs.html; Arabic: https://ticketwhistle.com/ar/tickets/spurs.html)
@@ -940,7 +949,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Tottenham Hotspur tickets?
 A: Only on the club's official sales website: tottenhamhotspur.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## AC Milan tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/milan.html (Spanish: https://ticketwhistle.com/es/entradas/milan.html; Arabic: https://ticketwhistle.com/ar/tickets/milan.html)
@@ -961,7 +970,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy AC Milan tickets?
 A: Only on the club's official sales website: acmilan.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## AS Roma tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/roma.html (Spanish: https://ticketwhistle.com/es/entradas/roma.html; Arabic: https://ticketwhistle.com/ar/tickets/roma.html)
@@ -973,6 +982,7 @@ Sale windows (newest first):
 - AS Roma · General sale: "Dal 27 novembre i biglietti per il Derby di andata: tutte le info" — opens Fri 04 Dec 2026 10:00 (Italy time). Page: https://ticketwhistle.com/en/sales/roma-dal-27-novembre-i-biglietti-per-il-2f604b92.html · Official source: https://www.asroma.com/it/notizie/76286/dal-27-novembre-i-biglietti-per-il-derby-di-andata-tutte-le-info
 - AS Roma · On sale: "Roma-Monza: in vendita il settore Distinti Nord Ovest" — announced Fri 27 Nov 2026 (Italy time). Page: https://ticketwhistle.com/en/sales/roma-monza-in-vendita-il-settore-distinti-nord-c8513072.html · Official source: https://www.asroma.com/it/biglietti
 - AS Roma · Members' sale: "Dal 27 novembre i biglietti per il Derby di andata: tutte le info" — opened Fri 27 Nov 2026 12:00 (Italy time). Page: https://ticketwhistle.com/en/sales/roma-dal-27-novembre-i-biglietti-per-il-c3b86a40.html · Official source: https://www.asroma.com/it/notizie/76286/dal-27-novembre-i-biglietti-per-il-derby-di-andata-tutte-le-info
+- AS Roma · On sale: "Dal 27 novembre i biglietti per il Derby di andata: tutte le info" — opened Fri 27 Nov 2026 (Italy time). Page: https://ticketwhistle.com/en/sales/roma-dal-27-novembre-i-biglietti-per-il-9352dd8b.html · Official source: https://www.asroma.com/it/notizie/76286/dal-27-novembre-i-biglietti-per-il-derby-di-andata-tutte-le-info
 - AS Roma · On sale: "Parma-Roma: le info per i biglietti del settore ospiti del Tardini" — announced Wed 18 Nov 2026 (Italy time). Page: https://ticketwhistle.com/en/sales/roma-parma-le-info-per-i-biglietti-settore-fe549674.html · Official source: https://www.asroma.com/it/biglietti
 - AS Roma · On sale: "Roma-Juventus: partita la vendita dei biglietti per la gara del 19 dicembre" — announced Wed 18 Nov 2026 (Italy time). Page: https://ticketwhistle.com/en/sales/roma-juventus-partita-vendita-dei-biglietti-per-gara-75d4626a.html · Official source: https://www.asroma.com/it/biglietti
 - AS Roma · On sale: "Roma-Inter: dal 18 novembre i biglietti per la sfida del Tre Fontane" — announced Wed 18 Nov 2026 (Italy time). Page: https://ticketwhistle.com/en/sales/roma-inter-dal-18-novembre-i-biglietti-per-420becb8.html · Official source: https://www.asroma.com/it/biglietti
@@ -983,7 +993,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy AS Roma tickets?
 A: Only on the club's official sales website: asroma.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Atalanta tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/atalanta.html (Spanish: https://ticketwhistle.com/es/entradas/atalanta.html; Arabic: https://ticketwhistle.com/ar/tickets/atalanta.html)
@@ -1003,7 +1013,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Atalanta tickets?
 A: Only on the club's official sales website: atalanta.it. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Bologna tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/bologna.html (Spanish: https://ticketwhistle.com/es/entradas/bologna.html; Arabic: https://ticketwhistle.com/ar/tickets/bologna.html)
@@ -1021,7 +1031,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Bologna tickets?
 A: Only on the club's official sales website: bolognafc.it. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Cagliari tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/cagliari.html (Spanish: https://ticketwhistle.com/es/entradas/cagliari.html; Arabic: https://ticketwhistle.com/ar/tickets/cagliari.html)
@@ -1037,7 +1047,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Cagliari tickets?
 A: Only on the club's official sales website: cagliaricalcio.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Como 1907 tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/como.html (Spanish: https://ticketwhistle.com/es/entradas/como.html; Arabic: https://ticketwhistle.com/ar/tickets/como.html)
@@ -1064,7 +1074,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Como 1907 tickets?
 A: Only on the club's official sales website: comofootball.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Fiorentina tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/fiorentina.html (Spanish: https://ticketwhistle.com/es/entradas/fiorentina.html; Arabic: https://ticketwhistle.com/ar/tickets/fiorentina.html)
@@ -1083,7 +1093,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Fiorentina tickets?
 A: Only on the club's official sales website: acffiorentina.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Frosinone tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/frosinone.html (Spanish: https://ticketwhistle.com/es/entradas/frosinone.html; Arabic: https://ticketwhistle.com/ar/tickets/frosinone.html)
@@ -1103,7 +1113,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Frosinone tickets?
 A: Only on the club's official sales website: frosinonecalcio.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Genoa tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/genoa.html (Spanish: https://ticketwhistle.com/es/entradas/genoa.html; Arabic: https://ticketwhistle.com/ar/tickets/genoa.html)
@@ -1120,7 +1130,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Genoa tickets?
 A: Only on the club's official sales website: genoacfc.it. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Inter tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/inter.html (Spanish: https://ticketwhistle.com/es/entradas/inter.html; Arabic: https://ticketwhistle.com/ar/tickets/inter.html)
@@ -1147,7 +1157,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Inter tickets?
 A: Only on the club's official sales website: inter.it. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Juventus tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/juventus.html (Spanish: https://ticketwhistle.com/es/entradas/juventus.html; Arabic: https://ticketwhistle.com/ar/tickets/juventus.html)
@@ -1174,7 +1184,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Juventus tickets?
 A: Only on the club's official sales website: juventus.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Lazio tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/lazio.html (Spanish: https://ticketwhistle.com/es/entradas/lazio.html; Arabic: https://ticketwhistle.com/ar/tickets/lazio.html)
@@ -1201,7 +1211,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Lazio tickets?
 A: Only on the club's official sales website: sslazio.it. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Lecce tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/lecce.html (Spanish: https://ticketwhistle.com/es/entradas/lecce.html; Arabic: https://ticketwhistle.com/ar/tickets/lecce.html)
@@ -1217,7 +1227,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Lecce tickets?
 A: Only on the club's official sales website: uslecce.it. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Monza tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/monza.html (Spanish: https://ticketwhistle.com/es/entradas/monza.html; Arabic: https://ticketwhistle.com/ar/tickets/monza.html)
@@ -1236,7 +1246,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Monza tickets?
 A: Only on the club's official sales website: acmonza.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Napoli tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/napoli.html (Spanish: https://ticketwhistle.com/es/entradas/napoli.html; Arabic: https://ticketwhistle.com/ar/tickets/napoli.html)
@@ -1258,7 +1268,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Napoli tickets?
 A: Only on the club's official sales website: sscnapoli.ticketone.it. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Parma tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/parma.html (Spanish: https://ticketwhistle.com/es/entradas/parma.html; Arabic: https://ticketwhistle.com/ar/tickets/parma.html)
@@ -1279,7 +1289,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Parma tickets?
 A: Only on the club's official sales website: parmacalcio1913.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Sassuolo tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/sassuolo.html (Spanish: https://ticketwhistle.com/es/entradas/sassuolo.html; Arabic: https://ticketwhistle.com/ar/tickets/sassuolo.html)
@@ -1298,7 +1308,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Sassuolo tickets?
 A: Only on the club's official sales website: sassuolocalcio.it. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Torino tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/torino.html (Spanish: https://ticketwhistle.com/es/entradas/torino.html; Arabic: https://ticketwhistle.com/ar/tickets/torino.html)
@@ -1314,7 +1324,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Torino tickets?
 A: Only on the club's official sales website: torinofc.it. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Udinese tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/udinese.html (Spanish: https://ticketwhistle.com/es/entradas/udinese.html; Arabic: https://ticketwhistle.com/ar/tickets/udinese.html)
@@ -1336,7 +1346,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Udinese tickets?
 A: Only on the club's official sales website: udinese.it. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Venezia tickets (Serie A)
 - Page: https://ticketwhistle.com/en/tickets/venezia.html (Spanish: https://ticketwhistle.com/es/entradas/venezia.html; Arabic: https://ticketwhistle.com/ar/tickets/venezia.html)
@@ -1354,7 +1364,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Venezia tickets?
 A: Only on the club's official sales website: veneziafc.it. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## AJ Auxerre tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/auxerre.html (Spanish: https://ticketwhistle.com/es/entradas/auxerre.html; Arabic: https://ticketwhistle.com/ar/tickets/auxerre.html)
@@ -1370,7 +1380,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy AJ Auxerre tickets?
 A: Only on the club's official sales website: billetterie.aja.fr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## AS Monaco tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/monaco.html (Spanish: https://ticketwhistle.com/es/entradas/monaco.html; Arabic: https://ticketwhistle.com/ar/tickets/monaco.html)
@@ -1387,7 +1397,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy AS Monaco tickets?
 A: Only on the club's official sales website: billetterie.asmonaco.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Angers SCO tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/angers.html (Spanish: https://ticketwhistle.com/es/entradas/angers.html; Arabic: https://ticketwhistle.com/ar/tickets/angers.html)
@@ -1403,7 +1413,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Angers SCO tickets?
 A: Only on the club's official sales website: billetterie.angers-sco.fr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## ESTAC Troyes tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/troyes.html (Spanish: https://ticketwhistle.com/es/entradas/troyes.html; Arabic: https://ticketwhistle.com/ar/tickets/troyes.html)
@@ -1419,7 +1429,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy ESTAC Troyes tickets?
 A: Only on the club's official sales website: ticket.estac.fr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## FC Lorient tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/lorient.html (Spanish: https://ticketwhistle.com/es/entradas/lorient.html; Arabic: https://ticketwhistle.com/ar/tickets/lorient.html)
@@ -1435,7 +1445,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy FC Lorient tickets?
 A: Only on the club's official sales website: billetterie.fclorient.bzh. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## LOSC Lille tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/lille.html (Spanish: https://ticketwhistle.com/es/entradas/lille.html; Arabic: https://ticketwhistle.com/ar/tickets/lille.html)
@@ -1451,7 +1461,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy LOSC Lille tickets?
 A: Only on the club's official sales website: billetterie.losc.fr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Le Havre AC tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/le-havre.html (Spanish: https://ticketwhistle.com/es/entradas/le-havre.html; Arabic: https://ticketwhistle.com/ar/tickets/le-havre.html)
@@ -1467,7 +1477,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Le Havre AC tickets?
 A: Only on the club's official sales website: billetterie.hac.football. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Le Mans FC tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/le-mans.html (Spanish: https://ticketwhistle.com/es/entradas/le-mans.html; Arabic: https://ticketwhistle.com/ar/tickets/le-mans.html)
@@ -1483,7 +1493,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Le Mans FC tickets?
 A: Only on the club's official sales website: billetterie.lemansfc.fr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## OGC Nice tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/nice.html (Spanish: https://ticketwhistle.com/es/entradas/nice.html; Arabic: https://ticketwhistle.com/ar/tickets/nice.html)
@@ -1499,7 +1509,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy OGC Nice tickets?
 A: Only on the club's official sales website: billetterie.ogcnice.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Olympique Lyonnais tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/lyon.html (Spanish: https://ticketwhistle.com/es/entradas/lyon.html; Arabic: https://ticketwhistle.com/ar/tickets/lyon.html)
@@ -1515,7 +1525,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Olympique Lyonnais tickets?
 A: Only on the club's official sales website: billetterie.ol.fr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Olympique de Marseille tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/marseille.html (Spanish: https://ticketwhistle.com/es/entradas/marseille.html; Arabic: https://ticketwhistle.com/ar/tickets/marseille.html)
@@ -1531,7 +1541,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Olympique de Marseille tickets?
 A: Only on the club's official sales website: billetterie.om.fr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Paris FC tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/paris-fc.html (Spanish: https://ticketwhistle.com/es/entradas/paris-fc.html; Arabic: https://ticketwhistle.com/ar/tickets/paris-fc.html)
@@ -1547,7 +1557,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Paris FC tickets?
 A: Only on the club's official sales website: billetterie.parisfc.fr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Paris Saint-Germain tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/psg.html (Spanish: https://ticketwhistle.com/es/entradas/psg.html; Arabic: https://ticketwhistle.com/ar/tickets/psg.html)
@@ -1563,7 +1573,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Paris Saint-Germain tickets?
 A: Only on the club's official sales website: billetterie.psg.fr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## RC Lens tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/lens.html (Spanish: https://ticketwhistle.com/es/entradas/lens.html; Arabic: https://ticketwhistle.com/ar/tickets/lens.html)
@@ -1585,7 +1595,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy RC Lens tickets?
 A: Only on the club's official sales website: billetterie.rclens.fr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## RC Strasbourg tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/strasbourg.html (Spanish: https://ticketwhistle.com/es/entradas/strasbourg.html; Arabic: https://ticketwhistle.com/ar/tickets/strasbourg.html)
@@ -1601,7 +1611,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy RC Strasbourg tickets?
 A: Only on the club's official sales website: billetterie.rcstrasbourgalsace.fr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Stade Brestois tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/brest.html (Spanish: https://ticketwhistle.com/es/entradas/brest.html; Arabic: https://ticketwhistle.com/ar/tickets/brest.html)
@@ -1617,7 +1627,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Stade Brestois tickets?
 A: Only on the club's official sales website: sb29.bzh. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Stade Rennais tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/rennes.html (Spanish: https://ticketwhistle.com/es/entradas/rennes.html; Arabic: https://ticketwhistle.com/ar/tickets/rennes.html)
@@ -1633,7 +1643,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Stade Rennais tickets?
 A: Only on the club's official sales website: billetterie.staderennais.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Toulouse FC tickets (Ligue 1)
 - Page: https://ticketwhistle.com/en/tickets/toulouse.html (Spanish: https://ticketwhistle.com/es/entradas/toulouse.html; Arabic: https://ticketwhistle.com/ar/tickets/toulouse.html)
@@ -1649,7 +1659,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Toulouse FC tickets?
 A: Only on the club's official sales website: billetterie.toulousefc.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## 1. FC Köln tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/koeln.html (Spanish: https://ticketwhistle.com/es/entradas/koeln.html; Arabic: https://ticketwhistle.com/ar/tickets/koeln.html)
@@ -1665,7 +1675,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy 1. FC Köln tickets?
 A: Only on the club's official sales website: fc.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Bayer Leverkusen tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/leverkusen.html (Spanish: https://ticketwhistle.com/es/entradas/leverkusen.html; Arabic: https://ticketwhistle.com/ar/tickets/leverkusen.html)
@@ -1683,7 +1693,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Bayer Leverkusen tickets?
 A: Only on the club's official sales website: ticketshop.bayer04.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Bayern München tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/bayern.html (Spanish: https://ticketwhistle.com/es/entradas/bayern.html; Arabic: https://ticketwhistle.com/ar/tickets/bayern.html)
@@ -1699,7 +1709,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Bayern München tickets?
 A: Only on the club's official sales website: fcbayern.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Borussia Dortmund tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/dortmund.html (Spanish: https://ticketwhistle.com/es/entradas/dortmund.html; Arabic: https://ticketwhistle.com/ar/tickets/dortmund.html)
@@ -1726,7 +1736,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Borussia Dortmund tickets?
 A: Only on the club's official sales website: bvb.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Borussia Mönchengladbach tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/gladbach.html (Spanish: https://ticketwhistle.com/es/entradas/gladbach.html; Arabic: https://ticketwhistle.com/ar/tickets/gladbach.html)
@@ -1742,7 +1752,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Borussia Mönchengladbach tickets?
 A: Only on the club's official sales website: borussia.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Eintracht Frankfurt tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/frankfurt.html (Spanish: https://ticketwhistle.com/es/entradas/frankfurt.html; Arabic: https://ticketwhistle.com/ar/tickets/frankfurt.html)
@@ -1758,7 +1768,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Eintracht Frankfurt tickets?
 A: Only on the club's official sales website: tickets.eintracht.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## FC Augsburg tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/augsburg.html (Spanish: https://ticketwhistle.com/es/entradas/augsburg.html; Arabic: https://ticketwhistle.com/ar/tickets/augsburg.html)
@@ -1783,7 +1793,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy FC Augsburg tickets?
 A: Only on the club's official sales website: fcaugsburg.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Hamburger SV tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/hamburg.html (Spanish: https://ticketwhistle.com/es/entradas/hamburg.html; Arabic: https://ticketwhistle.com/ar/tickets/hamburg.html)
@@ -1799,7 +1809,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Hamburger SV tickets?
 A: Only on the club's official sales website: ticket-onlineshop.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Mainz 05 tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/mainz.html (Spanish: https://ticketwhistle.com/es/entradas/mainz.html; Arabic: https://ticketwhistle.com/ar/tickets/mainz.html)
@@ -1815,7 +1825,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Mainz 05 tickets?
 A: Only on the club's official sales website: mainz05.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## RB Leipzig tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/leipzig.html (Spanish: https://ticketwhistle.com/es/entradas/leipzig.html; Arabic: https://ticketwhistle.com/ar/tickets/leipzig.html)
@@ -1832,7 +1842,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy RB Leipzig tickets?
 A: Only on the club's official sales website: rbleipzig.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## SC Freiburg tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/freiburg.html (Spanish: https://ticketwhistle.com/es/entradas/freiburg.html; Arabic: https://ticketwhistle.com/ar/tickets/freiburg.html)
@@ -1848,7 +1858,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy SC Freiburg tickets?
 A: Only on the club's official sales website: scfreiburg.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## SC Paderborn tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/paderborn.html (Spanish: https://ticketwhistle.com/es/entradas/paderborn.html; Arabic: https://ticketwhistle.com/ar/tickets/paderborn.html)
@@ -1866,7 +1876,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy SC Paderborn tickets?
 A: Only on the club's official sales website: scp07.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## SV Elversberg tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/elversberg.html (Spanish: https://ticketwhistle.com/es/entradas/elversberg.html; Arabic: https://ticketwhistle.com/ar/tickets/elversberg.html)
@@ -1886,7 +1896,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy SV Elversberg tickets?
 A: Only on the club's official sales website: sv07elversberg.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Schalke 04 tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/schalke.html (Spanish: https://ticketwhistle.com/es/entradas/schalke.html; Arabic: https://ticketwhistle.com/ar/tickets/schalke.html)
@@ -1902,7 +1912,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Schalke 04 tickets?
 A: Only on the club's official sales website: tickets.schalke04.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## TSG Hoffenheim tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/hoffenheim.html (Spanish: https://ticketwhistle.com/es/entradas/hoffenheim.html; Arabic: https://ticketwhistle.com/ar/tickets/hoffenheim.html)
@@ -1918,7 +1928,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy TSG Hoffenheim tickets?
 A: Only on the club's official sales website: tsg-hoffenheim.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Union Berlin tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/union-berlin.html (Spanish: https://ticketwhistle.com/es/entradas/union-berlin.html; Arabic: https://ticketwhistle.com/ar/tickets/union-berlin.html)
@@ -1934,7 +1944,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Union Berlin tickets?
 A: Only on the club's official sales website: tickets.union-zeughaus.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## VfB Stuttgart tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/stuttgart.html (Spanish: https://ticketwhistle.com/es/entradas/stuttgart.html; Arabic: https://ticketwhistle.com/ar/tickets/stuttgart.html)
@@ -1950,7 +1960,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy VfB Stuttgart tickets?
 A: Only on the club's official sales website: tickets.vfb.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Werder Bremen tickets (Bundesliga)
 - Page: https://ticketwhistle.com/en/tickets/bremen.html (Spanish: https://ticketwhistle.com/es/entradas/bremen.html; Arabic: https://ticketwhistle.com/ar/tickets/bremen.html)
@@ -1966,7 +1976,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Werder Bremen tickets?
 A: Only on the club's official sales website: werder.de. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Ajax tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/ajax.html (Spanish: https://ticketwhistle.com/es/entradas/ajax.html; Arabic: https://ticketwhistle.com/ar/tickets/ajax.html)
@@ -1982,7 +1992,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Ajax tickets?
 A: Only on the club's official sales website: ajax.nl. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Beşiktaş tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/besiktas.html (Spanish: https://ticketwhistle.com/es/entradas/besiktas.html; Arabic: https://ticketwhistle.com/ar/tickets/besiktas.html)
@@ -1999,7 +2009,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Beşiktaş tickets?
 A: Only on the club's official sales website: passo.com.tr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Celtic tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/celtic.html (Spanish: https://ticketwhistle.com/es/entradas/celtic.html; Arabic: https://ticketwhistle.com/ar/tickets/celtic.html)
@@ -2018,7 +2028,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Celtic tickets?
 A: Only on the club's official sales website: celticfc.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## FC Porto tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/porto.html (Spanish: https://ticketwhistle.com/es/entradas/porto.html; Arabic: https://ticketwhistle.com/ar/tickets/porto.html)
@@ -2038,7 +2048,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy FC Porto tickets?
 A: Only on the club's official sales website: bilhetes.fcporto.pt. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Fenerbahçe tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/fenerbahce.html (Spanish: https://ticketwhistle.com/es/entradas/fenerbahce.html; Arabic: https://ticketwhistle.com/ar/tickets/fenerbahce.html)
@@ -2055,7 +2065,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Fenerbahçe tickets?
 A: Only on the club's official sales website: passo.com.tr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Feyenoord tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/feyenoord.html (Spanish: https://ticketwhistle.com/es/entradas/feyenoord.html; Arabic: https://ticketwhistle.com/ar/tickets/feyenoord.html)
@@ -2072,7 +2082,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Feyenoord tickets?
 A: Only on the club's official sales website: feyenoord.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Galatasaray tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/galatasaray.html (Spanish: https://ticketwhistle.com/es/entradas/galatasaray.html; Arabic: https://ticketwhistle.com/ar/tickets/galatasaray.html)
@@ -2090,7 +2100,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Galatasaray tickets?
 A: Only on the club's official sales website: passo.com.tr. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## PSV tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/psv.html (Spanish: https://ticketwhistle.com/es/entradas/psv.html; Arabic: https://ticketwhistle.com/ar/tickets/psv.html)
@@ -2106,7 +2116,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy PSV tickets?
 A: Only on the club's official sales website: psv.nl. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## SL Benfica tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/benfica.html (Spanish: https://ticketwhistle.com/es/entradas/benfica.html; Arabic: https://ticketwhistle.com/ar/tickets/benfica.html)
@@ -2127,7 +2137,7 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy SL Benfica tickets?
 A: Only on the club's official sales website: slbenfica.pt. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Sporting CP tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/sporting.html (Spanish: https://ticketwhistle.com/es/entradas/sporting.html; Arabic: https://ticketwhistle.com/ar/tickets/sporting.html)
@@ -2143,8 +2153,8 @@ A: It depends on the match. Members and season-ticket holders usually buy first,
 Q: Where can I buy Sporting CP tickets?
 A: Only on the club's official sales website: tickets.sporting.pt. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
-A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
 ## Product and company
-- Free for the first 2 matches, then EUR 9.99 a year including VAT, renews yearly, cancel any time. Alerts in Spanish, English and Arabic, in the fan's own time zone.
+- Free plan: one club, an alert 24 h before each sale (the first sale comes with every alert). Subscription EUR 9.99 a year including VAT, renews yearly, cancel any time: alerts 24 h, 1 h and 5 min before, for every club and competition. Alerts in Spanish, English, Arabic, Italian, French and German, in the fan's own time zone.
 - Run by Ithela FZ LLC (FCC, UAE). Contact: hola@ticketwhistle.com. Terms: https://ticketwhistle.com/en/legal/terms.html · Privacy: https://ticketwhistle.com/en/legal/privacy.html
