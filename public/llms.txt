@@ -13,7 +13,7 @@ Full text for AI systems: https://ticketwhistle.com/llms-full.txt · New sales f
 - OpenAPI: https://ticketwhistle.com/openapi.json
 - MCP server (streamable HTTP): https://ticketwhistle.com/mcp — tools: upcoming_ticket_sales, get_club_ticket_windows, list_clubs
 
-## Next sales (snapshot 27 Nov 2026 10:45 Madrid · 09:45 UK)
+## Next sales (snapshot 27 Nov 2026 11:15 Madrid · 10:15 UK)
 - [AS Roma: Members' sale — Dal 27 novembre i biglietti per il Derby di andata: tutte le info](https://ticketwhistle.com/en/sales/roma-dal-27-novembre-i-biglietti-per-il-c3b86a40.html) — opens Fri 27 Nov 2026 12:00 Italy time — official source https://www.asroma.com/it/notizie/76286/dal-27-novembre-i-biglietti-per-il-derby-di-andata-tutte-le-info
 - [Napoli: On sale — Napoli vs Milan: tutte le info per i biglietti della sfida al Maradona](https://ticketwhistle.com/en/sales/napoli-milan-tutte-le-info-per-i-biglietti-5423d609.html) — opens Fri 27 Nov 2026 12:00 Italy time — official source https://sscnapoli.it/news/napoli-vs-milan-tutte-le-info-per-i-biglietti-della-sfida-al-maradona
 - [Lazio: Members' sale — EA Sports FC Supercup 2026/2027 – Inter-Lazio, la vendita dei tagliandi](https://ticketwhistle.com/en/sales/lazio-ea-sports-supercup-2026-2027-inter-vendita-2c372506.html) — opens Fri 27 Nov 2026 12:00 Italy time — official source https://www.sslazio.it/it/news/biglietteria/ea-sports-fc-supercup-2026-2027-or-inter-lazio-la-vendita-dei-tagliandi

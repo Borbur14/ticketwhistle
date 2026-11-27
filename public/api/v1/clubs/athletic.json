@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "athletic",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/athletic.html",
    "en": "https://ticketwhistle.com/en/tickets/athletic.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/athletic.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/athletic.html",
+   "it": "https://ticketwhistle.com/it/biglietti/athletic.html",
+   "fr": "https://ticketwhistle.com/fr/billets/athletic.html",
+   "de": "https://ticketwhistle.com/de/tickets/athletic.html"
   },
   "official_alternatives": [
    {
@@ -55,14 +58,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
    "official_tickets": "https://www.athletic-club.eus/es/entradas/",
    "slug": "athletic-entradas-real-betis-j17-laliga-621fed2d",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/athletic-entradas-real-betis-j17-laliga-621fed2d.html",
     "en": "https://ticketwhistle.com/en/sales/athletic-entradas-real-betis-j17-laliga-621fed2d.html",
-    "ar": "https://ticketwhistle.com/ar/sales/athletic-entradas-real-betis-j17-laliga-621fed2d.html"
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-entradas-real-betis-j17-laliga-621fed2d.html",
+    "it": "https://ticketwhistle.com/it/vendite/athletic-entradas-real-betis-j17-laliga-621fed2d.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/athletic-entradas-real-betis-j17-laliga-621fed2d.html",
+    "de": "https://ticketwhistle.com/de/verkauf/athletic-entradas-real-betis-j17-laliga-621fed2d.html"
    }
   },
   {
@@ -90,7 +96,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/athletic-entradas-cd-numancia-8d1cdeab.html",
     "en": "https://ticketwhistle.com/en/sales/athletic-entradas-cd-numancia-8d1cdeab.html",
-    "ar": "https://ticketwhistle.com/ar/sales/athletic-entradas-cd-numancia-8d1cdeab.html"
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-entradas-cd-numancia-8d1cdeab.html",
+    "it": "https://ticketwhistle.com/it/vendite/athletic-entradas-cd-numancia-8d1cdeab.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/athletic-entradas-cd-numancia-8d1cdeab.html",
+    "de": "https://ticketwhistle.com/de/verkauf/athletic-entradas-cd-numancia-8d1cdeab.html"
    }
   },
   {
@@ -118,7 +127,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html",
     "en": "https://ticketwhistle.com/en/sales/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html",
-    "ar": "https://ticketwhistle.com/ar/sales/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html"
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html",
+    "it": "https://ticketwhistle.com/it/vendite/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html",
+    "de": "https://ticketwhistle.com/de/verkauf/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html"
    }
   },
   {
@@ -139,14 +151,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
    "official_tickets": "https://www.athletic-club.eus/es/entradas/",
    "slug": "athletic-entradas-malaga-80ce0526",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/athletic-entradas-malaga-80ce0526.html",
     "en": "https://ticketwhistle.com/en/sales/athletic-entradas-malaga-80ce0526.html",
-    "ar": "https://ticketwhistle.com/ar/sales/athletic-entradas-malaga-80ce0526.html"
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-entradas-malaga-80ce0526.html",
+    "it": "https://ticketwhistle.com/it/vendite/athletic-entradas-malaga-80ce0526.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/athletic-entradas-malaga-80ce0526.html",
+    "de": "https://ticketwhistle.com/de/verkauf/athletic-entradas-malaga-80ce0526.html"
    }
   },
   {
@@ -167,14 +182,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
    "official_tickets": "https://www.athletic-club.eus/es/entradas/",
    "slug": "athletic-venta-entradas-real-madrid-j15-laliga-19c32f20",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/athletic-venta-entradas-real-madrid-j15-laliga-19c32f20.html",
     "en": "https://ticketwhistle.com/en/sales/athletic-venta-entradas-real-madrid-j15-laliga-19c32f20.html",
-    "ar": "https://ticketwhistle.com/ar/sales/athletic-venta-entradas-real-madrid-j15-laliga-19c32f20.html"
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-venta-entradas-real-madrid-j15-laliga-19c32f20.html",
+    "it": "https://ticketwhistle.com/it/vendite/athletic-venta-entradas-real-madrid-j15-laliga-19c32f20.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/athletic-venta-entradas-real-madrid-j15-laliga-19c32f20.html",
+    "de": "https://ticketwhistle.com/de/verkauf/athletic-venta-entradas-real-madrid-j15-laliga-19c32f20.html"
    }
   },
   {
@@ -195,14 +213,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
    "official_tickets": "https://www.athletic-club.eus/es/entradas/",
    "slug": "athletic-habilita-compra-online-entradas-pmr-88c7dee4",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/athletic-habilita-compra-online-entradas-pmr-88c7dee4.html",
     "en": "https://ticketwhistle.com/en/sales/athletic-habilita-compra-online-entradas-pmr-88c7dee4.html",
-    "ar": "https://ticketwhistle.com/ar/sales/athletic-habilita-compra-online-entradas-pmr-88c7dee4.html"
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-habilita-compra-online-entradas-pmr-88c7dee4.html",
+    "it": "https://ticketwhistle.com/it/vendite/athletic-habilita-compra-online-entradas-pmr-88c7dee4.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/athletic-habilita-compra-online-entradas-pmr-88c7dee4.html",
+    "de": "https://ticketwhistle.com/de/verkauf/athletic-habilita-compra-online-entradas-pmr-88c7dee4.html"
    }
   }
  ]

@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "udinese",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/udinese.html",
    "en": "https://ticketwhistle.com/en/tickets/udinese.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/udinese.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/udinese.html",
+   "it": "https://ticketwhistle.com/it/biglietti/udinese.html",
+   "fr": "https://ticketwhistle.com/fr/billets/udinese.html",
+   "de": "https://ticketwhistle.com/de/tickets/udinese.html"
   },
   "official_alternatives": []
  },
@@ -50,14 +53,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/udinese.html",
    "official_tickets": "https://www.udinese.it/biglietti",
    "slug": "udinese-fiorentina-tutte-le-informazioni-sui-biglietti-ea28c800",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/udinese-fiorentina-tutte-le-informazioni-sui-biglietti-ea28c800.html",
     "en": "https://ticketwhistle.com/en/sales/udinese-fiorentina-tutte-le-informazioni-sui-biglietti-ea28c800.html",
-    "ar": "https://ticketwhistle.com/ar/sales/udinese-fiorentina-tutte-le-informazioni-sui-biglietti-ea28c800.html"
+    "ar": "https://ticketwhistle.com/ar/sales/udinese-fiorentina-tutte-le-informazioni-sui-biglietti-ea28c800.html",
+    "it": "https://ticketwhistle.com/it/vendite/udinese-fiorentina-tutte-le-informazioni-sui-biglietti-ea28c800.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/udinese-fiorentina-tutte-le-informazioni-sui-biglietti-ea28c800.html",
+    "de": "https://ticketwhistle.com/de/verkauf/udinese-fiorentina-tutte-le-informazioni-sui-biglietti-ea28c800.html"
    }
   },
   {
@@ -78,14 +84,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/udinese.html",
    "official_tickets": "https://www.udinese.it/biglietti",
    "slug": "udinese-fiorentina-biglietti-in-vendita-prezzi-riduzioni-e-9a02aa3f",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/udinese-fiorentina-biglietti-in-vendita-prezzi-riduzioni-e-9a02aa3f.html",
     "en": "https://ticketwhistle.com/en/sales/udinese-fiorentina-biglietti-in-vendita-prezzi-riduzioni-e-9a02aa3f.html",
-    "ar": "https://ticketwhistle.com/ar/sales/udinese-fiorentina-biglietti-in-vendita-prezzi-riduzioni-e-9a02aa3f.html"
+    "ar": "https://ticketwhistle.com/ar/sales/udinese-fiorentina-biglietti-in-vendita-prezzi-riduzioni-e-9a02aa3f.html",
+    "it": "https://ticketwhistle.com/it/vendite/udinese-fiorentina-biglietti-in-vendita-prezzi-riduzioni-e-9a02aa3f.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/udinese-fiorentina-biglietti-in-vendita-prezzi-riduzioni-e-9a02aa3f.html",
+    "de": "https://ticketwhistle.com/de/verkauf/udinese-fiorentina-biglietti-in-vendita-prezzi-riduzioni-e-9a02aa3f.html"
    }
   },
   {
@@ -106,14 +115,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/udinese.html",
    "official_tickets": "https://www.udinese.it/biglietti",
    "slug": "udinese-fiorentina-le-info-sui-biglietti-bc105159",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/udinese-fiorentina-le-info-sui-biglietti-bc105159.html",
     "en": "https://ticketwhistle.com/en/sales/udinese-fiorentina-le-info-sui-biglietti-bc105159.html",
-    "ar": "https://ticketwhistle.com/ar/sales/udinese-fiorentina-le-info-sui-biglietti-bc105159.html"
+    "ar": "https://ticketwhistle.com/ar/sales/udinese-fiorentina-le-info-sui-biglietti-bc105159.html",
+    "it": "https://ticketwhistle.com/it/vendite/udinese-fiorentina-le-info-sui-biglietti-bc105159.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/udinese-fiorentina-le-info-sui-biglietti-bc105159.html",
+    "de": "https://ticketwhistle.com/de/verkauf/udinese-fiorentina-le-info-sui-biglietti-bc105159.html"
    }
   },
   {
@@ -134,14 +146,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/udinese.html",
    "official_tickets": "https://www.udinese.it/biglietti",
    "slug": "udinese-bologna-aperta-vendita-dei-biglietti-per-il-8123f1e6",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/udinese-bologna-aperta-vendita-dei-biglietti-per-il-8123f1e6.html",
     "en": "https://ticketwhistle.com/en/sales/udinese-bologna-aperta-vendita-dei-biglietti-per-il-8123f1e6.html",
-    "ar": "https://ticketwhistle.com/ar/sales/udinese-bologna-aperta-vendita-dei-biglietti-per-il-8123f1e6.html"
+    "ar": "https://ticketwhistle.com/ar/sales/udinese-bologna-aperta-vendita-dei-biglietti-per-il-8123f1e6.html",
+    "it": "https://ticketwhistle.com/it/vendite/udinese-bologna-aperta-vendita-dei-biglietti-per-il-8123f1e6.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/udinese-bologna-aperta-vendita-dei-biglietti-per-il-8123f1e6.html",
+    "de": "https://ticketwhistle.com/de/verkauf/udinese-bologna-aperta-vendita-dei-biglietti-per-il-8123f1e6.html"
    }
   },
   {
@@ -162,14 +177,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/udinese.html",
    "official_tickets": "https://www.udinese.it/biglietti",
    "slug": "udinese-bologna-tutte-le-info-sui-biglietti-per-24c5e257",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/udinese-bologna-tutte-le-info-sui-biglietti-per-24c5e257.html",
     "en": "https://ticketwhistle.com/en/sales/udinese-bologna-tutte-le-info-sui-biglietti-per-24c5e257.html",
-    "ar": "https://ticketwhistle.com/ar/sales/udinese-bologna-tutte-le-info-sui-biglietti-per-24c5e257.html"
+    "ar": "https://ticketwhistle.com/ar/sales/udinese-bologna-tutte-le-info-sui-biglietti-per-24c5e257.html",
+    "it": "https://ticketwhistle.com/it/vendite/udinese-bologna-tutte-le-info-sui-biglietti-per-24c5e257.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/udinese-bologna-tutte-le-info-sui-biglietti-per-24c5e257.html",
+    "de": "https://ticketwhistle.com/de/verkauf/udinese-bologna-tutte-le-info-sui-biglietti-per-24c5e257.html"
    }
   },
   {
@@ -190,14 +208,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/udinese.html",
    "official_tickets": "https://www.udinese.it/biglietti",
    "slug": "udinese-milan-prelazione-sui-biglietti-per-i-1896-cd87a677",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/udinese-milan-prelazione-sui-biglietti-per-i-1896-cd87a677.html",
     "en": "https://ticketwhistle.com/en/sales/udinese-milan-prelazione-sui-biglietti-per-i-1896-cd87a677.html",
-    "ar": "https://ticketwhistle.com/ar/sales/udinese-milan-prelazione-sui-biglietti-per-i-1896-cd87a677.html"
+    "ar": "https://ticketwhistle.com/ar/sales/udinese-milan-prelazione-sui-biglietti-per-i-1896-cd87a677.html",
+    "it": "https://ticketwhistle.com/it/vendite/udinese-milan-prelazione-sui-biglietti-per-i-1896-cd87a677.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/udinese-milan-prelazione-sui-biglietti-per-i-1896-cd87a677.html",
+    "de": "https://ticketwhistle.com/de/verkauf/udinese-milan-prelazione-sui-biglietti-per-i-1896-cd87a677.html"
    }
   },
   {
@@ -218,14 +239,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/udinese.html",
    "official_tickets": "https://www.udinese.it/biglietti",
    "slug": "udinese-milan-prelazione-sui-biglietti-per-i-1896-b63b7632",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/udinese-milan-prelazione-sui-biglietti-per-i-1896-b63b7632.html",
     "en": "https://ticketwhistle.com/en/sales/udinese-milan-prelazione-sui-biglietti-per-i-1896-b63b7632.html",
-    "ar": "https://ticketwhistle.com/ar/sales/udinese-milan-prelazione-sui-biglietti-per-i-1896-b63b7632.html"
+    "ar": "https://ticketwhistle.com/ar/sales/udinese-milan-prelazione-sui-biglietti-per-i-1896-b63b7632.html",
+    "it": "https://ticketwhistle.com/it/vendite/udinese-milan-prelazione-sui-biglietti-per-i-1896-b63b7632.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/udinese-milan-prelazione-sui-biglietti-per-i-1896-b63b7632.html",
+    "de": "https://ticketwhistle.com/de/verkauf/udinese-milan-prelazione-sui-biglietti-per-i-1896-b63b7632.html"
    }
   }
  ]

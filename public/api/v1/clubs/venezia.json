@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "venezia",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/venezia.html",
    "en": "https://ticketwhistle.com/en/tickets/venezia.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/venezia.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/venezia.html",
+   "it": "https://ticketwhistle.com/it/biglietti/venezia.html",
+   "fr": "https://ticketwhistle.com/fr/billets/venezia.html",
+   "de": "https://ticketwhistle.com/de/tickets/venezia.html"
   },
   "official_alternatives": []
  },
@@ -50,14 +53,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/venezia.html",
    "official_tickets": "https://www.veneziafc.it/tickets/biglietteria",
    "slug": "venezia-bologna-ticketing-e-settore-ospiti-le-nuove-2b5b92f9",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/venezia-bologna-ticketing-e-settore-ospiti-le-nuove-2b5b92f9.html",
     "en": "https://ticketwhistle.com/en/sales/venezia-bologna-ticketing-e-settore-ospiti-le-nuove-2b5b92f9.html",
-    "ar": "https://ticketwhistle.com/ar/sales/venezia-bologna-ticketing-e-settore-ospiti-le-nuove-2b5b92f9.html"
+    "ar": "https://ticketwhistle.com/ar/sales/venezia-bologna-ticketing-e-settore-ospiti-le-nuove-2b5b92f9.html",
+    "it": "https://ticketwhistle.com/it/vendite/venezia-bologna-ticketing-e-settore-ospiti-le-nuove-2b5b92f9.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/venezia-bologna-ticketing-e-settore-ospiti-le-nuove-2b5b92f9.html",
+    "de": "https://ticketwhistle.com/de/verkauf/venezia-bologna-ticketing-e-settore-ospiti-le-nuove-2b5b92f9.html"
    }
   },
   {
@@ -78,14 +84,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/venezia.html",
    "official_tickets": "https://www.veneziafc.it/tickets/biglietteria",
    "slug": "venezia-serie-prevendita-settore-ospiti-per-juventus-fe41bc5d",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/venezia-serie-prevendita-settore-ospiti-per-juventus-fe41bc5d.html",
     "en": "https://ticketwhistle.com/en/sales/venezia-serie-prevendita-settore-ospiti-per-juventus-fe41bc5d.html",
-    "ar": "https://ticketwhistle.com/ar/sales/venezia-serie-prevendita-settore-ospiti-per-juventus-fe41bc5d.html"
+    "ar": "https://ticketwhistle.com/ar/sales/venezia-serie-prevendita-settore-ospiti-per-juventus-fe41bc5d.html",
+    "it": "https://ticketwhistle.com/it/vendite/venezia-serie-prevendita-settore-ospiti-per-juventus-fe41bc5d.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/venezia-serie-prevendita-settore-ospiti-per-juventus-fe41bc5d.html",
+    "de": "https://ticketwhistle.com/de/verkauf/venezia-serie-prevendita-settore-ospiti-per-juventus-fe41bc5d.html"
    }
   },
   {
@@ -106,14 +115,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/venezia.html",
    "official_tickets": "https://www.veneziafc.it/tickets/biglietteria",
    "slug": "venezia-serie-enilive-26-27-prevendita-per-bologna-a9b1a053",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/venezia-serie-enilive-26-27-prevendita-per-bologna-a9b1a053.html",
     "en": "https://ticketwhistle.com/en/sales/venezia-serie-enilive-26-27-prevendita-per-bologna-a9b1a053.html",
-    "ar": "https://ticketwhistle.com/ar/sales/venezia-serie-enilive-26-27-prevendita-per-bologna-a9b1a053.html"
+    "ar": "https://ticketwhistle.com/ar/sales/venezia-serie-enilive-26-27-prevendita-per-bologna-a9b1a053.html",
+    "it": "https://ticketwhistle.com/it/vendite/venezia-serie-enilive-26-27-prevendita-per-bologna-a9b1a053.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/venezia-serie-enilive-26-27-prevendita-per-bologna-a9b1a053.html",
+    "de": "https://ticketwhistle.com/de/verkauf/venezia-serie-enilive-26-27-prevendita-per-bologna-a9b1a053.html"
    }
   }
  ]

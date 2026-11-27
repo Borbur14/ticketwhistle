@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "monza",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/monza.html",
    "en": "https://ticketwhistle.com/en/tickets/monza.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/monza.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/monza.html",
+   "it": "https://ticketwhistle.com/it/biglietti/monza.html",
+   "fr": "https://ticketwhistle.com/fr/billets/monza.html",
+   "de": "https://ticketwhistle.com/de/tickets/monza.html"
   },
   "official_alternatives": []
  },
@@ -50,14 +53,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/monza.html",
    "official_tickets": "https://www.acmonza.com/it/ticketing/",
    "slug": "monza-roma-info-biglietti-bb738ae5",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/monza-roma-info-biglietti-bb738ae5.html",
     "en": "https://ticketwhistle.com/en/sales/monza-roma-info-biglietti-bb738ae5.html",
-    "ar": "https://ticketwhistle.com/ar/sales/monza-roma-info-biglietti-bb738ae5.html"
+    "ar": "https://ticketwhistle.com/ar/sales/monza-roma-info-biglietti-bb738ae5.html",
+    "it": "https://ticketwhistle.com/it/vendite/monza-roma-info-biglietti-bb738ae5.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/monza-roma-info-biglietti-bb738ae5.html",
+    "de": "https://ticketwhistle.com/de/verkauf/monza-roma-info-biglietti-bb738ae5.html"
    }
   },
   {
@@ -78,14 +84,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/monza.html",
    "official_tickets": "https://www.acmonza.com/it/ticketing/",
    "slug": "monza-fiorentina-info-biglietti-2c68adff",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/monza-fiorentina-info-biglietti-2c68adff.html",
     "en": "https://ticketwhistle.com/en/sales/monza-fiorentina-info-biglietti-2c68adff.html",
-    "ar": "https://ticketwhistle.com/ar/sales/monza-fiorentina-info-biglietti-2c68adff.html"
+    "ar": "https://ticketwhistle.com/ar/sales/monza-fiorentina-info-biglietti-2c68adff.html",
+    "it": "https://ticketwhistle.com/it/vendite/monza-fiorentina-info-biglietti-2c68adff.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/monza-fiorentina-info-biglietti-2c68adff.html",
+    "de": "https://ticketwhistle.com/de/verkauf/monza-fiorentina-info-biglietti-2c68adff.html"
    }
   }
  ]

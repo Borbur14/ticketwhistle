@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "liverpool",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/liverpool.html",
    "en": "https://ticketwhistle.com/en/tickets/liverpool.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/liverpool.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/liverpool.html",
+   "it": "https://ticketwhistle.com/it/biglietti/liverpool.html",
+   "fr": "https://ticketwhistle.com/fr/billets/liverpool.html",
+   "de": "https://ticketwhistle.com/de/tickets/liverpool.html"
   },
   "official_alternatives": [
    {
@@ -59,14 +62,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-leeds-united-premier-league-sat-12-dec-18df5b9b",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-leeds-united-premier-league-sat-12-dec-18df5b9b.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-18df5b9b.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-leeds-united-premier-league-sat-12-dec-18df5b9b.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-leeds-united-premier-league-sat-12-dec-18df5b9b.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-leeds-united-premier-league-sat-12-dec-18df5b9b.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-leeds-united-premier-league-sat-12-dec-18df5b9b.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-leeds-united-premier-league-sat-12-dec-18df5b9b.html"
    }
   },
   {
@@ -87,14 +93,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-bournemouth-carabao-cup-wed-16-dec-20-9648bb75",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-bournemouth-carabao-cup-wed-16-dec-20-9648bb75.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-9648bb75.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-9648bb75.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-9648bb75.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-bournemouth-carabao-cup-wed-16-dec-20-9648bb75.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-bournemouth-carabao-cup-wed-16-dec-20-9648bb75.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-bournemouth-carabao-cup-wed-16-dec-20-9648bb75.html"
    }
   },
   {
@@ -115,14 +124,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-bournemouth-carabao-cup-wed-16-dec-20-68c8c723",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-bournemouth-carabao-cup-wed-16-dec-20-68c8c723.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-68c8c723.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-68c8c723.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-68c8c723.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-bournemouth-carabao-cup-wed-16-dec-20-68c8c723.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-bournemouth-carabao-cup-wed-16-dec-20-68c8c723.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-bournemouth-carabao-cup-wed-16-dec-20-68c8c723.html"
    }
   },
   {
@@ -143,14 +155,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-bournemouth-carabao-cup-wed-16-dec-20-b397bef7",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-bournemouth-carabao-cup-wed-16-dec-20-b397bef7.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-b397bef7.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-b397bef7.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-b397bef7.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-bournemouth-carabao-cup-wed-16-dec-20-b397bef7.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-bournemouth-carabao-cup-wed-16-dec-20-b397bef7.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-bournemouth-carabao-cup-wed-16-dec-20-b397bef7.html"
    }
   },
   {
@@ -171,14 +186,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-bournemouth-carabao-cup-wed-16-dec-20-fc6d1530",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-bournemouth-carabao-cup-wed-16-dec-20-fc6d1530.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-fc6d1530.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-fc6d1530.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-fc6d1530.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-bournemouth-carabao-cup-wed-16-dec-20-fc6d1530.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-bournemouth-carabao-cup-wed-16-dec-20-fc6d1530.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-bournemouth-carabao-cup-wed-16-dec-20-fc6d1530.html"
    }
   },
   {
@@ -199,14 +217,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-bournemouth-carabao-cup-wed-16-dec-20-eceedbb2",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-bournemouth-carabao-cup-wed-16-dec-20-eceedbb2.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-eceedbb2.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-eceedbb2.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-eceedbb2.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-bournemouth-carabao-cup-wed-16-dec-20-eceedbb2.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-bournemouth-carabao-cup-wed-16-dec-20-eceedbb2.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-bournemouth-carabao-cup-wed-16-dec-20-eceedbb2.html"
    }
   },
   {
@@ -227,14 +248,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04.html"
    }
   },
   {
@@ -255,14 +279,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-leeds-united-premier-league-sat-12-dec-9f6e51d9",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-leeds-united-premier-league-sat-12-dec-9f6e51d9.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-9f6e51d9.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-leeds-united-premier-league-sat-12-dec-9f6e51d9.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-leeds-united-premier-league-sat-12-dec-9f6e51d9.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-leeds-united-premier-league-sat-12-dec-9f6e51d9.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-leeds-united-premier-league-sat-12-dec-9f6e51d9.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-leeds-united-premier-league-sat-12-dec-9f6e51d9.html"
    }
   },
   {
@@ -283,14 +310,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-porto-champions-league-wed-9-dec-20-12ff32c0",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-porto-champions-league-wed-9-dec-20-12ff32c0.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-12ff32c0.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-porto-champions-league-wed-9-dec-20-12ff32c0.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-porto-champions-league-wed-9-dec-20-12ff32c0.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-porto-champions-league-wed-9-dec-20-12ff32c0.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-porto-champions-league-wed-9-dec-20-12ff32c0.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-porto-champions-league-wed-9-dec-20-12ff32c0.html"
    }
   },
   {
@@ -311,14 +341,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-porto-champions-league-wed-9-dec-20-36a147fe",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-porto-champions-league-wed-9-dec-20-36a147fe.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-36a147fe.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-porto-champions-league-wed-9-dec-20-36a147fe.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-porto-champions-league-wed-9-dec-20-36a147fe.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-porto-champions-league-wed-9-dec-20-36a147fe.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-porto-champions-league-wed-9-dec-20-36a147fe.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-porto-champions-league-wed-9-dec-20-36a147fe.html"
    }
   },
   {
@@ -339,14 +372,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-everton-premier-league-sun-29-nov-12-68ca0982",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-everton-premier-league-sun-29-nov-12-68ca0982.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-everton-premier-league-sun-29-nov-12-68ca0982.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-everton-premier-league-sun-29-nov-12-68ca0982.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-everton-premier-league-sun-29-nov-12-68ca0982.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-everton-premier-league-sun-29-nov-12-68ca0982.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-everton-premier-league-sun-29-nov-12-68ca0982.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-everton-premier-league-sun-29-nov-12-68ca0982.html"
    }
   },
   {
@@ -367,14 +403,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-chelsea-premier-league-sat-5-dec-12-6685bf68",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-chelsea-premier-league-sat-5-dec-12-6685bf68.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-chelsea-premier-league-sat-5-dec-12-6685bf68.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-chelsea-premier-league-sat-5-dec-12-6685bf68.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-chelsea-premier-league-sat-5-dec-12-6685bf68.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-chelsea-premier-league-sat-5-dec-12-6685bf68.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-chelsea-premier-league-sat-5-dec-12-6685bf68.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-chelsea-premier-league-sat-5-dec-12-6685bf68.html"
    }
   },
   {
@@ -395,14 +434,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-sunderland-premier-league-wed-2-dec-19-81ddd541",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-sunderland-premier-league-wed-2-dec-19-81ddd541.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-sunderland-premier-league-wed-2-dec-19-81ddd541.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-sunderland-premier-league-wed-2-dec-19-81ddd541.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-sunderland-premier-league-wed-2-dec-19-81ddd541.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-sunderland-premier-league-wed-2-dec-19-81ddd541.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-sunderland-premier-league-wed-2-dec-19-81ddd541.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-sunderland-premier-league-wed-2-dec-19-81ddd541.html"
    }
   },
   {
@@ -430,7 +472,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-porto-champions-league-wed-9-dec-20-0a14f0bb.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-0a14f0bb.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-porto-champions-league-wed-9-dec-20-0a14f0bb.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-porto-champions-league-wed-9-dec-20-0a14f0bb.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-porto-champions-league-wed-9-dec-20-0a14f0bb.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-porto-champions-league-wed-9-dec-20-0a14f0bb.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-porto-champions-league-wed-9-dec-20-0a14f0bb.html"
    }
   },
   {
@@ -451,14 +496,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/liverpool.html",
    "official_tickets": "https://www.liverpoolfc.com/tickets",
    "slug": "liverpool-porto-champions-league-wed-9-dec-20-45b56cad",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/liverpool-porto-champions-league-wed-9-dec-20-45b56cad.html",
     "en": "https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-45b56cad.html",
-    "ar": "https://ticketwhistle.com/ar/sales/liverpool-porto-champions-league-wed-9-dec-20-45b56cad.html"
+    "ar": "https://ticketwhistle.com/ar/sales/liverpool-porto-champions-league-wed-9-dec-20-45b56cad.html",
+    "it": "https://ticketwhistle.com/it/vendite/liverpool-porto-champions-league-wed-9-dec-20-45b56cad.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/liverpool-porto-champions-league-wed-9-dec-20-45b56cad.html",
+    "de": "https://ticketwhistle.com/de/verkauf/liverpool-porto-champions-league-wed-9-dec-20-45b56cad.html"
    }
   }
  ]

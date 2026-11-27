@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "newcastle",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/newcastle.html",
    "en": "https://ticketwhistle.com/en/tickets/newcastle.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/newcastle.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/newcastle.html",
+   "it": "https://ticketwhistle.com/it/biglietti/newcastle.html",
+   "fr": "https://ticketwhistle.com/fr/billets/newcastle.html",
+   "de": "https://ticketwhistle.com/de/tickets/newcastle.html"
   },
   "official_alternatives": [
    {
@@ -55,14 +58,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-additional-mags-member-ballot-brighton-and-hove-b7eb263e",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-additional-mags-member-ballot-brighton-and-hove-b7eb263e.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-additional-mags-member-ballot-brighton-and-hove-b7eb263e.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-additional-mags-member-ballot-brighton-and-hove-b7eb263e.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-additional-mags-member-ballot-brighton-and-hove-b7eb263e.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-additional-mags-member-ballot-brighton-and-hove-b7eb263e.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-additional-mags-member-ballot-brighton-and-hove-b7eb263e.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-additional-mags-member-ballot-brighton-and-hove-b7eb263e.html"
    }
   },
   {
@@ -83,14 +89,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-additional-mags-member-ballot-brighton-and-hove-ebfdb4c7",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-additional-mags-member-ballot-brighton-and-hove-ebfdb4c7.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-additional-mags-member-ballot-brighton-and-hove-ebfdb4c7.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-additional-mags-member-ballot-brighton-and-hove-ebfdb4c7.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-additional-mags-member-ballot-brighton-and-hove-ebfdb4c7.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-additional-mags-member-ballot-brighton-and-hove-ebfdb4c7.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-additional-mags-member-ballot-brighton-and-hove-ebfdb4c7.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-additional-mags-member-ballot-brighton-and-hove-ebfdb4c7.html"
    }
   },
   {
@@ -111,14 +120,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-additional-mags-member-ballot-brighton-and-hove-1fc05501",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-additional-mags-member-ballot-brighton-and-hove-1fc05501.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-additional-mags-member-ballot-brighton-and-hove-1fc05501.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-additional-mags-member-ballot-brighton-and-hove-1fc05501.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-additional-mags-member-ballot-brighton-and-hove-1fc05501.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-additional-mags-member-ballot-brighton-and-hove-1fc05501.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-additional-mags-member-ballot-brighton-and-hove-1fc05501.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-additional-mags-member-ballot-brighton-and-hove-1fc05501.html"
    }
   },
   {
@@ -139,14 +151,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-ticket-application-window-closed-brentford-battle-e2289b26",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-ticket-application-window-closed-brentford-battle-e2289b26.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-ticket-application-window-closed-brentford-battle-e2289b26.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-ticket-application-window-closed-brentford-battle-e2289b26.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-ticket-application-window-closed-brentford-battle-e2289b26.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-ticket-application-window-closed-brentford-battle-e2289b26.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-ticket-application-window-closed-brentford-battle-e2289b26.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-ticket-application-window-closed-brentford-battle-e2289b26.html"
    }
   },
   {
@@ -167,14 +182,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-ticket-application-window-closed-brentford-battle-70fe7241",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-ticket-application-window-closed-brentford-battle-70fe7241.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-ticket-application-window-closed-brentford-battle-70fe7241.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-ticket-application-window-closed-brentford-battle-70fe7241.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-ticket-application-window-closed-brentford-battle-70fe7241.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-ticket-application-window-closed-brentford-battle-70fe7241.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-ticket-application-window-closed-brentford-battle-70fe7241.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-ticket-application-window-closed-brentford-battle-70fe7241.html"
    }
   },
   {
@@ -195,14 +213,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-ticket-application-window-closed-ipswich-clash-e4975984",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-ticket-application-window-closed-ipswich-clash-e4975984.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-ticket-application-window-closed-ipswich-clash-e4975984.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-ticket-application-window-closed-ipswich-clash-e4975984.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-ticket-application-window-closed-ipswich-clash-e4975984.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-ticket-application-window-closed-ipswich-clash-e4975984.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-ticket-application-window-closed-ipswich-clash-e4975984.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-ticket-application-window-closed-ipswich-clash-e4975984.html"
    }
   },
   {
@@ -223,14 +244,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-ticket-application-window-closed-ipswich-clash-12384d68",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-ticket-application-window-closed-ipswich-clash-12384d68.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-ticket-application-window-closed-ipswich-clash-12384d68.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-ticket-application-window-closed-ipswich-clash-12384d68.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-ticket-application-window-closed-ipswich-clash-12384d68.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-ticket-application-window-closed-ipswich-clash-12384d68.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-ticket-application-window-closed-ipswich-clash-12384d68.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-ticket-application-window-closed-ipswich-clash-12384d68.html"
    }
   },
   {
@@ -251,14 +275,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-tickets-derby-at-sunderland-on-sale-now-ab856440",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-tickets-derby-at-sunderland-on-sale-now-ab856440.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-tickets-derby-at-sunderland-on-sale-now-ab856440.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-tickets-derby-at-sunderland-on-sale-now-ab856440.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-tickets-derby-at-sunderland-on-sale-now-ab856440.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-tickets-derby-at-sunderland-on-sale-now-ab856440.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-tickets-derby-at-sunderland-on-sale-now-ab856440.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-tickets-derby-at-sunderland-on-sale-now-ab856440.html"
    }
   },
   {
@@ -279,14 +306,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-tickets-derby-at-sunderland-on-sale-now-4298112c",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-tickets-derby-at-sunderland-on-sale-now-4298112c.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-tickets-derby-at-sunderland-on-sale-now-4298112c.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-tickets-derby-at-sunderland-on-sale-now-4298112c.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-tickets-derby-at-sunderland-on-sale-now-4298112c.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-tickets-derby-at-sunderland-on-sale-now-4298112c.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-tickets-derby-at-sunderland-on-sale-now-4298112c.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-tickets-derby-at-sunderland-on-sale-now-4298112c.html"
    }
   },
   {
@@ -307,14 +337,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-tickets-toffees-trip-on-sale-now-d2ba8817",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-tickets-toffees-trip-on-sale-now-d2ba8817.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-tickets-toffees-trip-on-sale-now-d2ba8817.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-tickets-toffees-trip-on-sale-now-d2ba8817.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-tickets-toffees-trip-on-sale-now-d2ba8817.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-tickets-toffees-trip-on-sale-now-d2ba8817.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-tickets-toffees-trip-on-sale-now-d2ba8817.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-tickets-toffees-trip-on-sale-now-d2ba8817.html"
    }
   },
   {
@@ -335,14 +368,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-ticket-application-window-closed-fulham-trip-2ab7b856",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-ticket-application-window-closed-fulham-trip-2ab7b856.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-ticket-application-window-closed-fulham-trip-2ab7b856.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-ticket-application-window-closed-fulham-trip-2ab7b856.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-ticket-application-window-closed-fulham-trip-2ab7b856.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-ticket-application-window-closed-fulham-trip-2ab7b856.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-ticket-application-window-closed-fulham-trip-2ab7b856.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-ticket-application-window-closed-fulham-trip-2ab7b856.html"
    }
   },
   {
@@ -363,14 +399,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-ticket-application-window-closed-fulham-trip-2a9d517f",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-ticket-application-window-closed-fulham-trip-2a9d517f.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-ticket-application-window-closed-fulham-trip-2a9d517f.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-ticket-application-window-closed-fulham-trip-2a9d517f.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-ticket-application-window-closed-fulham-trip-2a9d517f.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-ticket-application-window-closed-fulham-trip-2a9d517f.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-ticket-application-window-closed-fulham-trip-2a9d517f.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-ticket-application-window-closed-fulham-trip-2a9d517f.html"
    }
   },
   {
@@ -391,14 +430,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/newcastle.html",
    "official_tickets": "https://www.newcastleunited.com/en/tickets",
    "slug": "newcastle-tickets-toffees-trip-on-sale-now-0a675cab",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/newcastle-tickets-toffees-trip-on-sale-now-0a675cab.html",
     "en": "https://ticketwhistle.com/en/sales/newcastle-tickets-toffees-trip-on-sale-now-0a675cab.html",
-    "ar": "https://ticketwhistle.com/ar/sales/newcastle-tickets-toffees-trip-on-sale-now-0a675cab.html"
+    "ar": "https://ticketwhistle.com/ar/sales/newcastle-tickets-toffees-trip-on-sale-now-0a675cab.html",
+    "it": "https://ticketwhistle.com/it/vendite/newcastle-tickets-toffees-trip-on-sale-now-0a675cab.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/newcastle-tickets-toffees-trip-on-sale-now-0a675cab.html",
+    "de": "https://ticketwhistle.com/de/verkauf/newcastle-tickets-toffees-trip-on-sale-now-0a675cab.html"
    }
   }
  ]

@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "bologna",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/bologna.html",
    "en": "https://ticketwhistle.com/en/tickets/bologna.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/bologna.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/bologna.html",
+   "it": "https://ticketwhistle.com/it/biglietti/bologna.html",
+   "fr": "https://ticketwhistle.com/fr/billets/bologna.html",
+   "de": "https://ticketwhistle.com/de/tickets/bologna.html"
   },
   "official_alternatives": []
  },
@@ -50,14 +53,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/bologna.html",
    "official_tickets": "https://www.bolognafc.it/biglietti/",
    "slug": "bologna-genoa-6ed9b8a4",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/bologna-genoa-6ed9b8a4.html",
     "en": "https://ticketwhistle.com/en/sales/bologna-genoa-6ed9b8a4.html",
-    "ar": "https://ticketwhistle.com/ar/sales/bologna-genoa-6ed9b8a4.html"
+    "ar": "https://ticketwhistle.com/ar/sales/bologna-genoa-6ed9b8a4.html",
+    "it": "https://ticketwhistle.com/it/vendite/bologna-genoa-6ed9b8a4.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/bologna-genoa-6ed9b8a4.html",
+    "de": "https://ticketwhistle.com/de/verkauf/bologna-genoa-6ed9b8a4.html"
    }
   },
   {
@@ -78,14 +84,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/bologna.html",
    "official_tickets": "https://www.bolognafc.it/biglietti/",
    "slug": "bologna-palermo-2f405ffd",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/bologna-palermo-2f405ffd.html",
     "en": "https://ticketwhistle.com/en/sales/bologna-palermo-2f405ffd.html",
-    "ar": "https://ticketwhistle.com/ar/sales/bologna-palermo-2f405ffd.html"
+    "ar": "https://ticketwhistle.com/ar/sales/bologna-palermo-2f405ffd.html",
+    "it": "https://ticketwhistle.com/it/vendite/bologna-palermo-2f405ffd.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/bologna-palermo-2f405ffd.html",
+    "de": "https://ticketwhistle.com/de/verkauf/bologna-palermo-2f405ffd.html"
    }
   },
   {
@@ -106,14 +115,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/bologna.html",
    "official_tickets": "https://www.bolognafc.it/biglietti/",
    "slug": "bologna-palermo-ffdfcf10",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/bologna-palermo-ffdfcf10.html",
     "en": "https://ticketwhistle.com/en/sales/bologna-palermo-ffdfcf10.html",
-    "ar": "https://ticketwhistle.com/ar/sales/bologna-palermo-ffdfcf10.html"
+    "ar": "https://ticketwhistle.com/ar/sales/bologna-palermo-ffdfcf10.html",
+    "it": "https://ticketwhistle.com/it/vendite/bologna-palermo-ffdfcf10.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/bologna-palermo-ffdfcf10.html",
+    "de": "https://ticketwhistle.com/de/verkauf/bologna-palermo-ffdfcf10.html"
    }
   }
  ]

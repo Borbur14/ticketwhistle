@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "levante",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/levante.html",
    "en": "https://ticketwhistle.com/en/tickets/levante.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/levante.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/levante.html",
+   "it": "https://ticketwhistle.com/it/biglietti/levante.html",
+   "fr": "https://ticketwhistle.com/fr/billets/levante.html",
+   "de": "https://ticketwhistle.com/de/tickets/levante.html"
   },
   "official_alternatives": []
  },
@@ -50,14 +53,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/levante.html",
    "official_tickets": "https://ticketing.levanteud.com/es",
    "slug": "levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html",
     "en": "https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html",
-    "ar": "https://ticketwhistle.com/ar/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html"
+    "ar": "https://ticketwhistle.com/ar/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html",
+    "it": "https://ticketwhistle.com/it/vendite/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html",
+    "de": "https://ticketwhistle.com/de/verkauf/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html"
    }
   },
   {
@@ -78,14 +84,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/levante.html",
    "official_tickets": "https://ticketing.levanteud.com/es",
    "slug": "levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html",
     "en": "https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html",
-    "ar": "https://ticketwhistle.com/ar/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html"
+    "ar": "https://ticketwhistle.com/ar/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html",
+    "it": "https://ticketwhistle.com/it/vendite/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html",
+    "de": "https://ticketwhistle.com/de/verkauf/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html"
    }
   },
   {
@@ -106,14 +115,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/levante.html",
    "official_tickets": "https://ticketing.levanteud.com/es",
    "slug": "levante-venta-entradas-real-madrid-0ddaf040",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/levante-venta-entradas-real-madrid-0ddaf040.html",
     "en": "https://ticketwhistle.com/en/sales/levante-venta-entradas-real-madrid-0ddaf040.html",
-    "ar": "https://ticketwhistle.com/ar/sales/levante-venta-entradas-real-madrid-0ddaf040.html"
+    "ar": "https://ticketwhistle.com/ar/sales/levante-venta-entradas-real-madrid-0ddaf040.html",
+    "it": "https://ticketwhistle.com/it/vendite/levante-venta-entradas-real-madrid-0ddaf040.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/levante-venta-entradas-real-madrid-0ddaf040.html",
+    "de": "https://ticketwhistle.com/de/verkauf/levante-venta-entradas-real-madrid-0ddaf040.html"
    }
   },
   {
@@ -134,14 +146,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/levante.html",
    "official_tickets": "https://ticketing.levanteud.com/es",
    "slug": "levante-continuan-venta-entradas-partido-real-madrid-4ff9d435",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/levante-continuan-venta-entradas-partido-real-madrid-4ff9d435.html",
     "en": "https://ticketwhistle.com/en/sales/levante-continuan-venta-entradas-partido-real-madrid-4ff9d435.html",
-    "ar": "https://ticketwhistle.com/ar/sales/levante-continuan-venta-entradas-partido-real-madrid-4ff9d435.html"
+    "ar": "https://ticketwhistle.com/ar/sales/levante-continuan-venta-entradas-partido-real-madrid-4ff9d435.html",
+    "it": "https://ticketwhistle.com/it/vendite/levante-continuan-venta-entradas-partido-real-madrid-4ff9d435.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/levante-continuan-venta-entradas-partido-real-madrid-4ff9d435.html",
+    "de": "https://ticketwhistle.com/de/verkauf/levante-continuan-venta-entradas-partido-real-madrid-4ff9d435.html"
    }
   }
  ]

@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "coventry",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/coventry.html",
    "en": "https://ticketwhistle.com/en/tickets/coventry.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/coventry.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/coventry.html",
+   "it": "https://ticketwhistle.com/it/biglietti/coventry.html",
+   "fr": "https://ticketwhistle.com/fr/billets/coventry.html",
+   "de": "https://ticketwhistle.com/de/tickets/coventry.html"
   },
   "official_alternatives": [
    {
@@ -55,14 +58,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/coventry.html",
    "official_tickets": "https://www.eticketing.co.uk/ccfc",
    "slug": "coventry-ticket-exchange-open-chelsea-h-b5fdbe5c",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/coventry-ticket-exchange-open-chelsea-h-b5fdbe5c.html",
     "en": "https://ticketwhistle.com/en/sales/coventry-ticket-exchange-open-chelsea-h-b5fdbe5c.html",
-    "ar": "https://ticketwhistle.com/ar/sales/coventry-ticket-exchange-open-chelsea-h-b5fdbe5c.html"
+    "ar": "https://ticketwhistle.com/ar/sales/coventry-ticket-exchange-open-chelsea-h-b5fdbe5c.html",
+    "it": "https://ticketwhistle.com/it/vendite/coventry-ticket-exchange-open-chelsea-h-b5fdbe5c.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/coventry-ticket-exchange-open-chelsea-h-b5fdbe5c.html",
+    "de": "https://ticketwhistle.com/de/verkauf/coventry-ticket-exchange-open-chelsea-h-b5fdbe5c.html"
    }
   },
   {
@@ -83,14 +89,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/coventry.html",
    "official_tickets": "https://www.eticketing.co.uk/ccfc",
    "slug": "coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-39d9904b",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-39d9904b.html",
     "en": "https://ticketwhistle.com/en/sales/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-39d9904b.html",
-    "ar": "https://ticketwhistle.com/ar/sales/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-39d9904b.html"
+    "ar": "https://ticketwhistle.com/ar/sales/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-39d9904b.html",
+    "it": "https://ticketwhistle.com/it/vendite/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-39d9904b.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-39d9904b.html",
+    "de": "https://ticketwhistle.com/de/verkauf/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-39d9904b.html"
    }
   },
   {
@@ -111,14 +120,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/coventry.html",
    "official_tickets": "https://www.eticketing.co.uk/ccfc",
    "slug": "coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-323d70ca",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-323d70ca.html",
     "en": "https://ticketwhistle.com/en/sales/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-323d70ca.html",
-    "ar": "https://ticketwhistle.com/ar/sales/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-323d70ca.html"
+    "ar": "https://ticketwhistle.com/ar/sales/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-323d70ca.html",
+    "it": "https://ticketwhistle.com/it/vendite/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-323d70ca.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-323d70ca.html",
+    "de": "https://ticketwhistle.com/de/verkauf/coventry-aston-villa-chelsea-brentford-h-fixtures-ticket-323d70ca.html"
    }
   }
  ]

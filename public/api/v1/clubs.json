@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "clubs": [
   {
@@ -28,7 +28,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/arsenal.html",
     "en": "https://ticketwhistle.com/en/tickets/arsenal.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/arsenal.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/arsenal.html",
+    "it": "https://ticketwhistle.com/it/biglietti/arsenal.html",
+    "fr": "https://ticketwhistle.com/fr/billets/arsenal.html",
+    "de": "https://ticketwhistle.com/de/tickets/arsenal.html"
    },
    "official_alternatives": [
     {
@@ -63,7 +66,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/aston-villa.html",
     "en": "https://ticketwhistle.com/en/tickets/aston-villa.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/aston-villa.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/aston-villa.html",
+    "it": "https://ticketwhistle.com/it/biglietti/aston-villa.html",
+    "fr": "https://ticketwhistle.com/fr/billets/aston-villa.html",
+    "de": "https://ticketwhistle.com/de/tickets/aston-villa.html"
    },
    "official_alternatives": [
     {
@@ -94,7 +100,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/bournemouth.html",
     "en": "https://ticketwhistle.com/en/tickets/bournemouth.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/bournemouth.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/bournemouth.html",
+    "it": "https://ticketwhistle.com/it/biglietti/bournemouth.html",
+    "fr": "https://ticketwhistle.com/fr/billets/bournemouth.html",
+    "de": "https://ticketwhistle.com/de/tickets/bournemouth.html"
    },
    "official_alternatives": [
     {
@@ -125,7 +134,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/brentford.html",
     "en": "https://ticketwhistle.com/en/tickets/brentford.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/brentford.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/brentford.html",
+    "it": "https://ticketwhistle.com/it/biglietti/brentford.html",
+    "fr": "https://ticketwhistle.com/fr/billets/brentford.html",
+    "de": "https://ticketwhistle.com/de/tickets/brentford.html"
    },
    "official_alternatives": []
   },
@@ -151,7 +163,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/brighton.html",
     "en": "https://ticketwhistle.com/en/tickets/brighton.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/brighton.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/brighton.html",
+    "it": "https://ticketwhistle.com/it/biglietti/brighton.html",
+    "fr": "https://ticketwhistle.com/fr/billets/brighton.html",
+    "de": "https://ticketwhistle.com/de/tickets/brighton.html"
    },
    "official_alternatives": [
     {
@@ -182,7 +197,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/chelsea.html",
     "en": "https://ticketwhistle.com/en/tickets/chelsea.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/chelsea.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/chelsea.html",
+    "it": "https://ticketwhistle.com/it/biglietti/chelsea.html",
+    "fr": "https://ticketwhistle.com/fr/billets/chelsea.html",
+    "de": "https://ticketwhistle.com/de/tickets/chelsea.html"
    },
    "official_alternatives": [
     {
@@ -217,7 +235,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/coventry.html",
     "en": "https://ticketwhistle.com/en/tickets/coventry.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/coventry.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/coventry.html",
+    "it": "https://ticketwhistle.com/it/biglietti/coventry.html",
+    "fr": "https://ticketwhistle.com/fr/billets/coventry.html",
+    "de": "https://ticketwhistle.com/de/tickets/coventry.html"
    },
    "official_alternatives": [
     {
@@ -248,7 +269,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/crystal-palace.html",
     "en": "https://ticketwhistle.com/en/tickets/crystal-palace.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/crystal-palace.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/crystal-palace.html",
+    "it": "https://ticketwhistle.com/it/biglietti/crystal-palace.html",
+    "fr": "https://ticketwhistle.com/fr/billets/crystal-palace.html",
+    "de": "https://ticketwhistle.com/de/tickets/crystal-palace.html"
    },
    "official_alternatives": [
     {
@@ -283,7 +307,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/everton.html",
     "en": "https://ticketwhistle.com/en/tickets/everton.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/everton.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/everton.html",
+    "it": "https://ticketwhistle.com/it/biglietti/everton.html",
+    "fr": "https://ticketwhistle.com/fr/billets/everton.html",
+    "de": "https://ticketwhistle.com/de/tickets/everton.html"
    },
    "official_alternatives": [
     {
@@ -314,7 +341,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/fulham.html",
     "en": "https://ticketwhistle.com/en/tickets/fulham.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/fulham.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/fulham.html",
+    "it": "https://ticketwhistle.com/it/biglietti/fulham.html",
+    "fr": "https://ticketwhistle.com/fr/billets/fulham.html",
+    "de": "https://ticketwhistle.com/de/tickets/fulham.html"
    },
    "official_alternatives": [
     {
@@ -345,7 +375,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/hull.html",
     "en": "https://ticketwhistle.com/en/tickets/hull.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/hull.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/hull.html",
+    "it": "https://ticketwhistle.com/it/biglietti/hull.html",
+    "fr": "https://ticketwhistle.com/fr/billets/hull.html",
+    "de": "https://ticketwhistle.com/de/tickets/hull.html"
    },
    "official_alternatives": [
     {
@@ -376,7 +409,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/ipswich.html",
     "en": "https://ticketwhistle.com/en/tickets/ipswich.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/ipswich.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/ipswich.html",
+    "it": "https://ticketwhistle.com/it/biglietti/ipswich.html",
+    "fr": "https://ticketwhistle.com/fr/billets/ipswich.html",
+    "de": "https://ticketwhistle.com/de/tickets/ipswich.html"
    },
    "official_alternatives": [
     {
@@ -407,7 +443,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/leeds.html",
     "en": "https://ticketwhistle.com/en/tickets/leeds.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/leeds.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/leeds.html",
+    "it": "https://ticketwhistle.com/it/biglietti/leeds.html",
+    "fr": "https://ticketwhistle.com/fr/billets/leeds.html",
+    "de": "https://ticketwhistle.com/de/tickets/leeds.html"
    },
    "official_alternatives": []
   },
@@ -433,7 +472,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/liverpool.html",
     "en": "https://ticketwhistle.com/en/tickets/liverpool.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/liverpool.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/liverpool.html",
+    "it": "https://ticketwhistle.com/it/biglietti/liverpool.html",
+    "fr": "https://ticketwhistle.com/fr/billets/liverpool.html",
+    "de": "https://ticketwhistle.com/de/tickets/liverpool.html"
    },
    "official_alternatives": [
     {
@@ -468,7 +510,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/man-city.html",
     "en": "https://ticketwhistle.com/en/tickets/man-city.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/man-city.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/man-city.html",
+    "it": "https://ticketwhistle.com/it/biglietti/man-city.html",
+    "fr": "https://ticketwhistle.com/fr/billets/man-city.html",
+    "de": "https://ticketwhistle.com/de/tickets/man-city.html"
    },
    "official_alternatives": [
     {
@@ -499,7 +544,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/man-utd.html",
     "en": "https://ticketwhistle.com/en/tickets/man-utd.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/man-utd.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/man-utd.html",
+    "it": "https://ticketwhistle.com/it/biglietti/man-utd.html",
+    "fr": "https://ticketwhistle.com/fr/billets/man-utd.html",
+    "de": "https://ticketwhistle.com/de/tickets/man-utd.html"
    },
    "official_alternatives": []
   },
@@ -525,7 +573,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/newcastle.html",
     "en": "https://ticketwhistle.com/en/tickets/newcastle.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/newcastle.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/newcastle.html",
+    "it": "https://ticketwhistle.com/it/biglietti/newcastle.html",
+    "fr": "https://ticketwhistle.com/fr/billets/newcastle.html",
+    "de": "https://ticketwhistle.com/de/tickets/newcastle.html"
    },
    "official_alternatives": [
     {
@@ -556,7 +607,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/forest.html",
     "en": "https://ticketwhistle.com/en/tickets/forest.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/forest.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/forest.html",
+    "it": "https://ticketwhistle.com/it/biglietti/forest.html",
+    "fr": "https://ticketwhistle.com/fr/billets/forest.html",
+    "de": "https://ticketwhistle.com/de/tickets/forest.html"
    },
    "official_alternatives": [
     {
@@ -591,7 +645,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/sunderland.html",
     "en": "https://ticketwhistle.com/en/tickets/sunderland.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/sunderland.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/sunderland.html",
+    "it": "https://ticketwhistle.com/it/biglietti/sunderland.html",
+    "fr": "https://ticketwhistle.com/fr/billets/sunderland.html",
+    "de": "https://ticketwhistle.com/de/tickets/sunderland.html"
    },
    "official_alternatives": [
     {
@@ -622,7 +679,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/spurs.html",
     "en": "https://ticketwhistle.com/en/tickets/spurs.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/spurs.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/spurs.html",
+    "it": "https://ticketwhistle.com/it/biglietti/spurs.html",
+    "fr": "https://ticketwhistle.com/fr/billets/spurs.html",
+    "de": "https://ticketwhistle.com/de/tickets/spurs.html"
    },
    "official_alternatives": [
     {
@@ -657,7 +717,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/real-madrid.html",
     "en": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/real-madrid.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/real-madrid.html",
+    "it": "https://ticketwhistle.com/it/biglietti/real-madrid.html",
+    "fr": "https://ticketwhistle.com/fr/billets/real-madrid.html",
+    "de": "https://ticketwhistle.com/de/tickets/real-madrid.html"
    },
    "official_alternatives": [
     {
@@ -688,7 +751,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/inter.html",
     "en": "https://ticketwhistle.com/en/tickets/inter.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/inter.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/inter.html",
+    "it": "https://ticketwhistle.com/it/biglietti/inter.html",
+    "fr": "https://ticketwhistle.com/fr/billets/inter.html",
+    "de": "https://ticketwhistle.com/de/tickets/inter.html"
    },
    "official_alternatives": []
   },
@@ -714,7 +780,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/barcelona.html",
     "en": "https://ticketwhistle.com/en/tickets/barcelona.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/barcelona.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/barcelona.html",
+    "it": "https://ticketwhistle.com/it/biglietti/barcelona.html",
+    "fr": "https://ticketwhistle.com/fr/billets/barcelona.html",
+    "de": "https://ticketwhistle.com/de/tickets/barcelona.html"
    },
    "official_alternatives": [
     {
@@ -745,7 +814,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/atletico.html",
     "en": "https://ticketwhistle.com/en/tickets/atletico.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/atletico.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/atletico.html",
+    "it": "https://ticketwhistle.com/it/biglietti/atletico.html",
+    "fr": "https://ticketwhistle.com/fr/billets/atletico.html",
+    "de": "https://ticketwhistle.com/de/tickets/atletico.html"
    },
    "official_alternatives": []
   },
@@ -771,7 +843,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/roma.html",
     "en": "https://ticketwhistle.com/en/tickets/roma.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/roma.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/roma.html",
+    "it": "https://ticketwhistle.com/it/biglietti/roma.html",
+    "fr": "https://ticketwhistle.com/fr/billets/roma.html",
+    "de": "https://ticketwhistle.com/de/tickets/roma.html"
    },
    "official_alternatives": []
   },
@@ -797,7 +872,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/betis.html",
     "en": "https://ticketwhistle.com/en/tickets/betis.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/betis.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/betis.html",
+    "it": "https://ticketwhistle.com/it/biglietti/betis.html",
+    "fr": "https://ticketwhistle.com/fr/billets/betis.html",
+    "de": "https://ticketwhistle.com/de/tickets/betis.html"
    },
    "official_alternatives": [
     {
@@ -828,7 +906,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/napoli.html",
     "en": "https://ticketwhistle.com/en/tickets/napoli.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/napoli.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/napoli.html",
+    "it": "https://ticketwhistle.com/it/biglietti/napoli.html",
+    "fr": "https://ticketwhistle.com/fr/billets/napoli.html",
+    "de": "https://ticketwhistle.com/de/tickets/napoli.html"
    },
    "official_alternatives": []
   },
@@ -854,7 +935,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/villarreal.html",
     "en": "https://ticketwhistle.com/en/tickets/villarreal.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/villarreal.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/villarreal.html",
+    "it": "https://ticketwhistle.com/it/biglietti/villarreal.html",
+    "fr": "https://ticketwhistle.com/fr/billets/villarreal.html",
+    "de": "https://ticketwhistle.com/de/tickets/villarreal.html"
    },
    "official_alternatives": [
     {
@@ -885,7 +969,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/como.html",
     "en": "https://ticketwhistle.com/en/tickets/como.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/como.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/como.html",
+    "it": "https://ticketwhistle.com/it/biglietti/como.html",
+    "fr": "https://ticketwhistle.com/fr/billets/como.html",
+    "de": "https://ticketwhistle.com/de/tickets/como.html"
    },
    "official_alternatives": []
   },
@@ -911,7 +998,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/alaves.html",
     "en": "https://ticketwhistle.com/en/tickets/alaves.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/alaves.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/alaves.html",
+    "it": "https://ticketwhistle.com/it/biglietti/alaves.html",
+    "fr": "https://ticketwhistle.com/fr/billets/alaves.html",
+    "de": "https://ticketwhistle.com/de/tickets/alaves.html"
    },
    "official_alternatives": [
     {
@@ -942,7 +1032,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/athletic.html",
     "en": "https://ticketwhistle.com/en/tickets/athletic.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/athletic.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/athletic.html",
+    "it": "https://ticketwhistle.com/it/biglietti/athletic.html",
+    "fr": "https://ticketwhistle.com/fr/billets/athletic.html",
+    "de": "https://ticketwhistle.com/de/tickets/athletic.html"
    },
    "official_alternatives": [
     {
@@ -973,7 +1066,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/celta.html",
     "en": "https://ticketwhistle.com/en/tickets/celta.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/celta.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/celta.html",
+    "it": "https://ticketwhistle.com/it/biglietti/celta.html",
+    "fr": "https://ticketwhistle.com/fr/billets/celta.html",
+    "de": "https://ticketwhistle.com/de/tickets/celta.html"
    },
    "official_alternatives": [
     {
@@ -1004,7 +1100,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/deportivo.html",
     "en": "https://ticketwhistle.com/en/tickets/deportivo.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/deportivo.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/deportivo.html",
+    "it": "https://ticketwhistle.com/it/biglietti/deportivo.html",
+    "fr": "https://ticketwhistle.com/fr/billets/deportivo.html",
+    "de": "https://ticketwhistle.com/de/tickets/deportivo.html"
    },
    "official_alternatives": [
     {
@@ -1035,7 +1134,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/elche.html",
     "en": "https://ticketwhistle.com/en/tickets/elche.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/elche.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/elche.html",
+    "it": "https://ticketwhistle.com/it/biglietti/elche.html",
+    "fr": "https://ticketwhistle.com/fr/billets/elche.html",
+    "de": "https://ticketwhistle.com/de/tickets/elche.html"
    },
    "official_alternatives": []
   },
@@ -1061,7 +1163,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/espanyol.html",
     "en": "https://ticketwhistle.com/en/tickets/espanyol.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/espanyol.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/espanyol.html",
+    "it": "https://ticketwhistle.com/it/biglietti/espanyol.html",
+    "fr": "https://ticketwhistle.com/fr/billets/espanyol.html",
+    "de": "https://ticketwhistle.com/de/tickets/espanyol.html"
    },
    "official_alternatives": [
     {
@@ -1092,7 +1197,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/getafe.html",
     "en": "https://ticketwhistle.com/en/tickets/getafe.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/getafe.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/getafe.html",
+    "it": "https://ticketwhistle.com/it/biglietti/getafe.html",
+    "fr": "https://ticketwhistle.com/fr/billets/getafe.html",
+    "de": "https://ticketwhistle.com/de/tickets/getafe.html"
    },
    "official_alternatives": []
   },
@@ -1118,7 +1226,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/levante.html",
     "en": "https://ticketwhistle.com/en/tickets/levante.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/levante.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/levante.html",
+    "it": "https://ticketwhistle.com/it/biglietti/levante.html",
+    "fr": "https://ticketwhistle.com/fr/billets/levante.html",
+    "de": "https://ticketwhistle.com/de/tickets/levante.html"
    },
    "official_alternatives": []
   },
@@ -1144,7 +1255,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/osasuna.html",
     "en": "https://ticketwhistle.com/en/tickets/osasuna.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/osasuna.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/osasuna.html",
+    "it": "https://ticketwhistle.com/it/biglietti/osasuna.html",
+    "fr": "https://ticketwhistle.com/fr/billets/osasuna.html",
+    "de": "https://ticketwhistle.com/de/tickets/osasuna.html"
    },
    "official_alternatives": [
     {
@@ -1175,7 +1289,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/racing.html",
     "en": "https://ticketwhistle.com/en/tickets/racing.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/racing.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/racing.html",
+    "it": "https://ticketwhistle.com/it/biglietti/racing.html",
+    "fr": "https://ticketwhistle.com/fr/billets/racing.html",
+    "de": "https://ticketwhistle.com/de/tickets/racing.html"
    },
    "official_alternatives": []
   },
@@ -1201,7 +1318,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/rayo.html",
     "en": "https://ticketwhistle.com/en/tickets/rayo.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/rayo.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/rayo.html",
+    "it": "https://ticketwhistle.com/it/biglietti/rayo.html",
+    "fr": "https://ticketwhistle.com/fr/billets/rayo.html",
+    "de": "https://ticketwhistle.com/de/tickets/rayo.html"
    },
    "official_alternatives": []
   },
@@ -1227,7 +1347,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/real-sociedad.html",
     "en": "https://ticketwhistle.com/en/tickets/real-sociedad.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/real-sociedad.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/real-sociedad.html",
+    "it": "https://ticketwhistle.com/it/biglietti/real-sociedad.html",
+    "fr": "https://ticketwhistle.com/fr/billets/real-sociedad.html",
+    "de": "https://ticketwhistle.com/de/tickets/real-sociedad.html"
    },
    "official_alternatives": [
     {
@@ -1258,7 +1381,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/sevilla.html",
     "en": "https://ticketwhistle.com/en/tickets/sevilla.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/sevilla.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/sevilla.html",
+    "it": "https://ticketwhistle.com/it/biglietti/sevilla.html",
+    "fr": "https://ticketwhistle.com/fr/billets/sevilla.html",
+    "de": "https://ticketwhistle.com/de/tickets/sevilla.html"
    },
    "official_alternatives": [
     {
@@ -1289,7 +1415,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/valencia.html",
     "en": "https://ticketwhistle.com/en/tickets/valencia.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/valencia.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/valencia.html",
+    "it": "https://ticketwhistle.com/it/biglietti/valencia.html",
+    "fr": "https://ticketwhistle.com/fr/billets/valencia.html",
+    "de": "https://ticketwhistle.com/de/tickets/valencia.html"
    },
    "official_alternatives": [
     {
@@ -1320,7 +1449,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/malaga.html",
     "en": "https://ticketwhistle.com/en/tickets/malaga.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/malaga.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/malaga.html",
+    "it": "https://ticketwhistle.com/it/biglietti/malaga.html",
+    "fr": "https://ticketwhistle.com/fr/billets/malaga.html",
+    "de": "https://ticketwhistle.com/de/tickets/malaga.html"
    },
    "official_alternatives": [
     {
@@ -1351,7 +1483,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/atalanta.html",
     "en": "https://ticketwhistle.com/en/tickets/atalanta.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/atalanta.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/atalanta.html",
+    "it": "https://ticketwhistle.com/it/biglietti/atalanta.html",
+    "fr": "https://ticketwhistle.com/fr/billets/atalanta.html",
+    "de": "https://ticketwhistle.com/de/tickets/atalanta.html"
    },
    "official_alternatives": []
   },
@@ -1377,7 +1512,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/bologna.html",
     "en": "https://ticketwhistle.com/en/tickets/bologna.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/bologna.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/bologna.html",
+    "it": "https://ticketwhistle.com/it/biglietti/bologna.html",
+    "fr": "https://ticketwhistle.com/fr/billets/bologna.html",
+    "de": "https://ticketwhistle.com/de/tickets/bologna.html"
    },
    "official_alternatives": []
   },
@@ -1403,7 +1541,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/cagliari.html",
     "en": "https://ticketwhistle.com/en/tickets/cagliari.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/cagliari.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/cagliari.html",
+    "it": "https://ticketwhistle.com/it/biglietti/cagliari.html",
+    "fr": "https://ticketwhistle.com/fr/billets/cagliari.html",
+    "de": "https://ticketwhistle.com/de/tickets/cagliari.html"
    },
    "official_alternatives": []
   },
@@ -1429,7 +1570,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/fiorentina.html",
     "en": "https://ticketwhistle.com/en/tickets/fiorentina.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/fiorentina.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/fiorentina.html",
+    "it": "https://ticketwhistle.com/it/biglietti/fiorentina.html",
+    "fr": "https://ticketwhistle.com/fr/billets/fiorentina.html",
+    "de": "https://ticketwhistle.com/de/tickets/fiorentina.html"
    },
    "official_alternatives": []
   },
@@ -1455,7 +1599,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/frosinone.html",
     "en": "https://ticketwhistle.com/en/tickets/frosinone.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/frosinone.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/frosinone.html",
+    "it": "https://ticketwhistle.com/it/biglietti/frosinone.html",
+    "fr": "https://ticketwhistle.com/fr/billets/frosinone.html",
+    "de": "https://ticketwhistle.com/de/tickets/frosinone.html"
    },
    "official_alternatives": []
   },
@@ -1481,7 +1628,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/genoa.html",
     "en": "https://ticketwhistle.com/en/tickets/genoa.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/genoa.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/genoa.html",
+    "it": "https://ticketwhistle.com/it/biglietti/genoa.html",
+    "fr": "https://ticketwhistle.com/fr/billets/genoa.html",
+    "de": "https://ticketwhistle.com/de/tickets/genoa.html"
    },
    "official_alternatives": []
   },
@@ -1507,7 +1657,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/juventus.html",
     "en": "https://ticketwhistle.com/en/tickets/juventus.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/juventus.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/juventus.html",
+    "it": "https://ticketwhistle.com/it/biglietti/juventus.html",
+    "fr": "https://ticketwhistle.com/fr/billets/juventus.html",
+    "de": "https://ticketwhistle.com/de/tickets/juventus.html"
    },
    "official_alternatives": []
   },
@@ -1533,7 +1686,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/lazio.html",
     "en": "https://ticketwhistle.com/en/tickets/lazio.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/lazio.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/lazio.html",
+    "it": "https://ticketwhistle.com/it/biglietti/lazio.html",
+    "fr": "https://ticketwhistle.com/fr/billets/lazio.html",
+    "de": "https://ticketwhistle.com/de/tickets/lazio.html"
    },
    "official_alternatives": []
   },
@@ -1559,7 +1715,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/lecce.html",
     "en": "https://ticketwhistle.com/en/tickets/lecce.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/lecce.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/lecce.html",
+    "it": "https://ticketwhistle.com/it/biglietti/lecce.html",
+    "fr": "https://ticketwhistle.com/fr/billets/lecce.html",
+    "de": "https://ticketwhistle.com/de/tickets/lecce.html"
    },
    "official_alternatives": []
   },
@@ -1585,7 +1744,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/milan.html",
     "en": "https://ticketwhistle.com/en/tickets/milan.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/milan.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/milan.html",
+    "it": "https://ticketwhistle.com/it/biglietti/milan.html",
+    "fr": "https://ticketwhistle.com/fr/billets/milan.html",
+    "de": "https://ticketwhistle.com/de/tickets/milan.html"
    },
    "official_alternatives": []
   },
@@ -1611,7 +1773,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/monza.html",
     "en": "https://ticketwhistle.com/en/tickets/monza.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/monza.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/monza.html",
+    "it": "https://ticketwhistle.com/it/biglietti/monza.html",
+    "fr": "https://ticketwhistle.com/fr/billets/monza.html",
+    "de": "https://ticketwhistle.com/de/tickets/monza.html"
    },
    "official_alternatives": []
   },
@@ -1637,7 +1802,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/parma.html",
     "en": "https://ticketwhistle.com/en/tickets/parma.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/parma.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/parma.html",
+    "it": "https://ticketwhistle.com/it/biglietti/parma.html",
+    "fr": "https://ticketwhistle.com/fr/billets/parma.html",
+    "de": "https://ticketwhistle.com/de/tickets/parma.html"
    },
    "official_alternatives": []
   },
@@ -1663,7 +1831,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/sassuolo.html",
     "en": "https://ticketwhistle.com/en/tickets/sassuolo.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/sassuolo.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/sassuolo.html",
+    "it": "https://ticketwhistle.com/it/biglietti/sassuolo.html",
+    "fr": "https://ticketwhistle.com/fr/billets/sassuolo.html",
+    "de": "https://ticketwhistle.com/de/tickets/sassuolo.html"
    },
    "official_alternatives": []
   },
@@ -1689,7 +1860,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/torino.html",
     "en": "https://ticketwhistle.com/en/tickets/torino.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/torino.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/torino.html",
+    "it": "https://ticketwhistle.com/it/biglietti/torino.html",
+    "fr": "https://ticketwhistle.com/fr/billets/torino.html",
+    "de": "https://ticketwhistle.com/de/tickets/torino.html"
    },
    "official_alternatives": []
   },
@@ -1715,7 +1889,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/udinese.html",
     "en": "https://ticketwhistle.com/en/tickets/udinese.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/udinese.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/udinese.html",
+    "it": "https://ticketwhistle.com/it/biglietti/udinese.html",
+    "fr": "https://ticketwhistle.com/fr/billets/udinese.html",
+    "de": "https://ticketwhistle.com/de/tickets/udinese.html"
    },
    "official_alternatives": []
   },
@@ -1741,7 +1918,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas/venezia.html",
     "en": "https://ticketwhistle.com/en/tickets/venezia.html",
-    "ar": "https://ticketwhistle.com/ar/tickets/venezia.html"
+    "ar": "https://ticketwhistle.com/ar/tickets/venezia.html",
+    "it": "https://ticketwhistle.com/it/biglietti/venezia.html",
+    "fr": "https://ticketwhistle.com/fr/billets/venezia.html",
+    "de": "https://ticketwhistle.com/de/tickets/venezia.html"
    },
    "official_alternatives": []
   }
@@ -1773,7 +1953,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-champions-league.html",
     "en": "https://ticketwhistle.com/en/champions-league-tickets.html",
-    "ar": "https://ticketwhistle.com/ar/champions-league-tickets.html"
+    "ar": "https://ticketwhistle.com/ar/champions-league-tickets.html",
+    "it": "https://ticketwhistle.com/it/biglietti-champions-league.html",
+    "fr": "https://ticketwhistle.com/fr/billets-ligue-des-champions.html",
+    "de": "https://ticketwhistle.com/de/champions-league-tickets.html"
    }
   },
   {
@@ -1795,7 +1978,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-europa-league.html",
     "en": "https://ticketwhistle.com/en/europa-league-tickets.html",
-    "ar": "https://ticketwhistle.com/ar/europa-league-tickets.html"
+    "ar": "https://ticketwhistle.com/ar/europa-league-tickets.html",
+    "it": "https://ticketwhistle.com/it/biglietti-europa-league.html",
+    "fr": "https://ticketwhistle.com/fr/billets-ligue-europa.html",
+    "de": "https://ticketwhistle.com/de/europa-league-tickets.html"
    }
   },
   {
@@ -1813,7 +1999,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-conference-league.html",
     "en": "https://ticketwhistle.com/en/conference-league-tickets.html",
-    "ar": "https://ticketwhistle.com/ar/conference-league-tickets.html"
+    "ar": "https://ticketwhistle.com/ar/conference-league-tickets.html",
+    "it": "https://ticketwhistle.com/it/biglietti-conference-league.html",
+    "fr": "https://ticketwhistle.com/fr/billets-ligue-conference.html",
+    "de": "https://ticketwhistle.com/de/conference-league-tickets.html"
    }
   }
  ]

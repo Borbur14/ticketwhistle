@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "villarreal",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/villarreal.html",
    "en": "https://ticketwhistle.com/en/tickets/villarreal.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/villarreal.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/villarreal.html",
+   "it": "https://ticketwhistle.com/it/biglietti/villarreal.html",
+   "fr": "https://ticketwhistle.com/fr/billets/villarreal.html",
+   "de": "https://ticketwhistle.com/de/tickets/villarreal.html"
   },
   "official_alternatives": [
    {
@@ -55,14 +58,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T00:59:31.059781+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/villarreal.html",
    "official_tickets": "https://villarrealcf.es/es/venta-de-entradas/",
    "slug": "villarreal-venta-entradas-visitantes-sestao-river-351b3aae",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html",
     "en": "https://ticketwhistle.com/en/sales/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html",
-    "ar": "https://ticketwhistle.com/ar/sales/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html"
+    "ar": "https://ticketwhistle.com/ar/sales/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html",
+    "it": "https://ticketwhistle.com/it/vendite/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html",
+    "de": "https://ticketwhistle.com/de/verkauf/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html"
    }
   }
  ]

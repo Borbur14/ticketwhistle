@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "juventus",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/juventus.html",
    "en": "https://ticketwhistle.com/en/tickets/juventus.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/juventus.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/juventus.html",
+   "it": "https://ticketwhistle.com/it/biglietti/juventus.html",
+   "fr": "https://ticketwhistle.com/fr/billets/juventus.html",
+   "de": "https://ticketwhistle.com/de/tickets/juventus.html"
   },
   "official_alternatives": []
  },
@@ -57,7 +60,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-genoa-serie-2026-2027-656d1263.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-genoa-serie-2026-2027-656d1263.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-genoa-serie-2026-2027-656d1263.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-genoa-serie-2026-2027-656d1263.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-genoa-serie-2026-2027-656d1263.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-genoa-serie-2026-2027-656d1263.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-genoa-serie-2026-2027-656d1263.html"
    }
   },
   {
@@ -85,7 +91,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-cagliari-serie-2026-2027-02f3a9c6.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-cagliari-serie-2026-2027-02f3a9c6.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-cagliari-serie-2026-2027-02f3a9c6.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-cagliari-serie-2026-2027-02f3a9c6.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-cagliari-serie-2026-2027-02f3a9c6.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-cagliari-serie-2026-2027-02f3a9c6.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-cagliari-serie-2026-2027-02f3a9c6.html"
    }
   },
   {
@@ -113,7 +122,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-genoa-serie-2026-2027-70df484b.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-genoa-serie-2026-2027-70df484b.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-genoa-serie-2026-2027-70df484b.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-genoa-serie-2026-2027-70df484b.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-genoa-serie-2026-2027-70df484b.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-genoa-serie-2026-2027-70df484b.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-genoa-serie-2026-2027-70df484b.html"
    }
   },
   {
@@ -141,7 +153,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-cagliari-serie-2026-2027-e6cab272.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-cagliari-serie-2026-2027-e6cab272.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-cagliari-serie-2026-2027-e6cab272.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-cagliari-serie-2026-2027-e6cab272.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-cagliari-serie-2026-2027-e6cab272.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-cagliari-serie-2026-2027-e6cab272.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-cagliari-serie-2026-2027-e6cab272.html"
    }
   },
   {
@@ -169,7 +184,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-biglietti-hapoel-be-er-sheva-uefa-europa-d62fe3a3.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-biglietti-hapoel-be-er-sheva-uefa-europa-d62fe3a3.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-biglietti-hapoel-be-er-sheva-uefa-europa-d62fe3a3.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-biglietti-hapoel-be-er-sheva-uefa-europa-d62fe3a3.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-biglietti-hapoel-be-er-sheva-uefa-europa-d62fe3a3.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-biglietti-hapoel-be-er-sheva-uefa-europa-d62fe3a3.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-biglietti-hapoel-be-er-sheva-uefa-europa-d62fe3a3.html"
    }
   },
   {
@@ -190,14 +208,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-torino-serie-2026-2027-70dd4fdc",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-torino-serie-2026-2027-70dd4fdc.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-torino-serie-2026-2027-70dd4fdc.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-torino-serie-2026-2027-70dd4fdc.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-torino-serie-2026-2027-70dd4fdc.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-torino-serie-2026-2027-70dd4fdc.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-torino-serie-2026-2027-70dd4fdc.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-torino-serie-2026-2027-70dd4fdc.html"
    }
   },
   {
@@ -225,7 +246,10 @@
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-genoa-serie-2026-2027-4ae229e9.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-genoa-serie-2026-2027-4ae229e9.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-genoa-serie-2026-2027-4ae229e9.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-genoa-serie-2026-2027-4ae229e9.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-genoa-serie-2026-2027-4ae229e9.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-genoa-serie-2026-2027-4ae229e9.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-genoa-serie-2026-2027-4ae229e9.html"
    }
   },
   {
@@ -246,14 +270,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-napoli-serie-2026-2027-84676966",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-napoli-serie-2026-2027-84676966.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-napoli-serie-2026-2027-84676966.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-napoli-serie-2026-2027-84676966.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-napoli-serie-2026-2027-84676966.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-napoli-serie-2026-2027-84676966.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-napoli-serie-2026-2027-84676966.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-napoli-serie-2026-2027-84676966.html"
    }
   },
   {
@@ -274,14 +301,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-udinese-serie-2026-2027-456e1c84",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-udinese-serie-2026-2027-456e1c84.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-udinese-serie-2026-2027-456e1c84.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-udinese-serie-2026-2027-456e1c84.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-udinese-serie-2026-2027-456e1c84.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-udinese-serie-2026-2027-456e1c84.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-udinese-serie-2026-2027-456e1c84.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-udinese-serie-2026-2027-456e1c84.html"
    }
   },
   {
@@ -302,14 +332,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-monza-serie-2026-2027-f9add616",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-monza-serie-2026-2027-f9add616.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-monza-serie-2026-2027-f9add616.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-monza-serie-2026-2027-f9add616.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-monza-serie-2026-2027-f9add616.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-monza-serie-2026-2027-f9add616.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-monza-serie-2026-2027-f9add616.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-monza-serie-2026-2027-f9add616.html"
    }
   },
   {
@@ -330,14 +363,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-venezia-serie-2026-2027-dc6a1129",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-venezia-serie-2026-2027-dc6a1129.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-venezia-serie-2026-2027-dc6a1129.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-venezia-serie-2026-2027-dc6a1129.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-venezia-serie-2026-2027-dc6a1129.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-venezia-serie-2026-2027-dc6a1129.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-venezia-serie-2026-2027-dc6a1129.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-venezia-serie-2026-2027-dc6a1129.html"
    }
   },
   {
@@ -358,14 +394,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-sassuolo-coppa-italia-2026-2027-8th-finals-44e3dc5a",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-44e3dc5a.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-44e3dc5a.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-44e3dc5a.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-44e3dc5a.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-44e3dc5a.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-44e3dc5a.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-44e3dc5a.html"
    }
   },
   {
@@ -386,14 +425,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-sassuolo-coppa-italia-2026-2027-8th-finals-f571523a",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-f571523a.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-f571523a.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-f571523a.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-f571523a.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-f571523a.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-f571523a.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-f571523a.html"
    }
   },
   {
@@ -414,14 +456,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-venezia-serie-2026-2027-dae31918",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-venezia-serie-2026-2027-dae31918.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-venezia-serie-2026-2027-dae31918.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-venezia-serie-2026-2027-dae31918.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-venezia-serie-2026-2027-dae31918.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-venezia-serie-2026-2027-dae31918.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-venezia-serie-2026-2027-dae31918.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-venezia-serie-2026-2027-dae31918.html"
    }
   },
   {
@@ -442,14 +487,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-udinese-serie-2026-2027-1d274e93",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-udinese-serie-2026-2027-1d274e93.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-udinese-serie-2026-2027-1d274e93.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-udinese-serie-2026-2027-1d274e93.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-udinese-serie-2026-2027-1d274e93.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-udinese-serie-2026-2027-1d274e93.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-udinese-serie-2026-2027-1d274e93.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-udinese-serie-2026-2027-1d274e93.html"
    }
   },
   {
@@ -470,14 +518,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-sassuolo-coppa-italia-2026-2027-8th-finals-600b03db",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-600b03db.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-600b03db.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-600b03db.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-600b03db.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-600b03db.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-600b03db.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-sassuolo-coppa-italia-2026-2027-8th-finals-600b03db.html"
    }
   },
   {
@@ -498,14 +549,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-monza-serie-2026-2027-cce8e693",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-monza-serie-2026-2027-cce8e693.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-monza-serie-2026-2027-cce8e693.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-monza-serie-2026-2027-cce8e693.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-monza-serie-2026-2027-cce8e693.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-monza-serie-2026-2027-cce8e693.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-monza-serie-2026-2027-cce8e693.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-monza-serie-2026-2027-cce8e693.html"
    }
   },
   {
@@ -526,14 +580,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-real-sociedad-uefa-europa-league-2026-2027-3355206f",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-real-sociedad-uefa-europa-league-2026-2027-3355206f.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-real-sociedad-uefa-europa-league-2026-2027-3355206f.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-real-sociedad-uefa-europa-league-2026-2027-3355206f.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-real-sociedad-uefa-europa-league-2026-2027-3355206f.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-real-sociedad-uefa-europa-league-2026-2027-3355206f.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-real-sociedad-uefa-europa-league-2026-2027-3355206f.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-real-sociedad-uefa-europa-league-2026-2027-3355206f.html"
    }
   },
   {
@@ -554,14 +611,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-napoli-serie-2026-2027-3d096aef",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-napoli-serie-2026-2027-3d096aef.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-napoli-serie-2026-2027-3d096aef.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-napoli-serie-2026-2027-3d096aef.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-napoli-serie-2026-2027-3d096aef.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-napoli-serie-2026-2027-3d096aef.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-napoli-serie-2026-2027-3d096aef.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-napoli-serie-2026-2027-3d096aef.html"
    }
   },
   {
@@ -582,14 +642,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-real-sociedad-uefa-europa-league-2026-2027-0bb8f639",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-real-sociedad-uefa-europa-league-2026-2027-0bb8f639.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-real-sociedad-uefa-europa-league-2026-2027-0bb8f639.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-real-sociedad-uefa-europa-league-2026-2027-0bb8f639.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-real-sociedad-uefa-europa-league-2026-2027-0bb8f639.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-real-sociedad-uefa-europa-league-2026-2027-0bb8f639.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-real-sociedad-uefa-europa-league-2026-2027-0bb8f639.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-real-sociedad-uefa-europa-league-2026-2027-0bb8f639.html"
    }
   },
   {
@@ -610,14 +673,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-omonia-nicosia-uefa-europa-league-2026-2027-39d3b42b",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-omonia-nicosia-uefa-europa-league-2026-2027-39d3b42b.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-omonia-nicosia-uefa-europa-league-2026-2027-39d3b42b.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-omonia-nicosia-uefa-europa-league-2026-2027-39d3b42b.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-omonia-nicosia-uefa-europa-league-2026-2027-39d3b42b.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-omonia-nicosia-uefa-europa-league-2026-2027-39d3b42b.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-omonia-nicosia-uefa-europa-league-2026-2027-39d3b42b.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-omonia-nicosia-uefa-europa-league-2026-2027-39d3b42b.html"
    }
   },
   {
@@ -638,14 +704,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-omonia-nicosia-uefa-europa-league-2026-2027-f343dfd7",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-omonia-nicosia-uefa-europa-league-2026-2027-f343dfd7.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-omonia-nicosia-uefa-europa-league-2026-2027-f343dfd7.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-omonia-nicosia-uefa-europa-league-2026-2027-f343dfd7.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-omonia-nicosia-uefa-europa-league-2026-2027-f343dfd7.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-omonia-nicosia-uefa-europa-league-2026-2027-f343dfd7.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-omonia-nicosia-uefa-europa-league-2026-2027-f343dfd7.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-omonia-nicosia-uefa-europa-league-2026-2027-f343dfd7.html"
    }
   },
   {
@@ -666,14 +735,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-omonia-nicosia-uefa-europa-league-2026-2027-36403f49",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-omonia-nicosia-uefa-europa-league-2026-2027-36403f49.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-omonia-nicosia-uefa-europa-league-2026-2027-36403f49.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-omonia-nicosia-uefa-europa-league-2026-2027-36403f49.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-omonia-nicosia-uefa-europa-league-2026-2027-36403f49.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-omonia-nicosia-uefa-europa-league-2026-2027-36403f49.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-omonia-nicosia-uefa-europa-league-2026-2027-36403f49.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-omonia-nicosia-uefa-europa-league-2026-2027-36403f49.html"
    }
   },
   {
@@ -694,14 +766,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-napoli-serie-2026-2027-5013fbdd",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-napoli-serie-2026-2027-5013fbdd.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-napoli-serie-2026-2027-5013fbdd.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-napoli-serie-2026-2027-5013fbdd.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-napoli-serie-2026-2027-5013fbdd.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-napoli-serie-2026-2027-5013fbdd.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-napoli-serie-2026-2027-5013fbdd.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-napoli-serie-2026-2027-5013fbdd.html"
    }
   },
   {
@@ -722,14 +797,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-lazio-serie-2026-2027-dd4267e8",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-lazio-serie-2026-2027-dd4267e8.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-lazio-serie-2026-2027-dd4267e8.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-lazio-serie-2026-2027-dd4267e8.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-lazio-serie-2026-2027-dd4267e8.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-lazio-serie-2026-2027-dd4267e8.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-lazio-serie-2026-2027-dd4267e8.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-lazio-serie-2026-2027-dd4267e8.html"
    }
   },
   {
@@ -750,14 +828,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-milan-serie-2026-2027-866dd45b",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-milan-serie-2026-2027-866dd45b.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-milan-serie-2026-2027-866dd45b.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-milan-serie-2026-2027-866dd45b.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-milan-serie-2026-2027-866dd45b.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-milan-serie-2026-2027-866dd45b.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-milan-serie-2026-2027-866dd45b.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-milan-serie-2026-2027-866dd45b.html"
    }
   },
   {
@@ -778,14 +859,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-milan-serie-2026-2027-b17ba23c",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-milan-serie-2026-2027-b17ba23c.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-milan-serie-2026-2027-b17ba23c.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-milan-serie-2026-2027-b17ba23c.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-milan-serie-2026-2027-b17ba23c.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-milan-serie-2026-2027-b17ba23c.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-milan-serie-2026-2027-b17ba23c.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-milan-serie-2026-2027-b17ba23c.html"
    }
   },
   {
@@ -806,14 +890,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-atalanta-serie-2026-2027-a3f45736",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-atalanta-serie-2026-2027-a3f45736.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-atalanta-serie-2026-2027-a3f45736.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-atalanta-serie-2026-2027-a3f45736.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-atalanta-serie-2026-2027-a3f45736.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-atalanta-serie-2026-2027-a3f45736.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-atalanta-serie-2026-2027-a3f45736.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-atalanta-serie-2026-2027-a3f45736.html"
    }
   },
   {
@@ -834,14 +921,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-milan-serie-2026-2027-ed4fbc9f",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-milan-serie-2026-2027-ed4fbc9f.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-milan-serie-2026-2027-ed4fbc9f.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-milan-serie-2026-2027-ed4fbc9f.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-milan-serie-2026-2027-ed4fbc9f.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-milan-serie-2026-2027-ed4fbc9f.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-milan-serie-2026-2027-ed4fbc9f.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-milan-serie-2026-2027-ed4fbc9f.html"
    }
   },
   {
@@ -862,14 +952,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-parma-serie-2026-2027-9496a336",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-parma-serie-2026-2027-9496a336.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-parma-serie-2026-2027-9496a336.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-parma-serie-2026-2027-9496a336.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-parma-serie-2026-2027-9496a336.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-parma-serie-2026-2027-9496a336.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-parma-serie-2026-2027-9496a336.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-parma-serie-2026-2027-9496a336.html"
    }
   },
   {
@@ -890,14 +983,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/juventus.html",
    "official_tickets": "https://www.juventus.com/it/biglietti/",
    "slug": "juventus-parma-serie-2026-2027-1af16d4b",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/juventus-parma-serie-2026-2027-1af16d4b.html",
     "en": "https://ticketwhistle.com/en/sales/juventus-parma-serie-2026-2027-1af16d4b.html",
-    "ar": "https://ticketwhistle.com/ar/sales/juventus-parma-serie-2026-2027-1af16d4b.html"
+    "ar": "https://ticketwhistle.com/ar/sales/juventus-parma-serie-2026-2027-1af16d4b.html",
+    "it": "https://ticketwhistle.com/it/vendite/juventus-parma-serie-2026-2027-1af16d4b.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/juventus-parma-serie-2026-2027-1af16d4b.html",
+    "de": "https://ticketwhistle.com/de/verkauf/juventus-parma-serie-2026-2027-1af16d4b.html"
    }
   }
  ]

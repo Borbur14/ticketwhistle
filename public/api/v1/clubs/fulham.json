@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "fulham",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/fulham.html",
    "en": "https://ticketwhistle.com/en/tickets/fulham.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/fulham.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/fulham.html",
+   "it": "https://ticketwhistle.com/it/biglietti/fulham.html",
+   "fr": "https://ticketwhistle.com/fr/billets/fulham.html",
+   "de": "https://ticketwhistle.com/de/tickets/fulham.html"
   },
   "official_alternatives": [
    {
@@ -55,14 +58,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/fulham.html",
    "official_tickets": "https://www.fulhamfc.com/tickets-and-hospitality",
    "slug": "fulham-arsenal-h-tickets-b93ec88a",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/fulham-arsenal-h-tickets-b93ec88a.html",
     "en": "https://ticketwhistle.com/en/sales/fulham-arsenal-h-tickets-b93ec88a.html",
-    "ar": "https://ticketwhistle.com/ar/sales/fulham-arsenal-h-tickets-b93ec88a.html"
+    "ar": "https://ticketwhistle.com/ar/sales/fulham-arsenal-h-tickets-b93ec88a.html",
+    "it": "https://ticketwhistle.com/it/vendite/fulham-arsenal-h-tickets-b93ec88a.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/fulham-arsenal-h-tickets-b93ec88a.html",
+    "de": "https://ticketwhistle.com/de/verkauf/fulham-arsenal-h-tickets-b93ec88a.html"
    }
   },
   {
@@ -83,14 +89,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/fulham.html",
    "official_tickets": "https://www.fulhamfc.com/tickets-and-hospitality",
    "slug": "fulham-arsenal-h-tickets-f61aa141",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/fulham-arsenal-h-tickets-f61aa141.html",
     "en": "https://ticketwhistle.com/en/sales/fulham-arsenal-h-tickets-f61aa141.html",
-    "ar": "https://ticketwhistle.com/ar/sales/fulham-arsenal-h-tickets-f61aa141.html"
+    "ar": "https://ticketwhistle.com/ar/sales/fulham-arsenal-h-tickets-f61aa141.html",
+    "it": "https://ticketwhistle.com/it/vendite/fulham-arsenal-h-tickets-f61aa141.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/fulham-arsenal-h-tickets-f61aa141.html",
+    "de": "https://ticketwhistle.com/de/verkauf/fulham-arsenal-h-tickets-f61aa141.html"
    }
   },
   {
@@ -111,14 +120,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/fulham.html",
    "official_tickets": "https://www.fulhamfc.com/tickets-and-hospitality",
    "slug": "fulham-arsenal-h-tickets-767ab150",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/fulham-arsenal-h-tickets-767ab150.html",
     "en": "https://ticketwhistle.com/en/sales/fulham-arsenal-h-tickets-767ab150.html",
-    "ar": "https://ticketwhistle.com/ar/sales/fulham-arsenal-h-tickets-767ab150.html"
+    "ar": "https://ticketwhistle.com/ar/sales/fulham-arsenal-h-tickets-767ab150.html",
+    "it": "https://ticketwhistle.com/it/vendite/fulham-arsenal-h-tickets-767ab150.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/fulham-arsenal-h-tickets-767ab150.html",
+    "de": "https://ticketwhistle.com/de/verkauf/fulham-arsenal-h-tickets-767ab150.html"
    }
   }
  ]

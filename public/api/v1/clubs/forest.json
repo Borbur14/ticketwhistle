@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "forest",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/forest.html",
    "en": "https://ticketwhistle.com/en/tickets/forest.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/forest.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/forest.html",
+   "it": "https://ticketwhistle.com/it/biglietti/forest.html",
+   "fr": "https://ticketwhistle.com/fr/billets/forest.html",
+   "de": "https://ticketwhistle.com/de/tickets/forest.html"
   },
   "official_alternatives": [
    {
@@ -59,14 +62,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-ticket-update-everton-h-a14104dd",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-ticket-update-everton-h-a14104dd.html",
     "en": "https://ticketwhistle.com/en/sales/forest-ticket-update-everton-h-a14104dd.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-update-everton-h-a14104dd.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-update-everton-h-a14104dd.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-ticket-update-everton-h-a14104dd.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-ticket-update-everton-h-a14104dd.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-ticket-update-everton-h-a14104dd.html"
    }
   },
   {
@@ -87,14 +93,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-ticket-details-sunderland-6477751c",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-ticket-details-sunderland-6477751c.html",
     "en": "https://ticketwhistle.com/en/sales/forest-ticket-details-sunderland-6477751c.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-details-sunderland-6477751c.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-details-sunderland-6477751c.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-ticket-details-sunderland-6477751c.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-ticket-details-sunderland-6477751c.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-ticket-details-sunderland-6477751c.html"
    }
   },
   {
@@ -115,14 +124,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-ticket-update-everton-h-2a3e565d",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-ticket-update-everton-h-2a3e565d.html",
     "en": "https://ticketwhistle.com/en/sales/forest-ticket-update-everton-h-2a3e565d.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-update-everton-h-2a3e565d.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-update-everton-h-2a3e565d.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-ticket-update-everton-h-2a3e565d.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-ticket-update-everton-h-2a3e565d.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-ticket-update-everton-h-2a3e565d.html"
    }
   },
   {
@@ -143,14 +155,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-ticket-update-everton-h-fe587cf8",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-ticket-update-everton-h-fe587cf8.html",
     "en": "https://ticketwhistle.com/en/sales/forest-ticket-update-everton-h-fe587cf8.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-update-everton-h-fe587cf8.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-update-everton-h-fe587cf8.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-ticket-update-everton-h-fe587cf8.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-ticket-update-everton-h-fe587cf8.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-ticket-update-everton-h-fe587cf8.html"
    }
   },
   {
@@ -171,14 +186,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-ticket-update-everton-h-1ebc454d",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-ticket-update-everton-h-1ebc454d.html",
     "en": "https://ticketwhistle.com/en/sales/forest-ticket-update-everton-h-1ebc454d.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-update-everton-h-1ebc454d.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-update-everton-h-1ebc454d.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-ticket-update-everton-h-1ebc454d.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-ticket-update-everton-h-1ebc454d.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-ticket-update-everton-h-1ebc454d.html"
    }
   },
   {
@@ -199,14 +217,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-ticket-update-everton-h-dd4678ca",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-ticket-update-everton-h-dd4678ca.html",
     "en": "https://ticketwhistle.com/en/sales/forest-ticket-update-everton-h-dd4678ca.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-update-everton-h-dd4678ca.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-update-everton-h-dd4678ca.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-ticket-update-everton-h-dd4678ca.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-ticket-update-everton-h-dd4678ca.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-ticket-update-everton-h-dd4678ca.html"
    }
   },
   {
@@ -227,14 +248,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-fab-ticketing-memberships-working-group-meeting-november-c39cf4a1",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-fab-ticketing-memberships-working-group-meeting-november-c39cf4a1.html",
     "en": "https://ticketwhistle.com/en/sales/forest-fab-ticketing-memberships-working-group-meeting-november-c39cf4a1.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-fab-ticketing-memberships-working-group-meeting-november-c39cf4a1.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-fab-ticketing-memberships-working-group-meeting-november-c39cf4a1.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-fab-ticketing-memberships-working-group-meeting-november-c39cf4a1.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-fab-ticketing-memberships-working-group-meeting-november-c39cf4a1.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-fab-ticketing-memberships-working-group-meeting-november-c39cf4a1.html"
    }
   },
   {
@@ -255,14 +279,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-ticket-update-everton-h-65d0591b",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-ticket-update-everton-h-65d0591b.html",
     "en": "https://ticketwhistle.com/en/sales/forest-ticket-update-everton-h-65d0591b.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-update-everton-h-65d0591b.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-update-everton-h-65d0591b.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-ticket-update-everton-h-65d0591b.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-ticket-update-everton-h-65d0591b.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-ticket-update-everton-h-65d0591b.html"
    }
   },
   {
@@ -283,14 +310,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-ticket-details-sunderland-609bfcbc",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-ticket-details-sunderland-609bfcbc.html",
     "en": "https://ticketwhistle.com/en/sales/forest-ticket-details-sunderland-609bfcbc.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-details-sunderland-609bfcbc.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-details-sunderland-609bfcbc.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-ticket-details-sunderland-609bfcbc.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-ticket-details-sunderland-609bfcbc.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-ticket-details-sunderland-609bfcbc.html"
    }
   },
   {
@@ -311,14 +341,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-ticket-details-sunderland-4b2c1432",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-ticket-details-sunderland-4b2c1432.html",
     "en": "https://ticketwhistle.com/en/sales/forest-ticket-details-sunderland-4b2c1432.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-details-sunderland-4b2c1432.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-details-sunderland-4b2c1432.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-ticket-details-sunderland-4b2c1432.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-ticket-details-sunderland-4b2c1432.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-ticket-details-sunderland-4b2c1432.html"
    }
   },
   {
@@ -339,14 +372,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-ticket-details-sunderland-e96df3d6",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-ticket-details-sunderland-e96df3d6.html",
     "en": "https://ticketwhistle.com/en/sales/forest-ticket-details-sunderland-e96df3d6.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-details-sunderland-e96df3d6.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-details-sunderland-e96df3d6.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-ticket-details-sunderland-e96df3d6.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-ticket-details-sunderland-e96df3d6.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-ticket-details-sunderland-e96df3d6.html"
    }
   },
   {
@@ -367,14 +403,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-ticket-details-sunderland-64b54948",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-ticket-details-sunderland-64b54948.html",
     "en": "https://ticketwhistle.com/en/sales/forest-ticket-details-sunderland-64b54948.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-details-sunderland-64b54948.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-details-sunderland-64b54948.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-ticket-details-sunderland-64b54948.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-ticket-details-sunderland-64b54948.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-ticket-details-sunderland-64b54948.html"
    }
   },
   {
@@ -395,14 +434,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/forest.html",
    "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
    "slug": "forest-ticket-details-sunderland-fd5a9c6e",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/forest-ticket-details-sunderland-fd5a9c6e.html",
     "en": "https://ticketwhistle.com/en/sales/forest-ticket-details-sunderland-fd5a9c6e.html",
-    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-details-sunderland-fd5a9c6e.html"
+    "ar": "https://ticketwhistle.com/ar/sales/forest-ticket-details-sunderland-fd5a9c6e.html",
+    "it": "https://ticketwhistle.com/it/vendite/forest-ticket-details-sunderland-fd5a9c6e.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/forest-ticket-details-sunderland-fd5a9c6e.html",
+    "de": "https://ticketwhistle.com/de/verkauf/forest-ticket-details-sunderland-fd5a9c6e.html"
    }
   }
  ]

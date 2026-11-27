@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "fiorentina",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/fiorentina.html",
    "en": "https://ticketwhistle.com/en/tickets/fiorentina.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/fiorentina.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/fiorentina.html",
+   "it": "https://ticketwhistle.com/it/biglietti/fiorentina.html",
+   "fr": "https://ticketwhistle.com/fr/billets/fiorentina.html",
+   "de": "https://ticketwhistle.com/de/tickets/fiorentina.html"
   },
   "official_alternatives": []
  },
@@ -50,14 +53,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/fiorentina.html",
    "official_tickets": "https://www.acffiorentina.com/ticketing",
    "slug": "fiorentina-cagliari-5943be56",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/fiorentina-cagliari-5943be56.html",
     "en": "https://ticketwhistle.com/en/sales/fiorentina-cagliari-5943be56.html",
-    "ar": "https://ticketwhistle.com/ar/sales/fiorentina-cagliari-5943be56.html"
+    "ar": "https://ticketwhistle.com/ar/sales/fiorentina-cagliari-5943be56.html",
+    "it": "https://ticketwhistle.com/it/vendite/fiorentina-cagliari-5943be56.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/fiorentina-cagliari-5943be56.html",
+    "de": "https://ticketwhistle.com/de/verkauf/fiorentina-cagliari-5943be56.html"
    }
   },
   {
@@ -78,14 +84,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/fiorentina.html",
    "official_tickets": "https://www.acffiorentina.com/ticketing",
    "slug": "fiorentina-cagliari-3d7a25f5",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/fiorentina-cagliari-3d7a25f5.html",
     "en": "https://ticketwhistle.com/en/sales/fiorentina-cagliari-3d7a25f5.html",
-    "ar": "https://ticketwhistle.com/ar/sales/fiorentina-cagliari-3d7a25f5.html"
+    "ar": "https://ticketwhistle.com/ar/sales/fiorentina-cagliari-3d7a25f5.html",
+    "it": "https://ticketwhistle.com/it/vendite/fiorentina-cagliari-3d7a25f5.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/fiorentina-cagliari-3d7a25f5.html",
+    "de": "https://ticketwhistle.com/de/verkauf/fiorentina-cagliari-3d7a25f5.html"
    }
   },
   {
@@ -106,14 +115,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/fiorentina.html",
    "official_tickets": "https://www.acffiorentina.com/ticketing",
    "slug": "fiorentina-udinese-ab6d822d",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/fiorentina-udinese-ab6d822d.html",
     "en": "https://ticketwhistle.com/en/sales/fiorentina-udinese-ab6d822d.html",
-    "ar": "https://ticketwhistle.com/ar/sales/fiorentina-udinese-ab6d822d.html"
+    "ar": "https://ticketwhistle.com/ar/sales/fiorentina-udinese-ab6d822d.html",
+    "it": "https://ticketwhistle.com/it/vendite/fiorentina-udinese-ab6d822d.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/fiorentina-udinese-ab6d822d.html",
+    "de": "https://ticketwhistle.com/de/verkauf/fiorentina-udinese-ab6d822d.html"
    }
   },
   {
@@ -134,14 +146,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/fiorentina.html",
    "official_tickets": "https://www.acffiorentina.com/ticketing",
    "slug": "fiorentina-cagliari-f22567b3",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/fiorentina-cagliari-f22567b3.html",
     "en": "https://ticketwhistle.com/en/sales/fiorentina-cagliari-f22567b3.html",
-    "ar": "https://ticketwhistle.com/ar/sales/fiorentina-cagliari-f22567b3.html"
+    "ar": "https://ticketwhistle.com/ar/sales/fiorentina-cagliari-f22567b3.html",
+    "it": "https://ticketwhistle.com/it/vendite/fiorentina-cagliari-f22567b3.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/fiorentina-cagliari-f22567b3.html",
+    "de": "https://ticketwhistle.com/de/verkauf/fiorentina-cagliari-f22567b3.html"
    }
   }
  ]

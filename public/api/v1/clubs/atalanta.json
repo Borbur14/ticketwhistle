@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "atalanta",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/atalanta.html",
    "en": "https://ticketwhistle.com/en/tickets/atalanta.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/atalanta.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/atalanta.html",
+   "it": "https://ticketwhistle.com/it/biglietti/atalanta.html",
+   "fr": "https://ticketwhistle.com/fr/billets/atalanta.html",
+   "de": "https://ticketwhistle.com/de/tickets/atalanta.html"
   },
   "official_alternatives": []
  },
@@ -50,14 +53,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/atalanta.html",
    "official_tickets": "https://www.atalanta.it/biglietteria",
    "slug": "atalanta-lazio-info-tagliandi-settore-ospiti-1bcf1fa6",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/atalanta-lazio-info-tagliandi-settore-ospiti-1bcf1fa6.html",
     "en": "https://ticketwhistle.com/en/sales/atalanta-lazio-info-tagliandi-settore-ospiti-1bcf1fa6.html",
-    "ar": "https://ticketwhistle.com/ar/sales/atalanta-lazio-info-tagliandi-settore-ospiti-1bcf1fa6.html"
+    "ar": "https://ticketwhistle.com/ar/sales/atalanta-lazio-info-tagliandi-settore-ospiti-1bcf1fa6.html",
+    "it": "https://ticketwhistle.com/it/vendite/atalanta-lazio-info-tagliandi-settore-ospiti-1bcf1fa6.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/atalanta-lazio-info-tagliandi-settore-ospiti-1bcf1fa6.html",
+    "de": "https://ticketwhistle.com/de/verkauf/atalanta-lazio-info-tagliandi-settore-ospiti-1bcf1fa6.html"
    }
   },
   {
@@ -78,14 +84,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/atalanta.html",
    "official_tickets": "https://www.atalanta.it/biglietteria",
    "slug": "atalanta-lecce-info-tagliandi-settore-ospiti-55abc783",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/atalanta-lecce-info-tagliandi-settore-ospiti-55abc783.html",
     "en": "https://ticketwhistle.com/en/sales/atalanta-lecce-info-tagliandi-settore-ospiti-55abc783.html",
-    "ar": "https://ticketwhistle.com/ar/sales/atalanta-lecce-info-tagliandi-settore-ospiti-55abc783.html"
+    "ar": "https://ticketwhistle.com/ar/sales/atalanta-lecce-info-tagliandi-settore-ospiti-55abc783.html",
+    "it": "https://ticketwhistle.com/it/vendite/atalanta-lecce-info-tagliandi-settore-ospiti-55abc783.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/atalanta-lecce-info-tagliandi-settore-ospiti-55abc783.html",
+    "de": "https://ticketwhistle.com/de/verkauf/atalanta-lecce-info-tagliandi-settore-ospiti-55abc783.html"
    }
   },
   {
@@ -106,14 +115,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/atalanta.html",
    "official_tickets": "https://www.atalanta.it/biglietteria",
    "slug": "atalanta-borac-banja-luka-ultimi-tagliandi-per-il-dc082d9a",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/atalanta-borac-banja-luka-ultimi-tagliandi-per-il-dc082d9a.html",
     "en": "https://ticketwhistle.com/en/sales/atalanta-borac-banja-luka-ultimi-tagliandi-per-il-dc082d9a.html",
-    "ar": "https://ticketwhistle.com/ar/sales/atalanta-borac-banja-luka-ultimi-tagliandi-per-il-dc082d9a.html"
+    "ar": "https://ticketwhistle.com/ar/sales/atalanta-borac-banja-luka-ultimi-tagliandi-per-il-dc082d9a.html",
+    "it": "https://ticketwhistle.com/it/vendite/atalanta-borac-banja-luka-ultimi-tagliandi-per-il-dc082d9a.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/atalanta-borac-banja-luka-ultimi-tagliandi-per-il-dc082d9a.html",
+    "de": "https://ticketwhistle.com/de/verkauf/atalanta-borac-banja-luka-ultimi-tagliandi-per-il-dc082d9a.html"
    }
   },
   {
@@ -134,14 +146,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/atalanta.html",
    "official_tickets": "https://www.atalanta.it/biglietteria",
    "slug": "atalanta-mjallby-info-biglietti-league-phase-uecl-md6-32cd20b7",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/atalanta-mjallby-info-biglietti-league-phase-uecl-md6-32cd20b7.html",
     "en": "https://ticketwhistle.com/en/sales/atalanta-mjallby-info-biglietti-league-phase-uecl-md6-32cd20b7.html",
-    "ar": "https://ticketwhistle.com/ar/sales/atalanta-mjallby-info-biglietti-league-phase-uecl-md6-32cd20b7.html"
+    "ar": "https://ticketwhistle.com/ar/sales/atalanta-mjallby-info-biglietti-league-phase-uecl-md6-32cd20b7.html",
+    "it": "https://ticketwhistle.com/it/vendite/atalanta-mjallby-info-biglietti-league-phase-uecl-md6-32cd20b7.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/atalanta-mjallby-info-biglietti-league-phase-uecl-md6-32cd20b7.html",
+    "de": "https://ticketwhistle.com/de/verkauf/atalanta-mjallby-info-biglietti-league-phase-uecl-md6-32cd20b7.html"
    }
   },
   {
@@ -162,14 +177,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/atalanta.html",
    "official_tickets": "https://www.atalanta.it/biglietteria",
    "slug": "atalanta-inter-info-biglietti-serie-enilive-2026-27-ea00a108",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/atalanta-inter-info-biglietti-serie-enilive-2026-27-ea00a108.html",
     "en": "https://ticketwhistle.com/en/sales/atalanta-inter-info-biglietti-serie-enilive-2026-27-ea00a108.html",
-    "ar": "https://ticketwhistle.com/ar/sales/atalanta-inter-info-biglietti-serie-enilive-2026-27-ea00a108.html"
+    "ar": "https://ticketwhistle.com/ar/sales/atalanta-inter-info-biglietti-serie-enilive-2026-27-ea00a108.html",
+    "it": "https://ticketwhistle.com/it/vendite/atalanta-inter-info-biglietti-serie-enilive-2026-27-ea00a108.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/atalanta-inter-info-biglietti-serie-enilive-2026-27-ea00a108.html",
+    "de": "https://ticketwhistle.com/de/verkauf/atalanta-inter-info-biglietti-serie-enilive-2026-27-ea00a108.html"
    }
   }
  ]

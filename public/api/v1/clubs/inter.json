@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "inter",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/inter.html",
    "en": "https://ticketwhistle.com/en/tickets/inter.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/inter.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/inter.html",
+   "it": "https://ticketwhistle.com/it/biglietti/inter.html",
+   "fr": "https://ticketwhistle.com/fr/billets/inter.html",
+   "de": "https://ticketwhistle.com/de/tickets/inter.html"
   },
   "official_alternatives": []
  },
@@ -50,14 +53,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-biglietti-supercoppa-interlazio-date-e-fasi-di-815a9834",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-815a9834.html",
     "en": "https://ticketwhistle.com/en/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-815a9834.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-815a9834.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-815a9834.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-815a9834.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-815a9834.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-815a9834.html"
    }
   },
   {
@@ -78,14 +84,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-biglietti-supercoppa-interlazio-date-e-fasi-di-fda1b8ff",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-fda1b8ff.html",
     "en": "https://ticketwhistle.com/en/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-fda1b8ff.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-fda1b8ff.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-fda1b8ff.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-fda1b8ff.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-fda1b8ff.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-fda1b8ff.html"
    }
   },
   {
@@ -106,14 +115,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-biglietti-supercoppa-interlazio-date-e-fasi-di-afa9020c",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-afa9020c.html",
     "en": "https://ticketwhistle.com/en/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-afa9020c.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-afa9020c.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-afa9020c.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-afa9020c.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-afa9020c.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-afa9020c.html"
    }
   },
   {
@@ -134,14 +146,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-4dcf7950",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-4dcf7950.html",
     "en": "https://ticketwhistle.com/en/sales/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-4dcf7950.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-4dcf7950.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-4dcf7950.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-4dcf7950.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-4dcf7950.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-4dcf7950.html"
    }
   },
   {
@@ -162,14 +177,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-674fab5a",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-674fab5a.html",
     "en": "https://ticketwhistle.com/en/sales/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-674fab5a.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-674fab5a.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-674fab5a.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-674fab5a.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-674fab5a.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-674fab5a.html"
    }
   },
   {
@@ -190,14 +208,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-biglietti-supercoppa-interlazio-date-e-fasi-di-25b64fa3",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-25b64fa3.html",
     "en": "https://ticketwhistle.com/en/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-25b64fa3.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-25b64fa3.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-25b64fa3.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-25b64fa3.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-25b64fa3.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-25b64fa3.html"
    }
   },
   {
@@ -218,14 +239,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-liverpool-aperta-vendita-libera-39bbc5fe",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-liverpool-aperta-vendita-libera-39bbc5fe.html",
     "en": "https://ticketwhistle.com/en/sales/inter-liverpool-aperta-vendita-libera-39bbc5fe.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-liverpool-aperta-vendita-libera-39bbc5fe.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-liverpool-aperta-vendita-libera-39bbc5fe.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-liverpool-aperta-vendita-libera-39bbc5fe.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-liverpool-aperta-vendita-libera-39bbc5fe.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-liverpool-aperta-vendita-libera-39bbc5fe.html"
    }
   },
   {
@@ -246,14 +270,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-liverpool-aperta-vendita-libera-684c68b0",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-liverpool-aperta-vendita-libera-684c68b0.html",
     "en": "https://ticketwhistle.com/en/sales/inter-liverpool-aperta-vendita-libera-684c68b0.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-liverpool-aperta-vendita-libera-684c68b0.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-liverpool-aperta-vendita-libera-684c68b0.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-liverpool-aperta-vendita-libera-684c68b0.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-liverpool-aperta-vendita-libera-684c68b0.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-liverpool-aperta-vendita-libera-684c68b0.html"
    }
   },
   {
@@ -274,14 +301,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-stoccarda-ultimi-biglietti-e-le-info-per-0d811624",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-stoccarda-ultimi-biglietti-e-le-info-per-0d811624.html",
     "en": "https://ticketwhistle.com/en/sales/inter-stoccarda-ultimi-biglietti-e-le-info-per-0d811624.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-stoccarda-ultimi-biglietti-e-le-info-per-0d811624.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-stoccarda-ultimi-biglietti-e-le-info-per-0d811624.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-stoccarda-ultimi-biglietti-e-le-info-per-0d811624.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-stoccarda-ultimi-biglietti-e-le-info-per-0d811624.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-stoccarda-ultimi-biglietti-e-le-info-per-0d811624.html"
    }
   },
   {
@@ -302,14 +332,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-biglietti-supercoppa-interlazio-date-e-fasi-di-c4383ce2",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-c4383ce2.html",
     "en": "https://ticketwhistle.com/en/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-c4383ce2.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-c4383ce2.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-c4383ce2.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-c4383ce2.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-c4383ce2.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-c4383ce2.html"
    }
   },
   {
@@ -330,14 +363,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-liverpool-aperta-vendita-libera-2b936578",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-liverpool-aperta-vendita-libera-2b936578.html",
     "en": "https://ticketwhistle.com/en/sales/inter-liverpool-aperta-vendita-libera-2b936578.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-liverpool-aperta-vendita-libera-2b936578.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-liverpool-aperta-vendita-libera-2b936578.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-liverpool-aperta-vendita-libera-2b936578.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-liverpool-aperta-vendita-libera-2b936578.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-liverpool-aperta-vendita-libera-2b936578.html"
    }
   },
   {
@@ -358,14 +394,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-fafe491a",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-fafe491a.html",
     "en": "https://ticketwhistle.com/en/sales/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-fafe491a.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-fafe491a.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-fafe491a.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-fafe491a.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-fafe491a.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-fafe491a.html"
    }
   },
   {
@@ -386,14 +425,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-biglietti-supercoppa-interlazio-date-e-fasi-di-5d2c75b8",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-5d2c75b8.html",
     "en": "https://ticketwhistle.com/en/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-5d2c75b8.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-5d2c75b8.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-5d2c75b8.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-5d2c75b8.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-5d2c75b8.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-5d2c75b8.html"
    }
   },
   {
@@ -414,14 +456,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-liverpool-aperta-vendita-libera-a46330d3",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-liverpool-aperta-vendita-libera-a46330d3.html",
     "en": "https://ticketwhistle.com/en/sales/inter-liverpool-aperta-vendita-libera-a46330d3.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-liverpool-aperta-vendita-libera-a46330d3.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-liverpool-aperta-vendita-libera-a46330d3.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-liverpool-aperta-vendita-libera-a46330d3.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-liverpool-aperta-vendita-libera-a46330d3.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-liverpool-aperta-vendita-libera-a46330d3.html"
    }
   },
   {
@@ -442,14 +487,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-biglietti-supercoppa-interlazio-date-e-fasi-di-2e5514e7",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-2e5514e7.html",
     "en": "https://ticketwhistle.com/en/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-2e5514e7.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-2e5514e7.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-2e5514e7.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-2e5514e7.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-2e5514e7.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-2e5514e7.html"
    }
   },
   {
@@ -470,14 +518,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-biglietti-supercoppa-interlazio-date-e-fasi-di-aa493770",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-aa493770.html",
     "en": "https://ticketwhistle.com/en/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-aa493770.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-aa493770.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-aa493770.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-aa493770.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-aa493770.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-aa493770.html"
    }
   },
   {
@@ -498,14 +549,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-liverpool-aperta-vendita-libera-56442d84",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-liverpool-aperta-vendita-libera-56442d84.html",
     "en": "https://ticketwhistle.com/en/sales/inter-liverpool-aperta-vendita-libera-56442d84.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-liverpool-aperta-vendita-libera-56442d84.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-liverpool-aperta-vendita-libera-56442d84.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-liverpool-aperta-vendita-libera-56442d84.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-liverpool-aperta-vendita-libera-56442d84.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-liverpool-aperta-vendita-libera-56442d84.html"
    }
   },
   {
@@ -526,14 +580,17 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-liverpool-aperta-vendita-libera-d9024e42",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-liverpool-aperta-vendita-libera-d9024e42.html",
     "en": "https://ticketwhistle.com/en/sales/inter-liverpool-aperta-vendita-libera-d9024e42.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-liverpool-aperta-vendita-libera-d9024e42.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-liverpool-aperta-vendita-libera-d9024e42.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-liverpool-aperta-vendita-libera-d9024e42.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-liverpool-aperta-vendita-libera-d9024e42.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-liverpool-aperta-vendita-libera-d9024e42.html"
    }
   },
   {
@@ -554,14 +611,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/inter.html",
    "official_tickets": "https://www.inter.it/it/biglietti",
    "slug": "inter-uwcl-in-vendita-i-biglietti-per-sfida-87b3a14a",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/inter-uwcl-in-vendita-i-biglietti-per-sfida-87b3a14a.html",
     "en": "https://ticketwhistle.com/en/sales/inter-uwcl-in-vendita-i-biglietti-per-sfida-87b3a14a.html",
-    "ar": "https://ticketwhistle.com/ar/sales/inter-uwcl-in-vendita-i-biglietti-per-sfida-87b3a14a.html"
+    "ar": "https://ticketwhistle.com/ar/sales/inter-uwcl-in-vendita-i-biglietti-per-sfida-87b3a14a.html",
+    "it": "https://ticketwhistle.com/it/vendite/inter-uwcl-in-vendita-i-biglietti-per-sfida-87b3a14a.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/inter-uwcl-in-vendita-i-biglietti-per-sfida-87b3a14a.html",
+    "de": "https://ticketwhistle.com/de/verkauf/inter-uwcl-in-vendita-i-biglietti-per-sfida-87b3a14a.html"
    }
   }
  ]

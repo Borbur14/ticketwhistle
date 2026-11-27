@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "racing",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/racing.html",
    "en": "https://ticketwhistle.com/en/tickets/racing.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/racing.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/racing.html",
+   "it": "https://ticketwhistle.com/it/biglietti/racing.html",
+   "fr": "https://ticketwhistle.com/fr/billets/racing.html",
+   "de": "https://ticketwhistle.com/de/tickets/racing.html"
   },
   "official_alternatives": []
  },
@@ -50,14 +53,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
    "official_tickets": "https://taquilla.realracingclub.es/",
    "slug": "racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html",
     "en": "https://ticketwhistle.com/en/sales/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html",
-    "ar": "https://ticketwhistle.com/ar/sales/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html"
+    "ar": "https://ticketwhistle.com/ar/sales/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html",
+    "it": "https://ticketwhistle.com/it/vendite/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html",
+    "de": "https://ticketwhistle.com/de/verkauf/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html"
    }
   },
   {
@@ -78,14 +84,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
    "official_tickets": "https://taquilla.realracingclub.es/",
    "slug": "racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa.html",
     "en": "https://ticketwhistle.com/en/sales/racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa.html",
-    "ar": "https://ticketwhistle.com/ar/sales/racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa.html"
+    "ar": "https://ticketwhistle.com/ar/sales/racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa.html",
+    "it": "https://ticketwhistle.com/it/vendite/racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa.html",
+    "de": "https://ticketwhistle.com/de/verkauf/racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa.html"
    }
   },
   {
@@ -106,14 +115,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
    "official_tickets": "https://taquilla.realracingclub.es/",
    "slug": "racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933.html",
     "en": "https://ticketwhistle.com/en/sales/racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933.html",
-    "ar": "https://ticketwhistle.com/ar/sales/racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933.html"
+    "ar": "https://ticketwhistle.com/ar/sales/racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933.html",
+    "it": "https://ticketwhistle.com/it/vendite/racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933.html",
+    "de": "https://ticketwhistle.com/de/verkauf/racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933.html"
    }
   },
   {
@@ -134,14 +146,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
    "official_tickets": "https://taquilla.realracingclub.es/",
    "slug": "racing-proceso-venta-entradas-partidos-e4ace55d",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/racing-proceso-venta-entradas-partidos-e4ace55d.html",
     "en": "https://ticketwhistle.com/en/sales/racing-proceso-venta-entradas-partidos-e4ace55d.html",
-    "ar": "https://ticketwhistle.com/ar/sales/racing-proceso-venta-entradas-partidos-e4ace55d.html"
+    "ar": "https://ticketwhistle.com/ar/sales/racing-proceso-venta-entradas-partidos-e4ace55d.html",
+    "it": "https://ticketwhistle.com/it/vendite/racing-proceso-venta-entradas-partidos-e4ace55d.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/racing-proceso-venta-entradas-partidos-e4ace55d.html",
+    "de": "https://ticketwhistle.com/de/verkauf/racing-proceso-venta-entradas-partidos-e4ace55d.html"
    }
   }
  ]

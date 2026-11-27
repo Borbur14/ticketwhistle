@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T09:45:30.422571+00:00",
- "last_scan": "2026-11-27T09:38:58.890979+00:00",
+ "generated_at": "2026-11-27T10:15:30.720573+00:00",
+ "last_scan": "2026-11-27T10:08:58.560932+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "espanyol",
@@ -27,7 +27,10 @@
   "pages": {
    "es": "https://ticketwhistle.com/es/entradas/espanyol.html",
    "en": "https://ticketwhistle.com/en/tickets/espanyol.html",
-   "ar": "https://ticketwhistle.com/ar/tickets/espanyol.html"
+   "ar": "https://ticketwhistle.com/ar/tickets/espanyol.html",
+   "it": "https://ticketwhistle.com/it/biglietti/espanyol.html",
+   "fr": "https://ticketwhistle.com/fr/billets/espanyol.html",
+   "de": "https://ticketwhistle.com/de/tickets/espanyol.html"
   },
   "official_alternatives": [
    {
@@ -55,14 +58,17 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/espanyol.html",
    "official_tickets": "https://tickets.rcdespanyol.com/index.php/es/entradas-es",
    "slug": "espanyol-entradas-deportivo-alaves-2ca106db",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/espanyol-entradas-deportivo-alaves-2ca106db.html",
     "en": "https://ticketwhistle.com/en/sales/espanyol-entradas-deportivo-alaves-2ca106db.html",
-    "ar": "https://ticketwhistle.com/ar/sales/espanyol-entradas-deportivo-alaves-2ca106db.html"
+    "ar": "https://ticketwhistle.com/ar/sales/espanyol-entradas-deportivo-alaves-2ca106db.html",
+    "it": "https://ticketwhistle.com/it/vendite/espanyol-entradas-deportivo-alaves-2ca106db.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/espanyol-entradas-deportivo-alaves-2ca106db.html",
+    "de": "https://ticketwhistle.com/de/verkauf/espanyol-entradas-deportivo-alaves-2ca106db.html"
    }
   },
   {
@@ -83,14 +89,17 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T09:38:58.890979+00:00",
+   "last_checked": "2026-11-27T10:08:58.560932+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/espanyol.html",
    "official_tickets": "https://tickets.rcdespanyol.com/index.php/es/entradas-es",
    "slug": "espanyol-entradas-athletic-ff89ffa4",
    "pages": {
     "es": "https://ticketwhistle.com/es/ventas/espanyol-entradas-athletic-ff89ffa4.html",
     "en": "https://ticketwhistle.com/en/sales/espanyol-entradas-athletic-ff89ffa4.html",
-    "ar": "https://ticketwhistle.com/ar/sales/espanyol-entradas-athletic-ff89ffa4.html"
+    "ar": "https://ticketwhistle.com/ar/sales/espanyol-entradas-athletic-ff89ffa4.html",
+    "it": "https://ticketwhistle.com/it/vendite/espanyol-entradas-athletic-ff89ffa4.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/espanyol-entradas-athletic-ff89ffa4.html",
+    "de": "https://ticketwhistle.com/de/verkauf/espanyol-entradas-athletic-ff89ffa4.html"
    }
   }
  ]
