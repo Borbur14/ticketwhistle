@@ -13,7 +13,7 @@ Full text for AI systems: https://ticketwhistle.com/llms-full.txt · New sales f
 - OpenAPI: https://ticketwhistle.com/openapi.json
 - MCP server (streamable HTTP): https://ticketwhistle.com/mcp — tools: upcoming_ticket_sales, get_club_ticket_windows, list_clubs
 
-## Next sales (snapshot 27 Nov 2026 14:47 Madrid · 13:47 UK)
+## Next sales (snapshot 27 Nov 2026 15:18 Madrid · 14:18 UK)
 - [Sunderland: Members' sale — Crystal Palace Away: tickets on sale Tuesday 24 November](https://ticketwhistle.com/en/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-51dba321.html) — opens Fri 27 Nov 2026 15:00 UK time — official source https://www.safc.com/news/2026/november/23/crystal-palace-away-tickets-on-sale-tuesday-24-november-/
 - [Sunderland: Members' sale — Everton away: tickets on sale Tuesday 24 November](https://ticketwhistle.com/en/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-828e4029.html) — opens Fri 27 Nov 2026 15:00 UK time — official source https://www.safc.com/news/2026/november/23/everton-away-tickets-on-sale-tuesday-24-november/
 - [Inter: Members' sale — Borussia Dortmund-Inter, biglietti settore ospiti: le fasi di vendita](https://ticketwhistle.com/en/sales/inter-borussia-dortmund-biglietti-settore-ospiti-le-fasi-4dcf7950.html) — opens Fri 27 Nov 2026 17:00 Italy time — official source https://www.inter.it/it/notizie/biglietti-trasferta-borussia-dortmund-inter-champions-league-26-27
