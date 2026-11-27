@@ -1,0 +1,70 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T13:47:55.473562+00:00",
+ "last_scan": "2026-11-27T13:38:57.826179+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "sporting",
+  "name": "Sporting CP",
+  "name_ar": "سبورتينغ لشبونة",
+  "league": "Europe's giants",
+  "country": "POR",
+  "timezone": "Europe/Lisbon",
+  "city": "Lisboa",
+  "stadium": "Estádio José Alvalade",
+  "european_competition": "UCL",
+  "colors": [
+   "#008057",
+   "#FFFFFF",
+   "#008057"
+  ],
+  "flag_css": "linear-gradient(90deg,#008057 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#008057 66.7% 100.0%)",
+  "official_site": "https://www.sporting.pt",
+  "official_tickets": "https://tickets.sporting.pt/pt",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/sporting.html",
+   "en": "https://ticketwhistle.com/en/tickets/sporting.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/sporting.html",
+   "it": "https://ticketwhistle.com/it/biglietti/sporting.html",
+   "fr": "https://ticketwhistle.com/fr/billets/sporting.html",
+   "de": "https://ticketwhistle.com/de/tickets/sporting.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "3b718be936dd1fdd",
+   "club_id": "sporting",
+   "club": "Sporting CP",
+   "title": "Bilhetes exclusivamente online para o AS Roma vs. Sporting CP",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-24T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Lisbon",
+   "league": "Europe's giants",
+   "competition": "UCL",
+   "status": "on_sale_or_announced",
+   "source_url": "https://tickets.sporting.pt/pt",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T13:38:57.826179+00:00",
+   "last_checked": "2026-11-27T13:38:57.826179+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/sporting.html",
+   "official_tickets": "https://tickets.sporting.pt/pt",
+   "slug": "sporting-bilhetes-exclusivamente-online-o-as-roma-cp-3b718be9",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/sporting-bilhetes-exclusivamente-online-o-as-roma-cp-3b718be9.html",
+    "en": "https://ticketwhistle.com/en/sales/sporting-bilhetes-exclusivamente-online-o-as-roma-cp-3b718be9.html",
+    "ar": "https://ticketwhistle.com/ar/sales/sporting-bilhetes-exclusivamente-online-o-as-roma-cp-3b718be9.html",
+    "it": "https://ticketwhistle.com/it/vendite/sporting-bilhetes-exclusivamente-online-o-as-roma-cp-3b718be9.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/sporting-bilhetes-exclusivamente-online-o-as-roma-cp-3b718be9.html",
+    "de": "https://ticketwhistle.com/de/verkauf/sporting-bilhetes-exclusivamente-online-o-as-roma-cp-3b718be9.html"
+   }
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T13:47:55.473562+00:00",
+ "last_scan": "2026-11-27T13:38:57.826179+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "ajax",
+  "name": "Ajax",
+  "name_ar": "أياكس",
+  "league": "Europe's giants",
+  "country": "NED",
+  "timezone": "Europe/Amsterdam",
+  "city": "Amsterdam",
+  "stadium": "Johan Cruijff ArenA",
+  "european_competition": "UECL",
+  "colors": [
+   "#FFFFFF",
+   "#D2122E",
+   "#FFFFFF"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#D2122E 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+  "official_site": "https://www.ajax.nl",
+  "official_tickets": "https://www.ajax.nl/fans/kaartverkoop/",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/ajax.html",
+   "en": "https://ticketwhistle.com/en/tickets/ajax.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/ajax.html",
+   "it": "https://ticketwhistle.com/it/biglietti/ajax.html",
+   "fr": "https://ticketwhistle.com/fr/billets/ajax.html",
+   "de": "https://ticketwhistle.com/de/tickets/ajax.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "98ff8b3b07121058",
+   "club_id": "ajax",
+   "club": "Ajax",
+   "title": "Informatie kaartverkoop Eredivisie-thuisduels in januari",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-23T14:33:05+00:00",
+   "has_time": false,
+   "timezone": "Europe/Amsterdam",
+   "league": "Europe's giants",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.ajax.nl/fans/kaartverkoop/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T13:38:57.826179+00:00",
+   "last_checked": "2026-11-27T13:38:57.826179+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/ajax.html",
+   "official_tickets": "https://www.ajax.nl/fans/kaartverkoop/",
+   "slug": "ajax-informatie-kaartverkoop-eredivisie-thuisduels-in-januari-98ff8b3b",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/ajax-informatie-kaartverkoop-eredivisie-thuisduels-in-januari-98ff8b3b.html",
+    "en": "https://ticketwhistle.com/en/sales/ajax-informatie-kaartverkoop-eredivisie-thuisduels-in-januari-98ff8b3b.html",
+    "ar": "https://ticketwhistle.com/ar/sales/ajax-informatie-kaartverkoop-eredivisie-thuisduels-in-januari-98ff8b3b.html",
+    "it": "https://ticketwhistle.com/it/vendite/ajax-informatie-kaartverkoop-eredivisie-thuisduels-in-januari-98ff8b3b.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/ajax-informatie-kaartverkoop-eredivisie-thuisduels-in-januari-98ff8b3b.html",
+    "de": "https://ticketwhistle.com/de/verkauf/ajax-informatie-kaartverkoop-eredivisie-thuisduels-in-januari-98ff8b3b.html"
+   }
+  }
+ ]
+}

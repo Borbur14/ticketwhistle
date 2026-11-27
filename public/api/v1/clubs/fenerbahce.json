@@ -1,0 +1,101 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T13:47:55.473562+00:00",
+ "last_scan": "2026-11-27T13:38:57.826179+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "fenerbahce",
+  "name": "Fenerbahçe",
+  "name_ar": "فنربخشة",
+  "league": "Europe's giants",
+  "country": "TUR",
+  "timezone": "Europe/Istanbul",
+  "city": "İstanbul",
+  "stadium": "Ülker Stadyumu",
+  "european_competition": "UCL",
+  "colors": [
+   "#002D72",
+   "#FFED00",
+   "#002D72"
+  ],
+  "flag_css": "linear-gradient(90deg,#002D72 0.0% 33.3%,#FFED00 33.3% 66.7%,#002D72 66.7% 100.0%)",
+  "official_site": "https://www.fenerbahce.org",
+  "official_tickets": "https://www.passo.com.tr/",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/fenerbahce.html",
+   "en": "https://ticketwhistle.com/en/tickets/fenerbahce.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/fenerbahce.html",
+   "it": "https://ticketwhistle.com/it/biglietti/fenerbahce.html",
+   "fr": "https://ticketwhistle.com/fr/billets/fenerbahce.html",
+   "de": "https://ticketwhistle.com/de/tickets/fenerbahce.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "602ac8b7510727cf",
+   "club_id": "fenerbahce",
+   "club": "Fenerbahçe",
+   "title": "Erzurumspor maçının biletleri satışa çıktı",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-23T11:52:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Istanbul",
+   "league": "Europe's giants",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.passo.com.tr/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T13:38:57.826179+00:00",
+   "last_checked": "2026-11-27T13:38:57.826179+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/fenerbahce.html",
+   "official_tickets": "https://www.passo.com.tr/",
+   "slug": "fenerbahce-erzurumspor-macnn-biletleri-satsa-ckt-602ac8b7",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/fenerbahce-erzurumspor-macnn-biletleri-satsa-ckt-602ac8b7.html",
+    "en": "https://ticketwhistle.com/en/sales/fenerbahce-erzurumspor-macnn-biletleri-satsa-ckt-602ac8b7.html",
+    "ar": "https://ticketwhistle.com/ar/sales/fenerbahce-erzurumspor-macnn-biletleri-satsa-ckt-602ac8b7.html",
+    "it": "https://ticketwhistle.com/it/vendite/fenerbahce-erzurumspor-macnn-biletleri-satsa-ckt-602ac8b7.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/fenerbahce-erzurumspor-macnn-biletleri-satsa-ckt-602ac8b7.html",
+    "de": "https://ticketwhistle.com/de/verkauf/fenerbahce-erzurumspor-macnn-biletleri-satsa-ckt-602ac8b7.html"
+   }
+  },
+  {
+   "id": "793039d687eb018f",
+   "club_id": "fenerbahce",
+   "club": "Fenerbahçe",
+   "title": "Shakhtar Donetsk-Fenerbahçe UEFA Şampiyonlar Ligi karşılaşması deplasman tribünü bilet bilgilendirmesi",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-12T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Istanbul",
+   "league": "Europe's giants",
+   "competition": "UCL",
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.passo.com.tr/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T13:38:57.826179+00:00",
+   "last_checked": "2026-11-27T13:38:57.826179+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/fenerbahce.html",
+   "official_tickets": "https://www.passo.com.tr/",
+   "slug": "fenerbahce-shakhtar-donetsk-uefa-sampiyonlar-ligi-karslasmas-deplasman-793039d6",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/fenerbahce-shakhtar-donetsk-uefa-sampiyonlar-ligi-karslasmas-deplasman-793039d6.html",
+    "en": "https://ticketwhistle.com/en/sales/fenerbahce-shakhtar-donetsk-uefa-sampiyonlar-ligi-karslasmas-deplasman-793039d6.html",
+    "ar": "https://ticketwhistle.com/ar/sales/fenerbahce-shakhtar-donetsk-uefa-sampiyonlar-ligi-karslasmas-deplasman-793039d6.html",
+    "it": "https://ticketwhistle.com/it/vendite/fenerbahce-shakhtar-donetsk-uefa-sampiyonlar-ligi-karslasmas-deplasman-793039d6.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/fenerbahce-shakhtar-donetsk-uefa-sampiyonlar-ligi-karslasmas-deplasman-793039d6.html",
+    "de": "https://ticketwhistle.com/de/verkauf/fenerbahce-shakhtar-donetsk-uefa-sampiyonlar-ligi-karslasmas-deplasman-793039d6.html"
+   }
+  }
+ ]
+}

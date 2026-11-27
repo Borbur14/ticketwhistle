@@ -1,0 +1,101 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T13:47:55.473562+00:00",
+ "last_scan": "2026-11-27T13:38:57.826179+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "feyenoord",
+  "name": "Feyenoord",
+  "name_ar": "فينورد",
+  "league": "Europe's giants",
+  "country": "NED",
+  "timezone": "Europe/Amsterdam",
+  "city": "Rotterdam",
+  "stadium": "De Kuip",
+  "european_competition": "UCL",
+  "colors": [
+   "#E30613",
+   "#FFFFFF",
+   "#111111"
+  ],
+  "flag_css": "linear-gradient(90deg,#E30613 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#E30613 66.7% 100.0%)",
+  "official_site": "https://www.feyenoord.com",
+  "official_tickets": "https://www.feyenoord.com/en/tickets",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/feyenoord.html",
+   "en": "https://ticketwhistle.com/en/tickets/feyenoord.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/feyenoord.html",
+   "it": "https://ticketwhistle.com/it/biglietti/feyenoord.html",
+   "fr": "https://ticketwhistle.com/fr/billets/feyenoord.html",
+   "de": "https://ticketwhistle.com/de/tickets/feyenoord.html"
+  },
+  "official_alternatives": []
+ },
+ "windows": [
+  {
+   "id": "b5249c49917c46fa",
+   "club_id": "feyenoord",
+   "club": "Feyenoord",
+   "title": "Kaartverkoopinformatie Viking FK",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-17T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Amsterdam",
+   "league": "Europe's giants",
+   "competition": "UCL",
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.feyenoord.com/en/tickets",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T13:38:57.826179+00:00",
+   "last_checked": "2026-11-27T13:38:57.826179+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/feyenoord.html",
+   "official_tickets": "https://www.feyenoord.com/en/tickets",
+   "slug": "feyenoord-kaartverkoopinformatie-viking-fk-b5249c49",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/feyenoord-kaartverkoopinformatie-viking-fk-b5249c49.html",
+    "en": "https://ticketwhistle.com/en/sales/feyenoord-kaartverkoopinformatie-viking-fk-b5249c49.html",
+    "ar": "https://ticketwhistle.com/ar/sales/feyenoord-kaartverkoopinformatie-viking-fk-b5249c49.html",
+    "it": "https://ticketwhistle.com/it/vendite/feyenoord-kaartverkoopinformatie-viking-fk-b5249c49.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/feyenoord-kaartverkoopinformatie-viking-fk-b5249c49.html",
+    "de": "https://ticketwhistle.com/de/verkauf/feyenoord-kaartverkoopinformatie-viking-fk-b5249c49.html"
+   }
+  },
+  {
+   "id": "f09431e3bf374957",
+   "club_id": "feyenoord",
+   "club": "Feyenoord",
+   "title": "Kaartverkoop Feyenoord – FC Porto start vrijdag",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-16T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/Amsterdam",
+   "league": "Europe's giants",
+   "competition": "UCL",
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.feyenoord.com/en/tickets",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T13:38:57.826179+00:00",
+   "last_checked": "2026-11-27T13:38:57.826179+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/feyenoord.html",
+   "official_tickets": "https://www.feyenoord.com/en/tickets",
+   "slug": "feyenoord-kaartverkoop-porto-start-vrijdag-f09431e3",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/feyenoord-kaartverkoop-porto-start-vrijdag-f09431e3.html",
+    "en": "https://ticketwhistle.com/en/sales/feyenoord-kaartverkoop-porto-start-vrijdag-f09431e3.html",
+    "ar": "https://ticketwhistle.com/ar/sales/feyenoord-kaartverkoop-porto-start-vrijdag-f09431e3.html",
+    "it": "https://ticketwhistle.com/it/vendite/feyenoord-kaartverkoop-porto-start-vrijdag-f09431e3.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/feyenoord-kaartverkoop-porto-start-vrijdag-f09431e3.html",
+    "de": "https://ticketwhistle.com/de/verkauf/feyenoord-kaartverkoop-porto-start-vrijdag-f09431e3.html"
+   }
+  }
+ ]
+}

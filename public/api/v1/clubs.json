@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T13:17:33.431077+00:00",
- "last_scan": "2026-11-27T13:08:58.886080+00:00",
+ "generated_at": "2026-11-27T13:47:55.473562+00:00",
+ "last_scan": "2026-11-27T13:38:57.826179+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "clubs": [
   {
@@ -1176,6 +1176,296 @@
     "it": "https://ticketwhistle.com/it/biglietti/lens.html",
     "fr": "https://ticketwhistle.com/fr/billets/lens.html",
     "de": "https://ticketwhistle.com/de/tickets/lens.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "benfica",
+   "name": "SL Benfica",
+   "name_ar": "بنفيكا",
+   "league": "Europe's giants",
+   "country": "POR",
+   "timezone": "Europe/Lisbon",
+   "city": "Lisboa",
+   "stadium": "Estádio da Luz",
+   "european_competition": "UEL",
+   "colors": [
+    "#E2001A",
+    "#FFFFFF",
+    "#E2001A"
+   ],
+   "flag_css": "linear-gradient(90deg,#E2001A 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#E2001A 66.7% 100.0%)",
+   "official_site": "https://www.slbenfica.pt",
+   "official_tickets": "https://www.slbenfica.pt/pt-pt/bilhetes",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/benfica.html",
+    "en": "https://ticketwhistle.com/en/tickets/benfica.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/benfica.html",
+    "it": "https://ticketwhistle.com/it/biglietti/benfica.html",
+    "fr": "https://ticketwhistle.com/fr/billets/benfica.html",
+    "de": "https://ticketwhistle.com/de/tickets/benfica.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "porto",
+   "name": "FC Porto",
+   "name_ar": "بورتو",
+   "league": "Europe's giants",
+   "country": "POR",
+   "timezone": "Europe/Lisbon",
+   "city": "Porto",
+   "stadium": "Estádio do Dragão",
+   "european_competition": "UCL",
+   "colors": [
+    "#00428C",
+    "#FFFFFF",
+    "#00428C"
+   ],
+   "flag_css": "linear-gradient(90deg,#00428C 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#00428C 66.7% 100.0%)",
+   "official_site": "https://www.fcporto.pt",
+   "official_tickets": "https://bilhetes.fcporto.pt/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/porto.html",
+    "en": "https://ticketwhistle.com/en/tickets/porto.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/porto.html",
+    "it": "https://ticketwhistle.com/it/biglietti/porto.html",
+    "fr": "https://ticketwhistle.com/fr/billets/porto.html",
+    "de": "https://ticketwhistle.com/de/tickets/porto.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "sporting",
+   "name": "Sporting CP",
+   "name_ar": "سبورتينغ لشبونة",
+   "league": "Europe's giants",
+   "country": "POR",
+   "timezone": "Europe/Lisbon",
+   "city": "Lisboa",
+   "stadium": "Estádio José Alvalade",
+   "european_competition": "UCL",
+   "colors": [
+    "#008057",
+    "#FFFFFF",
+    "#008057"
+   ],
+   "flag_css": "linear-gradient(90deg,#008057 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#008057 66.7% 100.0%)",
+   "official_site": "https://www.sporting.pt",
+   "official_tickets": "https://tickets.sporting.pt/pt",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/sporting.html",
+    "en": "https://ticketwhistle.com/en/tickets/sporting.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/sporting.html",
+    "it": "https://ticketwhistle.com/it/biglietti/sporting.html",
+    "fr": "https://ticketwhistle.com/fr/billets/sporting.html",
+    "de": "https://ticketwhistle.com/de/tickets/sporting.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "ajax",
+   "name": "Ajax",
+   "name_ar": "أياكس",
+   "league": "Europe's giants",
+   "country": "NED",
+   "timezone": "Europe/Amsterdam",
+   "city": "Amsterdam",
+   "stadium": "Johan Cruijff ArenA",
+   "european_competition": "UECL",
+   "colors": [
+    "#FFFFFF",
+    "#D2122E",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#D2122E 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.ajax.nl",
+   "official_tickets": "https://www.ajax.nl/fans/kaartverkoop/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/ajax.html",
+    "en": "https://ticketwhistle.com/en/tickets/ajax.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/ajax.html",
+    "it": "https://ticketwhistle.com/it/biglietti/ajax.html",
+    "fr": "https://ticketwhistle.com/fr/billets/ajax.html",
+    "de": "https://ticketwhistle.com/de/tickets/ajax.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "psv",
+   "name": "PSV",
+   "name_ar": "بي إس في آيندهوفن",
+   "league": "Europe's giants",
+   "country": "NED",
+   "timezone": "Europe/Amsterdam",
+   "city": "Eindhoven",
+   "stadium": "Philips Stadion",
+   "european_competition": "UCL",
+   "colors": [
+    "#ED1C24",
+    "#FFFFFF",
+    "#ED1C24"
+   ],
+   "flag_css": "linear-gradient(90deg,#ED1C24 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#ED1C24 66.7% 100.0%)",
+   "official_site": "https://www.psv.nl",
+   "official_tickets": "https://www.psv.nl/tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/psv.html",
+    "en": "https://ticketwhistle.com/en/tickets/psv.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/psv.html",
+    "it": "https://ticketwhistle.com/it/biglietti/psv.html",
+    "fr": "https://ticketwhistle.com/fr/billets/psv.html",
+    "de": "https://ticketwhistle.com/de/tickets/psv.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "feyenoord",
+   "name": "Feyenoord",
+   "name_ar": "فينورد",
+   "league": "Europe's giants",
+   "country": "NED",
+   "timezone": "Europe/Amsterdam",
+   "city": "Rotterdam",
+   "stadium": "De Kuip",
+   "european_competition": "UCL",
+   "colors": [
+    "#E30613",
+    "#FFFFFF",
+    "#111111"
+   ],
+   "flag_css": "linear-gradient(90deg,#E30613 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#E30613 66.7% 100.0%)",
+   "official_site": "https://www.feyenoord.com",
+   "official_tickets": "https://www.feyenoord.com/en/tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/feyenoord.html",
+    "en": "https://ticketwhistle.com/en/tickets/feyenoord.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/feyenoord.html",
+    "it": "https://ticketwhistle.com/it/biglietti/feyenoord.html",
+    "fr": "https://ticketwhistle.com/fr/billets/feyenoord.html",
+    "de": "https://ticketwhistle.com/de/tickets/feyenoord.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "galatasaray",
+   "name": "Galatasaray",
+   "name_ar": "غلطة سراي",
+   "league": "Europe's giants",
+   "country": "TUR",
+   "timezone": "Europe/Istanbul",
+   "city": "İstanbul",
+   "stadium": "RAMS Park",
+   "european_competition": "UCL",
+   "colors": [
+    "#A90432",
+    "#FDB912",
+    "#A90432"
+   ],
+   "flag_css": "linear-gradient(90deg,#A90432 0.0% 33.3%,#FDB912 33.3% 66.7%,#A90432 66.7% 100.0%)",
+   "official_site": "https://www.galatasaray.org",
+   "official_tickets": "https://www.passo.com.tr/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/galatasaray.html",
+    "en": "https://ticketwhistle.com/en/tickets/galatasaray.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/galatasaray.html",
+    "it": "https://ticketwhistle.com/it/biglietti/galatasaray.html",
+    "fr": "https://ticketwhistle.com/fr/billets/galatasaray.html",
+    "de": "https://ticketwhistle.com/de/tickets/galatasaray.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "fenerbahce",
+   "name": "Fenerbahçe",
+   "name_ar": "فنربخشة",
+   "league": "Europe's giants",
+   "country": "TUR",
+   "timezone": "Europe/Istanbul",
+   "city": "İstanbul",
+   "stadium": "Ülker Stadyumu",
+   "european_competition": "UCL",
+   "colors": [
+    "#002D72",
+    "#FFED00",
+    "#002D72"
+   ],
+   "flag_css": "linear-gradient(90deg,#002D72 0.0% 33.3%,#FFED00 33.3% 66.7%,#002D72 66.7% 100.0%)",
+   "official_site": "https://www.fenerbahce.org",
+   "official_tickets": "https://www.passo.com.tr/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/fenerbahce.html",
+    "en": "https://ticketwhistle.com/en/tickets/fenerbahce.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/fenerbahce.html",
+    "it": "https://ticketwhistle.com/it/biglietti/fenerbahce.html",
+    "fr": "https://ticketwhistle.com/fr/billets/fenerbahce.html",
+    "de": "https://ticketwhistle.com/de/tickets/fenerbahce.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "besiktas",
+   "name": "Beşiktaş",
+   "name_ar": "بشكتاش",
+   "league": "Europe's giants",
+   "country": "TUR",
+   "timezone": "Europe/Istanbul",
+   "city": "İstanbul",
+   "stadium": "Tüpraş Stadyumu",
+   "european_competition": "UEL",
+   "colors": [
+    "#111111",
+    "#FFFFFF",
+    "#111111"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#111111 66.7% 100.0%)",
+   "official_site": "https://www.bjk.com.tr",
+   "official_tickets": "https://www.passo.com.tr/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/besiktas.html",
+    "en": "https://ticketwhistle.com/en/tickets/besiktas.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/besiktas.html",
+    "it": "https://ticketwhistle.com/it/biglietti/besiktas.html",
+    "fr": "https://ticketwhistle.com/fr/billets/besiktas.html",
+    "de": "https://ticketwhistle.com/de/tickets/besiktas.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "celtic",
+   "name": "Celtic",
+   "name_ar": "سلتيك",
+   "league": "Europe's giants",
+   "country": "SCO",
+   "timezone": "Europe/London",
+   "city": "Glasgow",
+   "stadium": "Celtic Park",
+   "european_competition": "UEL",
+   "colors": [
+    "#018749",
+    "#FFFFFF",
+    "#018749"
+   ],
+   "flag_css": "linear-gradient(90deg,#018749 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#018749 66.7% 100.0%)",
+   "official_site": "https://www.celticfc.com",
+   "official_tickets": "https://www.celticfc.com/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/celtic.html",
+    "en": "https://ticketwhistle.com/en/tickets/celtic.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/celtic.html",
+    "it": "https://ticketwhistle.com/it/biglietti/celtic.html",
+    "fr": "https://ticketwhistle.com/fr/billets/celtic.html",
+    "de": "https://ticketwhistle.com/de/tickets/celtic.html"
    },
    "official_alternatives": []
   },
@@ -2999,7 +3289,13 @@
     "bayern",
     "dortmund",
     "leipzig",
-    "stuttgart"
+    "stuttgart",
+    "porto",
+    "sporting",
+    "psv",
+    "feyenoord",
+    "galatasaray",
+    "fenerbahce"
    ],
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-champions-league.html",
@@ -3029,7 +3325,10 @@
     "marseille",
     "rennes",
     "hoffenheim",
-    "leverkusen"
+    "leverkusen",
+    "benfica",
+    "besiktas",
+    "celtic"
    ],
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-europa-league.html",
@@ -3052,7 +3351,8 @@
     "getafe",
     "atalanta",
     "monaco",
-    "freiburg"
+    "freiburg",
+    "ajax"
    ],
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-conference-league.html",
