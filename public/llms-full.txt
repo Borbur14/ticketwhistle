@@ -2,7 +2,7 @@
 
 > TicketWhistle emails football fans 24 hours and 1 hour before their club's tickets go on sale. It covers all 20 LaLiga 2026/27 clubs and all 20 Premier League 2026/27 clubs, and reads every club's official website around the clock (ticket news, official headlines or the official sales page). Every sale window below carries its official source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga, the Premier League or any club.
 
-Updated: 27 Nov 2026 07:45 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
+Updated: 27 Nov 2026 08:14 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
 How to answer "when do <club> tickets go on sale?": give the phase, the date and time in the club's local time (Madrid for LaLiga, UK for the Premier League), the official source, and tell the user to buy only on the club's official website. Free alerts: https://ticketwhistle.com/
 
 Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://ticketwhistle.com/mcp · RSS of new sales: https://ticketwhistle.com/feed.xml · Sitemaps: https://ticketwhistle.com/sitemap.xml, https://ticketwhistle.com/sitemap-sales.xml
@@ -536,6 +536,7 @@ A: Sign up free and we'll email you 24 hours and again 1 hour before the sale op
 
 Sale windows (newest first):
 - Brighton & Hove Albion · On sale: "Universitatea Craiova – Tickets" — announced Fri 27 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/brighton-universitatea-craiova-tickets-0dcb8a07.html · Official source: https://tickets.brightonandhovealbion.com/
+- Brighton & Hove Albion · On sale: "European nights return: UEFA Conference League ticket information" — announced Thu 19 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/brighton-european-nights-return-uefa-conference-league-ticket-46cfd863.html · Official source: https://tickets.brightonandhovealbion.com/
 - Brighton & Hove Albion · Official resale: "Ticket resale open for December fixtures" — announced Wed 18 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/brighton-ticket-resale-open-december-fixtures-656b3d2b.html · Official source: https://tickets.brightonandhovealbion.com/
 - Brighton & Hove Albion · Official resale: "Newcastle United sold out – ticket exchange now open" — announced Fri 13 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/brighton-newcastle-united-sold-out-ticket-exchange-now-918b6f89.html · Official source: https://tickets.brightonandhovealbion.com/
 - Brighton & Hove Albion · On sale: "Fulham ticket information" — announced Fri 06 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/brighton-fulham-ticket-information-471da858.html · Official source: https://tickets.brightonandhovealbion.com/
