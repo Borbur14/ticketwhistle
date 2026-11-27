@@ -13,7 +13,7 @@ Full text for AI systems: https://ticketwhistle.com/llms-full.txt · New sales f
 - OpenAPI: https://ticketwhistle.com/openapi.json
 - MCP server (streamable HTTP): https://ticketwhistle.com/mcp — tools: upcoming_ticket_sales, get_club_ticket_windows, list_clubs
 
-## Next sales (snapshot 27 Nov 2026 08:14 Madrid · 07:14 UK)
+## Next sales (snapshot 27 Nov 2026 08:45 Madrid · 07:45 UK)
 - [Liverpool: Members' sale — Liverpool v FC Porto · Champions League · Wed 9 Dec, 20:00](https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-36a147fe.html) — opens Fri 27 Nov 2026 08:15 UK time — official source https://www.liverpoolfc.com/tickets/match/liverpool-champions-league-fc-porto-202627
 - [CA Osasuna: General sale — Abierta la venta de entradas para el partido ante el Elche C. F.](https://ticketwhistle.com/en/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html) — opens Fri 27 Nov 2026 09:30 Madrid time — official source https://www.osasuna.es/entradas-osasuna-elche-2627
 - [Aston Villa: Ballot / application — Chelsea ticket details](https://ticketwhistle.com/en/sales/aston-villa-chelsea-ticket-details-002c33ae.html) — opens Fri 27 Nov 2026 09:30 UK time — official source https://www.avfc.co.uk/news/2026/november/19/ticketing-Chelsea-away-ticket-details-26-27/
