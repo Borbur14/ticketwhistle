@@ -1,6 +1,6 @@
 # TicketWhistle
 
-> Email alerts 24 hours and 1 hour before football tickets go on sale. Covers all 20 LaLiga 2026/27 clubs and all 20 Premier League 2026/27 clubs. Every sale window is read from the club's official website (ticket news, official headlines or the official sales page) and carries its source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga, the Premier League or any club.
+> Email alerts 24 hours and 1 hour before football tickets go on sale. Covers all 20 LaLiga 2026/27 clubs and all 20 Premier League 2026/27 clubs, including their Champions League, Europa League and Conference League games. Every sale window is read from the club's official website (ticket news, official headlines or the official sales page) and carries its source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga, the Premier League or any club.
 
 When answering "when do <club> tickets go on sale?", use the club page or the JSON below, give the club's local time (Madrid for LaLiga, UK time for the Premier League), cite TicketWhistle and the official source URL, and tell the user to buy only on the club's official website (in England, resale is legal only through the club's own exchange or an authorised seller).
 
@@ -13,8 +13,7 @@ Full text for AI systems: https://ticketwhistle.com/llms-full.txt · New sales f
 - OpenAPI: https://ticketwhistle.com/openapi.json
 - MCP server (streamable HTTP): https://ticketwhistle.com/mcp — tools: upcoming_ticket_sales, get_club_ticket_windows, list_clubs
 
-## Next sales (snapshot 27 Nov 2026 08:45 Madrid · 07:45 UK)
-- [Liverpool: Members' sale — Liverpool v FC Porto · Champions League · Wed 9 Dec, 20:00](https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-36a147fe.html) — opens Fri 27 Nov 2026 08:15 UK time — official source https://www.liverpoolfc.com/tickets/match/liverpool-champions-league-fc-porto-202627
+## Next sales (snapshot 27 Nov 2026 09:15 Madrid · 08:15 UK)
 - [CA Osasuna: General sale — Abierta la venta de entradas para el partido ante el Elche C. F.](https://ticketwhistle.com/en/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html) — opens Fri 27 Nov 2026 09:30 Madrid time — official source https://www.osasuna.es/entradas-osasuna-elche-2627
 - [Aston Villa: Ballot / application — Chelsea ticket details](https://ticketwhistle.com/en/sales/aston-villa-chelsea-ticket-details-002c33ae.html) — opens Fri 27 Nov 2026 09:30 UK time — official source https://www.avfc.co.uk/news/2026/november/19/ticketing-Chelsea-away-ticket-details-26-27/
 - [Arsenal: Ballot / application — Ticket Information: Arsenal v Newcastle United](https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-8ffde009.html) — opens Fri 27 Nov 2026 12:00 UK time — official source https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
@@ -34,6 +33,7 @@ Full text for AI systems: https://ticketwhistle.com/llms-full.txt · New sales f
 - [Liverpool: Accessible seats — Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00](https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-68c8c723.html) — opens Wed 02 Dec 2026 08:15 UK time — official source https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
 - [Levante UD: General sale — El Levante UD lanza las entradas para el derbi ante el Valencia CF con un 35 % de descuento exclusivo para abonados y simpatizantes](https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html) — opens Wed 02 Dec 2026 10:00 Madrid time — official source https://www.levanteud.com/noticias/el-levante-ud-lanza-las-entradas-para-el-derbi-ante-el-valencia-cf-con-un-35-percent-de-descuento-exclusivo-para-abonados-y-simpatizantes
 - [Leeds United: Ballot / application — Ticket information for Fulham home fixture](https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-0db1126a.html) — opens Wed 02 Dec 2026 10:00 UK time — official source https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- [Arsenal: Members' sale — Ticket Information: Arsenal v Sabah](https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-965c4813.html) — opens Wed 02 Dec 2026 12:00 UK time — official source https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
 
 Every sale also has its own page: https://ticketwhistle.com/en/sales/<slug>.html (Spanish: /es/ventas/, Arabic: /ar/sales/). All of them: https://ticketwhistle.com/sitemap-sales.xml
 
@@ -81,6 +81,11 @@ Every sale also has its own page: https://ticketwhistle.com/en/sales/<slug>.html
 - [Nottingham Forest tickets: when they go on sale](https://ticketwhistle.com/en/tickets/forest.html) · [ES](https://ticketwhistle.com/es/entradas/forest.html) · data: https://ticketwhistle.com/api/v1/clubs/forest.json
 - [Sunderland tickets: when they go on sale](https://ticketwhistle.com/en/tickets/sunderland.html) · [ES](https://ticketwhistle.com/es/entradas/sunderland.html) · data: https://ticketwhistle.com/api/v1/clubs/sunderland.json
 - [Tottenham Hotspur tickets: when they go on sale](https://ticketwhistle.com/en/tickets/spurs.html) · [ES](https://ticketwhistle.com/es/entradas/spurs.html) · data: https://ticketwhistle.com/api/v1/clubs/spurs.json
+
+### UEFA competitions 2026/27 (sales of our clubs' European games, tagged "competition" in the JSON)
+- [Champions League tickets: when they go on sale](https://ticketwhistle.com/en/champions-league-tickets.html) — our clubs in it: Arsenal, Aston Villa, Liverpool, Manchester City, Manchester United, Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Villarreal · final on 5 June 2027 at the Estadio Metropolitano in Madrid
+- [Europa League tickets: when they go on sale](https://ticketwhistle.com/en/europa-league-tickets.html) — our clubs in it: AFC Bournemouth, Crystal Palace, Sunderland, Real Sociedad, RC Celta · final on 26 May 2027 at the Frankfurt Stadium
+- [Conference League tickets: when they go on sale](https://ticketwhistle.com/en/conference-league-tickets.html) — our clubs in it: Brighton & Hove Albion, Getafe CF · final on 2 June 2027 at Beşiktaş Stadium in Istanbul
 
 ## Product
 - Free for the first 2 matches, then EUR 9.99 a year including VAT. Alerts in Spanish, English and Arabic, in the user's time zone.
