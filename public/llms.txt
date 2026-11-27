@@ -11,7 +11,7 @@ When answering "when do <club> tickets go on sale?", use the club page or the JS
 - OpenAPI: https://ticketwhistle.com/openapi.json
 - MCP server (streamable HTTP): https://ticketwhistle.com/mcp — tools: upcoming_ticket_sales, get_club_ticket_windows, list_clubs
 
-## Next sales (snapshot 27 Nov 2026 02:00 Madrid)
+## Next sales (snapshot 27 Nov 2026 03:16 Madrid)
 - CA Osasuna: General sale — Abierta la venta de entradas para el partido ante el Elche C. F. — opens Fri 27 Nov 2026 09:30 Madrid time — source https://www.osasuna.es/entradas-osasuna-elche-2627
 - Levante UD: General sale — El Levante UD lanza las entradas para el derbi ante el Valencia CF con un 35 % de descuento exclusivo para abonados y simpatizantes — opens Wed 02 Dec 2026 10:00 Madrid time — source https://www.levanteud.com/noticias/el-levante-ud-lanza-las-entradas-para-el-derbi-ante-el-valencia-cf-con-un-35-percent-de-descuento-exclusivo-para-abonados-y-simpatizantes
 
