@@ -13,7 +13,7 @@ Full text for AI systems: https://ticketwhistle.com/llms-full.txt · New sales f
 - OpenAPI: https://ticketwhistle.com/openapi.json
 - MCP server (streamable HTTP): https://ticketwhistle.com/mcp — tools: upcoming_ticket_sales, get_club_ticket_windows, list_clubs
 
-## Next sales (snapshot 27 Nov 2026 13:17 Madrid · 12:17 UK)
+## Next sales (snapshot 27 Nov 2026 13:47 Madrid · 12:47 UK)
 - [Leeds United: Members' sale — Ticket information for Fulham home fixture](https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-3630c757.html) — opens Fri 27 Nov 2026 13:00 UK time — official source https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
 - [Liverpool: Members' sale — Liverpool v FC Porto · Champions League · Wed 9 Dec, 20:00](https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-12ff32c0.html) — opens Fri 27 Nov 2026 13:00 UK time — official source https://www.liverpoolfc.com/tickets/match/liverpool-champions-league-fc-porto-202627
 - [Sunderland: Members' sale — Crystal Palace Away: tickets on sale Tuesday 24 November](https://ticketwhistle.com/en/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-51dba321.html) — opens Fri 27 Nov 2026 15:00 UK time — official source https://www.safc.com/news/2026/november/23/crystal-palace-away-tickets-on-sale-tuesday-24-november-/
