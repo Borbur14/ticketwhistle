@@ -1,19 +1,61 @@
 # TicketWhistle — full text for AI systems
 
-> TicketWhistle emails football fans 24 hours and 1 hour before their club's tickets go on sale. It covers all 20 LaLiga 2026/27 clubs and reads every club's official website around the clock (ticket news, official headlines or the official sales page). Every sale window below carries its official source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga or any club.
+> TicketWhistle emails football fans 24 hours and 1 hour before their club's tickets go on sale. It covers all 20 LaLiga 2026/27 clubs and all 20 Premier League 2026/27 clubs, and reads every club's official website around the clock (ticket news, official headlines or the official sales page). Every sale window below carries its official source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga, the Premier League or any club.
 
-Updated: 27 Nov 2026 07:14 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
-How to answer "when do <club> tickets go on sale?": give the phase, the Madrid date and time, the official source, and tell the user to buy only on the club's official website. Free alerts: https://ticketwhistle.com/
+Updated: 27 Nov 2026 07:45 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
+How to answer "when do <club> tickets go on sale?": give the phase, the date and time in the club's local time (Madrid for LaLiga, UK for the Premier League), the official source, and tell the user to buy only on the club's official website. Free alerts: https://ticketwhistle.com/
 
 Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://ticketwhistle.com/mcp · RSS of new sales: https://ticketwhistle.com/feed.xml · Sitemaps: https://ticketwhistle.com/sitemap.xml, https://ticketwhistle.com/sitemap-sales.xml
 
 ## Next ticket sales (all clubs)
+- Liverpool · Members' sale: "Liverpool v FC Porto · Champions League · Wed 9 Dec, 20:00" — opens Fri 27 Nov 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-36a147fe.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-champions-league-fc-porto-202627
 - CA Osasuna · General sale: "Abierta la venta de entradas para el partido ante el Elche C. F." — opens Fri 27 Nov 2026 09:30 (Madrid time). Page: https://ticketwhistle.com/en/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html · Official source: https://www.osasuna.es/entradas-osasuna-elche-2627
+- Aston Villa · Ballot / application: "Chelsea ticket details" — opens Fri 27 Nov 2026 09:30 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-chelsea-ticket-details-002c33ae.html · Official source: https://www.avfc.co.uk/news/2026/november/19/ticketing-Chelsea-away-ticket-details-26-27/
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Newcastle United" — opens Fri 27 Nov 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-8ffde009.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
+- Leeds United · Members' sale: "Ticket information for Fulham home fixture" — opens Fri 27 Nov 2026 13:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-3630c757.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Liverpool · Members' sale: "Liverpool v FC Porto · Champions League · Wed 9 Dec, 20:00" — opens Fri 27 Nov 2026 13:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-12ff32c0.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-champions-league-fc-porto-202627
+- Leeds United · Members' sale: "Ticket information for Ipswich fixture" — opens Mon 30 Nov 2026 09:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-ipswich-fixture-2a99a68b.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-ipswich-fixture
+- Leeds United · Ballot / application: "Ticket information for Fulham home fixture" — opens Mon 30 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-1addb990.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Liverpool · Registration: "Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00" — opens Mon 30 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-9f6e51d9.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
+- Liverpool · Registration: "Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00" — opens Mon 30 Nov 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
+- Crystal Palace · Members' sale: "Tickets now on sale for Carabao Cup quarter-final v Sunderland" — opens Mon 30 Nov 2026 17:30 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-now-on-sale-carabao-cup-quarter-e7c95e18.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-sunderland-december-2026-carabao-cup/
+- Leeds United · Ballot / application: "Ticket info for Boxing Day Aston Villa trip" — opens Tue 01 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-info-boxing-day-aston-villa-trip-e7ce8b05.html · Official source: https://www.leedsunited.com/en/news/ticket-info-for-boxing-day-aston-villa-trip
+- Leeds United · Ballot / application: "Ticket information for Fulham home fixture" — opens Tue 01 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-9593e500.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Liverpool · Members' sale: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Tue 01 Dec 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-eceedbb2.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
+- Liverpool · Members' sale: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Tue 01 Dec 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-b397bef7.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
+- Liverpool · Accessible seats: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Tue 01 Dec 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-fc6d1530.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
+- Liverpool · Members' sale: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Wed 02 Dec 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-9648bb75.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
+- Liverpool · Accessible seats: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Wed 02 Dec 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-68c8c723.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
 - Levante UD · General sale: "El Levante UD lanza las entradas para el derbi ante el Valencia CF con un 35 % de descuento exclusivo para abonados y simpatizantes" — opens Wed 02 Dec 2026 10:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html · Official source: https://www.levanteud.com/noticias/el-levante-ud-lanza-las-entradas-para-el-derbi-ante-el-valencia-cf-con-un-35-percent-de-descuento-exclusivo-para-abonados-y-simpatizantes
+- Leeds United · Ballot / application: "Ticket information for Fulham home fixture" — opens Wed 02 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-0db1126a.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Arsenal · Members' sale: "Ticket Information: Arsenal v Sabah" — opens Wed 02 Dec 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-965c4813.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Newcastle United" — opens Thu 03 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-bcf6f803.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
+- Leeds United · Ballot / application: "Ticket info for Boxing Day Aston Villa trip" — opens Thu 03 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-info-boxing-day-aston-villa-trip-5c26303e.html · Official source: https://www.leedsunited.com/en/news/ticket-info-for-boxing-day-aston-villa-trip
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Sabah" — opens Fri 04 Dec 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-5f464e87.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
+- Leeds United · Members' sale: "Ticket information for Fulham home fixture" — opens Fri 04 Dec 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-007a1414.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Leeds United · General sale: "Ticket information for Fulham home fixture" — opens Mon 07 Dec 2026 10:30 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-e7ce0769.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Liverpool · Members' sale: "Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00" — opens Mon 07 Dec 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-18df5b9b.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Newcastle United" — opens Tue 08 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-d8ba2120.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Sabah" — opens Thu 10 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-3ce8e794.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
+- Leeds United · Official resale: "Ticket information for Fulham home fixture" — opens Thu 10 Dec 2026 10:30 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-6e7ed2f1.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Leeds United · Members' sale: "Ticket information for Fulham home fixture" — opens Mon 14 Dec 2026 09:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-d2edae4c.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Sabah" — opens Tue 15 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-630aaff3.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
+- Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Thu 17 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-89193f2f.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Thu 17 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-747fba04.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Fri 18 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-9ab1eab7.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Arsenal · Official resale: "Ticket Information: Crystal Palace v Arsenal" — opens Fri 18 Dec 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-crystal-palace-4308a59a.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-crystal-palace-v-arsenal-a57uq0L9P2Qf
+- Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Mon 21 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-bc65362a.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Tue 22 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-5bab21c4.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Chelsea · Official resale: "Premier League ticket news: Coventry City away and Newcastle United at home" — opens Tue 22 Dec 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-coventry-city-away-ddb91a1c.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-coventry-city-away-and-newcastle-united-at-home
+- Crystal Palace · Ballot / application: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Sun 27 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-c78fe27a.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Liverpool, Nottingham Forest, Brentford" — opens Mon 18 Jan 2027 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-liverpool-nottingham-forest-brentford-50e1843a.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Liverpool, Nottingham Forest, Brentford" — opens Tue 19 Jan 2027 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-liverpool-nottingham-forest-brentford-d1709765.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Hull City, Chelsea, Manchester United" — opens Mon 08 Mar 2027 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-hull-city-chelsea-manchester-united-ffa73638.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Hull City, Chelsea, Manchester United" — opens Tue 09 Mar 2027 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-hull-city-chelsea-manchester-united-3dcfe675.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
 
-## Athletic Club tickets
+## Athletic Club tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/athletic.html (Spanish: https://ticketwhistle.com/es/entradas/athletic.html; Arabic: https://ticketwhistle.com/ar/tickets/athletic.html)
-- City: Bilbao · Stadium: San Mamés · Official sales: https://www.athletic-club.eus/es/entradas/
+- City: Bilbao · Stadium: San Mamés · Official sales: https://www.athletic-club.eus/es/entradas/ · VIP & hospitality: https://sanmames.athletic-club.eus/en/vip-area/match-day
 - How TicketWhistle reads it: This club's website blocks automated reads and we don't force it. We follow its official headlines and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
 - Data: https://ticketwhistle.com/api/v1/clubs/athletic.json
 
@@ -32,7 +74,7 @@ A: Only on the club's official sales website: athletic-club.eus. TicketWhistle d
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Atlético de Madrid tickets
+## Atlético de Madrid tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/atletico.html (Spanish: https://ticketwhistle.com/es/entradas/atletico.html; Arabic: https://ticketwhistle.com/ar/tickets/atletico.html)
 - City: Madrid · Stadium: Riyadh Air Metropolitano · Official sales: https://www.atleticodemadrid.com/entradas
 - How TicketWhistle reads it: This club's website blocks automated reads and we don't force it. We follow its official headlines and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
@@ -48,9 +90,9 @@ A: Only on the club's official sales website: atleticodemadrid.com. TicketWhistl
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## CA Osasuna tickets
+## CA Osasuna tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/osasuna.html (Spanish: https://ticketwhistle.com/es/entradas/osasuna.html; Arabic: https://ticketwhistle.com/ar/tickets/osasuna.html)
-- City: Pamplona · Stadium: El Sadar · Official sales: https://entradas.osasuna.es/
+- City: Pamplona · Stadium: El Sadar · Official sales: https://entradas.osasuna.es/ · VIP & hospitality: https://www.osasuna.es/areas-vip
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
 - Data: https://ticketwhistle.com/api/v1/clubs/osasuna.json
 
@@ -66,9 +108,9 @@ A: Only on the club's official sales website: entradas.osasuna.es. TicketWhistle
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Deportivo Alavés tickets
+## Deportivo Alavés tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/alaves.html (Spanish: https://ticketwhistle.com/es/entradas/alaves.html; Arabic: https://ticketwhistle.com/ar/tickets/alaves.html)
-- City: Vitoria-Gasteiz · Stadium: Mendizorroza · Official sales: https://entradas.deportivoalaves.com/b2c/ticketSale/matches
+- City: Vitoria-Gasteiz · Stadium: Mendizorroza · Official sales: https://entradas.deportivoalaves.com/b2c/ticketSale/matches · VIP & hospitality: https://deportivoalaves.com/es/experiencias-vip
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
 - Data: https://ticketwhistle.com/api/v1/clubs/alaves.json
 
@@ -89,7 +131,7 @@ A: Only on the club's official sales website: entradas.deportivoalaves.com. Tick
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Elche CF tickets
+## Elche CF tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/elche.html (Spanish: https://ticketwhistle.com/es/entradas/elche.html; Arabic: https://ticketwhistle.com/ar/tickets/elche.html)
 - City: Elche · Stadium: Martínez Valero · Official sales: https://entradas.elchecf.es/
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
@@ -108,9 +150,9 @@ A: Only on the club's official sales website: entradas.elchecf.es. TicketWhistle
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## FC Barcelona tickets
+## FC Barcelona tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/barcelona.html (Spanish: https://ticketwhistle.com/es/entradas/barcelona.html; Arabic: https://ticketwhistle.com/ar/tickets/barcelona.html)
-- City: Barcelona · Stadium: Spotify Camp Nou · Official sales: https://www.fcbarcelona.es/es/entradas
+- City: Barcelona · Stadium: Spotify Camp Nou · Official sales: https://www.fcbarcelona.es/es/entradas · VIP & hospitality: https://www.fcbarcelona.es/es/entradas/vip/vip-futbol
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
 - Data: https://ticketwhistle.com/api/v1/clubs/barcelona.json
 
@@ -135,7 +177,7 @@ A: Only on the club's official sales website: fcbarcelona.es. TicketWhistle does
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Getafe CF tickets
+## Getafe CF tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/getafe.html (Spanish: https://ticketwhistle.com/es/entradas/getafe.html; Arabic: https://ticketwhistle.com/ar/tickets/getafe.html)
 - City: Getafe · Stadium: Coliseum · Official sales: https://entradas.getafecf.com/
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
@@ -151,7 +193,7 @@ A: Only on the club's official sales website: entradas.getafecf.com. TicketWhist
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Levante UD tickets
+## Levante UD tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/levante.html (Spanish: https://ticketwhistle.com/es/entradas/levante.html; Arabic: https://ticketwhistle.com/ar/tickets/levante.html)
 - City: Valencia · Stadium: Ciutat de València · Official sales: https://ticketing.levanteud.com/es
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
@@ -170,9 +212,9 @@ A: Only on the club's official sales website: ticketing.levanteud.com. TicketWhi
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Málaga CF tickets
+## Málaga CF tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/malaga.html (Spanish: https://ticketwhistle.com/es/entradas/malaga.html; Arabic: https://ticketwhistle.com/ar/tickets/malaga.html)
-- City: Málaga · Stadium: La Rosaleda · Official sales: https://entradas.malagacf.com/
+- City: Málaga · Stadium: La Rosaleda · Official sales: https://entradas.malagacf.com/ · VIP & hospitality: https://www.malagacf.com/en/vip
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
 - Data: https://ticketwhistle.com/api/v1/clubs/malaga.json
 
@@ -188,9 +230,9 @@ A: Only on the club's official sales website: entradas.malagacf.com. TicketWhist
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## RC Celta tickets
+## RC Celta tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/celta.html (Spanish: https://ticketwhistle.com/es/entradas/celta.html; Arabic: https://ticketwhistle.com/ar/tickets/celta.html)
-- City: Vigo · Stadium: Balaídos · Official sales: https://rccelta.es/entradas/
+- City: Vigo · Stadium: Balaídos · Official sales: https://rccelta.es/entradas/ · VIP & hospitality: https://rccelta.es/hospitality/
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
 - Data: https://ticketwhistle.com/api/v1/clubs/celta.json
 
@@ -210,9 +252,9 @@ A: Only on the club's official sales website: rccelta.es. TicketWhistle does not
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## RC Deportivo tickets
+## RC Deportivo tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/deportivo.html (Spanish: https://ticketwhistle.com/es/entradas/deportivo.html; Arabic: https://ticketwhistle.com/ar/tickets/deportivo.html)
-- City: A Coruña · Stadium: Riazor · Official sales: https://ticketing.rcdeportivo.es/
+- City: A Coruña · Stadium: Riazor · Official sales: https://ticketing.rcdeportivo.es/ · VIP bookings: vip@rcdeportivo.es
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
 - Data: https://ticketwhistle.com/api/v1/clubs/deportivo.json
 
@@ -227,9 +269,9 @@ A: Only on the club's official sales website: ticketing.rcdeportivo.es. TicketWh
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## RCD Espanyol tickets
+## RCD Espanyol tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/espanyol.html (Spanish: https://ticketwhistle.com/es/entradas/espanyol.html; Arabic: https://ticketwhistle.com/ar/tickets/espanyol.html)
-- City: Cornellà-El Prat · Stadium: RCDE Stadium · Official sales: https://tickets.rcdespanyol.com/index.php/es/entradas-es
+- City: Cornellà-El Prat · Stadium: RCDE Stadium · Official sales: https://tickets.rcdespanyol.com/index.php/es/entradas-es · VIP & hospitality: https://tickets.rcdespanyol.com/index.php/es/experiencias
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
 - Data: https://ticketwhistle.com/api/v1/clubs/espanyol.json
 
@@ -244,7 +286,7 @@ A: Only on the club's official sales website: tickets.rcdespanyol.com. TicketWhi
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Rayo Vallecano tickets
+## Rayo Vallecano tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/rayo.html (Spanish: https://ticketwhistle.com/es/entradas/rayo.html; Arabic: https://ticketwhistle.com/ar/tickets/rayo.html)
 - City: Madrid · Stadium: Estadio de Vallecas · Official sales: https://entradas.rayovallecano.es/
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
@@ -263,9 +305,9 @@ A: Only on the club's official sales website: entradas.rayovallecano.es. TicketW
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Real Betis tickets
+## Real Betis tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/betis.html (Spanish: https://ticketwhistle.com/es/entradas/betis.html; Arabic: https://ticketwhistle.com/ar/tickets/betis.html)
-- City: Sevilla · Official sales: https://www.realbetisbalompie.es/entradas
+- City: Sevilla · Official sales: https://www.realbetisbalompie.es/entradas · VIP & hospitality: https://www.realbetisbalompie.es/vip
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
 - Data: https://ticketwhistle.com/api/v1/clubs/betis.json
 
@@ -284,9 +326,9 @@ A: Only on the club's official sales website: realbetisbalompie.es. TicketWhistl
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Real Madrid tickets
+## Real Madrid tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/real-madrid.html (Spanish: https://ticketwhistle.com/es/entradas/real-madrid.html; Arabic: https://ticketwhistle.com/ar/tickets/real-madrid.html)
-- City: Madrid · Stadium: Santiago Bernabéu · Official sales: https://www.realmadrid.com/es-ES/entradas
+- City: Madrid · Stadium: Santiago Bernabéu · Official sales: https://www.realmadrid.com/es-ES/entradas · VIP & hospitality: https://www.realmadrid.com/es-ES/area-vip/inicio
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
 - Data: https://ticketwhistle.com/api/v1/clubs/real-madrid.json
 
@@ -305,7 +347,7 @@ A: Only on the club's official sales website: realmadrid.com. TicketWhistle does
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Real Racing Club tickets
+## Real Racing Club tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/racing.html (Spanish: https://ticketwhistle.com/es/entradas/racing.html; Arabic: https://ticketwhistle.com/ar/tickets/racing.html)
 - City: Santander · Stadium: El Sardinero · Official sales: https://taquilla.realracingclub.es/
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
@@ -324,9 +366,9 @@ A: Only on the club's official sales website: taquilla.realracingclub.es. Ticket
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Real Sociedad tickets
+## Real Sociedad tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/real-sociedad.html (Spanish: https://ticketwhistle.com/es/entradas/real-sociedad.html; Arabic: https://ticketwhistle.com/ar/tickets/real-sociedad.html)
-- City: San Sebastián · Stadium: Anoeta · Official sales: https://ticketing.realsociedad.eus/
+- City: San Sebastián · Stadium: Anoeta · Official sales: https://ticketing.realsociedad.eus/ · VIP & hospitality: https://tickets.realsociedad.eus/realsociedad_vip/events
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
 - Data: https://ticketwhistle.com/api/v1/clubs/real-sociedad.json
 
@@ -340,9 +382,9 @@ A: Only on the club's official sales website: ticketing.realsociedad.eus. Ticket
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Sevilla FC tickets
+## Sevilla FC tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/sevilla.html (Spanish: https://ticketwhistle.com/es/entradas/sevilla.html; Arabic: https://ticketwhistle.com/ar/tickets/sevilla.html)
-- City: Sevilla · Stadium: Ramón Sánchez-Pizjuán · Official sales: https://entradas.sevillafc.es/
+- City: Sevilla · Stadium: Ramón Sánchez-Pizjuán · Official sales: https://entradas.sevillafc.es/ · Official partner (viagogo): https://www.viagogo.es/Entradas-Deportes/Futbol/Sevilla-FC-Entradas
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
 - Data: https://ticketwhistle.com/api/v1/clubs/sevilla.json
 
@@ -360,9 +402,9 @@ A: Only on the club's official sales website: entradas.sevillafc.es. TicketWhist
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Valencia CF tickets
+## Valencia CF tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/valencia.html (Spanish: https://ticketwhistle.com/es/entradas/valencia.html; Arabic: https://ticketwhistle.com/ar/tickets/valencia.html)
-- City: Valencia · Stadium: Mestalla · Official sales: https://www.valenciacf.com/entradas
+- City: Valencia · Stadium: Mestalla · Official sales: https://www.valenciacf.com/entradas · VIP & hospitality: https://www.valenciacf.com/hospitality
 - How TicketWhistle reads it: This club doesn't publish ticket news per match: it puts each match straight on its sales page. We read it every 30 minutes and alert you as soon as one appears.
 - Data: https://ticketwhistle.com/api/v1/clubs/valencia.json
 
@@ -378,9 +420,9 @@ A: Only on the club's official sales website: valenciacf.com. TicketWhistle does
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 
-## Villarreal tickets
+## Villarreal tickets (LaLiga)
 - Page: https://ticketwhistle.com/en/tickets/villarreal.html (Spanish: https://ticketwhistle.com/es/entradas/villarreal.html; Arabic: https://ticketwhistle.com/ar/tickets/villarreal.html)
-- City: Vila-real · Stadium: Estadio de la Cerámica · Official sales: https://villarrealcf.es/es/venta-de-entradas/
+- City: Vila-real · Stadium: Estadio de la Cerámica · Official sales: https://villarrealcf.es/es/venta-de-entradas/ · VIP & hospitality: https://villarrealcf.es/es/estadio-de-la-ceramica/experiencias/
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
 - Data: https://ticketwhistle.com/api/v1/clubs/villarreal.json
 
@@ -391,6 +433,441 @@ Q: When do Villarreal tickets go on sale?
 A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
 Q: Where can I buy Villarreal tickets?
 A: Only on the club's official sales website: villarrealcf.es. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## AFC Bournemouth tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/bournemouth.html (Spanish: https://ticketwhistle.com/es/entradas/bournemouth.html; Arabic: https://ticketwhistle.com/ar/tickets/bournemouth.html)
+- City: Bournemouth · Stadium: Vitality Stadium · Official sales: https://tickets.afcb.co.uk/ · VIP & hospitality: https://www.afcb.co.uk/hospitality
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/bournemouth.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do AFC Bournemouth tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy AFC Bournemouth tickets?
+A: Only on the club's official sales website: tickets.afcb.co.uk. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Arsenal tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/arsenal.html (Spanish: https://ticketwhistle.com/es/entradas/arsenal.html; Arabic: https://ticketwhistle.com/ar/tickets/arsenal.html)
+- City: London · Stadium: Emirates Stadium · Official sales: https://www.arsenal.com/tickets · VIP & hospitality: https://hospitality.arsenal.com/ · Official ticket exchange: https://www.arsenal.com/ticket-exchange-guide
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/arsenal.json
+
+Sale windows (newest first):
+- Arsenal · Official resale: "Ticket Information: Crystal Palace v Arsenal" — opens Fri 18 Dec 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-crystal-palace-4308a59a.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-crystal-palace-v-arsenal-a57uq0L9P2Qf
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Sabah" — opens Tue 15 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-630aaff3.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Sabah" — opens Thu 10 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-3ce8e794.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Newcastle United" — opens Tue 08 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-d8ba2120.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Sabah" — opens Fri 04 Dec 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-5f464e87.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Newcastle United" — opens Thu 03 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-bcf6f803.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
+- Arsenal · Members' sale: "Ticket Information: Arsenal v Sabah" — opens Wed 02 Dec 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-965c4813.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Newcastle United" — opens Fri 27 Nov 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-8ffde009.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Manchester United" — opened Tue 03 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-manchester-united-caebe4cb.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-manchester-united-a2BJe2M3BAle
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Manchester United" — opened Thu 29 Oct 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-manchester-united-0b63616f.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-manchester-united-a2BJe2M3BAle
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Manchester United" — opened Fri 23 Oct 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-manchester-united-732b5d24.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-manchester-united-a2BJe2M3BAle
+- Arsenal · Ballot / application: "Ticket Information: Arsenal v Sabah" — opened Wed 26 Aug 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-sabah-b163bb11.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-sabah-ab7a21A928mj
+
+Q: When do Arsenal tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Arsenal tickets?
+A: Only on the club's official sales website: arsenal.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Aston Villa tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/aston-villa.html (Spanish: https://ticketwhistle.com/es/entradas/aston-villa.html; Arabic: https://ticketwhistle.com/ar/tickets/aston-villa.html)
+- City: Birmingham · Stadium: Villa Park · Official sales: https://tickets.avfc.co.uk/ · VIP & hospitality: https://www.avfc.co.uk/hospitality/
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/aston-villa.json
+
+Sale windows (newest first):
+- Aston Villa · Ballot / application: "Chelsea ticket details" — opens Fri 27 Nov 2026 09:30 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-chelsea-ticket-details-002c33ae.html · Official source: https://www.avfc.co.uk/news/2026/november/19/ticketing-Chelsea-away-ticket-details-26-27/
+- Aston Villa · Members' sale: "Chelsea ticket details" — opened Thu 26 Nov 2026 09:30 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-chelsea-ticket-details-31573d48.html · Official source: https://www.avfc.co.uk/news/2026/november/19/ticketing-Chelsea-away-ticket-details-26-27/
+- Aston Villa · Members' sale: "Chelsea ticket details" — opened Wed 25 Nov 2026 09:30 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-chelsea-ticket-details-376b24ef.html · Official source: https://www.avfc.co.uk/news/2026/november/19/ticketing-Chelsea-away-ticket-details-26-27/
+- Aston Villa · Members' sale: "Chelsea ticket details" — opened Tue 24 Nov 2026 09:30 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-chelsea-ticket-details-9425747b.html · Official source: https://www.avfc.co.uk/news/2026/november/19/ticketing-Chelsea-away-ticket-details-26-27/
+- Aston Villa · Members' sale: "Chelsea ticket details" — opened Mon 23 Nov 2026 09:30 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-chelsea-ticket-details-b536605e.html · Official source: https://www.avfc.co.uk/news/2026/november/19/ticketing-Chelsea-away-ticket-details-26-27/
+- Aston Villa · General sale: "Crystal Palace ticket details" — opened Mon 23 Nov 2026 09:30 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-crystal-palace-ticket-details-e0f22b63.html · Official source: https://www.avfc.co.uk/news/2026/november/06/ticketing-crystal-palace-home-ticket-details-26-27/
+- Aston Villa · Ballot / application: "Coventry City ticket details" — opened Fri 20 Nov 2026 09:30 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-coventry-city-ticket-details-1d2fc8f4.html · Official source: https://www.avfc.co.uk/news/2026/november/13/ticketing-Coventry-City-away-ticket-details-26-27/
+- Aston Villa · Members' sale: "Paris Saint-Germain ticket details" — opened Fri 20 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-paris-saint-germain-ticket-details-0bef40e9.html · Official source: https://www.avfc.co.uk/news/2026/november/13/ticketing-psg-ticket-details-2627-ucl/
+- Aston Villa · Members' sale: "Coventry City ticket details" — opened Thu 19 Nov 2026 09:30 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-coventry-city-ticket-details-313ab292.html · Official source: https://www.avfc.co.uk/news/2026/november/13/ticketing-Coventry-City-away-ticket-details-26-27/
+- Aston Villa · Members' sale: "Paris Saint-Germain ticket details" — opened Thu 19 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-paris-saint-germain-ticket-details-bf3e7cf5.html · Official source: https://www.avfc.co.uk/news/2026/november/13/ticketing-psg-ticket-details-2627-ucl/
+- Aston Villa · Members' sale: "Galatasaray ticket details" — opened Thu 19 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-galatasaray-ticket-details-d2261c20.html · Official source: https://www.avfc.co.uk/news/2026/november/10/ticketing-galatasaray-ticket-details/
+- Aston Villa · Members' sale: "Coventry City ticket details" — opened Wed 18 Nov 2026 09:30 (UK time). Page: https://ticketwhistle.com/en/sales/aston-villa-coventry-city-ticket-details-ab8e1746.html · Official source: https://www.avfc.co.uk/news/2026/november/13/ticketing-Coventry-City-away-ticket-details-26-27/
+
+Q: When do Aston Villa tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Aston Villa tickets?
+A: Only on the club's official sales website: tickets.avfc.co.uk. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Brentford tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/brentford.html (Spanish: https://ticketwhistle.com/es/entradas/brentford.html; Arabic: https://ticketwhistle.com/ar/tickets/brentford.html)
+- City: London · Stadium: Gtech Community Stadium · Official sales: https://www.eticketing.co.uk/brentfordfc
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/brentford.json
+
+Sale windows (newest first):
+- Brentford · Members' sale: "Brentford v Everton – Ticket Information" — opened Fri 20 Nov 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/brentford-everton-ticket-information-5cf47d81.html · Official source: https://www.brentfordfc.com/en/brentford-v-everton-ticket-information-26-27
+- Brentford · Members' sale: "Newcastle United – Ticket Information" — opened Thu 19 Nov 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/brentford-newcastle-united-ticket-information-e4d05d2e.html · Official source: https://www.brentfordfc.com/en/brentford-v-newcastle-united-ticket-information-26-27
+- Brentford · Members' sale: "Newcastle United – Ticket Information" — opened Tue 17 Nov 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/brentford-newcastle-united-ticket-information-85b21e4f.html · Official source: https://www.brentfordfc.com/en/brentford-v-newcastle-united-ticket-information-26-27
+- Brentford · Members' sale: "Manchester City – Ticket Information" — opened Wed 04 Nov 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/brentford-manchester-city-ticket-information-4228b423.html · Official source: https://www.brentfordfc.com/en/brentford-v-manchester-city-ticket-information-26-27
+- Brentford · Members' sale: "Arsenal – Ticket Information" — opened Thu 29 Oct 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/brentford-arsenal-ticket-information-672dcf90.html · Official source: https://www.brentfordfc.com/en/brentford-v-arsenal-ticket-information-26-27
+- Brentford · Members' sale: "Brentford v Everton – Ticket Information" — opened Thu 08 Oct 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/brentford-everton-ticket-information-df101d91.html · Official source: https://www.brentfordfc.com/en/brentford-v-everton-ticket-information-26-27
+- Brentford · Members' sale: "Brighton & Hove Albion – Ticket Information" — opened Mon 05 Oct 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/brentford-brighton-hove-albion-ticket-information-2eef497c.html · Official source: https://www.brentfordfc.com/en/brighton-and-hove-albion-v-brentford-ticket-information-26-27
+
+Q: When do Brentford tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Brentford tickets?
+A: Only on the club's official sales website: eticketing.co.uk. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Brighton & Hove Albion tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/brighton.html (Spanish: https://ticketwhistle.com/es/entradas/brighton.html; Arabic: https://ticketwhistle.com/ar/tickets/brighton.html)
+- City: Brighton · Stadium: American Express Stadium · Official sales: https://tickets.brightonandhovealbion.com/ · VIP & hospitality: https://www.brightonandhovealbion.com/matchday-hospitality
+- How TicketWhistle reads it: This club's website blocks automated reads and we don't force it. We follow its official headlines and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- Data: https://ticketwhistle.com/api/v1/clubs/brighton.json
+
+Sale windows (newest first):
+- Brighton & Hove Albion · On sale: "Universitatea Craiova – Tickets" — announced Fri 27 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/brighton-universitatea-craiova-tickets-0dcb8a07.html · Official source: https://tickets.brightonandhovealbion.com/
+- Brighton & Hove Albion · Official resale: "Ticket resale open for December fixtures" — announced Wed 18 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/brighton-ticket-resale-open-december-fixtures-656b3d2b.html · Official source: https://tickets.brightonandhovealbion.com/
+- Brighton & Hove Albion · Official resale: "Newcastle United sold out – ticket exchange now open" — announced Fri 13 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/brighton-newcastle-united-sold-out-ticket-exchange-now-918b6f89.html · Official source: https://tickets.brightonandhovealbion.com/
+- Brighton & Hove Albion · On sale: "Fulham ticket information" — announced Fri 06 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/brighton-fulham-ticket-information-471da858.html · Official source: https://tickets.brightonandhovealbion.com/
+
+Q: When do Brighton & Hove Albion tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Brighton & Hove Albion tickets?
+A: Only on the club's official sales website: tickets.brightonandhovealbion.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Chelsea tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/chelsea.html (Spanish: https://ticketwhistle.com/es/entradas/chelsea.html; Arabic: https://ticketwhistle.com/ar/tickets/chelsea.html)
+- City: London · Stadium: Stamford Bridge · Official sales: https://www.chelseafc.com/en/tickets/mens-tickets · VIP & hospitality: https://hospitality.chelseafc.com/ · Official ticket exchange: https://www.chelseafc.com/en/guide-to-using-the-ticket-exchange
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/chelsea.json
+
+Sale windows (newest first):
+- Chelsea · Official resale: "Premier League ticket news: Coventry City away and Newcastle United at home" — opens Tue 22 Dec 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-coventry-city-away-ddb91a1c.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-coventry-city-away-and-newcastle-united-at-home
+- Chelsea · Members' sale: "Premier League ticket news: Coventry City away and Newcastle United at home" — opened Thu 26 Nov 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-coventry-city-away-6fd723cf.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-coventry-city-away-and-newcastle-united-at-home
+- Chelsea · Members' sale: "Premier League ticket news: Coventry City away and Newcastle United at home" — opened Thu 26 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-coventry-city-away-67eecf2a.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-coventry-city-away-and-newcastle-united-at-home
+- Chelsea · Ballot / application: "Premier League ticket news: Coventry City away and Newcastle United at home" — opened Mon 23 Nov 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-coventry-city-away-244ded18.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-coventry-city-away-and-newcastle-united-at-home
+- Chelsea · Members' sale: "Premier League ticket news: Loyalty point update for members – Manchester City away" — opened Wed 18 Nov 2026 16:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-loyalty-point-update-dcdff09f.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-manchester-city-away-2026-27
+- Chelsea · Members' sale: "Premier League ticket news: Loyalty point update for members – Manchester City away" — opened Wed 18 Nov 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-loyalty-point-update-1f86086b.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-manchester-city-away-2026-27
+- Chelsea · Members' sale: "Premier League ticket news: Loyalty point update for members – Manchester City away" — opened Wed 18 Nov 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-loyalty-point-update-cbf5def1.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-manchester-city-away-2026-27
+- Chelsea · Members' sale: "Premier League ticket news: Loyalty point update for members – Manchester City away" — opened Wed 18 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-loyalty-point-update-03eb1e44.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-manchester-city-away-2026-27
+- Chelsea · Ballot / application: "Premier League ticket sales: Aston Villa at home" — opened Mon 09 Nov 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-sales-aston-villa-at-7efa36a7.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-sales-aston-villa-at-home
+- Chelsea · Members' sale: "Premier League ticket news: Nottingham Forest away" — opened Thu 05 Nov 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-nottingham-forest-away-f1de3640.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-nottingham-forest-away-2026-27
+- Chelsea · Members' sale: "Premier League ticket news: Nottingham Forest away" — opened Thu 05 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-nottingham-forest-away-9ccccd17.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-nottingham-forest-away-2026-27
+- Chelsea · Ballot / application: "Premier League ticket news: Liverpool at home" — opened Mon 26 Oct 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/chelsea-premier-league-ticket-news-liverpool-at-home-aae4802e.html · Official source: https://www.chelseafc.com/en/news/article/premier-league-ticket-news-liverpool-at-home-2026-27
+
+Q: When do Chelsea tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Chelsea tickets?
+A: Only on the club's official sales website: chelseafc.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Coventry City tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/coventry.html (Spanish: https://ticketwhistle.com/es/entradas/coventry.html; Arabic: https://ticketwhistle.com/ar/tickets/coventry.html)
+- City: Coventry · Stadium: Coventry Building Society Arena · Official sales: https://www.eticketing.co.uk/ccfc · VIP & hospitality: https://www.ccfc.co.uk/hospitality
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/coventry.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do Coventry City tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Coventry City tickets?
+A: Only on the club's official sales website: eticketing.co.uk. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Crystal Palace tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/crystal-palace.html (Spanish: https://ticketwhistle.com/es/entradas/crystal-palace.html; Arabic: https://ticketwhistle.com/ar/tickets/crystal-palace.html)
+- City: London · Stadium: Selhurst Park · Official sales: https://www.cpfc.co.uk/tickets/ · VIP & hospitality: https://www.cpfc.co.uk/hospitality/ · Official ticket exchange: https://www.cpfc.co.uk/tickets/ticket-resale/
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/crystal-palace.json
+
+Sale windows (newest first):
+- Crystal Palace · Ballot / application: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Sun 27 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-c78fe27a.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Tue 22 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-5bab21c4.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Mon 21 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-bc65362a.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Fri 18 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-9ab1eab7.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Thu 17 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-747fba04.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Crystal Palace · Official resale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opens Thu 17 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-89193f2f.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Crystal Palace · Members' sale: "Tickets now on sale for Carabao Cup quarter-final v Sunderland" — opens Mon 30 Nov 2026 17:30 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-now-on-sale-carabao-cup-quarter-e7c95e18.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-sunderland-december-2026-carabao-cup/
+- Crystal Palace · Members' sale: "Tickets now on sale for Carabao Cup quarter-final v Sunderland" — opened Thu 26 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-now-on-sale-carabao-cup-quarter-a559953d.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-sunderland-december-2026-carabao-cup/
+- Crystal Palace · Members' sale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opened Tue 24 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-a5e8c093.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Crystal Palace · Members' sale: "Arsenal tickets sold out; Bournemouth (H) tickets on sale" — opened Thu 19 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-arsenal-tickets-sold-out-bournemouth-h-tickets-af8d5dfe.html · Official source: https://www.cpfc.co.uk/news/tickets/bournemouth-arsenal-palace-tickets-information-sale/
+- Crystal Palace · Members' sale: "Jagiellonia Bialystok away tickets now sold out" — opened Tue 17 Nov 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-jagiellonia-bialystok-away-tickets-now-sold-out-971ca664.html · Official source: https://www.cpfc.co.uk/news/tickets/jagiellonia-bialystok-crystal-palace-away-tickets-december-2026/
+- Crystal Palace · Members' sale: "Jagiellonia Bialystok away tickets now sold out" — opened Tue 17 Nov 2026 12:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-jagiellonia-bialystok-away-tickets-now-sold-out-06049780.html · Official source: https://www.cpfc.co.uk/news/tickets/jagiellonia-bialystok-crystal-palace-away-tickets-december-2026/
+
+Q: When do Crystal Palace tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Crystal Palace tickets?
+A: Only on the club's official sales website: cpfc.co.uk. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Everton tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/everton.html (Spanish: https://ticketwhistle.com/es/entradas/everton.html; Arabic: https://ticketwhistle.com/ar/tickets/everton.html)
+- City: Liverpool · Stadium: Hill Dickinson Stadium · Official sales: https://www.evertonfc.com/tickets · VIP & hospitality: https://www.evertonfc.com/hospitality
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/everton.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do Everton tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Everton tickets?
+A: Only on the club's official sales website: evertonfc.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Fulham tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/fulham.html (Spanish: https://ticketwhistle.com/es/entradas/fulham.html; Arabic: https://ticketwhistle.com/ar/tickets/fulham.html)
+- City: London · Stadium: Craven Cottage · Official sales: https://www.fulhamfc.com/tickets-and-hospitality · VIP & hospitality: https://hospitality.fulhamfc.com/
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/fulham.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do Fulham tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Fulham tickets?
+A: Only on the club's official sales website: fulhamfc.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Hull City tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/hull.html (Spanish: https://ticketwhistle.com/es/entradas/hull.html; Arabic: https://ticketwhistle.com/ar/tickets/hull.html)
+- City: Hull · Stadium: MKM Stadium · Official sales: https://www.eticketing.co.uk/wearehullcity · VIP & hospitality: https://www.wearehullcity.co.uk/matchday-hospitality
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/hull.json
+
+Sale windows (newest first):
+- Hull City · On sale: "Liverpool FC (H) Ticketing" — announced Sat 14 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/hull-liverpool-h-ticketing-e2c14e9d.html · Official source: https://www.eticketing.co.uk/wearehullcity
+- Hull City · On sale: "Hull City Away Ticketing" — announced Fri 13 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/hull-city-away-ticketing-686aaecd.html · Official source: https://www.eticketing.co.uk/wearehullcity
+- Hull City · Official resale: "Ticket Exchange" — announced Wed 11 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/hull-ticket-exchange-3a26f965.html · Official source: https://www.eticketing.co.uk/wearehullcity
+- Hull City · On sale: "Ticket Details: Crystal Palace (A)" — announced Sun 08 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/hull-ticket-details-crystal-palace-934bf7fe.html · Official source: https://www.eticketing.co.uk/wearehullcity
+
+Q: When do Hull City tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Hull City tickets?
+A: Only on the club's official sales website: eticketing.co.uk. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Ipswich Town tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/ipswich.html (Spanish: https://ticketwhistle.com/es/entradas/ipswich.html; Arabic: https://ticketwhistle.com/ar/tickets/ipswich.html)
+- City: Ipswich · Stadium: Portman Road · Official sales: https://tickets.itfc.co.uk/ · VIP & hospitality: https://www.itfc.co.uk/hospitality/matchdayhospitality
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/ipswich.json
+
+Sale windows (newest first):
+- Ipswich Town · On sale: """Ipswich" tickets site:itfc.co.uk when:21d" – Google News" — announced Wed 25 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/ipswich-tickets-site-itfc-co-uk-when-21d-59196d79.html · Official source: https://tickets.itfc.co.uk/
+- Ipswich Town · On sale: "Ticket Details – Chelsea (H)" — announced Wed 18 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/ipswich-ticket-details-chelsea-h-eab24a7a.html · Official source: https://tickets.itfc.co.uk/
+- Ipswich Town · On sale: "Ticket Details – Brighton (A)" — announced Mon 16 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/ipswich-ticket-details-brighton-f0c88626.html · Official source: https://tickets.itfc.co.uk/
+- Ipswich Town · On sale: "Ticket Details – Brentford (H)" — announced Wed 11 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/ipswich-ticket-details-brentford-h-54ec1329.html · Official source: https://tickets.itfc.co.uk/
+
+Q: When do Ipswich Town tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Ipswich Town tickets?
+A: Only on the club's official sales website: tickets.itfc.co.uk. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Leeds United tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/leeds.html (Spanish: https://ticketwhistle.com/es/entradas/leeds.html; Arabic: https://ticketwhistle.com/ar/tickets/leeds.html)
+- City: Leeds · Stadium: Elland Road · Official sales: https://tickets.leedsunited.com/
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/leeds.json
+
+Sale windows (newest first):
+- Leeds United · Members' sale: "Ticket information for Fulham home fixture" — opens Mon 14 Dec 2026 09:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-d2edae4c.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Leeds United · Official resale: "Ticket information for Fulham home fixture" — opens Thu 10 Dec 2026 10:30 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-6e7ed2f1.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Leeds United · General sale: "Ticket information for Fulham home fixture" — opens Mon 07 Dec 2026 10:30 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-e7ce0769.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Leeds United · Members' sale: "Ticket information for Fulham home fixture" — opens Fri 04 Dec 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-007a1414.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Leeds United · Ballot / application: "Ticket info for Boxing Day Aston Villa trip" — opens Thu 03 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-info-boxing-day-aston-villa-trip-5c26303e.html · Official source: https://www.leedsunited.com/en/news/ticket-info-for-boxing-day-aston-villa-trip
+- Leeds United · Ballot / application: "Ticket information for Fulham home fixture" — opens Wed 02 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-0db1126a.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Leeds United · Ballot / application: "Ticket info for Boxing Day Aston Villa trip" — opens Tue 01 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-info-boxing-day-aston-villa-trip-e7ce8b05.html · Official source: https://www.leedsunited.com/en/news/ticket-info-for-boxing-day-aston-villa-trip
+- Leeds United · Ballot / application: "Ticket information for Fulham home fixture" — opens Tue 01 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-9593e500.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Leeds United · Ballot / application: "Ticket information for Fulham home fixture" — opens Mon 30 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-1addb990.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Leeds United · Members' sale: "Ticket information for Ipswich fixture" — opens Mon 30 Nov 2026 09:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-ipswich-fixture-2a99a68b.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-ipswich-fixture
+- Leeds United · Members' sale: "Ticket information for Fulham home fixture" — opens Fri 27 Nov 2026 13:00 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-fulham-home-fixture-3630c757.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-fulham-home-fixture
+- Leeds United · Official resale: "Ticket information for Ipswich fixture" — opened Thu 26 Nov 2026 10:30 (UK time). Page: https://ticketwhistle.com/en/sales/leeds-ticket-information-ipswich-fixture-a7ff3c59.html · Official source: https://www.leedsunited.com/en/news/ticket-information-for-ipswich-fixture
+
+Q: When do Leeds United tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Leeds United tickets?
+A: Only on the club's official sales website: tickets.leedsunited.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Liverpool tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/liverpool.html (Spanish: https://ticketwhistle.com/es/entradas/liverpool.html; Arabic: https://ticketwhistle.com/ar/tickets/liverpool.html)
+- City: Liverpool · Stadium: Anfield · Official sales: https://www.liverpoolfc.com/tickets · VIP & hospitality: https://www.liverpoolfc.com/hospitality · Official ticket exchange: https://www.liverpoolfc.com/tickets/ticket-exchange
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/liverpool.json
+
+Sale windows (newest first):
+- Liverpool · Members' sale: "Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00" — opens Mon 07 Dec 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-18df5b9b.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
+- Liverpool · Members' sale: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Wed 02 Dec 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-9648bb75.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
+- Liverpool · Accessible seats: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Wed 02 Dec 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-68c8c723.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
+- Liverpool · Members' sale: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Tue 01 Dec 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-b397bef7.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
+- Liverpool · Accessible seats: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Tue 01 Dec 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-fc6d1530.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
+- Liverpool · Members' sale: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Tue 01 Dec 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-eceedbb2.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
+- Liverpool · Registration: "Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00" — opens Mon 30 Nov 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
+- Liverpool · Registration: "Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00" — opens Mon 30 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-9f6e51d9.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
+- Liverpool · Members' sale: "Liverpool v FC Porto · Champions League · Wed 9 Dec, 20:00" — opens Fri 27 Nov 2026 13:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-12ff32c0.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-champions-league-fc-porto-202627
+- Liverpool · Members' sale: "Liverpool v FC Porto · Champions League · Wed 9 Dec, 20:00" — opens Fri 27 Nov 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-porto-champions-league-wed-9-dec-20-36a147fe.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-champions-league-fc-porto-202627
+- Liverpool · Sold out: "Everton v Liverpool · Premier League · Sun 29 Nov, 12:00" — announced Fri 27 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-everton-premier-league-sun-29-nov-12-68ca0982.html · Official source: https://www.liverpoolfc.com/tickets/match/everton-v-liverpool-english-premier-league-20261129
+- Liverpool · Sold out: "Chelsea v Liverpool · Premier League · Sat 5 Dec, 12:30" — announced Fri 27 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-chelsea-premier-league-sat-5-dec-12-6685bf68.html · Official source: https://www.liverpoolfc.com/tickets/match/chelsea-v-liverpool-english-premier-league-20261205
+
+Q: When do Liverpool tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Liverpool tickets?
+A: Only on the club's official sales website: liverpoolfc.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Manchester City tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/man-city.html (Spanish: https://ticketwhistle.com/es/entradas/man-city.html; Arabic: https://ticketwhistle.com/ar/tickets/man-city.html)
+- City: Manchester · Stadium: Etihad Stadium · Official sales: https://www.mancity.com/tickets/mens · VIP & hospitality: https://www.mancity.com/hospitality/mens
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/man-city.json
+
+Sale windows (newest first):
+- Manchester City · Accessible seats: "Brentford v Man City – Ticket Information 26/27" — opened Wed 18 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-city-brentford-ticket-information-26-27-5edc091d.html · Official source: https://www.mancity.com/tickets/mens/brentford-v-man-city-ticket-information-2627
+- Manchester City · Accessible seats: "Brentford v Man City – Ticket Information 26/27" — opened Tue 17 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-city-brentford-ticket-information-26-27-2890d726.html · Official source: https://www.mancity.com/tickets/mens/brentford-v-man-city-ticket-information-2627
+- Manchester City · Accessible seats: "Brentford v Man City – Ticket Information 26/27" — opened Mon 16 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-city-brentford-ticket-information-26-27-bc83bfb9.html · Official source: https://www.mancity.com/tickets/mens/brentford-v-man-city-ticket-information-2627
+- Manchester City · Accessible seats: "Brentford v Man City – Ticket Information 26/27" — opened Fri 13 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-city-brentford-ticket-information-26-27-747d8cbb.html · Official source: https://www.mancity.com/tickets/mens/brentford-v-man-city-ticket-information-2627
+- Manchester City · Accessible seats: "Brentford v Man City – Ticket Information 26/27" — opened Thu 12 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-city-brentford-ticket-information-26-27-e645d8e6.html · Official source: https://www.mancity.com/tickets/mens/brentford-v-man-city-ticket-information-2627
+- Manchester City · Accessible seats: "FC Barcelona v Man City – Ticket Information 26/27" — opened Thu 12 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-city-barcelona-ticket-information-26-27-811fe16f.html · Official source: https://www.mancity.com/tickets/mens/fc-barcelona-v-man-city-ticket-information-2627
+- Manchester City · Accessible seats: "Brentford v Man City – Ticket Information 26/27" — opened Wed 11 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-city-brentford-ticket-information-26-27-2bf22b69.html · Official source: https://www.mancity.com/tickets/mens/brentford-v-man-city-ticket-information-2627
+- Manchester City · Members' sale: "FC Barcelona v Man City – Ticket Information 26/27" — opened Wed 11 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-city-barcelona-ticket-information-26-27-aad8f168.html · Official source: https://www.mancity.com/tickets/mens/fc-barcelona-v-man-city-ticket-information-2627
+- Manchester City · Accessible seats: "FC Barcelona v Man City – Ticket Information 26/27" — opened Wed 11 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-city-barcelona-ticket-information-26-27-35538f67.html · Official source: https://www.mancity.com/tickets/mens/fc-barcelona-v-man-city-ticket-information-2627
+- Manchester City · Accessible seats: "FC Barcelona v Man City – Ticket Information 26/27" — opened Tue 10 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-city-barcelona-ticket-information-26-27-eaec4898.html · Official source: https://www.mancity.com/tickets/mens/fc-barcelona-v-man-city-ticket-information-2627
+- Manchester City · Members' sale: "FC Barcelona v Man City – Ticket Information 26/27" — opened Mon 09 Nov 2026 17:30 (UK time). Page: https://ticketwhistle.com/en/sales/man-city-barcelona-ticket-information-26-27-c842152d.html · Official source: https://www.mancity.com/tickets/mens/fc-barcelona-v-man-city-ticket-information-2627
+- Manchester City · Accessible seats: "FC Barcelona v Man City – Ticket Information 26/27" — opened Mon 09 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-city-barcelona-ticket-information-26-27-fa81d8aa.html · Official source: https://www.mancity.com/tickets/mens/fc-barcelona-v-man-city-ticket-information-2627
+
+Q: When do Manchester City tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Manchester City tickets?
+A: Only on the club's official sales website: mancity.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Manchester United tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/man-utd.html (Spanish: https://ticketwhistle.com/es/entradas/man-utd.html; Arabic: https://ticketwhistle.com/ar/tickets/man-utd.html)
+- City: Manchester · Stadium: Old Trafford · Official sales: https://tickets.manutd.com/
+- How TicketWhistle reads it: This club's website blocks automated reads and we don't force it. We follow its official headlines and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- Data: https://ticketwhistle.com/api/v1/clubs/man-utd.json
+
+Sale windows (newest first):
+- Manchester United · On sale: "Tickets available for Brentford and Coventry" — announced Fri 13 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-utd-tickets-available-brentford-and-coventry-771f8007.html · Official source: https://tickets.manutd.com/
+- Manchester United · On sale: "Get tickets for United v Aston Villa" — announced Sun 08 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/man-utd-get-tickets-united-aston-villa-0e6ef4c4.html · Official source: https://tickets.manutd.com/
+
+Q: When do Manchester United tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Manchester United tickets?
+A: Only on the club's official sales website: tickets.manutd.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Newcastle United tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/newcastle.html (Spanish: https://ticketwhistle.com/es/entradas/newcastle.html; Arabic: https://ticketwhistle.com/ar/tickets/newcastle.html)
+- City: Newcastle upon Tyne · Stadium: St James' Park · Official sales: https://www.newcastleunited.com/en/tickets · VIP & hospitality: https://www.newcastleunited.com/en/tickets/matchday-hospitality
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/newcastle.json
+
+Sale windows (newest first):
+- Newcastle United · Ballot / application: "Additional Mags Member ballot for Brighton and Hove Albion" — opened Thu 26 Nov 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/newcastle-additional-mags-member-ballot-brighton-and-hove-b7eb263e.html · Official source: https://www.newcastleunited.com/en/news/brighton-and-hove-albion-a-premier-league-ticket-news-2026-27
+- Newcastle United · Ballot / application: "Additional Mags Member ballot for Brighton and Hove Albion" — opened Wed 25 Nov 2026 16:00 (UK time). Page: https://ticketwhistle.com/en/sales/newcastle-additional-mags-member-ballot-brighton-and-hove-ebfdb4c7.html · Official source: https://www.newcastleunited.com/en/news/brighton-and-hove-albion-a-premier-league-ticket-news-2026-27
+- Newcastle United · Ballot / application: "Additional Mags Member ballot for Brighton and Hove Albion" — opened Wed 25 Nov 2026 13:00 (UK time). Page: https://ticketwhistle.com/en/sales/newcastle-additional-mags-member-ballot-brighton-and-hove-1fc05501.html · Official source: https://www.newcastleunited.com/en/news/brighton-and-hove-albion-a-premier-league-ticket-news-2026-27
+- Newcastle United · Ballot / application: "Ticket application window closed for Brentford battle" — opened Tue 17 Nov 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/newcastle-ticket-application-window-closed-brentford-battle-e2289b26.html · Official source: https://www.newcastleunited.com/en/news/brentford-a-premier-league-ticket-news-2026-27
+- Newcastle United · Ballot / application: "Ticket application window closed for Brentford battle" — opened Mon 16 Nov 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/newcastle-ticket-application-window-closed-brentford-battle-70fe7241.html · Official source: https://www.newcastleunited.com/en/news/brentford-a-premier-league-ticket-news-2026-27
+- Newcastle United · Ballot / application: "Ticket application window closed for Ipswich clash" — opened Tue 10 Nov 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/newcastle-ticket-application-window-closed-ipswich-clash-e4975984.html · Official source: https://www.newcastleunited.com/en/news/ipswich-town-a-premier-league-ticket-news-2026-27
+- Newcastle United · Ballot / application: "Ticket application window closed for Ipswich clash" — opened Mon 09 Nov 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/newcastle-ticket-application-window-closed-ipswich-clash-12384d68.html · Official source: https://www.newcastleunited.com/en/news/ipswich-town-a-premier-league-ticket-news-2026-27
+- Newcastle United · General sale: "Tickets for derby at Sunderland on sale now" — opened Thu 22 Oct 2026 (UK time). Page: https://ticketwhistle.com/en/sales/newcastle-tickets-derby-at-sunderland-on-sale-now-ab856440.html · Official source: https://www.newcastleunited.com/en/news/tickets-for-derby-at-sunderland-on-sale-now
+- Newcastle United · Members' sale: "Tickets for derby at Sunderland on sale now" — opened Wed 21 Oct 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/newcastle-tickets-derby-at-sunderland-on-sale-now-4298112c.html · Official source: https://www.newcastleunited.com/en/news/tickets-for-derby-at-sunderland-on-sale-now
+- Newcastle United · General sale: "Tickets for Toffees trip on sale now" — opened Wed 07 Oct 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/newcastle-tickets-toffees-trip-on-sale-now-d2ba8817.html · Official source: https://www.newcastleunited.com/en/news/tickets-for-toffees-trip-on-sale-now
+- Newcastle United · Ballot / application: "Ticket application window closed for Fulham trip" — opened Tue 06 Oct 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/newcastle-ticket-application-window-closed-fulham-trip-2ab7b856.html · Official source: https://www.newcastleunited.com/en/news/fulham-a-premier-league-ticket-news-2026-27
+- Newcastle United · Ballot / application: "Ticket application window closed for Fulham trip" — opened Mon 05 Oct 2026 14:00 (UK time). Page: https://ticketwhistle.com/en/sales/newcastle-ticket-application-window-closed-fulham-trip-2a9d517f.html · Official source: https://www.newcastleunited.com/en/news/fulham-a-premier-league-ticket-news-2026-27
+
+Q: When do Newcastle United tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Newcastle United tickets?
+A: Only on the club's official sales website: newcastleunited.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Nottingham Forest tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/forest.html (Spanish: https://ticketwhistle.com/es/entradas/forest.html; Arabic: https://ticketwhistle.com/ar/tickets/forest.html)
+- City: Nottingham · Stadium: City Ground · Official sales: https://www.eticketing.co.uk/nottinghamforest/ · VIP & hospitality: https://www.nottinghamforest.co.uk/hospitality · Official ticket exchange: https://www.nottinghamforest.co.uk/tickets/ticket-exchange
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/forest.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do Nottingham Forest tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Nottingham Forest tickets?
+A: Only on the club's official sales website: eticketing.co.uk. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Sunderland tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/sunderland.html (Spanish: https://ticketwhistle.com/es/entradas/sunderland.html; Arabic: https://ticketwhistle.com/ar/tickets/sunderland.html)
+- City: Sunderland · Stadium: Stadium of Light · Official sales: https://www.safc.com/tickets · VIP & hospitality: https://www.safc.com/hospitality
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/sunderland.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do Sunderland tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Sunderland tickets?
+A: Only on the club's official sales website: safc.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
+
+## Tottenham Hotspur tickets (Premier League)
+- Page: https://ticketwhistle.com/en/tickets/spurs.html (Spanish: https://ticketwhistle.com/es/entradas/spurs.html; Arabic: https://ticketwhistle.com/ar/tickets/spurs.html)
+- City: London · Stadium: Tottenham Hotspur Stadium · Official sales: https://www.tottenhamhotspur.com/tickets/ · VIP & hospitality: https://hospitality.tottenhamhotspur.com/ · Official ticket exchange: https://www.tottenhamhotspur.com/tickets/ticket-exchange/
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Data: https://ticketwhistle.com/api/v1/clubs/spurs.json
+
+Sale windows (newest first):
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Hull City, Chelsea, Manchester United" — opens Tue 09 Mar 2027 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-hull-city-chelsea-manchester-united-3dcfe675.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Hull City, Chelsea, Manchester United" — opens Mon 08 Mar 2027 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-hull-city-chelsea-manchester-united-ffa73638.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Liverpool, Nottingham Forest, Brentford" — opens Tue 19 Jan 2027 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-liverpool-nottingham-forest-brentford-d1709765.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Liverpool, Nottingham Forest, Brentford" — opens Mon 18 Jan 2027 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-liverpool-nottingham-forest-brentford-50e1843a.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Leeds United, Sunderland, Manchester City" — opened Tue 17 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-leeds-united-sunderland-manchester-city-5a1e8368.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Leeds United, Sunderland, Manchester City" — opened Mon 16 Nov 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-leeds-united-sunderland-manchester-city-d01214d7.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v AFC Bournemouth, Brighton & Hove Albion" — opened Tue 20 Oct 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-afc-bournemouth-brighton-hove-albion-641155be.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v AFC Bournemouth, Brighton & Hove Albion" — opened Mon 19 Oct 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-afc-bournemouth-brighton-hove-albion-f7b8f149.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Ipswich Town, Fulham, Arsenal" — opened Tue 15 Sep 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-ipswich-town-fulham-arsenal-09e53f53.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Ipswich Town, Fulham, Arsenal" — opened Mon 14 Sep 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-ipswich-town-fulham-arsenal-8923b622.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Coventry City, Crystal Palace" — opened Tue 18 Aug 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-coventry-city-crystal-palace-7b6e9c35.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+- Tottenham Hotspur · Members' sale: "Tottenham Hotspur v Coventry City, Crystal Palace" — opened Mon 17 Aug 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/spurs-tottenham-hotspur-coventry-city-crystal-palace-bda6fa94.html · Official source: https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures
+
+Q: When do Tottenham Hotspur tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Tottenham Hotspur tickets?
+A: Only on the club's official sales website: tottenhamhotspur.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours and again 1 hour before the sale opens.
 

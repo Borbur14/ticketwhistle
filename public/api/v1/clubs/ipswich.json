@@ -1,0 +1,148 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T06:45:01.062292+00:00",
+ "last_scan": "2026-11-27T06:43:28.919662+00:00",
+ "note": "Read from official club websites. Not affiliated with LaLiga, the Premier League or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. Always confirm on the official page before buying.",
+ "club": {
+  "id": "ipswich",
+  "name": "Ipswich Town",
+  "name_ar": "إيبسويتش تاون",
+  "league": "Premier League",
+  "country": "ENG",
+  "timezone": "Europe/London",
+  "city": "Ipswich",
+  "stadium": "Portman Road",
+  "colors": [
+   "#0044A9",
+   "#FFFFFF",
+   "#0044A9"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFFFFF 0% 12%,#0044A9 12%)",
+  "official_site": "https://www.itfc.co.uk",
+  "official_tickets": "https://tickets.itfc.co.uk/",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/ipswich.html",
+   "en": "https://ticketwhistle.com/en/tickets/ipswich.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/ipswich.html"
+  },
+  "official_alternatives": [
+   {
+    "type": "vip",
+    "url": "https://www.itfc.co.uk/hospitality/matchdayhospitality"
+   }
+  ]
+ },
+ "windows": [
+  {
+   "id": "59196d794ca41339",
+   "club_id": "ipswich",
+   "club": "Ipswich Town",
+   "title": "\"\"Ipswich\" tickets site:itfc.co.uk when:21d\" – Google News",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-25T14:39:54+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Premier League",
+   "status": "on_sale_or_announced",
+   "source_url": "https://tickets.itfc.co.uk/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T06:43:28.919662+00:00",
+   "last_checked": "2026-11-27T06:43:28.919662+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/ipswich.html",
+   "official_tickets": "https://tickets.itfc.co.uk/",
+   "slug": "ipswich-tickets-site-itfc-co-uk-when-21d-59196d79",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/ipswich-tickets-site-itfc-co-uk-when-21d-59196d79.html",
+    "en": "https://ticketwhistle.com/en/sales/ipswich-tickets-site-itfc-co-uk-when-21d-59196d79.html",
+    "ar": "https://ticketwhistle.com/ar/sales/ipswich-tickets-site-itfc-co-uk-when-21d-59196d79.html"
+   }
+  },
+  {
+   "id": "eab24a7ae6418fab",
+   "club_id": "ipswich",
+   "club": "Ipswich Town",
+   "title": "Ticket Details – Chelsea (H)",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-18T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Premier League",
+   "status": "on_sale_or_announced",
+   "source_url": "https://tickets.itfc.co.uk/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T06:43:28.919662+00:00",
+   "last_checked": "2026-11-27T06:43:28.919662+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/ipswich.html",
+   "official_tickets": "https://tickets.itfc.co.uk/",
+   "slug": "ipswich-ticket-details-chelsea-h-eab24a7a",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/ipswich-ticket-details-chelsea-h-eab24a7a.html",
+    "en": "https://ticketwhistle.com/en/sales/ipswich-ticket-details-chelsea-h-eab24a7a.html",
+    "ar": "https://ticketwhistle.com/ar/sales/ipswich-ticket-details-chelsea-h-eab24a7a.html"
+   }
+  },
+  {
+   "id": "f0c88626bf201494",
+   "club_id": "ipswich",
+   "club": "Ipswich Town",
+   "title": "Ticket Details – Brighton (A)",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-16T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Premier League",
+   "status": "on_sale_or_announced",
+   "source_url": "https://tickets.itfc.co.uk/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T06:43:28.919662+00:00",
+   "last_checked": "2026-11-27T06:43:28.919662+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/ipswich.html",
+   "official_tickets": "https://tickets.itfc.co.uk/",
+   "slug": "ipswich-ticket-details-brighton-f0c88626",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/ipswich-ticket-details-brighton-f0c88626.html",
+    "en": "https://ticketwhistle.com/en/sales/ipswich-ticket-details-brighton-f0c88626.html",
+    "ar": "https://ticketwhistle.com/ar/sales/ipswich-ticket-details-brighton-f0c88626.html"
+   }
+  },
+  {
+   "id": "54ec132996bdba69",
+   "club_id": "ipswich",
+   "club": "Ipswich Town",
+   "title": "Ticket Details – Brentford (H)",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-11T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Premier League",
+   "status": "on_sale_or_announced",
+   "source_url": "https://tickets.itfc.co.uk/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T06:43:28.919662+00:00",
+   "last_checked": "2026-11-27T06:43:28.919662+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/ipswich.html",
+   "official_tickets": "https://tickets.itfc.co.uk/",
+   "slug": "ipswich-ticket-details-brentford-h-54ec1329",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/ipswich-ticket-details-brentford-h-54ec1329.html",
+    "en": "https://ticketwhistle.com/en/sales/ipswich-ticket-details-brentford-h-54ec1329.html",
+    "ar": "https://ticketwhistle.com/ar/sales/ipswich-ticket-details-brentford-h-54ec1329.html"
+   }
+  }
+ ]
+}

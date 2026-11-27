@@ -1,0 +1,148 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-27T06:45:01.062292+00:00",
+ "last_scan": "2026-11-27T06:43:28.919662+00:00",
+ "note": "Read from official club websites. Not affiliated with LaLiga, the Premier League or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. Always confirm on the official page before buying.",
+ "club": {
+  "id": "hull",
+  "name": "Hull City",
+  "name_ar": "هال سيتي",
+  "league": "Premier League",
+  "country": "ENG",
+  "timezone": "Europe/London",
+  "city": "Hull",
+  "stadium": "MKM Stadium",
+  "colors": [
+   "#F5A12D",
+   "#111111",
+   "#F5A12D"
+  ],
+  "flag_css": "linear-gradient(90deg,#F5A12D 0.0% 14.3%,#111111 14.3% 28.6%,#F5A12D 28.6% 42.9%,#111111 42.9% 57.1%,#F5A12D 57.1% 71.4%,#111111 71.4% 85.7%,#F5A12D 85.7% 100.0%)",
+  "official_site": "https://www.wearehullcity.co.uk",
+  "official_tickets": "https://www.eticketing.co.uk/wearehullcity",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/hull.html",
+   "en": "https://ticketwhistle.com/en/tickets/hull.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/hull.html"
+  },
+  "official_alternatives": [
+   {
+    "type": "vip",
+    "url": "https://www.wearehullcity.co.uk/matchday-hospitality"
+   }
+  ]
+ },
+ "windows": [
+  {
+   "id": "e2c14e9d67d2524a",
+   "club_id": "hull",
+   "club": "Hull City",
+   "title": "Liverpool FC (H) Ticketing",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-14T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Premier League",
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.eticketing.co.uk/wearehullcity",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T06:43:28.919662+00:00",
+   "last_checked": "2026-11-27T06:43:28.919662+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/hull.html",
+   "official_tickets": "https://www.eticketing.co.uk/wearehullcity",
+   "slug": "hull-liverpool-h-ticketing-e2c14e9d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/hull-liverpool-h-ticketing-e2c14e9d.html",
+    "en": "https://ticketwhistle.com/en/sales/hull-liverpool-h-ticketing-e2c14e9d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/hull-liverpool-h-ticketing-e2c14e9d.html"
+   }
+  },
+  {
+   "id": "686aaecd213315bb",
+   "club_id": "hull",
+   "club": "Hull City",
+   "title": "Hull City Away Ticketing",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-13T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Premier League",
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.eticketing.co.uk/wearehullcity",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T06:43:28.919662+00:00",
+   "last_checked": "2026-11-27T06:43:28.919662+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/hull.html",
+   "official_tickets": "https://www.eticketing.co.uk/wearehullcity",
+   "slug": "hull-city-away-ticketing-686aaecd",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/hull-city-away-ticketing-686aaecd.html",
+    "en": "https://ticketwhistle.com/en/sales/hull-city-away-ticketing-686aaecd.html",
+    "ar": "https://ticketwhistle.com/ar/sales/hull-city-away-ticketing-686aaecd.html"
+   }
+  },
+  {
+   "id": "3a26f965ddcbb801",
+   "club_id": "hull",
+   "club": "Hull City",
+   "title": "Ticket Exchange",
+   "phase": "resale",
+   "phase_label_en": "Official resale",
+   "opens_at": null,
+   "announced_at": "2026-11-11T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Premier League",
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.eticketing.co.uk/wearehullcity",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T06:43:28.919662+00:00",
+   "last_checked": "2026-11-27T06:43:28.919662+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/hull.html",
+   "official_tickets": "https://www.eticketing.co.uk/wearehullcity",
+   "slug": "hull-ticket-exchange-3a26f965",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/hull-ticket-exchange-3a26f965.html",
+    "en": "https://ticketwhistle.com/en/sales/hull-ticket-exchange-3a26f965.html",
+    "ar": "https://ticketwhistle.com/ar/sales/hull-ticket-exchange-3a26f965.html"
+   }
+  },
+  {
+   "id": "934bf7fe35185270",
+   "club_id": "hull",
+   "club": "Hull City",
+   "title": "Ticket Details: Crystal Palace (A)",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-08T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Premier League",
+   "status": "on_sale_or_announced",
+   "source_url": "https://www.eticketing.co.uk/wearehullcity",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-27T06:43:28.919662+00:00",
+   "last_checked": "2026-11-27T06:43:28.919662+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/hull.html",
+   "official_tickets": "https://www.eticketing.co.uk/wearehullcity",
+   "slug": "hull-ticket-details-crystal-palace-934bf7fe",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/hull-ticket-details-crystal-palace-934bf7fe.html",
+    "en": "https://ticketwhistle.com/en/sales/hull-ticket-details-crystal-palace-934bf7fe.html",
+    "ar": "https://ticketwhistle.com/ar/sales/hull-ticket-details-crystal-palace-934bf7fe.html"
+   }
+  }
+ ]
+}

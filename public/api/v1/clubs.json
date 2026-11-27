@@ -2,15 +2,626 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T06:14:33.700833+00:00",
- "last_scan": "2026-11-27T06:13:29.405708+00:00",
- "note": "Read from official club websites. Not affiliated with LaLiga or any club. Always confirm on the official page before buying.",
+ "generated_at": "2026-11-27T06:45:01.062292+00:00",
+ "last_scan": "2026-11-27T06:43:28.919662+00:00",
+ "note": "Read from official club websites. Not affiliated with LaLiga, the Premier League or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. Always confirm on the official page before buying.",
  "clubs": [
+  {
+   "id": "arsenal",
+   "name": "Arsenal",
+   "name_ar": "آرسنال",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "London",
+   "stadium": "Emirates Stadium",
+   "colors": [
+    "#EF0107",
+    "#FFFFFF",
+    "#EF0107"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 22%,#EF0107 22%)",
+   "official_site": "https://www.arsenal.com",
+   "official_tickets": "https://www.arsenal.com/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/arsenal.html",
+    "en": "https://ticketwhistle.com/en/tickets/arsenal.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/arsenal.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://hospitality.arsenal.com/"
+    },
+    {
+     "type": "exchange",
+     "url": "https://www.arsenal.com/ticket-exchange-guide"
+    }
+   ]
+  },
+  {
+   "id": "aston-villa",
+   "name": "Aston Villa",
+   "name_ar": "أستون فيلا",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Birmingham",
+   "stadium": "Villa Park",
+   "colors": [
+    "#670E36",
+    "#95BFE5",
+    "#670E36"
+   ],
+   "flag_css": "linear-gradient(90deg,#95BFE5 0% 22%,#670E36 22%)",
+   "official_site": "https://www.avfc.co.uk",
+   "official_tickets": "https://tickets.avfc.co.uk/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/aston-villa.html",
+    "en": "https://ticketwhistle.com/en/tickets/aston-villa.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/aston-villa.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.avfc.co.uk/hospitality/"
+    }
+   ]
+  },
+  {
+   "id": "bournemouth",
+   "name": "AFC Bournemouth",
+   "name_ar": "بورنموث",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Bournemouth",
+   "stadium": "Vitality Stadium",
+   "colors": [
+    "#DA291C",
+    "#111111",
+    "#DA291C"
+   ],
+   "flag_css": "linear-gradient(90deg,#DA291C 0.0% 14.3%,#111111 14.3% 28.6%,#DA291C 28.6% 42.9%,#111111 42.9% 57.1%,#DA291C 57.1% 71.4%,#111111 71.4% 85.7%,#DA291C 85.7% 100.0%)",
+   "official_site": "https://www.afcb.co.uk",
+   "official_tickets": "https://tickets.afcb.co.uk/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/bournemouth.html",
+    "en": "https://ticketwhistle.com/en/tickets/bournemouth.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/bournemouth.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.afcb.co.uk/hospitality"
+    }
+   ]
+  },
+  {
+   "id": "brentford",
+   "name": "Brentford",
+   "name_ar": "برينتفورد",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "London",
+   "stadium": "Gtech Community Stadium",
+   "colors": [
+    "#E30613",
+    "#FFFFFF",
+    "#E30613"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0 12%,transparent 12%),linear-gradient(90deg,#E30613 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#E30613 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#E30613 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#E30613 85.7% 100.0%)",
+   "official_site": "https://www.brentfordfc.com",
+   "official_tickets": "https://www.eticketing.co.uk/brentfordfc",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/brentford.html",
+    "en": "https://ticketwhistle.com/en/tickets/brentford.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/brentford.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "brighton",
+   "name": "Brighton & Hove Albion",
+   "name_ar": "برايتون",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Brighton",
+   "stadium": "American Express Stadium",
+   "colors": [
+    "#0057B8",
+    "#FFFFFF",
+    "#0057B8"
+   ],
+   "flag_css": "linear-gradient(90deg,#0057B8 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#0057B8 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#0057B8 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#0057B8 85.7% 100.0%)",
+   "official_site": "https://www.brightonandhovealbion.com",
+   "official_tickets": "https://tickets.brightonandhovealbion.com/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/brighton.html",
+    "en": "https://ticketwhistle.com/en/tickets/brighton.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/brighton.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.brightonandhovealbion.com/matchday-hospitality"
+    }
+   ]
+  },
+  {
+   "id": "chelsea",
+   "name": "Chelsea",
+   "name_ar": "تشيلسي",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "London",
+   "stadium": "Stamford Bridge",
+   "colors": [
+    "#034694",
+    "#FFFFFF",
+    "#034694"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#034694 9%)",
+   "official_site": "https://www.chelseafc.com",
+   "official_tickets": "https://www.chelseafc.com/en/tickets/mens-tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/chelsea.html",
+    "en": "https://ticketwhistle.com/en/tickets/chelsea.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/chelsea.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://hospitality.chelseafc.com/"
+    },
+    {
+     "type": "exchange",
+     "url": "https://www.chelseafc.com/en/guide-to-using-the-ticket-exchange"
+    }
+   ]
+  },
+  {
+   "id": "coventry",
+   "name": "Coventry City",
+   "name_ar": "كوفنتري سيتي",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Coventry",
+   "stadium": "Coventry Building Society Arena",
+   "colors": [
+    "#59CBE8",
+    "#FFFFFF",
+    "#59CBE8"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#59CBE8 9%)",
+   "official_site": "https://www.ccfc.co.uk",
+   "official_tickets": "https://www.eticketing.co.uk/ccfc",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/coventry.html",
+    "en": "https://ticketwhistle.com/en/tickets/coventry.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/coventry.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.ccfc.co.uk/hospitality"
+    }
+   ]
+  },
+  {
+   "id": "crystal-palace",
+   "name": "Crystal Palace",
+   "name_ar": "كريستال بالاس",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "London",
+   "stadium": "Selhurst Park",
+   "colors": [
+    "#1B458F",
+    "#C4122E",
+    "#1B458F"
+   ],
+   "flag_css": "linear-gradient(90deg,#C4122E 0.0% 20.0%,#1B458F 20.0% 40.0%,#C4122E 40.0% 60.0%,#1B458F 60.0% 80.0%,#C4122E 80.0% 100.0%)",
+   "official_site": "https://www.cpfc.co.uk",
+   "official_tickets": "https://www.cpfc.co.uk/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/crystal-palace.html",
+    "en": "https://ticketwhistle.com/en/tickets/crystal-palace.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/crystal-palace.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.cpfc.co.uk/hospitality/"
+    },
+    {
+     "type": "exchange",
+     "url": "https://www.cpfc.co.uk/tickets/ticket-resale/"
+    }
+   ]
+  },
+  {
+   "id": "everton",
+   "name": "Everton",
+   "name_ar": "إيفرتون",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Liverpool",
+   "stadium": "Hill Dickinson Stadium",
+   "colors": [
+    "#003399",
+    "#FFFFFF",
+    "#003399"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 12%,#003399 12%)",
+   "official_site": "https://www.evertonfc.com",
+   "official_tickets": "https://www.evertonfc.com/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/everton.html",
+    "en": "https://ticketwhistle.com/en/tickets/everton.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/everton.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.evertonfc.com/hospitality"
+    }
+   ]
+  },
+  {
+   "id": "fulham",
+   "name": "Fulham",
+   "name_ar": "فولهام",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "London",
+   "stadium": "Craven Cottage",
+   "colors": [
+    "#FFFFFF",
+    "#111111",
+    "#CC0000"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0% 14%,#FFFFFF 14%)",
+   "official_site": "https://www.fulhamfc.com",
+   "official_tickets": "https://www.fulhamfc.com/tickets-and-hospitality",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/fulham.html",
+    "en": "https://ticketwhistle.com/en/tickets/fulham.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/fulham.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://hospitality.fulhamfc.com/"
+    }
+   ]
+  },
+  {
+   "id": "hull",
+   "name": "Hull City",
+   "name_ar": "هال سيتي",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Hull",
+   "stadium": "MKM Stadium",
+   "colors": [
+    "#F5A12D",
+    "#111111",
+    "#F5A12D"
+   ],
+   "flag_css": "linear-gradient(90deg,#F5A12D 0.0% 14.3%,#111111 14.3% 28.6%,#F5A12D 28.6% 42.9%,#111111 42.9% 57.1%,#F5A12D 57.1% 71.4%,#111111 71.4% 85.7%,#F5A12D 85.7% 100.0%)",
+   "official_site": "https://www.wearehullcity.co.uk",
+   "official_tickets": "https://www.eticketing.co.uk/wearehullcity",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/hull.html",
+    "en": "https://ticketwhistle.com/en/tickets/hull.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/hull.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.wearehullcity.co.uk/matchday-hospitality"
+    }
+   ]
+  },
+  {
+   "id": "ipswich",
+   "name": "Ipswich Town",
+   "name_ar": "إيبسويتش تاون",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Ipswich",
+   "stadium": "Portman Road",
+   "colors": [
+    "#0044A9",
+    "#FFFFFF",
+    "#0044A9"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 12%,#0044A9 12%)",
+   "official_site": "https://www.itfc.co.uk",
+   "official_tickets": "https://tickets.itfc.co.uk/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/ipswich.html",
+    "en": "https://ticketwhistle.com/en/tickets/ipswich.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/ipswich.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.itfc.co.uk/hospitality/matchdayhospitality"
+    }
+   ]
+  },
+  {
+   "id": "leeds",
+   "name": "Leeds United",
+   "name_ar": "ليدز يونايتد",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Leeds",
+   "stadium": "Elland Road",
+   "colors": [
+    "#FFFFFF",
+    "#1D428A",
+    "#FFCD00"
+   ],
+   "flag_css": "linear-gradient(90deg,#1D428A 0% 9%,#FFCD00 9% 15%,#FFFFFF 15%)",
+   "official_site": "https://www.leedsunited.com",
+   "official_tickets": "https://tickets.leedsunited.com/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/leeds.html",
+    "en": "https://ticketwhistle.com/en/tickets/leeds.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/leeds.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "liverpool",
+   "name": "Liverpool",
+   "name_ar": "ليفربول",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Liverpool",
+   "stadium": "Anfield",
+   "colors": [
+    "#C8102E",
+    "#FFFFFF",
+    "#C8102E"
+   ],
+   "flag_css": "linear-gradient(90deg,#F6EB61 0% 5%,#C8102E 5%)",
+   "official_site": "https://www.liverpoolfc.com",
+   "official_tickets": "https://www.liverpoolfc.com/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/liverpool.html",
+    "en": "https://ticketwhistle.com/en/tickets/liverpool.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/liverpool.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.liverpoolfc.com/hospitality"
+    },
+    {
+     "type": "exchange",
+     "url": "https://www.liverpoolfc.com/tickets/ticket-exchange"
+    }
+   ]
+  },
+  {
+   "id": "man-city",
+   "name": "Manchester City",
+   "name_ar": "مانشستر سيتي",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Manchester",
+   "stadium": "Etihad Stadium",
+   "colors": [
+    "#6CABDD",
+    "#FFFFFF",
+    "#1C2C5B"
+   ],
+   "flag_css": "linear-gradient(90deg,#1C2C5B 0% 12%,#6CABDD 12%)",
+   "official_site": "https://www.mancity.com",
+   "official_tickets": "https://www.mancity.com/tickets/mens",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/man-city.html",
+    "en": "https://ticketwhistle.com/en/tickets/man-city.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/man-city.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.mancity.com/hospitality/mens"
+    }
+   ]
+  },
+  {
+   "id": "man-utd",
+   "name": "Manchester United",
+   "name_ar": "مانشستر يونايتد",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Manchester",
+   "stadium": "Old Trafford",
+   "colors": [
+    "#DA291C",
+    "#FBE122",
+    "#111111"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0% 9%,#FFFFFF 9% 14%,#DA291C 14%)",
+   "official_site": "https://www.manutd.com",
+   "official_tickets": "https://tickets.manutd.com/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/man-utd.html",
+    "en": "https://ticketwhistle.com/en/tickets/man-utd.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/man-utd.html"
+   },
+   "official_alternatives": []
+  },
+  {
+   "id": "newcastle",
+   "name": "Newcastle United",
+   "name_ar": "نيوكاسل يونايتد",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Newcastle upon Tyne",
+   "stadium": "St James' Park",
+   "colors": [
+    "#241F20",
+    "#FFFFFF",
+    "#241F20"
+   ],
+   "flag_css": "linear-gradient(90deg,#241F20 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#241F20 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#241F20 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#241F20 85.7% 100.0%)",
+   "official_site": "https://www.newcastleunited.com",
+   "official_tickets": "https://www.newcastleunited.com/en/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/newcastle.html",
+    "en": "https://ticketwhistle.com/en/tickets/newcastle.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/newcastle.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.newcastleunited.com/en/tickets/matchday-hospitality"
+    }
+   ]
+  },
+  {
+   "id": "forest",
+   "name": "Nottingham Forest",
+   "name_ar": "نوتنغهام فورست",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Nottingham",
+   "stadium": "City Ground",
+   "colors": [
+    "#DD0000",
+    "#FFFFFF",
+    "#DD0000"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 12%,#DD0000 12%)",
+   "official_site": "https://www.nottinghamforest.co.uk",
+   "official_tickets": "https://www.eticketing.co.uk/nottinghamforest/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/forest.html",
+    "en": "https://ticketwhistle.com/en/tickets/forest.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/forest.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.nottinghamforest.co.uk/hospitality"
+    },
+    {
+     "type": "exchange",
+     "url": "https://www.nottinghamforest.co.uk/tickets/ticket-exchange"
+    }
+   ]
+  },
+  {
+   "id": "sunderland",
+   "name": "Sunderland",
+   "name_ar": "سندرلاند",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "Sunderland",
+   "stadium": "Stadium of Light",
+   "colors": [
+    "#EB172B",
+    "#FFFFFF",
+    "#EB172B"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0 12%,transparent 12%),linear-gradient(90deg,#EB172B 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#EB172B 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#EB172B 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#EB172B 85.7% 100.0%)",
+   "official_site": "https://www.safc.com",
+   "official_tickets": "https://www.safc.com/tickets",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/sunderland.html",
+    "en": "https://ticketwhistle.com/en/tickets/sunderland.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/sunderland.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://www.safc.com/hospitality"
+    }
+   ]
+  },
+  {
+   "id": "spurs",
+   "name": "Tottenham Hotspur",
+   "name_ar": "توتنهام هوتسبير",
+   "league": "Premier League",
+   "country": "ENG",
+   "timezone": "Europe/London",
+   "city": "London",
+   "stadium": "Tottenham Hotspur Stadium",
+   "colors": [
+    "#FFFFFF",
+    "#132257",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#132257 0% 14%,#FFFFFF 14%)",
+   "official_site": "https://www.tottenhamhotspur.com",
+   "official_tickets": "https://www.tottenhamhotspur.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/spurs.html",
+    "en": "https://ticketwhistle.com/en/tickets/spurs.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/spurs.html"
+   },
+   "official_alternatives": [
+    {
+     "type": "vip",
+     "url": "https://hospitality.tottenhamhotspur.com/"
+    },
+    {
+     "type": "exchange",
+     "url": "https://www.tottenhamhotspur.com/tickets/ticket-exchange/"
+    }
+   ]
+  },
   {
    "id": "real-madrid",
    "name": "Real Madrid",
    "name_ar": "ريال مدريد",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Madrid",
    "stadium": "Santiago Bernabéu",
    "colors": [
@@ -18,6 +629,7 @@
     "#FEBE10",
     "#00529F"
    ],
+   "flag_css": "linear-gradient(90deg,#00529F 0% 9%,#FEBE10 9% 15%,#FFFFFF 15%)",
    "official_site": "https://www.realmadrid.com",
    "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
    "route": "direct",
@@ -38,6 +650,8 @@
    "name": "FC Barcelona",
    "name_ar": "برشلونة",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Barcelona",
    "stadium": "Spotify Camp Nou",
    "colors": [
@@ -45,6 +659,7 @@
     "#004D98",
     "#EDBB00"
    ],
+   "flag_css": "linear-gradient(90deg,#A50044 0.0% 20.0%,#004D98 20.0% 40.0%,#A50044 40.0% 60.0%,#004D98 60.0% 80.0%,#A50044 80.0% 100.0%)",
    "official_site": "https://www.fcbarcelona.com",
    "official_tickets": "https://www.fcbarcelona.es/es/entradas",
    "route": "direct",
@@ -65,6 +680,8 @@
    "name": "Atlético de Madrid",
    "name_ar": "أتلتيكو مدريد",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Madrid",
    "stadium": "Riyadh Air Metropolitano",
    "colors": [
@@ -72,6 +689,7 @@
     "#FFFFFF",
     "#272E61"
    ],
+   "flag_css": "linear-gradient(90deg,#272E61 0 12%,transparent 12%),linear-gradient(90deg,#CB3524 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#CB3524 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#CB3524 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#CB3524 85.7% 100.0%)",
    "official_site": "https://www.atleticodemadrid.com",
    "official_tickets": "https://www.atleticodemadrid.com/entradas",
    "route": "headline",
@@ -87,6 +705,8 @@
    "name": "Real Betis",
    "name_ar": "ريال بيتيس",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Sevilla",
    "stadium": null,
    "colors": [
@@ -94,6 +714,7 @@
     "#FFFFFF",
     "#00954C"
    ],
+   "flag_css": "linear-gradient(90deg,#00954C 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#00954C 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#00954C 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#00954C 85.7% 100.0%)",
    "official_site": "https://www.realbetisbalompie.es",
    "official_tickets": "https://www.realbetisbalompie.es/entradas",
    "route": "direct",
@@ -114,6 +735,8 @@
    "name": "Villarreal",
    "name_ar": "فياريال",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Vila-real",
    "stadium": "Estadio de la Cerámica",
    "colors": [
@@ -121,6 +744,7 @@
     "#005187",
     "#FFE114"
    ],
+   "flag_css": "linear-gradient(90deg,#005187 0% 12%,#FFE114 12%)",
    "official_site": "https://villarrealcf.es",
    "official_tickets": "https://villarrealcf.es/es/venta-de-entradas/",
    "route": "direct",
@@ -141,6 +765,8 @@
    "name": "Deportivo Alavés",
    "name_ar": "ديبورتيفو ألافيس",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Vitoria-Gasteiz",
    "stadium": "Mendizorroza",
    "colors": [
@@ -148,6 +774,7 @@
     "#FFFFFF",
     "#0761AF"
    ],
+   "flag_css": "linear-gradient(90deg,#0761AF 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#0761AF 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#0761AF 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#0761AF 85.7% 100.0%)",
    "official_site": "https://www.deportivoalaves.com",
    "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches",
    "route": "direct",
@@ -168,6 +795,8 @@
    "name": "Athletic Club",
    "name_ar": "أتلتيك بلباو",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Bilbao",
    "stadium": "San Mamés",
    "colors": [
@@ -175,6 +804,7 @@
     "#FFFFFF",
     "#111111"
    ],
+   "flag_css": "linear-gradient(90deg,#111111 0 12%,transparent 12%),linear-gradient(90deg,#EE2523 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#EE2523 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#EE2523 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#EE2523 85.7% 100.0%)",
    "official_site": "https://www.athletic-club.eus",
    "official_tickets": "https://www.athletic-club.eus/es/entradas/",
    "route": "headline",
@@ -195,6 +825,8 @@
    "name": "RC Celta",
    "name_ar": "سيلتا فيغو",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Vigo",
    "stadium": "Balaídos",
    "colors": [
@@ -202,6 +834,7 @@
     "#FFFFFF",
     "#E30613"
    ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#E30613 9% 13%,#8AC3EE 13%)",
    "official_site": "https://rccelta.es",
    "official_tickets": "https://rccelta.es/entradas/",
    "route": "direct",
@@ -222,6 +855,8 @@
    "name": "RC Deportivo",
    "name_ar": "ديبورتيفو لاكورونيا",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "A Coruña",
    "stadium": "Riazor",
    "colors": [
@@ -229,6 +864,7 @@
     "#FFFFFF",
     "#1B4E9B"
    ],
+   "flag_css": "linear-gradient(90deg,#1B4E9B 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#1B4E9B 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#1B4E9B 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#1B4E9B 85.7% 100.0%)",
    "official_site": "https://www.rcdeportivo.es",
    "official_tickets": "https://ticketing.rcdeportivo.es/",
    "route": "direct",
@@ -249,6 +885,8 @@
    "name": "Elche CF",
    "name_ar": "إلتشي",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Elche",
    "stadium": "Martínez Valero",
    "colors": [
@@ -256,6 +894,7 @@
     "#05642C",
     "#FFFFFF"
    ],
+   "flag_css": "linear-gradient(180deg,#FFFFFF 0 36%,#05642C 36% 64%,#FFFFFF 64%)",
    "official_site": "https://www.elchecf.es",
    "official_tickets": "https://entradas.elchecf.es/",
    "route": "direct",
@@ -271,6 +910,8 @@
    "name": "RCD Espanyol",
    "name_ar": "إسبانيول",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Cornellà-El Prat",
    "stadium": "RCDE Stadium",
    "colors": [
@@ -278,6 +919,7 @@
     "#FFFFFF",
     "#007FC8"
    ],
+   "flag_css": "linear-gradient(90deg,#007FC8 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#007FC8 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#007FC8 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#007FC8 85.7% 100.0%)",
    "official_site": "https://www.rcdespanyol.com",
    "official_tickets": "https://tickets.rcdespanyol.com/index.php/es/entradas-es",
    "route": "direct",
@@ -298,6 +940,8 @@
    "name": "Getafe CF",
    "name_ar": "خيتافي",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Getafe",
    "stadium": "Coliseum",
    "colors": [
@@ -305,6 +949,7 @@
     "#FFFFFF",
     "#005999"
    ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 10%,#005999 10%)",
    "official_site": "https://www.getafecf.com",
    "official_tickets": "https://entradas.getafecf.com/",
    "route": "direct",
@@ -320,6 +965,8 @@
    "name": "Levante UD",
    "name_ar": "ليفانتي",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Valencia",
    "stadium": "Ciutat de València",
    "colors": [
@@ -327,6 +974,7 @@
     "#004F98",
     "#B4053F"
    ],
+   "flag_css": "linear-gradient(90deg,#B4053F 0.0% 20.0%,#004F98 20.0% 40.0%,#B4053F 40.0% 60.0%,#004F98 60.0% 80.0%,#B4053F 80.0% 100.0%)",
    "official_site": "https://www.levanteud.com",
    "official_tickets": "https://ticketing.levanteud.com/es",
    "route": "direct",
@@ -342,6 +990,8 @@
    "name": "CA Osasuna",
    "name_ar": "أوساسونا",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Pamplona",
    "stadium": "El Sadar",
    "colors": [
@@ -349,6 +999,7 @@
     "#0A346F",
     "#D91A21"
    ],
+   "flag_css": "linear-gradient(90deg,#0A346F 0% 14%,#D91A21 14%)",
    "official_site": "https://www.osasuna.es",
    "official_tickets": "https://entradas.osasuna.es/",
    "route": "direct",
@@ -369,6 +1020,8 @@
    "name": "Real Racing Club",
    "name_ar": "راسينغ سانتاندير",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Santander",
    "stadium": "El Sardinero",
    "colors": [
@@ -376,6 +1029,7 @@
     "#FFFFFF",
     "#111111"
    ],
+   "flag_css": "linear-gradient(90deg,#111111 0% 9%,#00A04B 9% 18%,#FFFFFF 18%)",
    "official_site": "https://www.realracingclub.es",
    "official_tickets": "https://taquilla.realracingclub.es/",
    "route": "direct",
@@ -391,6 +1045,8 @@
    "name": "Rayo Vallecano",
    "name_ar": "رايو فاليكانو",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Madrid",
    "stadium": "Estadio de Vallecas",
    "colors": [
@@ -398,6 +1054,7 @@
     "#E53027",
     "#FFFFFF"
    ],
+   "flag_css": "linear-gradient(150deg,#FFFFFF 0 38%,#E53027 38% 58%,#FFFFFF 58%)",
    "official_site": "https://www.rayovallecano.es",
    "official_tickets": "https://entradas.rayovallecano.es/",
    "route": "direct",
@@ -413,6 +1070,8 @@
    "name": "Real Sociedad",
    "name_ar": "ريال سوسيداد",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "San Sebastián",
    "stadium": "Anoeta",
    "colors": [
@@ -420,6 +1079,7 @@
     "#FFFFFF",
     "#0067B1"
    ],
+   "flag_css": "linear-gradient(90deg,#0067B1 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#0067B1 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#0067B1 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#0067B1 85.7% 100.0%)",
    "official_site": "https://www.realsociedad.eus",
    "official_tickets": "https://ticketing.realsociedad.eus/",
    "route": "direct",
@@ -440,6 +1100,8 @@
    "name": "Sevilla FC",
    "name_ar": "إشبيلية",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Sevilla",
    "stadium": "Ramón Sánchez-Pizjuán",
    "colors": [
@@ -447,6 +1109,7 @@
     "#D81E05",
     "#FFFFFF"
    ],
+   "flag_css": "linear-gradient(90deg,#D81E05 0% 14%,#FFFFFF 14%)",
    "official_site": "https://sevillafc.es",
    "official_tickets": "https://entradas.sevillafc.es/",
    "route": "direct",
@@ -467,6 +1130,8 @@
    "name": "Valencia CF",
    "name_ar": "فالنسيا",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Valencia",
    "stadium": "Mestalla",
    "colors": [
@@ -474,6 +1139,7 @@
     "#111111",
     "#EE3524"
    ],
+   "flag_css": "linear-gradient(90deg,#111111 0% 12%,#EE3524 12% 16%,#FFFFFF 16%)",
    "official_site": "https://www.valenciacf.com",
    "official_tickets": "https://www.valenciacf.com/entradas",
    "route": "platform",
@@ -494,6 +1160,8 @@
    "name": "Málaga CF",
    "name_ar": "ملقة",
    "league": "LaLiga",
+   "country": "ESP",
+   "timezone": "Europe/Madrid",
    "city": "Málaga",
    "stadium": "La Rosaleda",
    "colors": [
@@ -501,6 +1169,7 @@
     "#FFFFFF",
     "#5AAAE7"
    ],
+   "flag_css": "linear-gradient(90deg,#5AAAE7 0.0% 14.3%,#FFFFFF 14.3% 28.6%,#5AAAE7 28.6% 42.9%,#FFFFFF 42.9% 57.1%,#5AAAE7 57.1% 71.4%,#FFFFFF 71.4% 85.7%,#5AAAE7 85.7% 100.0%)",
    "official_site": "https://www.malagacf.com",
    "official_tickets": "https://entradas.malagacf.com/",
    "route": "direct",

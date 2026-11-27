@@ -7,68 +7,52 @@
   "https://www.athletic-club.eus 403",
   "gnews 200"
  ],
- "barcelona": [
-  "https://www.fcbarcelona.com/en/tickets/football/regular/champions-league 200",
+ "espanyol": [
+  "https://www.rcdespanyol.com/es/noticias 200",
   "gnews 200"
  ],
- "real-madrid": [
-  "https://www.realmadrid.com/es-ES/entradas 200",
+ "barcelona": [
+  "https://www.fcbarcelona.com/en/tickets/football/regular/champions-league 200",
   "gnews 200"
  ],
  "betis": [
   "https://www.realbetisbalompie.es/noticias 200",
   "gnews 200"
  ],
+ "real-madrid": [
+  "https://www.realmadrid.com/es-ES/entradas 200",
+  "gnews 200"
+ ],
  "villarreal": [
   "https://villarrealcf.es/sitemap.xml 200",
-  "gnews 200"
- ],
- "espanyol": [
-  "https://www.rcdespanyol.com/es/noticias 200",
-  "gnews 200"
- ],
- "getafe": [
-  "https://www.getafecf.com/noticias 200",
-  "gnews 200"
- ],
- "levante": [
-  "https://www.levanteud.com/noticias 200",
-  "gnews 200"
- ],
- "rayo": [
-  "https://www.rayovallecano.es/noticias 200",
-  "gnews 200"
- ],
- "osasuna": [
-  "https://www.osasuna.es/sitemap.xml 200",
-  "gnews 200"
- ],
- "valencia": [
-  "https://www.valenciacf.com/entradas 200",
   "gnews 200"
  ],
  "elche": [
   "https://www.elchecf.es/noticias 200",
   "gnews 200"
  ],
- "real-sociedad": [
-  "https://www.realsociedad.eus/es/noticias 200",
+ "levante": [
+  "https://www.levanteud.com/noticias 200",
   "gnews 200"
  ],
- "alaves": [
-  "https://www.deportivoalaves.com/sitemap-deportivo-alaves.xml 200",
-  "gnews 200"
- ],
- "celta": [
-  "https://rccelta.es/sitemap_index.xml 200",
+ "racing": [
+  "https://realracingclub.es/sitemap.xml 200",
   "gnews 200"
  ],
  "malaga": [
   "https://www.malagacf.com/noticias 200",
   "gnews 200"
  ],
- "racing": [
-  "https://realracingclub.es/sitemap.xml 200",
+ "getafe": [
+  "https://www.getafecf.com/noticias 200",
+  "gnews 200"
+ ],
+ "real-sociedad": [
+  "https://www.realsociedad.eus/es/noticias 200",
+  "gnews 200"
+ ],
+ "valencia": [
+  "https://www.valenciacf.com/entradas 200",
   "gnews 200"
  ],
  "sevilla": [
@@ -78,5 +62,92 @@
  "deportivo": [
   "https://www.rcdeportivo.es/es/sitemap.xml 200",
   "gnews 200"
+ ],
+ "aston-villa": [
+  "https://www.avfc.co.uk/news/tickets 200"
+ ],
+ "brighton": [
+  "https://www.brightonandhovealbion.com 200",
+  "gnews 200"
+ ],
+ "brentford": [
+  "https://www.brentfordfc.com/sitemaps/sitemap/0.xml 200"
+ ],
+ "celta": [
+  "https://rccelta.es/sitemap_index.xml 200",
+  "gnews 200"
+ ],
+ "rayo": [
+  "https://www.rayovallecano.es/noticias 200",
+  "gnews 200"
+ ],
+ "spurs": [
+  "https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures 200"
+ ],
+ "chelsea": [
+  "https://www.chelseafc.com/en/sitemap.xml 200"
+ ],
+ "man-city": [
+  "https://www.mancity.com/tickets/mens 200"
+ ],
+ "osasuna": [
+  "https://www.osasuna.es/sitemap.xml 200",
+  "gnews 200"
+ ],
+ "crystal-palace": [
+  "https://www.cpfc.co.uk/news/tickets/ 200"
+ ],
+ "alaves": [
+  "https://www.deportivoalaves.com/sitemap-deportivo-alaves.xml 200",
+  "gnews 200"
+ ],
+ "arsenal": [
+  "https://www.arsenal.com/sitemaps/articles/sitemap.xml 200"
+ ],
+ "man-utd": [
+  "https://www.manutd.com/sitemaps/sitemap/0.xml 200",
+  "gnews 200"
+ ],
+ "leeds": [
+  "https://www.leedsunited.com/sitemaps/sitemap/0.xml 200"
+ ],
+ "ipswich": [
+  "https://www.itfc.co.uk/sitemap.xml 200",
+  "gnews 200"
+ ],
+ "liverpool": [
+  "https://www.liverpoolfc.com/tickets?category=mens 200"
+ ],
+ "newcastle": [
+  "https://www.newcastleunited.com/sitemaps/latest-news-sitemap.xml 200"
+ ],
+ "fulham": [
+  "https://www.fulhamfc.com/sitemap.xml 200",
+  "(no headless browser: plain read)"
+ ],
+ "everton": [
+  "https://www.evertonfc.com/sitemap.xml 200",
+  "(no headless browser: plain read)"
+ ],
+ "sunderland": [
+  "https://www.safc.com/sitemap.xml 200",
+  "(no headless browser: plain read)"
+ ],
+ "coventry": [
+  "https://www.ccfc.co.uk/sitemap.xml 200",
+  "(no headless browser: plain read)"
+ ],
+ "bournemouth": [
+  "https://www.afcb.co.uk/sitemap.xml 200",
+  "(no headless browser: plain read)"
+ ],
+ "forest": [
+  "https://www.nottinghamforest.co.uk/sitemap.xml 200",
+  "(no headless browser: plain read)"
+ ],
+ "hull": [
+  "https://www.wearehullcity.co.uk/sitemap.xml 200",
+  "gnews 200",
+  "(no headless browser: plain read)"
  ]
 }
