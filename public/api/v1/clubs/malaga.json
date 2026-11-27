@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T03:16:48.648556+00:00",
- "last_scan": "2026-11-27T03:15:50.635437+00:00",
+ "generated_at": "2026-11-27T03:33:08.644537+00:00",
+ "last_scan": "2026-11-27T03:32:10.333976+00:00",
  "note": "Read from official club websites. Not affiliated with LaLiga or any club. Always confirm on the official page before buying.",
  "club": {
   "id": "malaga",
@@ -45,7 +45,13 @@
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
    "last_checked": "2026-11-27T03:15:50.635437+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/malaga.html",
-   "official_tickets": "https://www.malagacf.com/entradas"
+   "official_tickets": "https://www.malagacf.com/entradas",
+   "slug": "malaga-ya-son-1-874-entradas-vendidas-real-c91a6995",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/malaga-ya-son-1-874-entradas-vendidas-real-c91a6995.html",
+    "en": "https://ticketwhistle.com/en/sales/malaga-ya-son-1-874-entradas-vendidas-real-c91a6995.html",
+    "ar": "https://ticketwhistle.com/ar/sales/malaga-ya-son-1-874-entradas-vendidas-real-c91a6995.html"
+   }
   },
   {
    "id": "c2e9fb4f5bb7f133",
@@ -63,9 +69,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/malaga.html",
-   "official_tickets": "https://www.malagacf.com/entradas"
+   "official_tickets": "https://www.malagacf.com/entradas",
+   "slug": "malaga-sorteo-compra-entradas-santiago-bernabeu-c2e9fb4f",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/malaga-sorteo-compra-entradas-santiago-bernabeu-c2e9fb4f.html",
+    "en": "https://ticketwhistle.com/en/sales/malaga-sorteo-compra-entradas-santiago-bernabeu-c2e9fb4f.html",
+    "ar": "https://ticketwhistle.com/ar/sales/malaga-sorteo-compra-entradas-santiago-bernabeu-c2e9fb4f.html"
+   }
   },
   {
    "id": "ef8158ddb44e873e",
@@ -83,9 +95,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/malaga.html",
-   "official_tickets": "https://www.malagacf.com/entradas"
+   "official_tickets": "https://www.malagacf.com/entradas",
+   "slug": "malaga-informacion-venta-entradas-primera-eliminatoria-play-off-ef8158dd",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/malaga-informacion-venta-entradas-primera-eliminatoria-play-off-ef8158dd.html",
+    "en": "https://ticketwhistle.com/en/sales/malaga-informacion-venta-entradas-primera-eliminatoria-play-off-ef8158dd.html",
+    "ar": "https://ticketwhistle.com/ar/sales/malaga-informacion-venta-entradas-primera-eliminatoria-play-off-ef8158dd.html"
+   }
   }
  ]
 }

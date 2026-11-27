@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T03:16:48.648556+00:00",
- "last_scan": "2026-11-27T03:15:50.635437+00:00",
+ "generated_at": "2026-11-27T03:33:08.644537+00:00",
+ "last_scan": "2026-11-27T03:32:10.333976+00:00",
  "note": "Read from official club websites. Not affiliated with LaLiga or any club. Always confirm on the official page before buying.",
  "club": {
   "id": "real-madrid",
@@ -43,9 +43,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-   "official_tickets": "https://www.realmadrid.com/es-ES/entradas"
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "slug": "real-madrid-participa-nuestro-sorteo-entradas-diciembre-socios-madridistas-4b718980",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/real-madrid-participa-nuestro-sorteo-entradas-diciembre-socios-madridistas-4b718980.html",
+    "en": "https://ticketwhistle.com/en/sales/real-madrid-participa-nuestro-sorteo-entradas-diciembre-socios-madridistas-4b718980.html",
+    "ar": "https://ticketwhistle.com/ar/sales/real-madrid-participa-nuestro-sorteo-entradas-diciembre-socios-madridistas-4b718980.html"
+   }
   },
   {
    "id": "7e7f955d62e7db5b",
@@ -63,9 +69,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-   "official_tickets": "https://www.realmadrid.com/es-ES/entradas"
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "slug": "real-madrid-web-oficial-7e7f955d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/real-madrid-web-oficial-7e7f955d.html",
+    "en": "https://ticketwhistle.com/en/sales/real-madrid-web-oficial-7e7f955d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/real-madrid-web-oficial-7e7f955d.html"
+   }
   },
   {
    "id": "a8b57ce566a66036",
@@ -83,9 +95,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-   "official_tickets": "https://www.realmadrid.com/es-ES/entradas"
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "slug": "real-madrid-web-oficial-a8b57ce5",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/real-madrid-web-oficial-a8b57ce5.html",
+    "en": "https://ticketwhistle.com/en/sales/real-madrid-web-oficial-a8b57ce5.html",
+    "ar": "https://ticketwhistle.com/ar/sales/real-madrid-web-oficial-a8b57ce5.html"
+   }
   },
   {
    "id": "cb59ae9df855b87a",
@@ -103,9 +121,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-   "official_tickets": "https://www.realmadrid.com/es-ES/entradas"
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "slug": "real-madrid-web-oficial-cb59ae9d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/real-madrid-web-oficial-cb59ae9d.html",
+    "en": "https://ticketwhistle.com/en/sales/real-madrid-web-oficial-cb59ae9d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/real-madrid-web-oficial-cb59ae9d.html"
+   }
   },
   {
    "id": "84fac0db95596d8e",
@@ -123,9 +147,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-   "official_tickets": "https://www.realmadrid.com/es-ES/entradas"
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "slug": "real-madrid-web-oficial-84fac0db",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/real-madrid-web-oficial-84fac0db.html",
+    "en": "https://ticketwhistle.com/en/sales/real-madrid-web-oficial-84fac0db.html",
+    "ar": "https://ticketwhistle.com/ar/sales/real-madrid-web-oficial-84fac0db.html"
+   }
   },
   {
    "id": "3ec00ae8dec3317a",
@@ -143,9 +173,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-   "official_tickets": "https://www.realmadrid.com/es-ES/entradas"
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "slug": "real-madrid-web-oficial-3ec00ae8",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/real-madrid-web-oficial-3ec00ae8.html",
+    "en": "https://ticketwhistle.com/en/sales/real-madrid-web-oficial-3ec00ae8.html",
+    "ar": "https://ticketwhistle.com/ar/sales/real-madrid-web-oficial-3ec00ae8.html"
+   }
   }
  ]
 }

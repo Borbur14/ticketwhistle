@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-27T03:16:48.648556+00:00",
- "last_scan": "2026-11-27T03:15:50.635437+00:00",
+ "generated_at": "2026-11-27T03:33:08.644537+00:00",
+ "last_scan": "2026-11-27T03:32:10.333976+00:00",
  "note": "Read from official club websites. Not affiliated with LaLiga or any club. Always confirm on the official page before buying.",
  "upcoming": [
   {
@@ -22,9 +22,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/osasuna.html",
-   "official_tickets": "https://entradas.osasuna.es/"
+   "official_tickets": "https://entradas.osasuna.es/",
+   "slug": "osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html",
+    "en": "https://ticketwhistle.com/en/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html"
+   }
   },
   {
    "id": "d082821b267e3acc",
@@ -42,9 +48,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/levante.html",
-   "official_tickets": "https://www.levanteud.com/entradas"
+   "official_tickets": "https://www.levanteud.com/entradas",
+   "slug": "levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html",
+    "en": "https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html",
+    "ar": "https://ticketwhistle.com/ar/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html"
+   }
   }
  ],
  "recent": [
@@ -64,9 +76,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T00:59:31.059781+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/villarreal.html",
-   "official_tickets": "https://villarrealcf.es/es/venta-de-entradas/"
+   "official_tickets": "https://villarrealcf.es/es/venta-de-entradas/",
+   "slug": "villarreal-venta-entradas-visitantes-sestao-river-351b3aae",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html",
+    "en": "https://ticketwhistle.com/en/sales/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html",
+    "ar": "https://ticketwhistle.com/ar/sales/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html"
+   }
   },
   {
    "id": "56054e1dea5a046d",
@@ -84,9 +102,15 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/elche.html",
-   "official_tickets": "https://www.elchecf.es/entradas"
+   "official_tickets": "https://www.elchecf.es/entradas",
+   "slug": "elche-osasuna-informacion-entradas-proximo-partido-sadar-56054e1d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/elche-osasuna-informacion-entradas-proximo-partido-sadar-56054e1d.html",
+    "en": "https://ticketwhistle.com/en/sales/elche-osasuna-informacion-entradas-proximo-partido-sadar-56054e1d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/elche-osasuna-informacion-entradas-proximo-partido-sadar-56054e1d.html"
+   }
   },
   {
    "id": "4f8e80580fda0471",
@@ -104,9 +128,15 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/elche.html",
-   "official_tickets": "https://www.elchecf.es/entradas"
+   "official_tickets": "https://www.elchecf.es/entradas",
+   "slug": "elche-osasuna-informacion-entradas-proximo-partido-sadar-4f8e8058",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/elche-osasuna-informacion-entradas-proximo-partido-sadar-4f8e8058.html",
+    "en": "https://ticketwhistle.com/en/sales/elche-osasuna-informacion-entradas-proximo-partido-sadar-4f8e8058.html",
+    "ar": "https://ticketwhistle.com/ar/sales/elche-osasuna-informacion-entradas-proximo-partido-sadar-4f8e8058.html"
+   }
   },
   {
    "id": "5d4266a7b827f38d",
@@ -124,9 +154,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-atletico-madrid-liga-wed-02-dec-21-5d4266a7",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-atletico-madrid-liga-wed-02-dec-21-5d4266a7.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-atletico-madrid-liga-wed-02-dec-21-5d4266a7.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-atletico-madrid-liga-wed-02-dec-21-5d4266a7.html"
+   }
   },
   {
    "id": "f2a8bff994c460fc",
@@ -144,9 +180,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-celta-vigo-liga-sat-05-dec-21-f2a8bff9",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-celta-vigo-liga-sat-05-dec-21-f2a8bff9.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-celta-vigo-liga-sat-05-dec-21-f2a8bff9.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-celta-vigo-liga-sat-05-dec-21-f2a8bff9.html"
+   }
   },
   {
    "id": "e9e4b1770ca3fbab",
@@ -164,9 +206,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-manchester-city-uefa-champions-league-tue-08-e9e4b177",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-manchester-city-uefa-champions-league-tue-08-e9e4b177.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-manchester-city-uefa-champions-league-tue-08-e9e4b177.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-manchester-city-uefa-champions-league-tue-08-e9e4b177.html"
+   }
   },
   {
    "id": "3815122feedb560c",
@@ -184,9 +232,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-real-sociedad-liga-sun-20-dec-3815122f",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-real-sociedad-liga-sun-20-dec-3815122f.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-real-sociedad-liga-sun-20-dec-3815122f.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-real-sociedad-liga-sun-20-dec-3815122f.html"
+   }
   },
   {
    "id": "0b3bc67a8e47df11",
@@ -204,9 +258,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
-   "official_tickets": "https://www.valenciacf.com/entradas"
+   "official_tickets": "https://www.valenciacf.com/entradas",
+   "slug": "valencia-osasuna-0b3bc67a",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/valencia-osasuna-0b3bc67a.html",
+    "en": "https://ticketwhistle.com/en/sales/valencia-osasuna-0b3bc67a.html",
+    "ar": "https://ticketwhistle.com/ar/sales/valencia-osasuna-0b3bc67a.html"
+   }
   },
   {
    "id": "f15e69febee2cdc8",
@@ -224,9 +284,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
-   "official_tickets": "https://www.valenciacf.com/entradas"
+   "official_tickets": "https://www.valenciacf.com/entradas",
+   "slug": "valencia-espanyol-f15e69fe",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/valencia-espanyol-f15e69fe.html",
+    "en": "https://ticketwhistle.com/en/sales/valencia-espanyol-f15e69fe.html",
+    "ar": "https://ticketwhistle.com/ar/sales/valencia-espanyol-f15e69fe.html"
+   }
   },
   {
    "id": "c53a432d0aaf2a78",
@@ -244,9 +310,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
-   "official_tickets": "https://www.valenciacf.com/entradas"
+   "official_tickets": "https://www.valenciacf.com/entradas",
+   "slug": "valencia-malaga-c53a432d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/valencia-malaga-c53a432d.html",
+    "en": "https://ticketwhistle.com/en/sales/valencia-malaga-c53a432d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/valencia-malaga-c53a432d.html"
+   }
   },
   {
    "id": "d8a411b74a2a8dcd",
@@ -266,7 +338,13 @@
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
    "last_checked": "2026-11-27T03:15:50.635437+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sevilla.html",
-   "official_tickets": "https://sevillafc.es/entradas"
+   "official_tickets": "https://sevillafc.es/entradas",
+   "slug": "sevilla-entradas-visitante-elche-disponibles-30-euros-socios-d8a411b7",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/sevilla-entradas-visitante-elche-disponibles-30-euros-socios-d8a411b7.html",
+    "en": "https://ticketwhistle.com/en/sales/sevilla-entradas-visitante-elche-disponibles-30-euros-socios-d8a411b7.html",
+    "ar": "https://ticketwhistle.com/ar/sales/sevilla-entradas-visitante-elche-disponibles-30-euros-socios-d8a411b7.html"
+   }
   },
   {
    "id": "c91a69952ee52180",
@@ -286,7 +364,13 @@
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
    "last_checked": "2026-11-27T03:15:50.635437+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/malaga.html",
-   "official_tickets": "https://www.malagacf.com/entradas"
+   "official_tickets": "https://www.malagacf.com/entradas",
+   "slug": "malaga-ya-son-1-874-entradas-vendidas-real-c91a6995",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/malaga-ya-son-1-874-entradas-vendidas-real-c91a6995.html",
+    "en": "https://ticketwhistle.com/en/sales/malaga-ya-son-1-874-entradas-vendidas-real-c91a6995.html",
+    "ar": "https://ticketwhistle.com/ar/sales/malaga-ya-son-1-874-entradas-vendidas-real-c91a6995.html"
+   }
   },
   {
    "id": "621fed2d616279fb",
@@ -304,9 +388,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
-   "official_tickets": "https://www.athletic-club.eus/es/entradas/"
+   "official_tickets": "https://www.athletic-club.eus/es/entradas/",
+   "slug": "athletic-entradas-real-betis-j17-laliga-621fed2d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/athletic-entradas-real-betis-j17-laliga-621fed2d.html",
+    "en": "https://ticketwhistle.com/en/sales/athletic-entradas-real-betis-j17-laliga-621fed2d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-entradas-real-betis-j17-laliga-621fed2d.html"
+   }
   },
   {
    "id": "3dd80d8709b61243",
@@ -324,9 +414,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/rayo.html",
-   "official_tickets": "https://www.rayovallecano.es/entradas"
+   "official_tickets": "https://www.rayovallecano.es/entradas",
+   "slug": "rayo-entradas-ce-europa-3dd80d87",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/rayo-entradas-ce-europa-3dd80d87.html",
+    "en": "https://ticketwhistle.com/en/sales/rayo-entradas-ce-europa-3dd80d87.html",
+    "ar": "https://ticketwhistle.com/ar/sales/rayo-entradas-ce-europa-3dd80d87.html"
+   }
   },
   {
    "id": "577d61db46e3dff6",
@@ -344,9 +440,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sevilla.html",
-   "official_tickets": "https://sevillafc.es/entradas"
+   "official_tickets": "https://sevillafc.es/entradas",
+   "slug": "sevilla-disponible-inscripcion-entradas-copa-rey-atletico-paso-577d61db",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/sevilla-disponible-inscripcion-entradas-copa-rey-atletico-paso-577d61db.html",
+    "en": "https://ticketwhistle.com/en/sales/sevilla-disponible-inscripcion-entradas-copa-rey-atletico-paso-577d61db.html",
+    "ar": "https://ticketwhistle.com/ar/sales/sevilla-disponible-inscripcion-entradas-copa-rey-atletico-paso-577d61db.html"
+   }
   },
   {
    "id": "5181f2ce7b64eb45",
@@ -364,9 +466,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
-   "official_tickets": "https://rccelta.es/entradas/"
+   "official_tickets": "https://rccelta.es/entradas/",
+   "slug": "celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html",
+    "en": "https://ticketwhistle.com/en/sales/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html",
+    "ar": "https://ticketwhistle.com/ar/sales/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html"
+   }
   },
   {
    "id": "736eee000b8e958f",
@@ -384,9 +492,15 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/levante.html",
-   "official_tickets": "https://www.levanteud.com/entradas"
+   "official_tickets": "https://www.levanteud.com/entradas",
+   "slug": "levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html",
+    "en": "https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html",
+    "ar": "https://ticketwhistle.com/ar/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html"
+   }
   },
   {
    "id": "3ba75c13e991c704",
@@ -404,9 +518,15 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/betis.html",
-   "official_tickets": "https://www.realbetisbalompie.es/entradas"
+   "official_tickets": "https://www.realbetisbalompie.es/entradas",
+   "slug": "betis-abierto-proceso-solicitud-entradas-cd-extremadura-real-3ba75c13",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/betis-abierto-proceso-solicitud-entradas-cd-extremadura-real-3ba75c13.html",
+    "en": "https://ticketwhistle.com/en/sales/betis-abierto-proceso-solicitud-entradas-cd-extremadura-real-3ba75c13.html",
+    "ar": "https://ticketwhistle.com/ar/sales/betis-abierto-proceso-solicitud-entradas-cd-extremadura-real-3ba75c13.html"
+   }
   },
   {
    "id": "667a62e09fd0911f",
@@ -424,9 +544,15 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/elche.html",
-   "official_tickets": "https://www.elchecf.es/entradas"
+   "official_tickets": "https://www.elchecf.es/entradas",
+   "slug": "elche-cartagena-informacion-entradas-segunda-eliminatoria-copa-rey-667a62e0",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/elche-cartagena-informacion-entradas-segunda-eliminatoria-copa-rey-667a62e0.html",
+    "en": "https://ticketwhistle.com/en/sales/elche-cartagena-informacion-entradas-segunda-eliminatoria-copa-rey-667a62e0.html",
+    "ar": "https://ticketwhistle.com/ar/sales/elche-cartagena-informacion-entradas-segunda-eliminatoria-copa-rey-667a62e0.html"
+   }
   },
   {
    "id": "8d1cdeab6ce205ee",
@@ -446,7 +572,13 @@
    "first_seen": "2026-11-27T00:59:31.059781+00:00",
    "last_checked": "2026-11-27T02:15:51.155867+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
-   "official_tickets": "https://www.athletic-club.eus/es/entradas/"
+   "official_tickets": "https://www.athletic-club.eus/es/entradas/",
+   "slug": "athletic-entradas-cd-numancia-8d1cdeab",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/athletic-entradas-cd-numancia-8d1cdeab.html",
+    "en": "https://ticketwhistle.com/en/sales/athletic-entradas-cd-numancia-8d1cdeab.html",
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-entradas-cd-numancia-8d1cdeab.html"
+   }
   },
   {
    "id": "f00cd151e61d10b6",
@@ -464,9 +596,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-se-amplia-descuento-socios-se-inicia-venta-f00cd151",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-se-amplia-descuento-socios-se-inicia-venta-f00cd151.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-se-amplia-descuento-socios-se-inicia-venta-f00cd151.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-se-amplia-descuento-socios-se-inicia-venta-f00cd151.html"
+   }
   },
   {
    "id": "2ca106dbce43db0e",
@@ -484,9 +622,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/espanyol.html",
-   "official_tickets": "https://tickets.rcdespanyol.com/index.php/es/entradas-es"
+   "official_tickets": "https://tickets.rcdespanyol.com/index.php/es/entradas-es",
+   "slug": "espanyol-entradas-deportivo-alaves-2ca106db",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/espanyol-entradas-deportivo-alaves-2ca106db.html",
+    "en": "https://ticketwhistle.com/en/sales/espanyol-entradas-deportivo-alaves-2ca106db.html",
+    "ar": "https://ticketwhistle.com/ar/sales/espanyol-entradas-deportivo-alaves-2ca106db.html"
+   }
   },
   {
    "id": "e93bce5d70ca412f",
@@ -504,9 +648,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/getafe.html",
-   "official_tickets": "https://www.getafecf.com/entradas"
+   "official_tickets": "https://www.getafecf.com/entradas",
+   "slug": "getafe-entradas-venta-encuentro-frente-espanyol-e93bce5d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/getafe-entradas-venta-encuentro-frente-espanyol-e93bce5d.html",
+    "en": "https://ticketwhistle.com/en/sales/getafe-entradas-venta-encuentro-frente-espanyol-e93bce5d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/getafe-entradas-venta-encuentro-frente-espanyol-e93bce5d.html"
+   }
   },
   {
    "id": "e627c1bf0c0d6688",
@@ -526,7 +676,13 @@
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
    "last_checked": "2026-11-26T16:43:41.328964+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
-   "official_tickets": "https://rccelta.es/entradas/"
+   "official_tickets": "https://rccelta.es/entradas/",
+   "slug": "celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html",
+    "en": "https://ticketwhistle.com/en/sales/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html",
+    "ar": "https://ticketwhistle.com/ar/sales/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html"
+   }
   },
   {
    "id": "e10291c116fd264e",
@@ -544,9 +700,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T00:59:31.059781+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
-   "official_tickets": "https://www.athletic-club.eus/es/entradas/"
+   "official_tickets": "https://www.athletic-club.eus/es/entradas/",
+   "slug": "athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html",
+    "en": "https://ticketwhistle.com/en/sales/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html",
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html"
+   }
   },
   {
    "id": "f481b784c34b9234",
@@ -564,9 +726,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/osasuna.html",
-   "official_tickets": "https://entradas.osasuna.es/"
+   "official_tickets": "https://entradas.osasuna.es/",
+   "slug": "osasuna-venta-entradas-encuentro-mestalla-valencia-c-f-f481b784",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/osasuna-venta-entradas-encuentro-mestalla-valencia-c-f-f481b784.html",
+    "en": "https://ticketwhistle.com/en/sales/osasuna-venta-entradas-encuentro-mestalla-valencia-c-f-f481b784.html",
+    "ar": "https://ticketwhistle.com/ar/sales/osasuna-venta-entradas-encuentro-mestalla-valencia-c-f-f481b784.html"
+   }
   },
   {
    "id": "e0eef01c19912895",
@@ -584,9 +752,15 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/betis.html",
-   "official_tickets": "https://www.realbetisbalompie.es/entradas"
+   "official_tickets": "https://www.realbetisbalompie.es/entradas",
+   "slug": "betis-abierto-proceso-solicitud-entradas-atletico-madrid-real-e0eef01c",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/betis-abierto-proceso-solicitud-entradas-atletico-madrid-real-e0eef01c.html",
+    "en": "https://ticketwhistle.com/en/sales/betis-abierto-proceso-solicitud-entradas-atletico-madrid-real-e0eef01c.html",
+    "ar": "https://ticketwhistle.com/ar/sales/betis-abierto-proceso-solicitud-entradas-atletico-madrid-real-e0eef01c.html"
+   }
   },
   {
    "id": "eb90d9523cb033cd",
@@ -606,7 +780,13 @@
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
    "last_checked": "2026-11-27T03:15:50.635437+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
-   "official_tickets": "https://rccelta.es/entradas/"
+   "official_tickets": "https://rccelta.es/entradas/",
+   "slug": "celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html",
+    "en": "https://ticketwhistle.com/en/sales/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html",
+    "ar": "https://ticketwhistle.com/ar/sales/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html"
+   }
   },
   {
    "id": "fb4fc614bdf423c6",
@@ -626,7 +806,13 @@
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
    "last_checked": "2026-11-27T03:15:50.635437+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
-   "official_tickets": "https://rccelta.es/entradas/"
+   "official_tickets": "https://rccelta.es/entradas/",
+   "slug": "celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html",
+    "en": "https://ticketwhistle.com/en/sales/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html",
+    "ar": "https://ticketwhistle.com/ar/sales/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html"
+   }
   },
   {
    "id": "5061d19c6e220e16",
@@ -644,9 +830,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
-   "official_tickets": "https://taquilla.realracingclub.es/"
+   "official_tickets": "https://taquilla.realracingclub.es/",
+   "slug": "racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html",
+    "en": "https://ticketwhistle.com/en/sales/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html",
+    "ar": "https://ticketwhistle.com/ar/sales/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html"
+   }
   },
   {
    "id": "0ddaf0400312ebc7",
@@ -664,9 +856,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/levante.html",
-   "official_tickets": "https://www.levanteud.com/entradas"
+   "official_tickets": "https://www.levanteud.com/entradas",
+   "slug": "levante-venta-entradas-real-madrid-0ddaf040",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/levante-venta-entradas-real-madrid-0ddaf040.html",
+    "en": "https://ticketwhistle.com/en/sales/levante-venta-entradas-real-madrid-0ddaf040.html",
+    "ar": "https://ticketwhistle.com/ar/sales/levante-venta-entradas-real-madrid-0ddaf040.html"
+   }
   }
  ],
  "all": [
@@ -686,9 +884,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/levante.html",
-   "official_tickets": "https://www.levanteud.com/entradas"
+   "official_tickets": "https://www.levanteud.com/entradas",
+   "slug": "levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html",
+    "en": "https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html",
+    "ar": "https://ticketwhistle.com/ar/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html"
+   }
   },
   {
    "id": "41f8cf9dde878c54",
@@ -706,9 +910,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/osasuna.html",
-   "official_tickets": "https://entradas.osasuna.es/"
+   "official_tickets": "https://entradas.osasuna.es/",
+   "slug": "osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html",
+    "en": "https://ticketwhistle.com/en/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/osasuna-abierta-venta-entradas-partido-elche-c-f-41f8cf9d.html"
+   }
   },
   {
    "id": "351b3aae9a6eb817",
@@ -726,9 +936,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T00:59:31.059781+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/villarreal.html",
-   "official_tickets": "https://villarrealcf.es/es/venta-de-entradas/"
+   "official_tickets": "https://villarrealcf.es/es/venta-de-entradas/",
+   "slug": "villarreal-venta-entradas-visitantes-sestao-river-351b3aae",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html",
+    "en": "https://ticketwhistle.com/en/sales/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html",
+    "ar": "https://ticketwhistle.com/ar/sales/villarreal-venta-entradas-visitantes-sestao-river-351b3aae.html"
+   }
   },
   {
    "id": "56054e1dea5a046d",
@@ -746,9 +962,15 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/elche.html",
-   "official_tickets": "https://www.elchecf.es/entradas"
+   "official_tickets": "https://www.elchecf.es/entradas",
+   "slug": "elche-osasuna-informacion-entradas-proximo-partido-sadar-56054e1d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/elche-osasuna-informacion-entradas-proximo-partido-sadar-56054e1d.html",
+    "en": "https://ticketwhistle.com/en/sales/elche-osasuna-informacion-entradas-proximo-partido-sadar-56054e1d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/elche-osasuna-informacion-entradas-proximo-partido-sadar-56054e1d.html"
+   }
   },
   {
    "id": "4f8e80580fda0471",
@@ -766,9 +988,15 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/elche.html",
-   "official_tickets": "https://www.elchecf.es/entradas"
+   "official_tickets": "https://www.elchecf.es/entradas",
+   "slug": "elche-osasuna-informacion-entradas-proximo-partido-sadar-4f8e8058",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/elche-osasuna-informacion-entradas-proximo-partido-sadar-4f8e8058.html",
+    "en": "https://ticketwhistle.com/en/sales/elche-osasuna-informacion-entradas-proximo-partido-sadar-4f8e8058.html",
+    "ar": "https://ticketwhistle.com/ar/sales/elche-osasuna-informacion-entradas-proximo-partido-sadar-4f8e8058.html"
+   }
   },
   {
    "id": "5d4266a7b827f38d",
@@ -786,9 +1014,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-atletico-madrid-liga-wed-02-dec-21-5d4266a7",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-atletico-madrid-liga-wed-02-dec-21-5d4266a7.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-atletico-madrid-liga-wed-02-dec-21-5d4266a7.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-atletico-madrid-liga-wed-02-dec-21-5d4266a7.html"
+   }
   },
   {
    "id": "f2a8bff994c460fc",
@@ -806,9 +1040,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-celta-vigo-liga-sat-05-dec-21-f2a8bff9",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-celta-vigo-liga-sat-05-dec-21-f2a8bff9.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-celta-vigo-liga-sat-05-dec-21-f2a8bff9.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-celta-vigo-liga-sat-05-dec-21-f2a8bff9.html"
+   }
   },
   {
    "id": "e9e4b1770ca3fbab",
@@ -826,9 +1066,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-manchester-city-uefa-champions-league-tue-08-e9e4b177",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-manchester-city-uefa-champions-league-tue-08-e9e4b177.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-manchester-city-uefa-champions-league-tue-08-e9e4b177.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-manchester-city-uefa-champions-league-tue-08-e9e4b177.html"
+   }
   },
   {
    "id": "3815122feedb560c",
@@ -846,9 +1092,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-real-sociedad-liga-sun-20-dec-3815122f",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-real-sociedad-liga-sun-20-dec-3815122f.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-real-sociedad-liga-sun-20-dec-3815122f.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-real-sociedad-liga-sun-20-dec-3815122f.html"
+   }
   },
   {
    "id": "ff725e77e63f99ae",
@@ -866,9 +1118,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-elche-liga-sun-17-jan-ff725e77",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-elche-liga-sun-17-jan-ff725e77.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-elche-liga-sun-17-jan-ff725e77.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-elche-liga-sun-17-jan-ff725e77.html"
+   }
   },
   {
    "id": "273472f83c54dda2",
@@ -886,9 +1144,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-como-1907-uefa-champions-league-wed-27-273472f8",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-como-1907-uefa-champions-league-wed-27-273472f8.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-como-1907-uefa-champions-league-wed-27-273472f8.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-como-1907-uefa-champions-league-wed-27-273472f8.html"
+   }
   },
   {
    "id": "ac187d566f001c67",
@@ -906,9 +1170,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-valencia-liga-sun-31-jan-ac187d56",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-valencia-liga-sun-31-jan-ac187d56.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-valencia-liga-sun-31-jan-ac187d56.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-valencia-liga-sun-31-jan-ac187d56.html"
+   }
   },
   {
    "id": "a46c8dd5809e4571",
@@ -926,9 +1196,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-levante-liga-sun-21-feb-a46c8dd5",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-levante-liga-sun-21-feb-a46c8dd5.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-levante-liga-sun-21-feb-a46c8dd5.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-levante-liga-sun-21-feb-a46c8dd5.html"
+   }
   },
   {
    "id": "2d39cbec1548b518",
@@ -946,9 +1222,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-real-betis-liga-sun-07-mar-2d39cbec",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-real-betis-liga-sun-07-mar-2d39cbec.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-real-betis-liga-sun-07-mar-2d39cbec.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-real-betis-liga-sun-07-mar-2d39cbec.html"
+   }
   },
   {
    "id": "0e9590281b5c5bcb",
@@ -966,9 +1248,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-deportivo-coruna-liga-sun-14-mar-0e959028",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-deportivo-coruna-liga-sun-14-mar-0e959028.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-deportivo-coruna-liga-sun-14-mar-0e959028.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-deportivo-coruna-liga-sun-14-mar-0e959028.html"
+   }
   },
   {
    "id": "203c1c6158d724dd",
@@ -986,9 +1274,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-sevilla-liga-sun-04-apr-203c1c61",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-sevilla-liga-sun-04-apr-203c1c61.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-sevilla-liga-sun-04-apr-203c1c61.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-sevilla-liga-sun-04-apr-203c1c61.html"
+   }
   },
   {
    "id": "612bfa08935caac2",
@@ -1006,9 +1300,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-espanyol-liga-sun-18-apr-612bfa08",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-espanyol-liga-sun-18-apr-612bfa08.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-espanyol-liga-sun-18-apr-612bfa08.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-espanyol-liga-sun-18-apr-612bfa08.html"
+   }
   },
   {
    "id": "de79086d95a84ba7",
@@ -1026,9 +1326,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-osasuna-liga-sun-02-may-de79086d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-osasuna-liga-sun-02-may-de79086d.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-osasuna-liga-sun-02-may-de79086d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-osasuna-liga-sun-02-may-de79086d.html"
+   }
   },
   {
    "id": "0b3bc67a8e47df11",
@@ -1046,9 +1352,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
-   "official_tickets": "https://www.valenciacf.com/entradas"
+   "official_tickets": "https://www.valenciacf.com/entradas",
+   "slug": "valencia-osasuna-0b3bc67a",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/valencia-osasuna-0b3bc67a.html",
+    "en": "https://ticketwhistle.com/en/sales/valencia-osasuna-0b3bc67a.html",
+    "ar": "https://ticketwhistle.com/ar/sales/valencia-osasuna-0b3bc67a.html"
+   }
   },
   {
    "id": "f15e69febee2cdc8",
@@ -1066,9 +1378,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
-   "official_tickets": "https://www.valenciacf.com/entradas"
+   "official_tickets": "https://www.valenciacf.com/entradas",
+   "slug": "valencia-espanyol-f15e69fe",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/valencia-espanyol-f15e69fe.html",
+    "en": "https://ticketwhistle.com/en/sales/valencia-espanyol-f15e69fe.html",
+    "ar": "https://ticketwhistle.com/ar/sales/valencia-espanyol-f15e69fe.html"
+   }
   },
   {
    "id": "c53a432d0aaf2a78",
@@ -1086,9 +1404,15 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
-   "official_tickets": "https://www.valenciacf.com/entradas"
+   "official_tickets": "https://www.valenciacf.com/entradas",
+   "slug": "valencia-malaga-c53a432d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/valencia-malaga-c53a432d.html",
+    "en": "https://ticketwhistle.com/en/sales/valencia-malaga-c53a432d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/valencia-malaga-c53a432d.html"
+   }
   },
   {
    "id": "d8a411b74a2a8dcd",
@@ -1108,7 +1432,13 @@
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
    "last_checked": "2026-11-27T03:15:50.635437+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sevilla.html",
-   "official_tickets": "https://sevillafc.es/entradas"
+   "official_tickets": "https://sevillafc.es/entradas",
+   "slug": "sevilla-entradas-visitante-elche-disponibles-30-euros-socios-d8a411b7",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/sevilla-entradas-visitante-elche-disponibles-30-euros-socios-d8a411b7.html",
+    "en": "https://ticketwhistle.com/en/sales/sevilla-entradas-visitante-elche-disponibles-30-euros-socios-d8a411b7.html",
+    "ar": "https://ticketwhistle.com/ar/sales/sevilla-entradas-visitante-elche-disponibles-30-euros-socios-d8a411b7.html"
+   }
   },
   {
    "id": "c91a69952ee52180",
@@ -1128,7 +1458,13 @@
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
    "last_checked": "2026-11-27T03:15:50.635437+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/malaga.html",
-   "official_tickets": "https://www.malagacf.com/entradas"
+   "official_tickets": "https://www.malagacf.com/entradas",
+   "slug": "malaga-ya-son-1-874-entradas-vendidas-real-c91a6995",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/malaga-ya-son-1-874-entradas-vendidas-real-c91a6995.html",
+    "en": "https://ticketwhistle.com/en/sales/malaga-ya-son-1-874-entradas-vendidas-real-c91a6995.html",
+    "ar": "https://ticketwhistle.com/ar/sales/malaga-ya-son-1-874-entradas-vendidas-real-c91a6995.html"
+   }
   },
   {
    "id": "621fed2d616279fb",
@@ -1146,9 +1482,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
-   "official_tickets": "https://www.athletic-club.eus/es/entradas/"
+   "official_tickets": "https://www.athletic-club.eus/es/entradas/",
+   "slug": "athletic-entradas-real-betis-j17-laliga-621fed2d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/athletic-entradas-real-betis-j17-laliga-621fed2d.html",
+    "en": "https://ticketwhistle.com/en/sales/athletic-entradas-real-betis-j17-laliga-621fed2d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-entradas-real-betis-j17-laliga-621fed2d.html"
+   }
   },
   {
    "id": "3dd80d8709b61243",
@@ -1166,9 +1508,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/rayo.html",
-   "official_tickets": "https://www.rayovallecano.es/entradas"
+   "official_tickets": "https://www.rayovallecano.es/entradas",
+   "slug": "rayo-entradas-ce-europa-3dd80d87",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/rayo-entradas-ce-europa-3dd80d87.html",
+    "en": "https://ticketwhistle.com/en/sales/rayo-entradas-ce-europa-3dd80d87.html",
+    "ar": "https://ticketwhistle.com/ar/sales/rayo-entradas-ce-europa-3dd80d87.html"
+   }
   },
   {
    "id": "577d61db46e3dff6",
@@ -1186,9 +1534,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sevilla.html",
-   "official_tickets": "https://sevillafc.es/entradas"
+   "official_tickets": "https://sevillafc.es/entradas",
+   "slug": "sevilla-disponible-inscripcion-entradas-copa-rey-atletico-paso-577d61db",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/sevilla-disponible-inscripcion-entradas-copa-rey-atletico-paso-577d61db.html",
+    "en": "https://ticketwhistle.com/en/sales/sevilla-disponible-inscripcion-entradas-copa-rey-atletico-paso-577d61db.html",
+    "ar": "https://ticketwhistle.com/ar/sales/sevilla-disponible-inscripcion-entradas-copa-rey-atletico-paso-577d61db.html"
+   }
   },
   {
    "id": "5181f2ce7b64eb45",
@@ -1206,9 +1560,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
-   "official_tickets": "https://rccelta.es/entradas/"
+   "official_tickets": "https://rccelta.es/entradas/",
+   "slug": "celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html",
+    "en": "https://ticketwhistle.com/en/sales/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html",
+    "ar": "https://ticketwhistle.com/ar/sales/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html"
+   }
   },
   {
    "id": "736eee000b8e958f",
@@ -1226,9 +1586,15 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/levante.html",
-   "official_tickets": "https://www.levanteud.com/entradas"
+   "official_tickets": "https://www.levanteud.com/entradas",
+   "slug": "levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html",
+    "en": "https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html",
+    "ar": "https://ticketwhistle.com/ar/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-736eee00.html"
+   }
   },
   {
    "id": "3ba75c13e991c704",
@@ -1246,9 +1612,15 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/betis.html",
-   "official_tickets": "https://www.realbetisbalompie.es/entradas"
+   "official_tickets": "https://www.realbetisbalompie.es/entradas",
+   "slug": "betis-abierto-proceso-solicitud-entradas-cd-extremadura-real-3ba75c13",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/betis-abierto-proceso-solicitud-entradas-cd-extremadura-real-3ba75c13.html",
+    "en": "https://ticketwhistle.com/en/sales/betis-abierto-proceso-solicitud-entradas-cd-extremadura-real-3ba75c13.html",
+    "ar": "https://ticketwhistle.com/ar/sales/betis-abierto-proceso-solicitud-entradas-cd-extremadura-real-3ba75c13.html"
+   }
   },
   {
    "id": "667a62e09fd0911f",
@@ -1266,9 +1638,15 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/elche.html",
-   "official_tickets": "https://www.elchecf.es/entradas"
+   "official_tickets": "https://www.elchecf.es/entradas",
+   "slug": "elche-cartagena-informacion-entradas-segunda-eliminatoria-copa-rey-667a62e0",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/elche-cartagena-informacion-entradas-segunda-eliminatoria-copa-rey-667a62e0.html",
+    "en": "https://ticketwhistle.com/en/sales/elche-cartagena-informacion-entradas-segunda-eliminatoria-copa-rey-667a62e0.html",
+    "ar": "https://ticketwhistle.com/ar/sales/elche-cartagena-informacion-entradas-segunda-eliminatoria-copa-rey-667a62e0.html"
+   }
   },
   {
    "id": "8d1cdeab6ce205ee",
@@ -1288,7 +1666,13 @@
    "first_seen": "2026-11-27T00:59:31.059781+00:00",
    "last_checked": "2026-11-27T02:15:51.155867+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
-   "official_tickets": "https://www.athletic-club.eus/es/entradas/"
+   "official_tickets": "https://www.athletic-club.eus/es/entradas/",
+   "slug": "athletic-entradas-cd-numancia-8d1cdeab",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/athletic-entradas-cd-numancia-8d1cdeab.html",
+    "en": "https://ticketwhistle.com/en/sales/athletic-entradas-cd-numancia-8d1cdeab.html",
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-entradas-cd-numancia-8d1cdeab.html"
+   }
   },
   {
    "id": "f00cd151e61d10b6",
@@ -1306,9 +1690,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-se-amplia-descuento-socios-se-inicia-venta-f00cd151",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-se-amplia-descuento-socios-se-inicia-venta-f00cd151.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-se-amplia-descuento-socios-se-inicia-venta-f00cd151.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-se-amplia-descuento-socios-se-inicia-venta-f00cd151.html"
+   }
   },
   {
    "id": "2ca106dbce43db0e",
@@ -1326,9 +1716,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/espanyol.html",
-   "official_tickets": "https://tickets.rcdespanyol.com/index.php/es/entradas-es"
+   "official_tickets": "https://tickets.rcdespanyol.com/index.php/es/entradas-es",
+   "slug": "espanyol-entradas-deportivo-alaves-2ca106db",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/espanyol-entradas-deportivo-alaves-2ca106db.html",
+    "en": "https://ticketwhistle.com/en/sales/espanyol-entradas-deportivo-alaves-2ca106db.html",
+    "ar": "https://ticketwhistle.com/ar/sales/espanyol-entradas-deportivo-alaves-2ca106db.html"
+   }
   },
   {
    "id": "e93bce5d70ca412f",
@@ -1346,9 +1742,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/getafe.html",
-   "official_tickets": "https://www.getafecf.com/entradas"
+   "official_tickets": "https://www.getafecf.com/entradas",
+   "slug": "getafe-entradas-venta-encuentro-frente-espanyol-e93bce5d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/getafe-entradas-venta-encuentro-frente-espanyol-e93bce5d.html",
+    "en": "https://ticketwhistle.com/en/sales/getafe-entradas-venta-encuentro-frente-espanyol-e93bce5d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/getafe-entradas-venta-encuentro-frente-espanyol-e93bce5d.html"
+   }
   },
   {
    "id": "e627c1bf0c0d6688",
@@ -1368,7 +1770,13 @@
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
    "last_checked": "2026-11-26T16:43:41.328964+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
-   "official_tickets": "https://rccelta.es/entradas/"
+   "official_tickets": "https://rccelta.es/entradas/",
+   "slug": "celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html",
+    "en": "https://ticketwhistle.com/en/sales/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html",
+    "ar": "https://ticketwhistle.com/ar/sales/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html"
+   }
   },
   {
    "id": "e10291c116fd264e",
@@ -1386,9 +1794,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T00:59:31.059781+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
-   "official_tickets": "https://www.athletic-club.eus/es/entradas/"
+   "official_tickets": "https://www.athletic-club.eus/es/entradas/",
+   "slug": "athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html",
+    "en": "https://ticketwhistle.com/en/sales/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html",
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-inscripcion-entradas-nino-partido-real-madrid-e10291c1.html"
+   }
   },
   {
    "id": "f481b784c34b9234",
@@ -1406,9 +1820,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/osasuna.html",
-   "official_tickets": "https://entradas.osasuna.es/"
+   "official_tickets": "https://entradas.osasuna.es/",
+   "slug": "osasuna-venta-entradas-encuentro-mestalla-valencia-c-f-f481b784",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/osasuna-venta-entradas-encuentro-mestalla-valencia-c-f-f481b784.html",
+    "en": "https://ticketwhistle.com/en/sales/osasuna-venta-entradas-encuentro-mestalla-valencia-c-f-f481b784.html",
+    "ar": "https://ticketwhistle.com/ar/sales/osasuna-venta-entradas-encuentro-mestalla-valencia-c-f-f481b784.html"
+   }
   },
   {
    "id": "e0eef01c19912895",
@@ -1426,9 +1846,15 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/betis.html",
-   "official_tickets": "https://www.realbetisbalompie.es/entradas"
+   "official_tickets": "https://www.realbetisbalompie.es/entradas",
+   "slug": "betis-abierto-proceso-solicitud-entradas-atletico-madrid-real-e0eef01c",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/betis-abierto-proceso-solicitud-entradas-atletico-madrid-real-e0eef01c.html",
+    "en": "https://ticketwhistle.com/en/sales/betis-abierto-proceso-solicitud-entradas-atletico-madrid-real-e0eef01c.html",
+    "ar": "https://ticketwhistle.com/ar/sales/betis-abierto-proceso-solicitud-entradas-atletico-madrid-real-e0eef01c.html"
+   }
   },
   {
    "id": "eb90d9523cb033cd",
@@ -1448,7 +1874,13 @@
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
    "last_checked": "2026-11-27T03:15:50.635437+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
-   "official_tickets": "https://rccelta.es/entradas/"
+   "official_tickets": "https://rccelta.es/entradas/",
+   "slug": "celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html",
+    "en": "https://ticketwhistle.com/en/sales/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html",
+    "ar": "https://ticketwhistle.com/ar/sales/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html"
+   }
   },
   {
    "id": "fb4fc614bdf423c6",
@@ -1468,7 +1900,13 @@
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
    "last_checked": "2026-11-27T03:15:50.635437+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
-   "official_tickets": "https://rccelta.es/entradas/"
+   "official_tickets": "https://rccelta.es/entradas/",
+   "slug": "celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html",
+    "en": "https://ticketwhistle.com/en/sales/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html",
+    "ar": "https://ticketwhistle.com/ar/sales/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html"
+   }
   },
   {
    "id": "5061d19c6e220e16",
@@ -1486,9 +1924,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
-   "official_tickets": "https://taquilla.realracingclub.es/"
+   "official_tickets": "https://taquilla.realracingclub.es/",
+   "slug": "racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html",
+    "en": "https://ticketwhistle.com/en/sales/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html",
+    "ar": "https://ticketwhistle.com/ar/sales/racing-levante-envia-405-entradas-ciutat-valencia-aficion-5061d19c.html"
+   }
   },
   {
    "id": "0ddaf0400312ebc7",
@@ -1506,9 +1950,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/levante.html",
-   "official_tickets": "https://www.levanteud.com/entradas"
+   "official_tickets": "https://www.levanteud.com/entradas",
+   "slug": "levante-venta-entradas-real-madrid-0ddaf040",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/levante-venta-entradas-real-madrid-0ddaf040.html",
+    "en": "https://ticketwhistle.com/en/sales/levante-venta-entradas-real-madrid-0ddaf040.html",
+    "ar": "https://ticketwhistle.com/ar/sales/levante-venta-entradas-real-madrid-0ddaf040.html"
+   }
   },
   {
    "id": "4b718980ac513157",
@@ -1526,9 +1976,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-   "official_tickets": "https://www.realmadrid.com/es-ES/entradas"
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "slug": "real-madrid-participa-nuestro-sorteo-entradas-diciembre-socios-madridistas-4b718980",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/real-madrid-participa-nuestro-sorteo-entradas-diciembre-socios-madridistas-4b718980.html",
+    "en": "https://ticketwhistle.com/en/sales/real-madrid-participa-nuestro-sorteo-entradas-diciembre-socios-madridistas-4b718980.html",
+    "ar": "https://ticketwhistle.com/ar/sales/real-madrid-participa-nuestro-sorteo-entradas-diciembre-socios-madridistas-4b718980.html"
+   }
   },
   {
    "id": "663c944a0977f774",
@@ -1546,9 +2002,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/rayo.html",
-   "official_tickets": "https://www.rayovallecano.es/entradas"
+   "official_tickets": "https://www.rayovallecano.es/entradas",
+   "slug": "rayo-entradas-vallecano-valencia-663c944a",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/rayo-entradas-vallecano-valencia-663c944a.html",
+    "en": "https://ticketwhistle.com/en/sales/rayo-entradas-vallecano-valencia-663c944a.html",
+    "ar": "https://ticketwhistle.com/ar/sales/rayo-entradas-vallecano-valencia-663c944a.html"
+   }
   },
   {
    "id": "f79d9eaad70987af",
@@ -1566,9 +2028,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
-   "official_tickets": "https://taquilla.realracingclub.es/"
+   "official_tickets": "https://taquilla.realracingclub.es/",
+   "slug": "racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa.html",
+    "en": "https://ticketwhistle.com/en/sales/racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa.html",
+    "ar": "https://ticketwhistle.com/ar/sales/racing-entradas-real-sociedad-disponibles-online-taquillas-f79d9eaa.html"
+   }
   },
   {
    "id": "80ce05261e181e2d",
@@ -1586,9 +2054,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
-   "official_tickets": "https://www.athletic-club.eus/es/entradas/"
+   "official_tickets": "https://www.athletic-club.eus/es/entradas/",
+   "slug": "athletic-entradas-malaga-80ce0526",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/athletic-entradas-malaga-80ce0526.html",
+    "en": "https://ticketwhistle.com/en/sales/athletic-entradas-malaga-80ce0526.html",
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-entradas-malaga-80ce0526.html"
+   }
   },
   {
    "id": "5de9f9c16a1c586d",
@@ -1606,9 +2080,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/barcelona.html",
-   "official_tickets": "https://www.fcbarcelona.es/es/entradas"
+   "official_tickets": "https://www.fcbarcelona.es/es/entradas",
+   "slug": "barcelona-venta-exclusiva-entradas-socios-socias-partido-contra-5de9f9c1",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/barcelona-venta-exclusiva-entradas-socios-socias-partido-contra-5de9f9c1.html",
+    "en": "https://ticketwhistle.com/en/sales/barcelona-venta-exclusiva-entradas-socios-socias-partido-contra-5de9f9c1.html",
+    "ar": "https://ticketwhistle.com/ar/sales/barcelona-venta-exclusiva-entradas-socios-socias-partido-contra-5de9f9c1.html"
+   }
   },
   {
    "id": "c2e9fb4f5bb7f133",
@@ -1626,9 +2106,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/malaga.html",
-   "official_tickets": "https://www.malagacf.com/entradas"
+   "official_tickets": "https://www.malagacf.com/entradas",
+   "slug": "malaga-sorteo-compra-entradas-santiago-bernabeu-c2e9fb4f",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/malaga-sorteo-compra-entradas-santiago-bernabeu-c2e9fb4f.html",
+    "en": "https://ticketwhistle.com/en/sales/malaga-sorteo-compra-entradas-santiago-bernabeu-c2e9fb4f.html",
+    "ar": "https://ticketwhistle.com/ar/sales/malaga-sorteo-compra-entradas-santiago-bernabeu-c2e9fb4f.html"
+   }
   },
   {
    "id": "19c32f205cfbad5f",
@@ -1646,9 +2132,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
-   "official_tickets": "https://www.athletic-club.eus/es/entradas/"
+   "official_tickets": "https://www.athletic-club.eus/es/entradas/",
+   "slug": "athletic-venta-entradas-real-madrid-j15-laliga-19c32f20",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/athletic-venta-entradas-real-madrid-j15-laliga-19c32f20.html",
+    "en": "https://ticketwhistle.com/en/sales/athletic-venta-entradas-real-madrid-j15-laliga-19c32f20.html",
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-venta-entradas-real-madrid-j15-laliga-19c32f20.html"
+   }
   },
   {
    "id": "ec2f5e83e08b11c5",
@@ -1666,9 +2158,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/elche.html",
-   "official_tickets": "https://www.elchecf.es/entradas"
+   "official_tickets": "https://www.elchecf.es/entradas",
+   "slug": "elche-cfatletico-madrid-cfsevilla-informacion-entradas-proximos-partidos-ec2f5e83",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/elche-cfatletico-madrid-cfsevilla-informacion-entradas-proximos-partidos-ec2f5e83.html",
+    "en": "https://ticketwhistle.com/en/sales/elche-cfatletico-madrid-cfsevilla-informacion-entradas-proximos-partidos-ec2f5e83.html",
+    "ar": "https://ticketwhistle.com/ar/sales/elche-cfatletico-madrid-cfsevilla-informacion-entradas-proximos-partidos-ec2f5e83.html"
+   }
   },
   {
    "id": "bc713dfc15692ac2",
@@ -1686,9 +2184,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/rayo.html",
-   "official_tickets": "https://www.rayovallecano.es/entradas"
+   "official_tickets": "https://www.rayovallecano.es/entradas",
+   "slug": "rayo-informacion-entradas-real-betis-bc713dfc",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/rayo-informacion-entradas-real-betis-bc713dfc.html",
+    "en": "https://ticketwhistle.com/en/sales/rayo-informacion-entradas-real-betis-bc713dfc.html",
+    "ar": "https://ticketwhistle.com/ar/sales/rayo-informacion-entradas-real-betis-bc713dfc.html"
+   }
   },
   {
    "id": "82513f016838253a",
@@ -1706,9 +2210,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sevilla.html",
-   "official_tickets": "https://sevillafc.es/entradas"
+   "official_tickets": "https://sevillafc.es/entradas",
+   "slug": "sevilla-consigue-ampliar-numero-entradas-san-sebastian-570-82513f01",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/sevilla-consigue-ampliar-numero-entradas-san-sebastian-570-82513f01.html",
+    "en": "https://ticketwhistle.com/en/sales/sevilla-consigue-ampliar-numero-entradas-san-sebastian-570-82513f01.html",
+    "ar": "https://ticketwhistle.com/ar/sales/sevilla-consigue-ampliar-numero-entradas-san-sebastian-570-82513f01.html"
+   }
   },
   {
    "id": "764c78aa4602c0a0",
@@ -1726,9 +2236,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sevilla.html",
-   "official_tickets": "https://sevillafc.es/entradas"
+   "official_tickets": "https://sevillafc.es/entradas",
+   "slug": "sevilla-alta-demanda-derbi-obligara-sortear-cupo-localidades-764c78aa",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/sevilla-alta-demanda-derbi-obligara-sortear-cupo-localidades-764c78aa.html",
+    "en": "https://ticketwhistle.com/en/sales/sevilla-alta-demanda-derbi-obligara-sortear-cupo-localidades-764c78aa.html",
+    "ar": "https://ticketwhistle.com/ar/sales/sevilla-alta-demanda-derbi-obligara-sortear-cupo-localidades-764c78aa.html"
+   }
   },
   {
    "id": "1efeeb241cf86caf",
@@ -1746,9 +2262,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sevilla.html",
-   "official_tickets": "https://sevillafc.es/entradas"
+   "official_tickets": "https://sevillafc.es/entradas",
+   "slug": "sevilla-abiertas-inscripciones-entradas-visitantes-real-sociedad-1efeeb24",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/sevilla-abiertas-inscripciones-entradas-visitantes-real-sociedad-1efeeb24.html",
+    "en": "https://ticketwhistle.com/en/sales/sevilla-abiertas-inscripciones-entradas-visitantes-real-sociedad-1efeeb24.html",
+    "ar": "https://ticketwhistle.com/ar/sales/sevilla-abiertas-inscripciones-entradas-visitantes-real-sociedad-1efeeb24.html"
+   }
   },
   {
    "id": "7ed46d90a626046e",
@@ -1768,7 +2290,13 @@
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
    "last_checked": "2026-11-26T16:43:41.328964+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/betis.html",
-   "official_tickets": "https://www.realbetisbalompie.es/entradas"
+   "official_tickets": "https://www.realbetisbalompie.es/entradas",
+   "slug": "betis-abierto-plazo-solicitud-entradas-huesca-real-real-7ed46d90",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/betis-abierto-plazo-solicitud-entradas-huesca-real-real-7ed46d90.html",
+    "en": "https://ticketwhistle.com/en/sales/betis-abierto-plazo-solicitud-entradas-huesca-real-real-7ed46d90.html",
+    "ar": "https://ticketwhistle.com/ar/sales/betis-abierto-plazo-solicitud-entradas-huesca-real-real-7ed46d90.html"
+   }
   },
   {
    "id": "c90493619b73924f",
@@ -1786,9 +2314,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/osasuna.html",
-   "official_tickets": "https://entradas.osasuna.es/"
+   "official_tickets": "https://entradas.osasuna.es/",
+   "slug": "osasuna-venta-entradas-partido-malaga-c-f-c9049361",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/osasuna-venta-entradas-partido-malaga-c-f-c9049361.html",
+    "en": "https://ticketwhistle.com/en/sales/osasuna-venta-entradas-partido-malaga-c-f-c9049361.html",
+    "ar": "https://ticketwhistle.com/ar/sales/osasuna-venta-entradas-partido-malaga-c-f-c9049361.html"
+   }
   },
   {
    "id": "0921b9264bce2e17",
@@ -1806,9 +2340,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/betis.html",
-   "official_tickets": "https://www.realbetisbalompie.es/entradas"
+   "official_tickets": "https://www.realbetisbalompie.es/entradas",
+   "slug": "betis-abierto-proceso-entradas-slovan-bratislava-real-real-0921b926",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/betis-abierto-proceso-entradas-slovan-bratislava-real-real-0921b926.html",
+    "en": "https://ticketwhistle.com/en/sales/betis-abierto-proceso-entradas-slovan-bratislava-real-real-0921b926.html",
+    "ar": "https://ticketwhistle.com/ar/sales/betis-abierto-proceso-entradas-slovan-bratislava-real-real-0921b926.html"
+   }
   },
   {
    "id": "1c1379335e28a866",
@@ -1826,9 +2366,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
-   "official_tickets": "https://taquilla.realracingclub.es/"
+   "official_tickets": "https://taquilla.realracingclub.es/",
+   "slug": "racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933.html",
+    "en": "https://ticketwhistle.com/en/sales/racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933.html",
+    "ar": "https://ticketwhistle.com/ar/sales/racing-venta-anticipada-entradas-visita-real-sociedad-campos-1c137933.html"
+   }
   },
   {
    "id": "9637eea90c8f439b",
@@ -1846,9 +2392,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/deportivo.html",
-   "official_tickets": "https://ticketing.rcdeportivo.es/"
+   "official_tickets": "https://ticketing.rcdeportivo.es/",
+   "slug": "deportivo-abierto-plazo-solicitud-entradas-partido-alaves-sabado-9637eea9",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/deportivo-abierto-plazo-solicitud-entradas-partido-alaves-sabado-9637eea9.html",
+    "en": "https://ticketwhistle.com/en/sales/deportivo-abierto-plazo-solicitud-entradas-partido-alaves-sabado-9637eea9.html",
+    "ar": "https://ticketwhistle.com/ar/sales/deportivo-abierto-plazo-solicitud-entradas-partido-alaves-sabado-9637eea9.html"
+   }
   },
   {
    "id": "ef8158ddb44e873e",
@@ -1866,9 +2418,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/malaga.html",
-   "official_tickets": "https://www.malagacf.com/entradas"
+   "official_tickets": "https://www.malagacf.com/entradas",
+   "slug": "malaga-informacion-venta-entradas-primera-eliminatoria-play-off-ef8158dd",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/malaga-informacion-venta-entradas-primera-eliminatoria-play-off-ef8158dd.html",
+    "en": "https://ticketwhistle.com/en/sales/malaga-informacion-venta-entradas-primera-eliminatoria-play-off-ef8158dd.html",
+    "ar": "https://ticketwhistle.com/ar/sales/malaga-informacion-venta-entradas-primera-eliminatoria-play-off-ef8158dd.html"
+   }
   },
   {
    "id": "e4ace55d1852a925",
@@ -1886,9 +2444,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/racing.html",
-   "official_tickets": "https://taquilla.realracingclub.es/"
+   "official_tickets": "https://taquilla.realracingclub.es/",
+   "slug": "racing-proceso-venta-entradas-partidos-e4ace55d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/racing-proceso-venta-entradas-partidos-e4ace55d.html",
+    "en": "https://ticketwhistle.com/en/sales/racing-proceso-venta-entradas-partidos-e4ace55d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/racing-proceso-venta-entradas-partidos-e4ace55d.html"
+   }
   },
   {
    "id": "7e7f955d62e7db5b",
@@ -1906,9 +2470,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-   "official_tickets": "https://www.realmadrid.com/es-ES/entradas"
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "slug": "real-madrid-web-oficial-7e7f955d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/real-madrid-web-oficial-7e7f955d.html",
+    "en": "https://ticketwhistle.com/en/sales/real-madrid-web-oficial-7e7f955d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/real-madrid-web-oficial-7e7f955d.html"
+   }
   },
   {
    "id": "88c7dee4e13922a6",
@@ -1926,9 +2496,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/athletic.html",
-   "official_tickets": "https://www.athletic-club.eus/es/entradas/"
+   "official_tickets": "https://www.athletic-club.eus/es/entradas/",
+   "slug": "athletic-habilita-compra-online-entradas-pmr-88c7dee4",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/athletic-habilita-compra-online-entradas-pmr-88c7dee4.html",
+    "en": "https://ticketwhistle.com/en/sales/athletic-habilita-compra-online-entradas-pmr-88c7dee4.html",
+    "ar": "https://ticketwhistle.com/ar/sales/athletic-habilita-compra-online-entradas-pmr-88c7dee4.html"
+   }
   },
   {
    "id": "a9a116eaca3cb9c3",
@@ -1946,9 +2522,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
-   "official_tickets": "https://rccelta.es/entradas/"
+   "official_tickets": "https://rccelta.es/entradas/",
+   "slug": "celta-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-a9a116ea",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/celta-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-a9a116ea.html",
+    "en": "https://ticketwhistle.com/en/sales/celta-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-a9a116ea.html",
+    "ar": "https://ticketwhistle.com/ar/sales/celta-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-a9a116ea.html"
+   }
   },
   {
    "id": "47a174afcd4b24da",
@@ -1966,9 +2548,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
-   "official_tickets": "https://rccelta.es/entradas/"
+   "official_tickets": "https://rccelta.es/entradas/",
+   "slug": "celta-ultima-noche-europea-2026-abanca-balaidos-ya-47a174af",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/celta-ultima-noche-europea-2026-abanca-balaidos-ya-47a174af.html",
+    "en": "https://ticketwhistle.com/en/sales/celta-ultima-noche-europea-2026-abanca-balaidos-ya-47a174af.html",
+    "ar": "https://ticketwhistle.com/ar/sales/celta-ultima-noche-europea-2026-abanca-balaidos-ya-47a174af.html"
+   }
   },
   {
    "id": "426391284bc04eb5",
@@ -1988,7 +2576,13 @@
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
    "last_checked": "2026-11-26T16:43:41.328964+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/betis.html",
-   "official_tickets": "https://www.realbetisbalompie.es/entradas"
+   "official_tickets": "https://www.realbetisbalompie.es/entradas",
+   "slug": "betis-abierto-proceso-entradas-elgranderbi-real-balompie-42639128",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/betis-abierto-proceso-entradas-elgranderbi-real-balompie-42639128.html",
+    "en": "https://ticketwhistle.com/en/sales/betis-abierto-proceso-entradas-elgranderbi-real-balompie-42639128.html",
+    "ar": "https://ticketwhistle.com/ar/sales/betis-abierto-proceso-entradas-elgranderbi-real-balompie-42639128.html"
+   }
   },
   {
    "id": "ff89ffa49cd18453",
@@ -2006,9 +2600,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/espanyol.html",
-   "official_tickets": "https://tickets.rcdespanyol.com/index.php/es/entradas-es"
+   "official_tickets": "https://tickets.rcdespanyol.com/index.php/es/entradas-es",
+   "slug": "espanyol-entradas-athletic-ff89ffa4",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/espanyol-entradas-athletic-ff89ffa4.html",
+    "en": "https://ticketwhistle.com/en/sales/espanyol-entradas-athletic-ff89ffa4.html",
+    "ar": "https://ticketwhistle.com/ar/sales/espanyol-entradas-athletic-ff89ffa4.html"
+   }
   },
   {
    "id": "4ff9d435f1873b6f",
@@ -2026,9 +2626,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/levante.html",
-   "official_tickets": "https://www.levanteud.com/entradas"
+   "official_tickets": "https://www.levanteud.com/entradas",
+   "slug": "levante-continuan-venta-entradas-partido-real-madrid-4ff9d435",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/levante-continuan-venta-entradas-partido-real-madrid-4ff9d435.html",
+    "en": "https://ticketwhistle.com/en/sales/levante-continuan-venta-entradas-partido-real-madrid-4ff9d435.html",
+    "ar": "https://ticketwhistle.com/ar/sales/levante-continuan-venta-entradas-partido-real-madrid-4ff9d435.html"
+   }
   },
   {
    "id": "eb1ced1a74ca5893",
@@ -2048,7 +2654,13 @@
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
    "last_checked": "2026-11-26T16:43:41.328964+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/rayo.html",
-   "official_tickets": "https://www.rayovallecano.es/entradas"
+   "official_tickets": "https://www.rayovallecano.es/entradas",
+   "slug": "rayo-informacion-entradas-real-sociedad-eb1ced1a",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/rayo-informacion-entradas-real-sociedad-eb1ced1a.html",
+    "en": "https://ticketwhistle.com/en/sales/rayo-informacion-entradas-real-sociedad-eb1ced1a.html",
+    "ar": "https://ticketwhistle.com/ar/sales/rayo-informacion-entradas-real-sociedad-eb1ced1a.html"
+   }
   },
   {
    "id": "11964df94e56681e",
@@ -2066,9 +2678,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/deportivo.html",
-   "official_tickets": "https://ticketing.rcdeportivo.es/"
+   "official_tickets": "https://ticketing.rcdeportivo.es/",
+   "slug": "deportivo-abierto-plazo-solicitud-entradas-partido-espanyol-sabado-11964df9",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/deportivo-abierto-plazo-solicitud-entradas-partido-espanyol-sabado-11964df9.html",
+    "en": "https://ticketwhistle.com/en/sales/deportivo-abierto-plazo-solicitud-entradas-partido-espanyol-sabado-11964df9.html",
+    "ar": "https://ticketwhistle.com/ar/sales/deportivo-abierto-plazo-solicitud-entradas-partido-espanyol-sabado-11964df9.html"
+   }
   },
   {
    "id": "063fd3bcaa9abfa7",
@@ -2086,9 +2704,15 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
-   "official_tickets": "https://rccelta.es/entradas/"
+   "official_tickets": "https://rccelta.es/entradas/",
+   "slug": "celta-entradas-venta-villarreal-063fd3bc",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/celta-entradas-venta-villarreal-063fd3bc.html",
+    "en": "https://ticketwhistle.com/en/sales/celta-entradas-venta-villarreal-063fd3bc.html",
+    "ar": "https://ticketwhistle.com/ar/sales/celta-entradas-venta-villarreal-063fd3bc.html"
+   }
   },
   {
    "id": "a8b57ce566a66036",
@@ -2106,9 +2730,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-   "official_tickets": "https://www.realmadrid.com/es-ES/entradas"
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "slug": "real-madrid-web-oficial-a8b57ce5",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/real-madrid-web-oficial-a8b57ce5.html",
+    "en": "https://ticketwhistle.com/en/sales/real-madrid-web-oficial-a8b57ce5.html",
+    "ar": "https://ticketwhistle.com/ar/sales/real-madrid-web-oficial-a8b57ce5.html"
+   }
   },
   {
    "id": "911d48da8b759474",
@@ -2128,7 +2758,13 @@
    "first_seen": "2026-11-26T16:43:41.328964+00:00",
    "last_checked": "2026-11-26T16:43:41.328964+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/betis.html",
-   "official_tickets": "https://www.realbetisbalompie.es/entradas"
+   "official_tickets": "https://www.realbetisbalompie.es/entradas",
+   "slug": "betis-abierto-plazo-solicitud-entradas-athletic-real-911d48da",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/betis-abierto-plazo-solicitud-entradas-athletic-real-911d48da.html",
+    "en": "https://ticketwhistle.com/en/sales/betis-abierto-plazo-solicitud-entradas-athletic-real-911d48da.html",
+    "ar": "https://ticketwhistle.com/ar/sales/betis-abierto-plazo-solicitud-entradas-athletic-real-911d48da.html"
+   }
   },
   {
    "id": "cb59ae9df855b87a",
@@ -2146,9 +2782,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-   "official_tickets": "https://www.realmadrid.com/es-ES/entradas"
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "slug": "real-madrid-web-oficial-cb59ae9d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/real-madrid-web-oficial-cb59ae9d.html",
+    "en": "https://ticketwhistle.com/en/sales/real-madrid-web-oficial-cb59ae9d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/real-madrid-web-oficial-cb59ae9d.html"
+   }
   },
   {
    "id": "84fac0db95596d8e",
@@ -2166,9 +2808,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-   "official_tickets": "https://www.realmadrid.com/es-ES/entradas"
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "slug": "real-madrid-web-oficial-84fac0db",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/real-madrid-web-oficial-84fac0db.html",
+    "en": "https://ticketwhistle.com/en/sales/real-madrid-web-oficial-84fac0db.html",
+    "ar": "https://ticketwhistle.com/ar/sales/real-madrid-web-oficial-84fac0db.html"
+   }
   },
   {
    "id": "3ec00ae8dec3317a",
@@ -2186,9 +2834,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/real-madrid.html",
-   "official_tickets": "https://www.realmadrid.com/es-ES/entradas"
+   "official_tickets": "https://www.realmadrid.com/es-ES/entradas",
+   "slug": "real-madrid-web-oficial-3ec00ae8",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/real-madrid-web-oficial-3ec00ae8.html",
+    "en": "https://ticketwhistle.com/en/sales/real-madrid-web-oficial-3ec00ae8.html",
+    "ar": "https://ticketwhistle.com/ar/sales/real-madrid-web-oficial-3ec00ae8.html"
+   }
   },
   {
    "id": "1fdc8a289a4f1964",
@@ -2206,9 +2860,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/alaves.html",
-   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches"
+   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches",
+   "slug": "alaves-solicitud-entradas-real-oviedo-deportivo-1fdc8a28",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/alaves-solicitud-entradas-real-oviedo-deportivo-1fdc8a28.html",
+    "en": "https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-real-oviedo-deportivo-1fdc8a28.html",
+    "ar": "https://ticketwhistle.com/ar/sales/alaves-solicitud-entradas-real-oviedo-deportivo-1fdc8a28.html"
+   }
   },
   {
    "id": "a1559f7d30175693",
@@ -2226,9 +2886,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/alaves.html",
-   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches"
+   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches",
+   "slug": "alaves-solicitud-entradas-valencia-deportivo-a1559f7d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/alaves-solicitud-entradas-valencia-deportivo-a1559f7d.html",
+    "en": "https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-valencia-deportivo-a1559f7d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/alaves-solicitud-entradas-valencia-deportivo-a1559f7d.html"
+   }
   },
   {
    "id": "079e1e63a9fc2bde",
@@ -2246,9 +2912,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/alaves.html",
-   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches"
+   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches",
+   "slug": "alaves-solicitud-entradas-valencia-deportivo-079e1e63",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/alaves-solicitud-entradas-valencia-deportivo-079e1e63.html",
+    "en": "https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-valencia-deportivo-079e1e63.html",
+    "ar": "https://ticketwhistle.com/ar/sales/alaves-solicitud-entradas-valencia-deportivo-079e1e63.html"
+   }
   },
   {
    "id": "1adbf96e6d94d876",
@@ -2266,9 +2938,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/alaves.html",
-   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches"
+   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches",
+   "slug": "alaves-solicitud-entradas-villarreal-deportivo-1adbf96e",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/alaves-solicitud-entradas-villarreal-deportivo-1adbf96e.html",
+    "en": "https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-villarreal-deportivo-1adbf96e.html",
+    "ar": "https://ticketwhistle.com/ar/sales/alaves-solicitud-entradas-villarreal-deportivo-1adbf96e.html"
+   }
   },
   {
    "id": "02b1368f0caf990d",
@@ -2286,9 +2964,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/alaves.html",
-   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches"
+   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches",
+   "slug": "alaves-solicitud-entradas-villarreal-deportivo-02b1368f",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/alaves-solicitud-entradas-villarreal-deportivo-02b1368f.html",
+    "en": "https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-villarreal-deportivo-02b1368f.html",
+    "ar": "https://ticketwhistle.com/ar/sales/alaves-solicitud-entradas-villarreal-deportivo-02b1368f.html"
+   }
   },
   {
    "id": "e57a024987041ea8",
@@ -2306,9 +2990,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/alaves.html",
-   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches"
+   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches",
+   "slug": "alaves-solicitud-entradas-portugalete-deportivo-e57a0249",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/alaves-solicitud-entradas-portugalete-deportivo-e57a0249.html",
+    "en": "https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-portugalete-deportivo-e57a0249.html",
+    "ar": "https://ticketwhistle.com/ar/sales/alaves-solicitud-entradas-portugalete-deportivo-e57a0249.html"
+   }
   },
   {
    "id": "985e16214e9c01b9",
@@ -2326,9 +3016,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/alaves.html",
-   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches"
+   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches",
+   "slug": "alaves-solicitud-entradas-portugalete-deportivo-985e1621",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/alaves-solicitud-entradas-portugalete-deportivo-985e1621.html",
+    "en": "https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-portugalete-deportivo-985e1621.html",
+    "ar": "https://ticketwhistle.com/ar/sales/alaves-solicitud-entradas-portugalete-deportivo-985e1621.html"
+   }
   },
   {
    "id": "e48850215de29194",
@@ -2346,9 +3042,15 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-27T03:15:50.635437+00:00",
+   "last_checked": "2026-11-27T03:32:10.333976+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/alaves.html",
-   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches"
+   "official_tickets": "https://entradas.deportivoalaves.com/b2c/ticketSale/matches",
+   "slug": "alaves-solicitud-entradas-portugalete-deportivo-e4885021",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/alaves-solicitud-entradas-portugalete-deportivo-e4885021.html",
+    "en": "https://ticketwhistle.com/en/sales/alaves-solicitud-entradas-portugalete-deportivo-e4885021.html",
+    "ar": "https://ticketwhistle.com/ar/sales/alaves-solicitud-entradas-portugalete-deportivo-e4885021.html"
+   }
   }
  ]
 }
