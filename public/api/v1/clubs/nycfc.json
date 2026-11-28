@@ -1,0 +1,41 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-28T11:09:16.058050+00:00",
+ "last_scan": "2026-11-28T10:50:56.748258+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "nycfc",
+  "name": "New York City FC",
+  "name_ar": "نيويورك سيتي",
+  "league": "MLS",
+  "country": "USA",
+  "timezone": "America/New_York",
+  "city": "New York",
+  "stadium": null,
+  "european_competition": null,
+  "colors": [
+   "#6CACE4",
+   "#041E42",
+   "#F15524"
+  ],
+  "flag_css": "linear-gradient(90deg,#6CACE4 0.0% 33.3%,#041E42 33.3% 66.7%,#6CACE4 66.7% 100.0%)",
+  "official_site": "https://www.newyorkcityfc.com",
+  "official_tickets": "https://www.newyorkcityfc.com/tickets/",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/nycfc.html",
+   "en": "https://ticketwhistle.com/en/tickets/nycfc.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/nycfc.html",
+   "it": "https://ticketwhistle.com/it/biglietti/nycfc.html",
+   "fr": "https://ticketwhistle.com/fr/billets/nycfc.html",
+   "de": "https://ticketwhistle.com/de/tickets/nycfc.html"
+  },
+  "official_alternatives": [],
+  "sale_patterns": {
+   "sales": 0
+  }
+ },
+ "windows": []
+}

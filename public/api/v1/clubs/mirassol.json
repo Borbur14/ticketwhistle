@@ -1,0 +1,41 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-28T11:09:16.058050+00:00",
+ "last_scan": "2026-11-28T10:50:56.748258+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "mirassol",
+  "name": "Mirassol",
+  "name_ar": "ميراسول",
+  "league": "Brasileirão",
+  "country": "BRA",
+  "timezone": "America/Sao_Paulo",
+  "city": "Mirassol",
+  "stadium": "Maião",
+  "european_competition": null,
+  "colors": [
+   "#FFD100",
+   "#00843D",
+   "#FFD100"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFD100 0.0% 33.3%,#00843D 33.3% 66.7%,#FFD100 66.7% 100.0%)",
+  "official_site": "https://mirassolfc.com.br",
+  "official_tickets": "https://mirassolfc.com.br",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/mirassol.html",
+   "en": "https://ticketwhistle.com/en/tickets/mirassol.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/mirassol.html",
+   "it": "https://ticketwhistle.com/it/biglietti/mirassol.html",
+   "fr": "https://ticketwhistle.com/fr/billets/mirassol.html",
+   "de": "https://ticketwhistle.com/de/tickets/mirassol.html"
+  },
+  "official_alternatives": [],
+  "sale_patterns": {
+   "sales": 0
+  }
+ },
+ "windows": []
+}

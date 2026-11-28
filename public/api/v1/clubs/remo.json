@@ -1,0 +1,104 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-28T11:09:16.058050+00:00",
+ "last_scan": "2026-11-28T10:50:56.748258+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "remo",
+  "name": "Remo",
+  "name_ar": "ريمو",
+  "league": "Brasileirão",
+  "country": "BRA",
+  "timezone": "America/Sao_Paulo",
+  "city": "Belém",
+  "stadium": "Mangueirão",
+  "european_competition": null,
+  "colors": [
+   "#00205B",
+   "#FFFFFF",
+   "#00205B"
+  ],
+  "flag_css": "linear-gradient(90deg,#00205B 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#00205B 66.7% 100.0%)",
+  "official_site": "https://clubedoremo.com.br",
+  "official_tickets": "https://clubedoremo.com.br",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/remo.html",
+   "en": "https://ticketwhistle.com/en/tickets/remo.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/remo.html",
+   "it": "https://ticketwhistle.com/it/biglietti/remo.html",
+   "fr": "https://ticketwhistle.com/fr/billets/remo.html",
+   "de": "https://ticketwhistle.com/de/tickets/remo.html"
+  },
+  "official_alternatives": [],
+  "sale_patterns": {
+   "sales": 0
+  }
+ },
+ "windows": [
+  {
+   "id": "64db1df83c1ce71b",
+   "club_id": "remo",
+   "club": "Remo",
+   "title": "Remo inicia venda de ingressos para partida diante do Corinthians",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-27T20:21:43+00:00",
+   "has_time": false,
+   "timezone": "America/Sao_Paulo",
+   "league": "Brasileirão",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://clubedoremo.com.br",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-28T10:50:56.748258+00:00",
+   "last_checked": "2026-11-28T10:50:56.748258+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/remo.html",
+   "official_tickets": "https://clubedoremo.com.br",
+   "slug": "remo-inicia-venda-ingressos-partida-diante-do-corinthians-64db1df8",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/remo-inicia-venda-ingressos-partida-diante-do-corinthians-64db1df8.html",
+    "en": "https://ticketwhistle.com/en/sales/remo-inicia-venda-ingressos-partida-diante-do-corinthians-64db1df8.html",
+    "ar": "https://ticketwhistle.com/ar/sales/remo-inicia-venda-ingressos-partida-diante-do-corinthians-64db1df8.html",
+    "it": "https://ticketwhistle.com/it/vendite/remo-inicia-venda-ingressos-partida-diante-do-corinthians-64db1df8.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/remo-inicia-venda-ingressos-partida-diante-do-corinthians-64db1df8.html",
+    "de": "https://ticketwhistle.com/de/verkauf/remo-inicia-venda-ingressos-partida-diante-do-corinthians-64db1df8.html"
+   }
+  },
+  {
+   "id": "09c9b569c31b3851",
+   "club_id": "remo",
+   "club": "Remo",
+   "title": "Remo inicia venda de ingressos para partida diante da Chapecoense",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-12T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "America/Sao_Paulo",
+   "league": "Brasileirão",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://clubedoremo.com.br",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-28T10:50:56.748258+00:00",
+   "last_checked": "2026-11-28T10:50:56.748258+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/remo.html",
+   "official_tickets": "https://clubedoremo.com.br",
+   "slug": "remo-inicia-venda-ingressos-partida-diante-da-chapecoense-09c9b569",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/remo-inicia-venda-ingressos-partida-diante-da-chapecoense-09c9b569.html",
+    "en": "https://ticketwhistle.com/en/sales/remo-inicia-venda-ingressos-partida-diante-da-chapecoense-09c9b569.html",
+    "ar": "https://ticketwhistle.com/ar/sales/remo-inicia-venda-ingressos-partida-diante-da-chapecoense-09c9b569.html",
+    "it": "https://ticketwhistle.com/it/vendite/remo-inicia-venda-ingressos-partida-diante-da-chapecoense-09c9b569.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/remo-inicia-venda-ingressos-partida-diante-da-chapecoense-09c9b569.html",
+    "de": "https://ticketwhistle.com/de/verkauf/remo-inicia-venda-ingressos-partida-diante-da-chapecoense-09c9b569.html"
+   }
+  }
+ ]
+}

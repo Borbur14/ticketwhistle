@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T07:25:20.042707+00:00",
- "last_scan": "2026-11-28T07:09:06.172278+00:00",
+ "generated_at": "2026-11-28T11:09:16.058050+00:00",
+ "last_scan": "2026-11-28T10:50:56.748258+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "clubs": [
   {
@@ -5910,6 +5910,1653 @@
     "usual_time_count": 4,
     "timed": 8,
     "usual_weekday": 0
+   }
+  },
+  {
+   "id": "inter-miami",
+   "name": "Inter Miami CF",
+   "name_ar": "إنتر ميامي",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/New_York",
+   "city": "Miami",
+   "stadium": "Nu Stadium",
+   "european_competition": null,
+   "colors": [
+    "#F7B5CD",
+    "#231F20",
+    "#F7B5CD"
+   ],
+   "flag_css": "linear-gradient(90deg,#F7B5CD 0.0% 33.3%,#231F20 33.3% 66.7%,#F7B5CD 66.7% 100.0%)",
+   "official_site": "https://www.intermiamicf.com",
+   "official_tickets": "https://www.intermiamicf.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/inter-miami.html",
+    "en": "https://ticketwhistle.com/en/tickets/inter-miami.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/inter-miami.html",
+    "it": "https://ticketwhistle.com/it/biglietti/inter-miami.html",
+    "fr": "https://ticketwhistle.com/fr/billets/inter-miami.html",
+    "de": "https://ticketwhistle.com/de/tickets/inter-miami.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "la-galaxy",
+   "name": "LA Galaxy",
+   "name_ar": "لوس أنجلوس غالاكسي",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Los_Angeles",
+   "city": "Carson",
+   "stadium": "Dignity Health Sports Park",
+   "european_competition": null,
+   "colors": [
+    "#00245D",
+    "#FFD200",
+    "#00245D"
+   ],
+   "flag_css": "linear-gradient(90deg,#00245D 0.0% 33.3%,#FFD200 33.3% 66.7%,#00245D 66.7% 100.0%)",
+   "official_site": "https://www.lagalaxy.com",
+   "official_tickets": "https://www.lagalaxy.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/la-galaxy.html",
+    "en": "https://ticketwhistle.com/en/tickets/la-galaxy.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/la-galaxy.html",
+    "it": "https://ticketwhistle.com/it/biglietti/la-galaxy.html",
+    "fr": "https://ticketwhistle.com/fr/billets/la-galaxy.html",
+    "de": "https://ticketwhistle.com/de/tickets/la-galaxy.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "lafc",
+   "name": "LAFC",
+   "name_ar": "لوس أنجلوس إف سي",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Los_Angeles",
+   "city": "Los Angeles",
+   "stadium": "BMO Stadium",
+   "european_competition": null,
+   "colors": [
+    "#000000",
+    "#C39E6D",
+    "#000000"
+   ],
+   "flag_css": "linear-gradient(90deg,#000000 0.0% 33.3%,#C39E6D 33.3% 66.7%,#000000 66.7% 100.0%)",
+   "official_site": "https://www.lafc.com",
+   "official_tickets": "https://www.lafc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/lafc.html",
+    "en": "https://ticketwhistle.com/en/tickets/lafc.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/lafc.html",
+    "it": "https://ticketwhistle.com/it/biglietti/lafc.html",
+    "fr": "https://ticketwhistle.com/fr/billets/lafc.html",
+    "de": "https://ticketwhistle.com/de/tickets/lafc.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "nycfc",
+   "name": "New York City FC",
+   "name_ar": "نيويورك سيتي",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/New_York",
+   "city": "New York",
+   "stadium": null,
+   "european_competition": null,
+   "colors": [
+    "#6CACE4",
+    "#041E42",
+    "#F15524"
+   ],
+   "flag_css": "linear-gradient(90deg,#6CACE4 0.0% 33.3%,#041E42 33.3% 66.7%,#6CACE4 66.7% 100.0%)",
+   "official_site": "https://www.newyorkcityfc.com",
+   "official_tickets": "https://www.newyorkcityfc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/nycfc.html",
+    "en": "https://ticketwhistle.com/en/tickets/nycfc.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/nycfc.html",
+    "it": "https://ticketwhistle.com/it/biglietti/nycfc.html",
+    "fr": "https://ticketwhistle.com/fr/billets/nycfc.html",
+    "de": "https://ticketwhistle.com/de/tickets/nycfc.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "ny-red-bulls",
+   "name": "New York Red Bulls",
+   "name_ar": "نيويورك ريد بولز",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/New_York",
+   "city": "Harrison",
+   "stadium": "Sports Illustrated Stadium",
+   "european_competition": null,
+   "colors": [
+    "#ED1E36",
+    "#FFFFFF",
+    "#23326A"
+   ],
+   "flag_css": "linear-gradient(90deg,#ED1E36 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#ED1E36 66.7% 100.0%)",
+   "official_site": "https://www.newyorkredbulls.com",
+   "official_tickets": "https://www.newyorkredbulls.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/ny-red-bulls.html",
+    "en": "https://ticketwhistle.com/en/tickets/ny-red-bulls.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/ny-red-bulls.html",
+    "it": "https://ticketwhistle.com/it/biglietti/ny-red-bulls.html",
+    "fr": "https://ticketwhistle.com/fr/billets/ny-red-bulls.html",
+    "de": "https://ticketwhistle.com/de/tickets/ny-red-bulls.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "seattle",
+   "name": "Seattle Sounders FC",
+   "name_ar": "سياتل ساوندرز",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Los_Angeles",
+   "city": "Seattle",
+   "stadium": "Lumen Field",
+   "european_competition": null,
+   "colors": [
+    "#5D9741",
+    "#005595",
+    "#5D9741"
+   ],
+   "flag_css": "linear-gradient(90deg,#5D9741 0.0% 33.3%,#005595 33.3% 66.7%,#5D9741 66.7% 100.0%)",
+   "official_site": "https://www.soundersfc.com",
+   "official_tickets": "https://www.soundersfc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/seattle.html",
+    "en": "https://ticketwhistle.com/en/tickets/seattle.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/seattle.html",
+    "it": "https://ticketwhistle.com/it/biglietti/seattle.html",
+    "fr": "https://ticketwhistle.com/fr/billets/seattle.html",
+    "de": "https://ticketwhistle.com/de/tickets/seattle.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "atlanta-utd",
+   "name": "Atlanta United",
+   "name_ar": "أتلانتا يونايتد",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/New_York",
+   "city": "Atlanta",
+   "stadium": "Mercedes-Benz Stadium",
+   "european_competition": null,
+   "colors": [
+    "#80000A",
+    "#221F1F",
+    "#A19060"
+   ],
+   "flag_css": "linear-gradient(90deg,#80000A 0.0% 33.3%,#221F1F 33.3% 66.7%,#80000A 66.7% 100.0%)",
+   "official_site": "https://www.atlutd.com",
+   "official_tickets": "https://www.atlutd.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/atlanta-utd.html",
+    "en": "https://ticketwhistle.com/en/tickets/atlanta-utd.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/atlanta-utd.html",
+    "it": "https://ticketwhistle.com/it/biglietti/atlanta-utd.html",
+    "fr": "https://ticketwhistle.com/fr/billets/atlanta-utd.html",
+    "de": "https://ticketwhistle.com/de/tickets/atlanta-utd.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "toronto-fc",
+   "name": "Toronto FC",
+   "name_ar": "تورونتو إف سي",
+   "league": "MLS",
+   "country": "CAN",
+   "timezone": "America/Toronto",
+   "city": "Toronto",
+   "stadium": "BMO Field",
+   "european_competition": null,
+   "colors": [
+    "#B81137",
+    "#FFFFFF",
+    "#455560"
+   ],
+   "flag_css": "linear-gradient(90deg,#B81137 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#B81137 66.7% 100.0%)",
+   "official_site": "https://www.torontofc.ca",
+   "official_tickets": "https://www.torontofc.ca/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/toronto-fc.html",
+    "en": "https://ticketwhistle.com/en/tickets/toronto-fc.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/toronto-fc.html",
+    "it": "https://ticketwhistle.com/it/biglietti/toronto-fc.html",
+    "fr": "https://ticketwhistle.com/fr/billets/toronto-fc.html",
+    "de": "https://ticketwhistle.com/de/tickets/toronto-fc.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "cf-montreal",
+   "name": "CF Montréal",
+   "name_ar": "سي إف مونتريال",
+   "league": "MLS",
+   "country": "CAN",
+   "timezone": "America/Toronto",
+   "city": "Montreal",
+   "stadium": "Stade Saputo",
+   "european_competition": null,
+   "colors": [
+    "#000000",
+    "#0033A1",
+    "#000000"
+   ],
+   "flag_css": "linear-gradient(90deg,#000000 0.0% 33.3%,#0033A1 33.3% 66.7%,#000000 66.7% 100.0%)",
+   "official_site": "https://en.cfmontreal.com",
+   "official_tickets": "https://en.cfmontreal.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/cf-montreal.html",
+    "en": "https://ticketwhistle.com/en/tickets/cf-montreal.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/cf-montreal.html",
+    "it": "https://ticketwhistle.com/it/biglietti/cf-montreal.html",
+    "fr": "https://ticketwhistle.com/fr/billets/cf-montreal.html",
+    "de": "https://ticketwhistle.com/de/tickets/cf-montreal.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "portland",
+   "name": "Portland Timbers",
+   "name_ar": "بورتلاند تيمبرز",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Los_Angeles",
+   "city": "Portland",
+   "stadium": "Providence Park",
+   "european_competition": null,
+   "colors": [
+    "#004812",
+    "#EBE72B",
+    "#004812"
+   ],
+   "flag_css": "linear-gradient(90deg,#004812 0.0% 33.3%,#EBE72B 33.3% 66.7%,#004812 66.7% 100.0%)",
+   "official_site": "https://www.timbers.com",
+   "official_tickets": "https://www.timbers.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/portland.html",
+    "en": "https://ticketwhistle.com/en/tickets/portland.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/portland.html",
+    "it": "https://ticketwhistle.com/it/biglietti/portland.html",
+    "fr": "https://ticketwhistle.com/fr/billets/portland.html",
+    "de": "https://ticketwhistle.com/de/tickets/portland.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "austin",
+   "name": "Austin FC",
+   "name_ar": "أوستن إف سي",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Chicago",
+   "city": "Austin",
+   "stadium": "Q2 Stadium",
+   "european_competition": null,
+   "colors": [
+    "#00B140",
+    "#000000",
+    "#00B140"
+   ],
+   "flag_css": "linear-gradient(90deg,#00B140 0.0% 33.3%,#000000 33.3% 66.7%,#00B140 66.7% 100.0%)",
+   "official_site": "https://www.austinfc.com",
+   "official_tickets": "https://www.austinfc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/austin.html",
+    "en": "https://ticketwhistle.com/en/tickets/austin.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/austin.html",
+    "it": "https://ticketwhistle.com/it/biglietti/austin.html",
+    "fr": "https://ticketwhistle.com/fr/billets/austin.html",
+    "de": "https://ticketwhistle.com/de/tickets/austin.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "cincinnati",
+   "name": "FC Cincinnati",
+   "name_ar": "سينسيناتي",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/New_York",
+   "city": "Cincinnati",
+   "stadium": "TQL Stadium",
+   "european_competition": null,
+   "colors": [
+    "#F05323",
+    "#263B80",
+    "#F05323"
+   ],
+   "flag_css": "linear-gradient(90deg,#F05323 0.0% 33.3%,#263B80 33.3% 66.7%,#F05323 66.7% 100.0%)",
+   "official_site": "https://www.fccincinnati.com",
+   "official_tickets": "https://www.fccincinnati.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/cincinnati.html",
+    "en": "https://ticketwhistle.com/en/tickets/cincinnati.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/cincinnati.html",
+    "it": "https://ticketwhistle.com/it/biglietti/cincinnati.html",
+    "fr": "https://ticketwhistle.com/fr/billets/cincinnati.html",
+    "de": "https://ticketwhistle.com/de/tickets/cincinnati.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "columbus",
+   "name": "Columbus Crew",
+   "name_ar": "كولومبوس كرو",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/New_York",
+   "city": "Columbus",
+   "stadium": null,
+   "european_competition": null,
+   "colors": [
+    "#FEDD00",
+    "#000000",
+    "#FEDD00"
+   ],
+   "flag_css": "linear-gradient(90deg,#FEDD00 0.0% 33.3%,#000000 33.3% 66.7%,#FEDD00 66.7% 100.0%)",
+   "official_site": "https://www.columbuscrew.com",
+   "official_tickets": "https://www.columbuscrew.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/columbus.html",
+    "en": "https://ticketwhistle.com/en/tickets/columbus.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/columbus.html",
+    "it": "https://ticketwhistle.com/it/biglietti/columbus.html",
+    "fr": "https://ticketwhistle.com/fr/billets/columbus.html",
+    "de": "https://ticketwhistle.com/de/tickets/columbus.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "nashville",
+   "name": "Nashville SC",
+   "name_ar": "ناشفيل",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Chicago",
+   "city": "Nashville",
+   "stadium": "GEODIS Park",
+   "european_competition": null,
+   "colors": [
+    "#ECE83A",
+    "#1F1646",
+    "#ECE83A"
+   ],
+   "flag_css": "linear-gradient(90deg,#ECE83A 0.0% 33.3%,#1F1646 33.3% 66.7%,#ECE83A 66.7% 100.0%)",
+   "official_site": "https://www.nashvillesc.com",
+   "official_tickets": "https://www.nashvillesc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/nashville.html",
+    "en": "https://ticketwhistle.com/en/tickets/nashville.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/nashville.html",
+    "it": "https://ticketwhistle.com/it/biglietti/nashville.html",
+    "fr": "https://ticketwhistle.com/fr/billets/nashville.html",
+    "de": "https://ticketwhistle.com/de/tickets/nashville.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "orlando",
+   "name": "Orlando City SC",
+   "name_ar": "أورلاندو سيتي",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/New_York",
+   "city": "Orlando",
+   "stadium": "Inter&Co Stadium",
+   "european_competition": null,
+   "colors": [
+    "#633492",
+    "#FDE192",
+    "#633492"
+   ],
+   "flag_css": "linear-gradient(90deg,#633492 0.0% 33.3%,#FDE192 33.3% 66.7%,#633492 66.7% 100.0%)",
+   "official_site": "https://www.orlandocitysc.com",
+   "official_tickets": "https://www.orlandocitysc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/orlando.html",
+    "en": "https://ticketwhistle.com/en/tickets/orlando.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/orlando.html",
+    "it": "https://ticketwhistle.com/it/biglietti/orlando.html",
+    "fr": "https://ticketwhistle.com/fr/billets/orlando.html",
+    "de": "https://ticketwhistle.com/de/tickets/orlando.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "philadelphia",
+   "name": "Philadelphia Union",
+   "name_ar": "فيلادلفيا يونيون",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/New_York",
+   "city": "Chester",
+   "stadium": "Subaru Park",
+   "european_competition": null,
+   "colors": [
+    "#071B2C",
+    "#B19B69",
+    "#071B2C"
+   ],
+   "flag_css": "linear-gradient(90deg,#071B2C 0.0% 33.3%,#B19B69 33.3% 66.7%,#071B2C 66.7% 100.0%)",
+   "official_site": "https://www.philadelphiaunion.com",
+   "official_tickets": "https://www.philadelphiaunion.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/philadelphia.html",
+    "en": "https://ticketwhistle.com/en/tickets/philadelphia.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/philadelphia.html",
+    "it": "https://ticketwhistle.com/it/biglietti/philadelphia.html",
+    "fr": "https://ticketwhistle.com/fr/billets/philadelphia.html",
+    "de": "https://ticketwhistle.com/de/tickets/philadelphia.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "chicago-fire",
+   "name": "Chicago Fire FC",
+   "name_ar": "شيكاغو فاير",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Chicago",
+   "city": "Chicago",
+   "stadium": "Soldier Field",
+   "european_competition": null,
+   "colors": [
+    "#AF2626",
+    "#141F3A",
+    "#AF2626"
+   ],
+   "flag_css": "linear-gradient(90deg,#AF2626 0.0% 33.3%,#141F3A 33.3% 66.7%,#AF2626 66.7% 100.0%)",
+   "official_site": "https://www.chicagofirefc.com",
+   "official_tickets": "https://www.chicagofirefc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/chicago-fire.html",
+    "en": "https://ticketwhistle.com/en/tickets/chicago-fire.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/chicago-fire.html",
+    "it": "https://ticketwhistle.com/it/biglietti/chicago-fire.html",
+    "fr": "https://ticketwhistle.com/fr/billets/chicago-fire.html",
+    "de": "https://ticketwhistle.com/de/tickets/chicago-fire.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "dc-united",
+   "name": "D.C. United",
+   "name_ar": "دي سي يونايتد",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/New_York",
+   "city": "Washington, D.C.",
+   "stadium": "Audi Field",
+   "european_competition": null,
+   "colors": [
+    "#231F20",
+    "#EF3E42",
+    "#231F20"
+   ],
+   "flag_css": "linear-gradient(90deg,#231F20 0.0% 33.3%,#EF3E42 33.3% 66.7%,#231F20 66.7% 100.0%)",
+   "official_site": "https://www.dcunited.com",
+   "official_tickets": "https://www.dcunited.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/dc-united.html",
+    "en": "https://ticketwhistle.com/en/tickets/dc-united.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/dc-united.html",
+    "it": "https://ticketwhistle.com/it/biglietti/dc-united.html",
+    "fr": "https://ticketwhistle.com/fr/billets/dc-united.html",
+    "de": "https://ticketwhistle.com/de/tickets/dc-united.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "new-england",
+   "name": "New England Revolution",
+   "name_ar": "نيو إنغلاند ريفولوشن",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/New_York",
+   "city": "Foxborough",
+   "stadium": "Gillette Stadium",
+   "european_competition": null,
+   "colors": [
+    "#0A2240",
+    "#CE0E2D",
+    "#0A2240"
+   ],
+   "flag_css": "linear-gradient(90deg,#0A2240 0.0% 33.3%,#CE0E2D 33.3% 66.7%,#0A2240 66.7% 100.0%)",
+   "official_site": "https://www.revolutionsoccer.net",
+   "official_tickets": "https://www.revolutionsoccer.net/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/new-england.html",
+    "en": "https://ticketwhistle.com/en/tickets/new-england.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/new-england.html",
+    "it": "https://ticketwhistle.com/it/biglietti/new-england.html",
+    "fr": "https://ticketwhistle.com/fr/billets/new-england.html",
+    "de": "https://ticketwhistle.com/de/tickets/new-england.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "charlotte",
+   "name": "Charlotte FC",
+   "name_ar": "شارلوت إف سي",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/New_York",
+   "city": "Charlotte",
+   "stadium": "Bank of America Stadium",
+   "european_competition": null,
+   "colors": [
+    "#1A85C8",
+    "#000000",
+    "#1A85C8"
+   ],
+   "flag_css": "linear-gradient(90deg,#1A85C8 0.0% 33.3%,#000000 33.3% 66.7%,#1A85C8 66.7% 100.0%)",
+   "official_site": "https://www.charlottefc.com",
+   "official_tickets": "https://www.charlottefc.com/tickets/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/charlotte.html",
+    "en": "https://ticketwhistle.com/en/tickets/charlotte.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/charlotte.html",
+    "it": "https://ticketwhistle.com/it/biglietti/charlotte.html",
+    "fr": "https://ticketwhistle.com/fr/billets/charlotte.html",
+    "de": "https://ticketwhistle.com/de/tickets/charlotte.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "st-louis",
+   "name": "St. Louis City SC",
+   "name_ar": "سانت لويس سيتي",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Chicago",
+   "city": "St. Louis",
+   "stadium": "Energizer Park",
+   "european_competition": null,
+   "colors": [
+    "#DD004A",
+    "#0A1E2C",
+    "#DD004A"
+   ],
+   "flag_css": "linear-gradient(90deg,#DD004A 0.0% 33.3%,#0A1E2C 33.3% 66.7%,#DD004A 66.7% 100.0%)",
+   "official_site": "https://www.stlcitysc.com",
+   "official_tickets": "https://www.stlcitysc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/st-louis.html",
+    "en": "https://ticketwhistle.com/en/tickets/st-louis.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/st-louis.html",
+    "it": "https://ticketwhistle.com/it/biglietti/st-louis.html",
+    "fr": "https://ticketwhistle.com/fr/billets/st-louis.html",
+    "de": "https://ticketwhistle.com/de/tickets/st-louis.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "sporting-kc",
+   "name": "Sporting Kansas City",
+   "name_ar": "سبورتنغ كانساس سيتي",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Chicago",
+   "city": "Kansas City",
+   "stadium": "Children's Mercy Park",
+   "european_competition": null,
+   "colors": [
+    "#91B0D5",
+    "#002F65",
+    "#91B0D5"
+   ],
+   "flag_css": "linear-gradient(90deg,#91B0D5 0.0% 33.3%,#002F65 33.3% 66.7%,#91B0D5 66.7% 100.0%)",
+   "official_site": "https://www.sportingkc.com",
+   "official_tickets": "https://www.sportingkc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/sporting-kc.html",
+    "en": "https://ticketwhistle.com/en/tickets/sporting-kc.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/sporting-kc.html",
+    "it": "https://ticketwhistle.com/it/biglietti/sporting-kc.html",
+    "fr": "https://ticketwhistle.com/fr/billets/sporting-kc.html",
+    "de": "https://ticketwhistle.com/de/tickets/sporting-kc.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "minnesota",
+   "name": "Minnesota United FC",
+   "name_ar": "مينيسوتا يونايتد",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Chicago",
+   "city": "Saint Paul",
+   "stadium": "Allianz Field",
+   "european_competition": null,
+   "colors": [
+    "#8CD2F4",
+    "#231F20",
+    "#8CD2F4"
+   ],
+   "flag_css": "linear-gradient(90deg,#8CD2F4 0.0% 33.3%,#231F20 33.3% 66.7%,#8CD2F4 66.7% 100.0%)",
+   "official_site": "https://www.mnufc.com",
+   "official_tickets": "https://www.mnufc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/minnesota.html",
+    "en": "https://ticketwhistle.com/en/tickets/minnesota.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/minnesota.html",
+    "it": "https://ticketwhistle.com/it/biglietti/minnesota.html",
+    "fr": "https://ticketwhistle.com/fr/billets/minnesota.html",
+    "de": "https://ticketwhistle.com/de/tickets/minnesota.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "colorado",
+   "name": "Colorado Rapids",
+   "name_ar": "كولورادو رابيدز",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Denver",
+   "city": "Commerce City",
+   "stadium": "Dick's Sporting Goods Park",
+   "european_competition": null,
+   "colors": [
+    "#960A2C",
+    "#9CC2EA",
+    "#960A2C"
+   ],
+   "flag_css": "linear-gradient(90deg,#960A2C 0.0% 33.3%,#9CC2EA 33.3% 66.7%,#960A2C 66.7% 100.0%)",
+   "official_site": "https://www.coloradorapids.com",
+   "official_tickets": "https://www.coloradorapids.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/colorado.html",
+    "en": "https://ticketwhistle.com/en/tickets/colorado.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/colorado.html",
+    "it": "https://ticketwhistle.com/it/biglietti/colorado.html",
+    "fr": "https://ticketwhistle.com/fr/billets/colorado.html",
+    "de": "https://ticketwhistle.com/de/tickets/colorado.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "real-salt-lake",
+   "name": "Real Salt Lake",
+   "name_ar": "ريال سولت ليك",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Denver",
+   "city": "Sandy",
+   "stadium": "America First Field",
+   "european_competition": null,
+   "colors": [
+    "#B30838",
+    "#013A81",
+    "#B30838"
+   ],
+   "flag_css": "linear-gradient(90deg,#B30838 0.0% 33.3%,#013A81 33.3% 66.7%,#B30838 66.7% 100.0%)",
+   "official_site": "https://www.rsl.com",
+   "official_tickets": "https://www.rsl.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/real-salt-lake.html",
+    "en": "https://ticketwhistle.com/en/tickets/real-salt-lake.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/real-salt-lake.html",
+    "it": "https://ticketwhistle.com/it/biglietti/real-salt-lake.html",
+    "fr": "https://ticketwhistle.com/fr/billets/real-salt-lake.html",
+    "de": "https://ticketwhistle.com/de/tickets/real-salt-lake.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "houston",
+   "name": "Houston Dynamo FC",
+   "name_ar": "هيوستن دينامو",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Chicago",
+   "city": "Houston",
+   "stadium": "Shell Energy Stadium",
+   "european_competition": null,
+   "colors": [
+    "#FF6B00",
+    "#101820",
+    "#FF6B00"
+   ],
+   "flag_css": "linear-gradient(90deg,#FF6B00 0.0% 33.3%,#101820 33.3% 66.7%,#FF6B00 66.7% 100.0%)",
+   "official_site": "https://www.houstondynamofc.com",
+   "official_tickets": "https://www.houstondynamofc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/houston.html",
+    "en": "https://ticketwhistle.com/en/tickets/houston.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/houston.html",
+    "it": "https://ticketwhistle.com/it/biglietti/houston.html",
+    "fr": "https://ticketwhistle.com/fr/billets/houston.html",
+    "de": "https://ticketwhistle.com/de/tickets/houston.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "fc-dallas",
+   "name": "FC Dallas",
+   "name_ar": "إف سي دالاس",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Chicago",
+   "city": "Frisco",
+   "stadium": "Toyota Stadium",
+   "european_competition": null,
+   "colors": [
+    "#BF0D3E",
+    "#FFFFFF",
+    "#002D72"
+   ],
+   "flag_css": "linear-gradient(90deg,#BF0D3E 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#BF0D3E 66.7% 100.0%)",
+   "official_site": "https://www.fcdallas.com",
+   "official_tickets": "https://www.fcdallas.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/fc-dallas.html",
+    "en": "https://ticketwhistle.com/en/tickets/fc-dallas.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/fc-dallas.html",
+    "it": "https://ticketwhistle.com/it/biglietti/fc-dallas.html",
+    "fr": "https://ticketwhistle.com/fr/billets/fc-dallas.html",
+    "de": "https://ticketwhistle.com/de/tickets/fc-dallas.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "san-jose",
+   "name": "San Jose Earthquakes",
+   "name_ar": "سان خوسيه إيرثكويكس",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Los_Angeles",
+   "city": "San Jose",
+   "stadium": "PayPal Park",
+   "european_competition": null,
+   "colors": [
+    "#0067B1",
+    "#000000",
+    "#0067B1"
+   ],
+   "flag_css": "linear-gradient(90deg,#0067B1 0.0% 33.3%,#000000 33.3% 66.7%,#0067B1 66.7% 100.0%)",
+   "official_site": "https://www.sjearthquakes.com",
+   "official_tickets": "https://www.sjearthquakes.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/san-jose.html",
+    "en": "https://ticketwhistle.com/en/tickets/san-jose.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/san-jose.html",
+    "it": "https://ticketwhistle.com/it/biglietti/san-jose.html",
+    "fr": "https://ticketwhistle.com/fr/billets/san-jose.html",
+    "de": "https://ticketwhistle.com/de/tickets/san-jose.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 2,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 1,
+     "general_sale": 1
+    }
+   }
+  },
+  {
+   "id": "vancouver",
+   "name": "Vancouver Whitecaps FC",
+   "name_ar": "فانكوفر وايتكابس",
+   "league": "MLS",
+   "country": "CAN",
+   "timezone": "America/Vancouver",
+   "city": "Vancouver",
+   "stadium": "BC Place",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#12284C",
+    "#9DC2EA"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#12284C 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.whitecapsfc.com",
+   "official_tickets": "https://www.whitecapsfc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/vancouver.html",
+    "en": "https://ticketwhistle.com/en/tickets/vancouver.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/vancouver.html",
+    "it": "https://ticketwhistle.com/it/biglietti/vancouver.html",
+    "fr": "https://ticketwhistle.com/fr/billets/vancouver.html",
+    "de": "https://ticketwhistle.com/de/tickets/vancouver.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "san-diego",
+   "name": "San Diego FC",
+   "name_ar": "سان دييغو إف سي",
+   "league": "MLS",
+   "country": "USA",
+   "timezone": "America/Los_Angeles",
+   "city": "San Diego",
+   "stadium": "Snapdragon Stadium",
+   "european_competition": null,
+   "colors": [
+    "#041E42",
+    "#A7D0EB",
+    "#041E42"
+   ],
+   "flag_css": "linear-gradient(90deg,#041E42 0.0% 33.3%,#A7D0EB 33.3% 66.7%,#041E42 66.7% 100.0%)",
+   "official_site": "https://www.sandiegofc.com",
+   "official_tickets": "https://www.sandiegofc.com/tickets/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/san-diego.html",
+    "en": "https://ticketwhistle.com/en/tickets/san-diego.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/san-diego.html",
+    "it": "https://ticketwhistle.com/it/biglietti/san-diego.html",
+    "fr": "https://ticketwhistle.com/fr/billets/san-diego.html",
+    "de": "https://ticketwhistle.com/de/tickets/san-diego.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "flamengo",
+   "name": "Flamengo",
+   "name_ar": "فلامنغو",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Rio de Janeiro",
+   "stadium": "Maracanã",
+   "european_competition": null,
+   "colors": [
+    "#C3281E",
+    "#000000",
+    "#C3281E"
+   ],
+   "flag_css": "linear-gradient(90deg,#C3281E 0.0% 33.3%,#000000 33.3% 66.7%,#C3281E 66.7% 100.0%)",
+   "official_site": "https://www.flamengo.com.br",
+   "official_tickets": "https://www.flamengo.com.br",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/flamengo.html",
+    "en": "https://ticketwhistle.com/en/tickets/flamengo.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/flamengo.html",
+    "it": "https://ticketwhistle.com/it/biglietti/flamengo.html",
+    "fr": "https://ticketwhistle.com/fr/billets/flamengo.html",
+    "de": "https://ticketwhistle.com/de/tickets/flamengo.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 23,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 21,
+     "general_sale": 2
+    },
+    "mostly": "members",
+    "usual_weekday": 1
+   }
+  },
+  {
+   "id": "palmeiras",
+   "name": "Palmeiras",
+   "name_ar": "بالميراس",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "São Paulo",
+   "stadium": "Nubank Parque",
+   "european_competition": null,
+   "colors": [
+    "#006437",
+    "#FFFFFF",
+    "#006437"
+   ],
+   "flag_css": "linear-gradient(90deg,#006437 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#006437 66.7% 100.0%)",
+   "official_site": "https://palmeiras.com.br",
+   "official_tickets": "https://palmeiras.com.br",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/palmeiras.html",
+    "en": "https://ticketwhistle.com/en/tickets/palmeiras.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/palmeiras.html",
+    "it": "https://ticketwhistle.com/it/biglietti/palmeiras.html",
+    "fr": "https://ticketwhistle.com/fr/billets/palmeiras.html",
+    "de": "https://ticketwhistle.com/de/tickets/palmeiras.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "corinthians",
+   "name": "Corinthians",
+   "name_ar": "كورينثيانز",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "São Paulo",
+   "stadium": "Neo Química Arena",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#000000",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#000000 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.corinthians.com.br",
+   "official_tickets": "https://www.corinthians.com.br",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/corinthians.html",
+    "en": "https://ticketwhistle.com/en/tickets/corinthians.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/corinthians.html",
+    "it": "https://ticketwhistle.com/it/biglietti/corinthians.html",
+    "fr": "https://ticketwhistle.com/fr/billets/corinthians.html",
+    "de": "https://ticketwhistle.com/de/tickets/corinthians.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "sao-paulo",
+   "name": "São Paulo",
+   "name_ar": "ساو باولو",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "São Paulo",
+   "stadium": "Morumbis",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#E30613",
+    "#000000"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#E30613 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.saopaulofc.net",
+   "official_tickets": "https://www.saopaulofc.net",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/sao-paulo.html",
+    "en": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/sao-paulo.html",
+    "it": "https://ticketwhistle.com/it/biglietti/sao-paulo.html",
+    "fr": "https://ticketwhistle.com/fr/billets/sao-paulo.html",
+    "de": "https://ticketwhistle.com/de/tickets/sao-paulo.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 20,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 13,
+     "on_sale": 5,
+     "general_sale": 2
+    },
+    "usual_time": "10:00",
+    "usual_time_count": 17,
+    "timed": 20
+   }
+  },
+  {
+   "id": "santos",
+   "name": "Santos",
+   "name_ar": "سانتوس",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Santos",
+   "stadium": "Vila Belmiro",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#000000",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#000000 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.santosfc.com.br",
+   "official_tickets": "https://www.santosfc.com.br",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/santos.html",
+    "en": "https://ticketwhistle.com/en/tickets/santos.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/santos.html",
+    "it": "https://ticketwhistle.com/it/biglietti/santos.html",
+    "fr": "https://ticketwhistle.com/fr/billets/santos.html",
+    "de": "https://ticketwhistle.com/de/tickets/santos.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "vasco",
+   "name": "Vasco da Gama",
+   "name_ar": "فاسكو دا غاما",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Rio de Janeiro",
+   "stadium": "São Januário",
+   "european_competition": null,
+   "colors": [
+    "#000000",
+    "#FFFFFF",
+    "#000000"
+   ],
+   "flag_css": "linear-gradient(90deg,#000000 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#000000 66.7% 100.0%)",
+   "official_site": "https://vasco.com.br",
+   "official_tickets": "https://vasco.com.br",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/vasco.html",
+    "en": "https://ticketwhistle.com/en/tickets/vasco.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/vasco.html",
+    "it": "https://ticketwhistle.com/it/biglietti/vasco.html",
+    "fr": "https://ticketwhistle.com/fr/billets/vasco.html",
+    "de": "https://ticketwhistle.com/de/tickets/vasco.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "fluminense",
+   "name": "Fluminense",
+   "name_ar": "فلومينينسي",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Rio de Janeiro",
+   "stadium": "Maracanã",
+   "european_competition": null,
+   "colors": [
+    "#7A0026",
+    "#FFFFFF",
+    "#00613C"
+   ],
+   "flag_css": "linear-gradient(90deg,#7A0026 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#7A0026 66.7% 100.0%)",
+   "official_site": "https://www.fluminense.com.br",
+   "official_tickets": "https://www.fluminense.com.br",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/fluminense.html",
+    "en": "https://ticketwhistle.com/en/tickets/fluminense.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/fluminense.html",
+    "it": "https://ticketwhistle.com/it/biglietti/fluminense.html",
+    "fr": "https://ticketwhistle.com/fr/billets/fluminense.html",
+    "de": "https://ticketwhistle.com/de/tickets/fluminense.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 9,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 7,
+     "on_sale": 1,
+     "general_sale": 1
+    },
+    "mostly": "members",
+    "usual_time": "10:00",
+    "usual_time_count": 4,
+    "timed": 8
+   }
+  },
+  {
+   "id": "botafogo",
+   "name": "Botafogo",
+   "name_ar": "بوتافوغو",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Rio de Janeiro",
+   "stadium": "Nilton Santos",
+   "european_competition": null,
+   "colors": [
+    "#000000",
+    "#FFFFFF",
+    "#000000"
+   ],
+   "flag_css": "linear-gradient(90deg,#000000 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#000000 66.7% 100.0%)",
+   "official_site": "https://www.botafogo.com.br",
+   "official_tickets": "https://www.botafogo.com.br",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/botafogo.html",
+    "en": "https://ticketwhistle.com/en/tickets/botafogo.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/botafogo.html",
+    "it": "https://ticketwhistle.com/it/biglietti/botafogo.html",
+    "fr": "https://ticketwhistle.com/fr/billets/botafogo.html",
+    "de": "https://ticketwhistle.com/de/tickets/botafogo.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "gremio",
+   "name": "Grêmio",
+   "name_ar": "غريميو",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Porto Alegre",
+   "stadium": "Arena do Grêmio",
+   "european_competition": null,
+   "colors": [
+    "#0D80BF",
+    "#000000",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#0D80BF 0.0% 33.3%,#000000 33.3% 66.7%,#0D80BF 66.7% 100.0%)",
+   "official_site": "https://gremio.net",
+   "official_tickets": "https://gremio.net",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/gremio.html",
+    "en": "https://ticketwhistle.com/en/tickets/gremio.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/gremio.html",
+    "it": "https://ticketwhistle.com/it/biglietti/gremio.html",
+    "fr": "https://ticketwhistle.com/fr/billets/gremio.html",
+    "de": "https://ticketwhistle.com/de/tickets/gremio.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "internacional",
+   "name": "Internacional",
+   "name_ar": "إنترناسيونال",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Porto Alegre",
+   "stadium": "Beira-Rio",
+   "european_competition": null,
+   "colors": [
+    "#E5050F",
+    "#FFFFFF",
+    "#E5050F"
+   ],
+   "flag_css": "linear-gradient(90deg,#E5050F 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#E5050F 66.7% 100.0%)",
+   "official_site": "https://internacional.com.br",
+   "official_tickets": "https://internacional.com.br",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/internacional.html",
+    "en": "https://ticketwhistle.com/en/tickets/internacional.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/internacional.html",
+    "it": "https://ticketwhistle.com/it/biglietti/internacional.html",
+    "fr": "https://ticketwhistle.com/fr/billets/internacional.html",
+    "de": "https://ticketwhistle.com/de/tickets/internacional.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 3,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 2,
+     "general_sale": 1
+    }
+   }
+  },
+  {
+   "id": "atletico-mg",
+   "name": "Atlético Mineiro",
+   "name_ar": "أتلتيكو مينيرو",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Belo Horizonte",
+   "stadium": "Arena MRV",
+   "european_competition": null,
+   "colors": [
+    "#000000",
+    "#FFFFFF",
+    "#000000"
+   ],
+   "flag_css": "linear-gradient(90deg,#000000 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#000000 66.7% 100.0%)",
+   "official_site": "https://atletico.com.br",
+   "official_tickets": "https://atletico.com.br",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/atletico-mg.html",
+    "en": "https://ticketwhistle.com/en/tickets/atletico-mg.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/atletico-mg.html",
+    "it": "https://ticketwhistle.com/it/biglietti/atletico-mg.html",
+    "fr": "https://ticketwhistle.com/fr/billets/atletico-mg.html",
+    "de": "https://ticketwhistle.com/de/tickets/atletico-mg.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 4,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 2,
+     "on_sale": 1,
+     "general_sale": 1
+    },
+    "mostly": "general"
+   }
+  },
+  {
+   "id": "cruzeiro",
+   "name": "Cruzeiro",
+   "name_ar": "كروزيرو",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Belo Horizonte",
+   "stadium": "Mineirão",
+   "european_competition": null,
+   "colors": [
+    "#0A3A85",
+    "#FFFFFF",
+    "#0A3A85"
+   ],
+   "flag_css": "linear-gradient(90deg,#0A3A85 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#0A3A85 66.7% 100.0%)",
+   "official_site": "https://www.cruzeiro.com.br",
+   "official_tickets": "https://www.cruzeiro.com.br",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/cruzeiro.html",
+    "en": "https://ticketwhistle.com/en/tickets/cruzeiro.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/cruzeiro.html",
+    "it": "https://ticketwhistle.com/it/biglietti/cruzeiro.html",
+    "fr": "https://ticketwhistle.com/fr/billets/cruzeiro.html",
+    "de": "https://ticketwhistle.com/de/tickets/cruzeiro.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "bahia",
+   "name": "Bahia",
+   "name_ar": "باهيا",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Salvador",
+   "stadium": "Arena Fonte Nova",
+   "european_competition": null,
+   "colors": [
+    "#006CB5",
+    "#E30613",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#006CB5 0.0% 33.3%,#E30613 33.3% 66.7%,#006CB5 66.7% 100.0%)",
+   "official_site": "https://www.esporteclubebahia.com.br",
+   "official_tickets": "https://www.esporteclubebahia.com.br",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/bahia.html",
+    "en": "https://ticketwhistle.com/en/tickets/bahia.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/bahia.html",
+    "it": "https://ticketwhistle.com/it/biglietti/bahia.html",
+    "fr": "https://ticketwhistle.com/fr/billets/bahia.html",
+    "de": "https://ticketwhistle.com/de/tickets/bahia.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "athletico",
+   "name": "Athletico Paranaense",
+   "name_ar": "أتلتيكو بارانانسي",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Curitiba",
+   "stadium": "Arena da Baixada",
+   "european_competition": null,
+   "colors": [
+    "#CE181E",
+    "#000000",
+    "#CE181E"
+   ],
+   "flag_css": "linear-gradient(90deg,#CE181E 0.0% 33.3%,#000000 33.3% 66.7%,#CE181E 66.7% 100.0%)",
+   "official_site": "https://www.athletico.com.br",
+   "official_tickets": "https://www.athletico.com.br",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/athletico.html",
+    "en": "https://ticketwhistle.com/en/tickets/athletico.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/athletico.html",
+    "it": "https://ticketwhistle.com/it/biglietti/athletico.html",
+    "fr": "https://ticketwhistle.com/fr/billets/athletico.html",
+    "de": "https://ticketwhistle.com/de/tickets/athletico.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "coritiba",
+   "name": "Coritiba",
+   "name_ar": "كوريتيبا",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Curitiba",
+   "stadium": "Couto Pereira",
+   "european_competition": null,
+   "colors": [
+    "#00544D",
+    "#FFFFFF",
+    "#00544D"
+   ],
+   "flag_css": "linear-gradient(90deg,#00544D 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#00544D 66.7% 100.0%)",
+   "official_site": "https://coritiba.com.br",
+   "official_tickets": "https://coritiba.com.br",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/coritiba.html",
+    "en": "https://ticketwhistle.com/en/tickets/coritiba.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/coritiba.html",
+    "it": "https://ticketwhistle.com/it/biglietti/coritiba.html",
+    "fr": "https://ticketwhistle.com/fr/billets/coritiba.html",
+    "de": "https://ticketwhistle.com/de/tickets/coritiba.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "vitoria",
+   "name": "Vitória",
+   "name_ar": "فيتوريا",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Salvador",
+   "stadium": "Barradão",
+   "european_competition": null,
+   "colors": [
+    "#E30613",
+    "#000000",
+    "#E30613"
+   ],
+   "flag_css": "linear-gradient(90deg,#E30613 0.0% 33.3%,#000000 33.3% 66.7%,#E30613 66.7% 100.0%)",
+   "official_site": "https://ecvitoria.com.br",
+   "official_tickets": "https://ecvitoria.com.br",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/vitoria.html",
+    "en": "https://ticketwhistle.com/en/tickets/vitoria.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/vitoria.html",
+    "it": "https://ticketwhistle.com/it/biglietti/vitoria.html",
+    "fr": "https://ticketwhistle.com/fr/billets/vitoria.html",
+    "de": "https://ticketwhistle.com/de/tickets/vitoria.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "bragantino",
+   "name": "Red Bull Bragantino",
+   "name_ar": "ريد بول براغانتينو",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Bragança Paulista",
+   "stadium": "Cícero de Souza Marques",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#D2002E",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#D2002E 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+   "official_site": "https://www.redbullbragantino.com/br-pt",
+   "official_tickets": "https://www.redbullbragantino.com/br-pt",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/bragantino.html",
+    "en": "https://ticketwhistle.com/en/tickets/bragantino.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/bragantino.html",
+    "it": "https://ticketwhistle.com/it/biglietti/bragantino.html",
+    "fr": "https://ticketwhistle.com/fr/billets/bragantino.html",
+    "de": "https://ticketwhistle.com/de/tickets/bragantino.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 1,
+    "since": "2026-11",
+    "phases": {
+     "general_sale": 1
+    }
+   }
+  },
+  {
+   "id": "mirassol",
+   "name": "Mirassol",
+   "name_ar": "ميراسول",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Mirassol",
+   "stadium": "Maião",
+   "european_competition": null,
+   "colors": [
+    "#FFD100",
+    "#00843D",
+    "#FFD100"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFD100 0.0% 33.3%,#00843D 33.3% 66.7%,#FFD100 66.7% 100.0%)",
+   "official_site": "https://mirassolfc.com.br",
+   "official_tickets": "https://mirassolfc.com.br",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/mirassol.html",
+    "en": "https://ticketwhistle.com/en/tickets/mirassol.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/mirassol.html",
+    "it": "https://ticketwhistle.com/it/biglietti/mirassol.html",
+    "fr": "https://ticketwhistle.com/fr/billets/mirassol.html",
+    "de": "https://ticketwhistle.com/de/tickets/mirassol.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "chapecoense",
+   "name": "Chapecoense",
+   "name_ar": "شابيكوينسي",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Chapecó",
+   "stadium": "Arena Condá",
+   "european_competition": null,
+   "colors": [
+    "#00843D",
+    "#FFFFFF",
+    "#00843D"
+   ],
+   "flag_css": "linear-gradient(90deg,#00843D 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#00843D 66.7% 100.0%)",
+   "official_site": "https://chapecoense.com",
+   "official_tickets": "https://chapecoense.com",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/chapecoense.html",
+    "en": "https://ticketwhistle.com/en/tickets/chapecoense.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/chapecoense.html",
+    "it": "https://ticketwhistle.com/it/biglietti/chapecoense.html",
+    "fr": "https://ticketwhistle.com/fr/billets/chapecoense.html",
+    "de": "https://ticketwhistle.com/de/tickets/chapecoense.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "remo",
+   "name": "Remo",
+   "name_ar": "ريمو",
+   "league": "Brasileirão",
+   "country": "BRA",
+   "timezone": "America/Sao_Paulo",
+   "city": "Belém",
+   "stadium": "Mangueirão",
+   "european_competition": null,
+   "colors": [
+    "#00205B",
+    "#FFFFFF",
+    "#00205B"
+   ],
+   "flag_css": "linear-gradient(90deg,#00205B 0.0% 33.3%,#FFFFFF 33.3% 66.7%,#00205B 66.7% 100.0%)",
+   "official_site": "https://clubedoremo.com.br",
+   "official_tickets": "https://clubedoremo.com.br",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/remo.html",
+    "en": "https://ticketwhistle.com/en/tickets/remo.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/remo.html",
+    "it": "https://ticketwhistle.com/it/biglietti/remo.html",
+    "fr": "https://ticketwhistle.com/fr/billets/remo.html",
+    "de": "https://ticketwhistle.com/de/tickets/remo.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
    }
   }
  ],

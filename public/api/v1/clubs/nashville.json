@@ -1,0 +1,41 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-28T11:09:16.058050+00:00",
+ "last_scan": "2026-11-28T10:50:56.748258+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "nashville",
+  "name": "Nashville SC",
+  "name_ar": "ناشفيل",
+  "league": "MLS",
+  "country": "USA",
+  "timezone": "America/Chicago",
+  "city": "Nashville",
+  "stadium": "GEODIS Park",
+  "european_competition": null,
+  "colors": [
+   "#ECE83A",
+   "#1F1646",
+   "#ECE83A"
+  ],
+  "flag_css": "linear-gradient(90deg,#ECE83A 0.0% 33.3%,#1F1646 33.3% 66.7%,#ECE83A 66.7% 100.0%)",
+  "official_site": "https://www.nashvillesc.com",
+  "official_tickets": "https://www.nashvillesc.com/tickets/",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/nashville.html",
+   "en": "https://ticketwhistle.com/en/tickets/nashville.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/nashville.html",
+   "it": "https://ticketwhistle.com/it/biglietti/nashville.html",
+   "fr": "https://ticketwhistle.com/fr/billets/nashville.html",
+   "de": "https://ticketwhistle.com/de/tickets/nashville.html"
+  },
+  "official_alternatives": [],
+  "sale_patterns": {
+   "sales": 0
+  }
+ },
+ "windows": []
+}

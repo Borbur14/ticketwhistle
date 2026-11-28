@@ -1,0 +1,41 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-28T11:09:16.058050+00:00",
+ "last_scan": "2026-11-28T10:50:56.748258+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "vitoria",
+  "name": "Vitória",
+  "name_ar": "فيتوريا",
+  "league": "Brasileirão",
+  "country": "BRA",
+  "timezone": "America/Sao_Paulo",
+  "city": "Salvador",
+  "stadium": "Barradão",
+  "european_competition": null,
+  "colors": [
+   "#E30613",
+   "#000000",
+   "#E30613"
+  ],
+  "flag_css": "linear-gradient(90deg,#E30613 0.0% 33.3%,#000000 33.3% 66.7%,#E30613 66.7% 100.0%)",
+  "official_site": "https://ecvitoria.com.br",
+  "official_tickets": "https://ecvitoria.com.br",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/vitoria.html",
+   "en": "https://ticketwhistle.com/en/tickets/vitoria.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/vitoria.html",
+   "it": "https://ticketwhistle.com/it/biglietti/vitoria.html",
+   "fr": "https://ticketwhistle.com/fr/billets/vitoria.html",
+   "de": "https://ticketwhistle.com/de/tickets/vitoria.html"
+  },
+  "official_alternatives": [],
+  "sale_patterns": {
+   "sales": 0
+  }
+ },
+ "windows": []
+}

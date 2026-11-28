@@ -1,0 +1,41 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-28T11:09:16.058050+00:00",
+ "last_scan": "2026-11-28T10:50:56.748258+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "colorado",
+  "name": "Colorado Rapids",
+  "name_ar": "كولورادو رابيدز",
+  "league": "MLS",
+  "country": "USA",
+  "timezone": "America/Denver",
+  "city": "Commerce City",
+  "stadium": "Dick's Sporting Goods Park",
+  "european_competition": null,
+  "colors": [
+   "#960A2C",
+   "#9CC2EA",
+   "#960A2C"
+  ],
+  "flag_css": "linear-gradient(90deg,#960A2C 0.0% 33.3%,#9CC2EA 33.3% 66.7%,#960A2C 66.7% 100.0%)",
+  "official_site": "https://www.coloradorapids.com",
+  "official_tickets": "https://www.coloradorapids.com/tickets/",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/colorado.html",
+   "en": "https://ticketwhistle.com/en/tickets/colorado.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/colorado.html",
+   "it": "https://ticketwhistle.com/it/biglietti/colorado.html",
+   "fr": "https://ticketwhistle.com/fr/billets/colorado.html",
+   "de": "https://ticketwhistle.com/de/tickets/colorado.html"
+  },
+  "official_alternatives": [],
+  "sale_patterns": {
+   "sales": 0
+  }
+ },
+ "windows": []
+}

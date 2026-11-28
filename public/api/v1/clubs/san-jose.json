@@ -1,0 +1,109 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-28T11:09:16.058050+00:00",
+ "last_scan": "2026-11-28T10:50:56.748258+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "san-jose",
+  "name": "San Jose Earthquakes",
+  "name_ar": "سان خوسيه إيرثكويكس",
+  "league": "MLS",
+  "country": "USA",
+  "timezone": "America/Los_Angeles",
+  "city": "San Jose",
+  "stadium": "PayPal Park",
+  "european_competition": null,
+  "colors": [
+   "#0067B1",
+   "#000000",
+   "#0067B1"
+  ],
+  "flag_css": "linear-gradient(90deg,#0067B1 0.0% 33.3%,#000000 33.3% 66.7%,#0067B1 66.7% 100.0%)",
+  "official_site": "https://www.sjearthquakes.com",
+  "official_tickets": "https://www.sjearthquakes.com/tickets/",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/san-jose.html",
+   "en": "https://ticketwhistle.com/en/tickets/san-jose.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/san-jose.html",
+   "it": "https://ticketwhistle.com/it/biglietti/san-jose.html",
+   "fr": "https://ticketwhistle.com/fr/billets/san-jose.html",
+   "de": "https://ticketwhistle.com/de/tickets/san-jose.html"
+  },
+  "official_alternatives": [],
+  "sale_patterns": {
+   "sales": 2,
+   "since": "2026-11",
+   "phases": {
+    "member_sale": 1,
+    "general_sale": 1
+   }
+  }
+ },
+ "windows": [
+  {
+   "id": "af7642ba818508ae",
+   "club_id": "san-jose",
+   "club": "San Jose Earthquakes",
+   "title": "San Jose Earthquakes Announce 2026 Audi MLS Cup Playoff Tickets On Sale Starting Thursday, Nov. 5",
+   "phase": "general_sale",
+   "phase_label_en": "General sale",
+   "opens_at": "2026-11-05T10:00:00-08:00",
+   "announced_at": null,
+   "has_time": true,
+   "timezone": "America/Los_Angeles",
+   "league": "MLS",
+   "competition": null,
+   "status": "past",
+   "source_url": "https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-tickets-on-sale-starting-thursday-nov-5",
+   "source_kind": "article",
+   "two_sources": false,
+   "first_seen": "2026-11-28T10:50:56.748258+00:00",
+   "last_checked": "2026-11-28T10:50:56.748258+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/san-jose.html",
+   "official_tickets": "https://www.sjearthquakes.com/tickets/",
+   "slug": "san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-af7642ba",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-af7642ba.html",
+    "en": "https://ticketwhistle.com/en/sales/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-af7642ba.html",
+    "ar": "https://ticketwhistle.com/ar/sales/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-af7642ba.html",
+    "it": "https://ticketwhistle.com/it/vendite/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-af7642ba.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-af7642ba.html",
+    "de": "https://ticketwhistle.com/de/verkauf/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-af7642ba.html"
+   }
+  },
+  {
+   "id": "8b1b3414a5253665",
+   "club_id": "san-jose",
+   "club": "San Jose Earthquakes",
+   "title": "San Jose Earthquakes Announce 2026 Audi MLS Cup Playoff Tickets On Sale Starting Thursday, Nov. 5",
+   "phase": "member_sale",
+   "phase_label_en": "Members' sale",
+   "opens_at": "2026-11-03T10:00:00-08:00",
+   "announced_at": null,
+   "has_time": true,
+   "timezone": "America/Los_Angeles",
+   "league": "MLS",
+   "competition": null,
+   "status": "past",
+   "source_url": "https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-tickets-on-sale-starting-thursday-nov-5",
+   "source_kind": "article",
+   "two_sources": false,
+   "first_seen": "2026-11-28T10:50:56.748258+00:00",
+   "last_checked": "2026-11-28T10:50:56.748258+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/san-jose.html",
+   "official_tickets": "https://www.sjearthquakes.com/tickets/",
+   "slug": "san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-8b1b3414",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-8b1b3414.html",
+    "en": "https://ticketwhistle.com/en/sales/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-8b1b3414.html",
+    "ar": "https://ticketwhistle.com/ar/sales/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-8b1b3414.html",
+    "it": "https://ticketwhistle.com/it/vendite/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-8b1b3414.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-8b1b3414.html",
+    "de": "https://ticketwhistle.com/de/verkauf/san-jose-earthquakes-announce-2026-audi-mls-cup-playoff-8b1b3414.html"
+   }
+  }
+ ]
+}

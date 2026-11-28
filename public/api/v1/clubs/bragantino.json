@@ -1,0 +1,77 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-28T11:09:16.058050+00:00",
+ "last_scan": "2026-11-28T10:50:56.748258+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "bragantino",
+  "name": "Red Bull Bragantino",
+  "name_ar": "ريد بول براغانتينو",
+  "league": "Brasileirão",
+  "country": "BRA",
+  "timezone": "America/Sao_Paulo",
+  "city": "Bragança Paulista",
+  "stadium": "Cícero de Souza Marques",
+  "european_competition": null,
+  "colors": [
+   "#FFFFFF",
+   "#D2002E",
+   "#FFFFFF"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFFFFF 0.0% 33.3%,#D2002E 33.3% 66.7%,#FFFFFF 66.7% 100.0%)",
+  "official_site": "https://www.redbullbragantino.com/br-pt",
+  "official_tickets": "https://www.redbullbragantino.com/br-pt",
+  "route": "direct",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/bragantino.html",
+   "en": "https://ticketwhistle.com/en/tickets/bragantino.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/bragantino.html",
+   "it": "https://ticketwhistle.com/it/biglietti/bragantino.html",
+   "fr": "https://ticketwhistle.com/fr/billets/bragantino.html",
+   "de": "https://ticketwhistle.com/de/tickets/bragantino.html"
+  },
+  "official_alternatives": [],
+  "sale_patterns": {
+   "sales": 1,
+   "since": "2026-11",
+   "phases": {
+    "general_sale": 1
+   }
+  }
+ },
+ "windows": [
+  {
+   "id": "78ae5390478613a5",
+   "club_id": "bragantino",
+   "club": "Red Bull Bragantino",
+   "title": "Check-in e ingressos – 34ª rodada do Brasileirão 2026",
+   "phase": "general_sale",
+   "phase_label_en": "General sale",
+   "opens_at": "2026-11-02T10:00:00-03:00",
+   "announced_at": null,
+   "has_time": true,
+   "timezone": "America/Sao_Paulo",
+   "league": "Brasileirão",
+   "competition": null,
+   "status": "past",
+   "source_url": "https://www.redbullbragantino.com/br-pt/noticias/check-in-e-ingressos-34-rodada-do-brasileirao-2026",
+   "source_kind": "article",
+   "two_sources": false,
+   "first_seen": "2026-11-28T10:50:56.748258+00:00",
+   "last_checked": "2026-11-28T10:50:56.748258+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/bragantino.html",
+   "official_tickets": "https://www.redbullbragantino.com/br-pt",
+   "slug": "bragantino-check-in-e-ingressos-34a-rodada-do-78ae5390",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/bragantino-check-in-e-ingressos-34a-rodada-do-78ae5390.html",
+    "en": "https://ticketwhistle.com/en/sales/bragantino-check-in-e-ingressos-34a-rodada-do-78ae5390.html",
+    "ar": "https://ticketwhistle.com/ar/sales/bragantino-check-in-e-ingressos-34a-rodada-do-78ae5390.html",
+    "it": "https://ticketwhistle.com/it/vendite/bragantino-check-in-e-ingressos-34a-rodada-do-78ae5390.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/bragantino-check-in-e-ingressos-34a-rodada-do-78ae5390.html",
+    "de": "https://ticketwhistle.com/de/verkauf/bragantino-check-in-e-ingressos-34a-rodada-do-78ae5390.html"
+   }
+  }
+ ]
+}
