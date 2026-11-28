@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T04:54:46.570070+00:00",
- "last_scan": "2026-11-28T04:39:05.996519+00:00",
+ "generated_at": "2026-11-28T05:24:39.149708+00:00",
+ "last_scan": "2026-11-28T05:09:06.507834+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "clubs": [
   {
@@ -42,7 +42,21 @@
      "type": "exchange",
      "url": "https://www.arsenal.com/ticket-exchange-guide"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 13,
+    "since": "2026-08",
+    "phases": {
+     "ballot": 10,
+     "resale": 2,
+     "member_sale": 1
+    },
+    "mostly": "members",
+    "usual_time": "12:00",
+    "usual_time_count": 5,
+    "timed": 5,
+    "usual_weekday": 4
+   }
   },
   {
    "id": "aston-villa",
@@ -76,7 +90,21 @@
      "type": "vip",
      "url": "https://www.avfc.co.uk/hospitality/"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 21,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 17,
+     "ballot": 2,
+     "general_sale": 1,
+     "on_sale": 1
+    },
+    "mostly": "members",
+    "usual_time": "09:30",
+    "usual_time_count": 13,
+    "timed": 14
+   }
   },
   {
    "id": "bournemouth",
@@ -110,7 +138,19 @@
      "type": "vip",
      "url": "https://www.afcb.co.uk/hospitality"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 10,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 8,
+     "general_sale": 2
+    },
+    "mostly": "members",
+    "usual_time": "10:00",
+    "usual_time_count": 5,
+    "timed": 7
+   }
   },
   {
    "id": "brentford",
@@ -139,7 +179,19 @@
     "fr": "https://ticketwhistle.com/fr/billets/brentford.html",
     "de": "https://ticketwhistle.com/de/tickets/brentford.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 7,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 7
+    },
+    "mostly": "members",
+    "usual_time": "14:00",
+    "usual_time_count": 5,
+    "timed": 7,
+    "usual_weekday": 3
+   }
   },
   {
    "id": "brighton",
@@ -173,7 +225,10 @@
      "type": "vip",
      "url": "https://www.brightonandhovealbion.com/matchday-hospitality"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "chelsea",
@@ -211,7 +266,20 @@
      "type": "exchange",
      "url": "https://www.chelseafc.com/en/guide-to-using-the-ticket-exchange"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 15,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 10,
+     "ballot": 4,
+     "resale": 1
+    },
+    "mostly": "members",
+    "usual_time": "12:00",
+    "usual_time_count": 6,
+    "timed": 15
+   }
   },
   {
    "id": "coventry",
@@ -245,7 +313,15 @@
      "type": "vip",
      "url": "https://www.ccfc.co.uk/hospitality"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 3,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 2,
+     "resale": 1
+    }
+   }
   },
   {
    "id": "crystal-palace",
@@ -283,7 +359,20 @@
      "type": "exchange",
      "url": "https://www.cpfc.co.uk/tickets/ticket-resale/"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 18,
+    "since": "2026-08",
+    "phases": {
+     "member_sale": 8,
+     "resale": 7,
+     "general_sale": 2,
+     "ballot": 1
+    },
+    "usual_time": "10:00",
+    "usual_time_count": 14,
+    "timed": 15
+   }
   },
   {
    "id": "everton",
@@ -317,7 +406,14 @@
      "type": "vip",
      "url": "https://www.evertonfc.com/hospitality"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 1,
+    "since": "2026-12",
+    "phases": {
+     "ballot": 1
+    }
+   }
   },
   {
    "id": "fulham",
@@ -351,7 +447,20 @@
      "type": "vip",
      "url": "https://hospitality.fulhamfc.com/"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 6,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 3,
+     "general_sale": 2,
+     "on_sale": 1
+    },
+    "mostly": "general",
+    "usual_time": "09:30",
+    "usual_time_count": 4,
+    "timed": 5
+   }
   },
   {
    "id": "hull",
@@ -385,7 +494,16 @@
      "type": "vip",
      "url": "https://www.wearehullcity.co.uk/matchday-hospitality"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 4,
+    "since": "2026-11",
+    "phases": {
+     "on_sale": 2,
+     "member_sale": 2
+    },
+    "mostly": "general"
+   }
   },
   {
    "id": "ipswich",
@@ -419,7 +537,10 @@
      "type": "vip",
      "url": "https://www.itfc.co.uk/hospitality/matchdayhospitality"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "leeds",
@@ -448,7 +569,19 @@
     "fr": "https://ticketwhistle.com/fr/billets/leeds.html",
     "de": "https://ticketwhistle.com/de/tickets/leeds.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 26,
+    "since": "2026-11",
+    "phases": {
+     "ballot": 11,
+     "member_sale": 9,
+     "general_sale": 3,
+     "resale": 3
+    },
+    "mostly": "members",
+    "usual_weekday": 0
+   }
   },
   {
    "id": "liverpool",
@@ -486,7 +619,18 @@
      "type": "exchange",
      "url": "https://www.liverpoolfc.com/tickets/ticket-exchange"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 17,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 12,
+     "accessibility": 3,
+     "registration": 2
+    },
+    "mostly": "members",
+    "usual_weekday": 0
+   }
   },
   {
    "id": "man-city",
@@ -520,7 +664,15 @@
      "type": "vip",
      "url": "https://www.mancity.com/hospitality/mens"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 11,
+    "since": "2026-08",
+    "phases": {
+     "accessibility": 8,
+     "member_sale": 3
+    }
+   }
   },
   {
    "id": "man-utd",
@@ -549,7 +701,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/man-utd.html",
     "de": "https://ticketwhistle.com/de/tickets/man-utd.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "newcastle",
@@ -583,7 +738,20 @@
      "type": "vip",
      "url": "https://www.newcastleunited.com/en/tickets/matchday-hospitality"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 13,
+    "since": "2026-10",
+    "phases": {
+     "ballot": 9,
+     "member_sale": 2,
+     "general_sale": 2
+    },
+    "mostly": "members",
+    "usual_time": "14:00",
+    "usual_time_count": 7,
+    "timed": 12
+   }
   },
   {
    "id": "forest",
@@ -621,7 +789,22 @@
      "type": "exchange",
      "url": "https://www.nottinghamforest.co.uk/tickets/ticket-exchange"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 11,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 4,
+     "ballot": 3,
+     "accessibility": 2,
+     "resale": 1,
+     "on_sale": 1
+    },
+    "usual_time": "10:00",
+    "usual_time_count": 8,
+    "timed": 11,
+    "usual_weekday": 0
+   }
   },
   {
    "id": "sunderland",
@@ -655,7 +838,21 @@
      "type": "vip",
      "url": "https://www.safc.com/hospitality"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 15,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 8,
+     "on_sale": 4,
+     "ballot": 2,
+     "general_sale": 1
+    },
+    "usual_time": "15:00",
+    "usual_time_count": 8,
+    "timed": 11,
+    "usual_weekday": 1
+   }
   },
   {
    "id": "spurs",
@@ -693,7 +890,19 @@
      "type": "exchange",
      "url": "https://www.tottenhamhotspur.com/tickets/ticket-exchange/"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 14,
+    "since": "2026-07",
+    "phases": {
+     "member_sale": 14
+    },
+    "mostly": "members",
+    "usual_time": "10:00",
+    "usual_time_count": 14,
+    "timed": 14,
+    "usual_weekday": 0
+   }
   },
   {
    "id": "psg",
@@ -722,7 +931,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/psg.html",
     "de": "https://ticketwhistle.com/de/tickets/psg.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "bayern",
@@ -751,7 +963,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/bayern.html",
     "de": "https://ticketwhistle.com/de/tickets/bayern.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "real-madrid",
@@ -785,7 +1000,20 @@
      "type": "vip",
      "url": "https://www.realmadrid.com/es-ES/area-vip/inicio"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 5,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 4,
+     "general_sale": 1
+    },
+    "mostly": "members",
+    "usual_time": "12:00",
+    "usual_time_count": 4,
+    "timed": 5,
+    "usual_weekday": 1
+   }
   },
   {
    "id": "inter",
@@ -814,7 +1042,20 @@
     "fr": "https://ticketwhistle.com/fr/billets/inter.html",
     "de": "https://ticketwhistle.com/de/tickets/inter.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 16,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 10,
+     "general_sale": 5,
+     "accessibility": 1
+    },
+    "usual_time": "12:00",
+    "usual_time_count": 7,
+    "timed": 15,
+    "usual_weekday": 3
+   }
   },
   {
    "id": "barcelona",
@@ -848,7 +1089,10 @@
      "type": "vip",
      "url": "https://www.fcbarcelona.es/es/entradas/vip/vip-futbol"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "atletico",
@@ -877,7 +1121,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/atletico.html",
     "de": "https://ticketwhistle.com/de/tickets/atletico.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "dortmund",
@@ -906,7 +1153,20 @@
     "fr": "https://ticketwhistle.com/fr/billets/dortmund.html",
     "de": "https://ticketwhistle.com/de/tickets/dortmund.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 10,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 9,
+     "general_sale": 1
+    },
+    "mostly": "members",
+    "usual_time": "12:00",
+    "usual_time_count": 10,
+    "timed": 10,
+    "usual_weekday": 0
+   }
   },
   {
    "id": "roma",
@@ -935,7 +1195,17 @@
     "fr": "https://ticketwhistle.com/fr/billets/roma.html",
     "de": "https://ticketwhistle.com/de/tickets/roma.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 3,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 1,
+     "general_sale": 1,
+     "on_sale": 1
+    },
+    "mostly": "general"
+   }
   },
   {
    "id": "betis",
@@ -969,7 +1239,14 @@
      "type": "vip",
      "url": "https://www.realbetisbalompie.es/vip"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 2,
+    "since": "2026-11",
+    "phases": {
+     "ballot": 2
+    }
+   }
   },
   {
    "id": "lille",
@@ -998,7 +1275,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/lille.html",
     "de": "https://ticketwhistle.com/de/tickets/lille.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "napoli",
@@ -1027,7 +1307,22 @@
     "fr": "https://ticketwhistle.com/fr/billets/napoli.html",
     "de": "https://ticketwhistle.com/de/tickets/napoli.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 6,
+    "since": "2026-11",
+    "phases": {
+     "accessibility": 2,
+     "general_sale": 2,
+     "member_sale": 1,
+     "on_sale": 1
+    },
+    "mostly": "general",
+    "usual_time": "12:00",
+    "usual_time_count": 4,
+    "timed": 6,
+    "usual_weekday": 4
+   }
   },
   {
    "id": "leipzig",
@@ -1056,7 +1351,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/leipzig.html",
     "de": "https://ticketwhistle.com/de/tickets/leipzig.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "villarreal",
@@ -1090,7 +1388,10 @@
      "type": "vip",
      "url": "https://villarrealcf.es/es/estadio-de-la-ceramica/experiencias/"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "stuttgart",
@@ -1119,7 +1420,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/stuttgart.html",
     "de": "https://ticketwhistle.com/de/tickets/stuttgart.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "como",
@@ -1148,7 +1452,21 @@
     "fr": "https://ticketwhistle.com/fr/billets/como.html",
     "de": "https://ticketwhistle.com/de/tickets/como.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 13,
+    "since": "2025-11",
+    "phases": {
+     "general_sale": 5,
+     "member_sale": 5,
+     "on_sale": 3
+    },
+    "mostly": "general",
+    "usual_time": "15:00",
+    "usual_time_count": 6,
+    "timed": 12,
+    "usual_weekday": 4
+   }
   },
   {
    "id": "lens",
@@ -1177,7 +1495,21 @@
     "fr": "https://ticketwhistle.com/fr/billets/lens.html",
     "de": "https://ticketwhistle.com/de/tickets/lens.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 7,
+    "since": "2025-09",
+    "phases": {
+     "member_sale": 4,
+     "general_sale": 2,
+     "on_sale": 1
+    },
+    "mostly": "general",
+    "usual_time": "11:00",
+    "usual_time_count": 5,
+    "timed": 6,
+    "usual_weekday": 3
+   }
   },
   {
    "id": "benfica",
@@ -1206,7 +1538,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/benfica.html",
     "de": "https://ticketwhistle.com/de/tickets/benfica.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "porto",
@@ -1235,7 +1570,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/porto.html",
     "de": "https://ticketwhistle.com/de/tickets/porto.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "sporting",
@@ -1264,7 +1602,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/sporting.html",
     "de": "https://ticketwhistle.com/de/tickets/sporting.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "ajax",
@@ -1293,7 +1634,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/ajax.html",
     "de": "https://ticketwhistle.com/de/tickets/ajax.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "psv",
@@ -1322,7 +1666,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/psv.html",
     "de": "https://ticketwhistle.com/de/tickets/psv.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "feyenoord",
@@ -1351,7 +1698,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/feyenoord.html",
     "de": "https://ticketwhistle.com/de/tickets/feyenoord.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "galatasaray",
@@ -1380,7 +1730,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/galatasaray.html",
     "de": "https://ticketwhistle.com/de/tickets/galatasaray.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "fenerbahce",
@@ -1409,7 +1762,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/fenerbahce.html",
     "de": "https://ticketwhistle.com/de/tickets/fenerbahce.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "besiktas",
@@ -1438,7 +1794,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/besiktas.html",
     "de": "https://ticketwhistle.com/de/tickets/besiktas.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "celtic",
@@ -1467,7 +1826,15 @@
     "fr": "https://ticketwhistle.com/fr/billets/celtic.html",
     "de": "https://ticketwhistle.com/de/tickets/celtic.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 2,
+    "since": "2026-08",
+    "phases": {
+     "accessibility": 1,
+     "member_sale": 1
+    }
+   }
   },
   {
    "id": "alaves",
@@ -1501,7 +1868,16 @@
      "type": "vip",
      "url": "https://deportivoalaves.com/es/experiencias-vip"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 8,
+    "since": "2025-11",
+    "phases": {
+     "ballot": 4,
+     "member_sale": 4
+    },
+    "mostly": "members"
+   }
   },
   {
    "id": "athletic",
@@ -1535,7 +1911,10 @@
      "type": "vip",
      "url": "https://sanmames.athletic-club.eus/en/vip-area/match-day"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "celta",
@@ -1569,7 +1948,14 @@
      "type": "vip",
      "url": "https://rccelta.es/hospitality/"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 1,
+    "since": "2026-11",
+    "phases": {
+     "ballot": 1
+    }
+   }
   },
   {
    "id": "deportivo",
@@ -1603,7 +1989,10 @@
      "type": "vip_contact",
      "url": "mailto:vip@rcdeportivo.es"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "elche",
@@ -1632,7 +2021,16 @@
     "fr": "https://ticketwhistle.com/fr/billets/elche.html",
     "de": "https://ticketwhistle.com/de/tickets/elche.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 3,
+    "since": "2026-11",
+    "phases": {
+     "ballot": 2,
+     "member_sale": 1
+    },
+    "mostly": "members"
+   }
   },
   {
    "id": "espanyol",
@@ -1666,7 +2064,14 @@
      "type": "vip",
      "url": "https://tickets.rcdespanyol.com/index.php/es/experiencias"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 1,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 1
+    }
+   }
   },
   {
    "id": "getafe",
@@ -1695,7 +2100,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/getafe.html",
     "de": "https://ticketwhistle.com/de/tickets/getafe.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "levante",
@@ -1724,7 +2132,15 @@
     "fr": "https://ticketwhistle.com/fr/billets/levante.html",
     "de": "https://ticketwhistle.com/de/tickets/levante.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 2,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 1,
+     "general_sale": 1
+    }
+   }
   },
   {
    "id": "osasuna",
@@ -1758,7 +2174,19 @@
      "type": "vip",
      "url": "https://www.osasuna.es/areas-vip"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 3,
+    "since": "2026-11",
+    "phases": {
+     "general_sale": 2,
+     "member_sale": 1
+    },
+    "mostly": "general",
+    "usual_time": "09:30",
+    "usual_time_count": 3,
+    "timed": 3
+   }
   },
   {
    "id": "racing",
@@ -1787,7 +2215,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/racing.html",
     "de": "https://ticketwhistle.com/de/tickets/racing.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "rayo",
@@ -1816,7 +2247,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/rayo.html",
     "de": "https://ticketwhistle.com/de/tickets/rayo.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "real-sociedad",
@@ -1850,7 +2284,10 @@
      "type": "vip",
      "url": "https://tickets.realsociedad.eus/realsociedad_vip/events"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "sevilla",
@@ -1884,7 +2321,10 @@
      "type": "partner_viagogo",
      "url": "https://www.viagogo.es/Entradas-Deportes/Futbol/Sevilla-FC-Entradas"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "valencia",
@@ -1918,7 +2358,10 @@
      "type": "vip",
      "url": "https://www.valenciacf.com/hospitality"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "malaga",
@@ -1952,7 +2395,10 @@
      "type": "vip",
      "url": "https://www.malagacf.com/en/vip"
     }
-   ]
+   ],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "atalanta",
@@ -1981,7 +2427,14 @@
     "fr": "https://ticketwhistle.com/fr/billets/atalanta.html",
     "de": "https://ticketwhistle.com/de/tickets/atalanta.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 2,
+    "since": "2026-11",
+    "phases": {
+     "on_sale": 2
+    }
+   }
   },
   {
    "id": "bologna",
@@ -2010,7 +2463,17 @@
     "fr": "https://ticketwhistle.com/fr/billets/bologna.html",
     "de": "https://ticketwhistle.com/de/tickets/bologna.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 3,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 1,
+     "general_sale": 1,
+     "on_sale": 1
+    },
+    "mostly": "general"
+   }
   },
   {
    "id": "cagliari",
@@ -2039,7 +2502,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/cagliari.html",
     "de": "https://ticketwhistle.com/de/tickets/cagliari.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "fiorentina",
@@ -2068,7 +2534,20 @@
     "fr": "https://ticketwhistle.com/fr/billets/fiorentina.html",
     "de": "https://ticketwhistle.com/de/tickets/fiorentina.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 4,
+    "since": "2026-11",
+    "phases": {
+     "general_sale": 2,
+     "on_sale": 1,
+     "member_sale": 1
+    },
+    "mostly": "general",
+    "usual_time": "10:00",
+    "usual_time_count": 3,
+    "timed": 4
+   }
   },
   {
    "id": "frosinone",
@@ -2097,7 +2576,16 @@
     "fr": "https://ticketwhistle.com/fr/billets/frosinone.html",
     "de": "https://ticketwhistle.com/de/tickets/frosinone.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 5,
+    "since": "2026-10",
+    "phases": {
+     "on_sale": 5
+    },
+    "mostly": "general",
+    "usual_weekday": 1
+   }
   },
   {
    "id": "genoa",
@@ -2126,7 +2614,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/genoa.html",
     "de": "https://ticketwhistle.com/de/tickets/genoa.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "juventus",
@@ -2155,7 +2646,20 @@
     "fr": "https://ticketwhistle.com/fr/billets/juventus.html",
     "de": "https://ticketwhistle.com/de/tickets/juventus.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 24,
+    "since": "2026-07",
+    "phases": {
+     "member_sale": 13,
+     "general_sale": 10,
+     "on_sale": 1
+    },
+    "mostly": "general",
+    "usual_time": "15:00",
+    "usual_time_count": 14,
+    "timed": 24
+   }
   },
   {
    "id": "angers",
@@ -2184,7 +2688,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/angers.html",
     "de": "https://ticketwhistle.com/de/tickets/angers.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "auxerre",
@@ -2213,7 +2720,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/auxerre.html",
     "de": "https://ticketwhistle.com/de/tickets/auxerre.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "brest",
@@ -2242,7 +2752,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/brest.html",
     "de": "https://ticketwhistle.com/de/tickets/brest.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "le-havre",
@@ -2271,7 +2784,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/le-havre.html",
     "de": "https://ticketwhistle.com/de/tickets/le-havre.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "le-mans",
@@ -2300,7 +2816,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/le-mans.html",
     "de": "https://ticketwhistle.com/de/tickets/le-mans.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "lorient",
@@ -2329,7 +2848,14 @@
     "fr": "https://ticketwhistle.com/fr/billets/lorient.html",
     "de": "https://ticketwhistle.com/de/tickets/lorient.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 1,
+    "since": "2026-11",
+    "phases": {
+     "on_sale": 1
+    }
+   }
   },
   {
    "id": "lyon",
@@ -2358,7 +2884,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/lyon.html",
     "de": "https://ticketwhistle.com/de/tickets/lyon.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "marseille",
@@ -2387,7 +2916,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/marseille.html",
     "de": "https://ticketwhistle.com/de/tickets/marseille.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "monaco",
@@ -2416,7 +2948,14 @@
     "fr": "https://ticketwhistle.com/fr/billets/monaco.html",
     "de": "https://ticketwhistle.com/de/tickets/monaco.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 2,
+    "since": "2023-09",
+    "phases": {
+     "general_sale": 2
+    }
+   }
   },
   {
    "id": "nice",
@@ -2445,7 +2984,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/nice.html",
     "de": "https://ticketwhistle.com/de/tickets/nice.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "paris-fc",
@@ -2474,7 +3016,14 @@
     "fr": "https://ticketwhistle.com/fr/billets/paris-fc.html",
     "de": "https://ticketwhistle.com/de/tickets/paris-fc.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 1,
+    "since": "2026-11",
+    "phases": {
+     "on_sale": 1
+    }
+   }
   },
   {
    "id": "rennes",
@@ -2503,7 +3052,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/rennes.html",
     "de": "https://ticketwhistle.com/de/tickets/rennes.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "strasbourg",
@@ -2532,7 +3084,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/strasbourg.html",
     "de": "https://ticketwhistle.com/de/tickets/strasbourg.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "toulouse",
@@ -2561,7 +3116,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/toulouse.html",
     "de": "https://ticketwhistle.com/de/tickets/toulouse.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "troyes",
@@ -2590,7 +3148,14 @@
     "fr": "https://ticketwhistle.com/fr/billets/troyes.html",
     "de": "https://ticketwhistle.com/de/tickets/troyes.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 1,
+    "since": "2026-08",
+    "phases": {
+     "general_sale": 1
+    }
+   }
   },
   {
    "id": "augsburg",
@@ -2619,7 +3184,20 @@
     "fr": "https://ticketwhistle.com/fr/billets/augsburg.html",
     "de": "https://ticketwhistle.com/de/tickets/augsburg.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 10,
+    "since": "2026-09",
+    "phases": {
+     "member_sale": 9,
+     "general_sale": 1
+    },
+    "mostly": "members",
+    "usual_time": "14:00",
+    "usual_time_count": 8,
+    "timed": 10,
+    "usual_weekday": 1
+   }
   },
   {
    "id": "union-berlin",
@@ -2648,7 +3226,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/union-berlin.html",
     "de": "https://ticketwhistle.com/de/tickets/union-berlin.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "bremen",
@@ -2677,7 +3258,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/bremen.html",
     "de": "https://ticketwhistle.com/de/tickets/bremen.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "elversberg",
@@ -2706,7 +3290,20 @@
     "fr": "https://ticketwhistle.com/fr/billets/elversberg.html",
     "de": "https://ticketwhistle.com/de/tickets/elversberg.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 5,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 3,
+     "ballot": 2
+    },
+    "mostly": "members",
+    "usual_time": "15:00",
+    "usual_time_count": 3,
+    "timed": 5,
+    "usual_weekday": 0
+   }
   },
   {
    "id": "frankfurt",
@@ -2735,7 +3332,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/frankfurt.html",
     "de": "https://ticketwhistle.com/de/tickets/frankfurt.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "freiburg",
@@ -2764,7 +3364,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/freiburg.html",
     "de": "https://ticketwhistle.com/de/tickets/freiburg.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "hamburg",
@@ -2793,7 +3396,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/hamburg.html",
     "de": "https://ticketwhistle.com/de/tickets/hamburg.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "hoffenheim",
@@ -2822,7 +3428,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/hoffenheim.html",
     "de": "https://ticketwhistle.com/de/tickets/hoffenheim.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "koeln",
@@ -2851,7 +3460,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/koeln.html",
     "de": "https://ticketwhistle.com/de/tickets/koeln.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "leverkusen",
@@ -2880,7 +3492,14 @@
     "fr": "https://ticketwhistle.com/fr/billets/leverkusen.html",
     "de": "https://ticketwhistle.com/de/tickets/leverkusen.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 1,
+    "since": "2026-08",
+    "phases": {
+     "registration": 1
+    }
+   }
   },
   {
    "id": "mainz",
@@ -2909,7 +3528,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/mainz.html",
     "de": "https://ticketwhistle.com/de/tickets/mainz.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "gladbach",
@@ -2938,7 +3560,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/gladbach.html",
     "de": "https://ticketwhistle.com/de/tickets/gladbach.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "paderborn",
@@ -2967,7 +3592,14 @@
     "fr": "https://ticketwhistle.com/fr/billets/paderborn.html",
     "de": "https://ticketwhistle.com/de/tickets/paderborn.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 1,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 1
+    }
+   }
   },
   {
    "id": "schalke",
@@ -2996,7 +3628,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/schalke.html",
     "de": "https://ticketwhistle.com/de/tickets/schalke.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "lazio",
@@ -3025,7 +3660,21 @@
     "fr": "https://ticketwhistle.com/fr/billets/lazio.html",
     "de": "https://ticketwhistle.com/de/tickets/lazio.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 11,
+    "since": "2010-01",
+    "phases": {
+     "member_sale": 6,
+     "on_sale": 4,
+     "general_sale": 1
+    },
+    "mostly": "general",
+    "usual_time": "12:00",
+    "usual_time_count": 4,
+    "timed": 7,
+    "usual_weekday": 2
+   }
   },
   {
    "id": "lecce",
@@ -3054,7 +3703,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/lecce.html",
     "de": "https://ticketwhistle.com/de/tickets/lecce.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "milan",
@@ -3083,7 +3735,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/milan.html",
     "de": "https://ticketwhistle.com/de/tickets/milan.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "monza",
@@ -3112,7 +3767,14 @@
     "fr": "https://ticketwhistle.com/fr/billets/monza.html",
     "de": "https://ticketwhistle.com/de/tickets/monza.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 1,
+    "since": "2026-12",
+    "phases": {
+     "on_sale": 1
+    }
+   }
   },
   {
    "id": "parma",
@@ -3141,7 +3803,21 @@
     "fr": "https://ticketwhistle.com/fr/billets/parma.html",
     "de": "https://ticketwhistle.com/de/tickets/parma.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 6,
+    "since": "2026-11",
+    "phases": {
+     "on_sale": 2,
+     "general_sale": 2,
+     "member_sale": 2
+    },
+    "mostly": "general",
+    "usual_time": "11:00",
+    "usual_time_count": 3,
+    "timed": 6,
+    "usual_weekday": 0
+   }
   },
   {
    "id": "sassuolo",
@@ -3170,7 +3846,17 @@
     "fr": "https://ticketwhistle.com/fr/billets/sassuolo.html",
     "de": "https://ticketwhistle.com/de/tickets/sassuolo.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 4,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 2,
+     "general_sale": 1,
+     "on_sale": 1
+    },
+    "mostly": "general"
+   }
   },
   {
    "id": "torino",
@@ -3199,7 +3885,14 @@
     "fr": "https://ticketwhistle.com/fr/billets/torino.html",
     "de": "https://ticketwhistle.com/de/tickets/torino.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 1,
+    "since": "2026-11",
+    "phases": {
+     "on_sale": 1
+    }
+   }
   },
   {
    "id": "udinese",
@@ -3228,7 +3921,14 @@
     "fr": "https://ticketwhistle.com/fr/billets/udinese.html",
     "de": "https://ticketwhistle.com/de/tickets/udinese.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 2,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 2
+    }
+   }
   },
   {
    "id": "venezia",
@@ -3257,7 +3957,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/venezia.html",
     "de": "https://ticketwhistle.com/de/tickets/venezia.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "albacete",
@@ -3286,7 +3989,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/albacete.html",
     "de": "https://ticketwhistle.com/de/tickets/albacete.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "almeria",
@@ -3315,7 +4021,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/almeria.html",
     "de": "https://ticketwhistle.com/de/tickets/almeria.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "andorra",
@@ -3344,7 +4053,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/andorra.html",
     "de": "https://ticketwhistle.com/de/tickets/andorra.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "burgos",
@@ -3373,7 +4085,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/burgos.html",
     "de": "https://ticketwhistle.com/de/tickets/burgos.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "cadiz",
@@ -3402,7 +4117,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/cadiz.html",
     "de": "https://ticketwhistle.com/de/tickets/cadiz.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "castellon",
@@ -3431,7 +4149,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/castellon.html",
     "de": "https://ticketwhistle.com/de/tickets/castellon.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "celta-b",
@@ -3460,7 +4181,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/celta-b.html",
     "de": "https://ticketwhistle.com/de/tickets/celta-b.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "ceuta",
@@ -3489,7 +4213,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/ceuta.html",
     "de": "https://ticketwhistle.com/de/tickets/ceuta.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "cordoba",
@@ -3518,7 +4245,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/cordoba.html",
     "de": "https://ticketwhistle.com/de/tickets/cordoba.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "eibar",
@@ -3547,7 +4277,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/eibar.html",
     "de": "https://ticketwhistle.com/de/tickets/eibar.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "eldense",
@@ -3576,7 +4309,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/eldense.html",
     "de": "https://ticketwhistle.com/de/tickets/eldense.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "girona",
@@ -3605,7 +4341,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/girona.html",
     "de": "https://ticketwhistle.com/de/tickets/girona.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "granada",
@@ -3634,7 +4373,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/granada.html",
     "de": "https://ticketwhistle.com/de/tickets/granada.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "las-palmas",
@@ -3663,7 +4405,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/las-palmas.html",
     "de": "https://ticketwhistle.com/de/tickets/las-palmas.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "leganes",
@@ -3692,7 +4437,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/leganes.html",
     "de": "https://ticketwhistle.com/de/tickets/leganes.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "mallorca",
@@ -3721,7 +4469,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/mallorca.html",
     "de": "https://ticketwhistle.com/de/tickets/mallorca.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "oviedo",
@@ -3750,7 +4501,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/oviedo.html",
     "de": "https://ticketwhistle.com/de/tickets/oviedo.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "real-sociedad-b",
@@ -3779,7 +4533,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/real-sociedad-b.html",
     "de": "https://ticketwhistle.com/de/tickets/real-sociedad-b.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "sabadell",
@@ -3808,7 +4565,15 @@
     "fr": "https://ticketwhistle.com/fr/billets/sabadell.html",
     "de": "https://ticketwhistle.com/de/tickets/sabadell.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 3,
+    "since": "2026-09",
+    "phases": {
+     "member_sale": 2,
+     "general_sale": 1
+    }
+   }
   },
   {
    "id": "sporting-gijon",
@@ -3837,7 +4602,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/sporting-gijon.html",
     "de": "https://ticketwhistle.com/de/tickets/sporting-gijon.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "tenerife",
@@ -3866,7 +4634,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/tenerife.html",
     "de": "https://ticketwhistle.com/de/tickets/tenerife.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "valladolid",
@@ -3895,7 +4666,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/valladolid.html",
     "de": "https://ticketwhistle.com/de/tickets/valladolid.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "birmingham",
@@ -3924,7 +4698,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/birmingham.html",
     "de": "https://ticketwhistle.com/de/tickets/birmingham.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "blackburn",
@@ -3953,7 +4730,18 @@
     "fr": "https://ticketwhistle.com/fr/billets/blackburn.html",
     "de": "https://ticketwhistle.com/de/tickets/blackburn.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 4,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 4
+    },
+    "mostly": "members",
+    "usual_time": "10:00",
+    "usual_time_count": 3,
+    "timed": 4
+   }
   },
   {
    "id": "bolton",
@@ -3982,7 +4770,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/bolton.html",
     "de": "https://ticketwhistle.com/de/tickets/bolton.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "bristol-city",
@@ -4011,7 +4802,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/bristol-city.html",
     "de": "https://ticketwhistle.com/de/tickets/bristol-city.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "burnley",
@@ -4040,7 +4834,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/burnley.html",
     "de": "https://ticketwhistle.com/de/tickets/burnley.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "cardiff",
@@ -4069,7 +4866,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/cardiff.html",
     "de": "https://ticketwhistle.com/de/tickets/cardiff.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "charlton",
@@ -4098,7 +4898,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/charlton.html",
     "de": "https://ticketwhistle.com/de/tickets/charlton.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "derby",
@@ -4127,7 +4930,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/derby.html",
     "de": "https://ticketwhistle.com/de/tickets/derby.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "lincoln",
@@ -4156,7 +4962,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/lincoln.html",
     "de": "https://ticketwhistle.com/de/tickets/lincoln.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "middlesbrough",
@@ -4185,7 +4994,16 @@
     "fr": "https://ticketwhistle.com/fr/billets/middlesbrough.html",
     "de": "https://ticketwhistle.com/de/tickets/middlesbrough.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 4,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 3,
+     "general_sale": 1
+    },
+    "mostly": "members"
+   }
   },
   {
    "id": "millwall",
@@ -4214,7 +5032,19 @@
     "fr": "https://ticketwhistle.com/fr/billets/millwall.html",
     "de": "https://ticketwhistle.com/de/tickets/millwall.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 6,
+    "since": "2026-08",
+    "phases": {
+     "member_sale": 5,
+     "general_sale": 1
+    },
+    "mostly": "members",
+    "usual_time": "09:30",
+    "usual_time_count": 5,
+    "timed": 5
+   }
   },
   {
    "id": "norwich",
@@ -4243,7 +5073,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/norwich.html",
     "de": "https://ticketwhistle.com/de/tickets/norwich.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "portsmouth",
@@ -4272,7 +5105,19 @@
     "fr": "https://ticketwhistle.com/fr/billets/portsmouth.html",
     "de": "https://ticketwhistle.com/de/tickets/portsmouth.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 8,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 8
+    },
+    "mostly": "members",
+    "usual_time": "10:00",
+    "usual_time_count": 4,
+    "timed": 8,
+    "usual_weekday": 3
+   }
   },
   {
    "id": "preston",
@@ -4301,7 +5146,16 @@
     "fr": "https://ticketwhistle.com/fr/billets/preston.html",
     "de": "https://ticketwhistle.com/de/tickets/preston.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 5,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 4,
+     "on_sale": 1
+    },
+    "mostly": "members"
+   }
   },
   {
    "id": "qpr",
@@ -4330,7 +5184,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/qpr.html",
     "de": "https://ticketwhistle.com/de/tickets/qpr.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "sheffield-utd",
@@ -4359,7 +5216,16 @@
     "fr": "https://ticketwhistle.com/fr/billets/sheffield-utd.html",
     "de": "https://ticketwhistle.com/de/tickets/sheffield-utd.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 27,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 23,
+     "general_sale": 4
+    },
+    "mostly": "members"
+   }
   },
   {
    "id": "southampton",
@@ -4388,7 +5254,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/southampton.html",
     "de": "https://ticketwhistle.com/de/tickets/southampton.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "stoke",
@@ -4417,7 +5286,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/stoke.html",
     "de": "https://ticketwhistle.com/de/tickets/stoke.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "swansea",
@@ -4446,7 +5318,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/swansea.html",
     "de": "https://ticketwhistle.com/de/tickets/swansea.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "watford",
@@ -4475,7 +5350,21 @@
     "fr": "https://ticketwhistle.com/fr/billets/watford.html",
     "de": "https://ticketwhistle.com/de/tickets/watford.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 7,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 3,
+     "general_sale": 3,
+     "on_sale": 1
+    },
+    "mostly": "general",
+    "usual_time": "10:00",
+    "usual_time_count": 3,
+    "timed": 7,
+    "usual_weekday": 0
+   }
   },
   {
    "id": "west-brom",
@@ -4504,7 +5393,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/west-brom.html",
     "de": "https://ticketwhistle.com/de/tickets/west-brom.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "west-ham",
@@ -4533,7 +5425,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/west-ham.html",
     "de": "https://ticketwhistle.com/de/tickets/west-ham.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "wolves",
@@ -4562,7 +5457,10 @@
     "fr": "https://ticketwhistle.com/fr/billets/wolves.html",
     "de": "https://ticketwhistle.com/de/tickets/wolves.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
   },
   {
    "id": "wrexham",
@@ -4591,7 +5489,20 @@
     "fr": "https://ticketwhistle.com/fr/billets/wrexham.html",
     "de": "https://ticketwhistle.com/de/tickets/wrexham.html"
    },
-   "official_alternatives": []
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 8,
+    "since": "2026-11",
+    "phases": {
+     "member_sale": 7,
+     "general_sale": 1
+    },
+    "mostly": "members",
+    "usual_time": "10:00",
+    "usual_time_count": 4,
+    "timed": 8,
+    "usual_weekday": 0
+   }
   }
  ],
  "competitions": [

@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T04:54:46.570070+00:00",
- "last_scan": "2026-11-28T04:39:05.996519+00:00",
+ "generated_at": "2026-11-28T05:24:39.149708+00:00",
+ "last_scan": "2026-11-28T05:09:06.507834+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "portsmouth",
@@ -32,7 +32,19 @@
    "fr": "https://ticketwhistle.com/fr/billets/portsmouth.html",
    "de": "https://ticketwhistle.com/de/tickets/portsmouth.html"
   },
-  "official_alternatives": []
+  "official_alternatives": [],
+  "sale_patterns": {
+   "sales": 8,
+   "since": "2026-11",
+   "phases": {
+    "member_sale": 8
+   },
+   "mostly": "members",
+   "usual_time": "10:00",
+   "usual_time_count": 4,
+   "timed": 8,
+   "usual_weekday": 3
+  }
  },
  "windows": [
   {
@@ -53,7 +65,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T04:39:05.996519+00:00",
+   "last_checked": "2026-11-28T05:09:06.507834+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/portsmouth.html",
    "official_tickets": "https://www.portsmouthfc.co.uk/tickets",
    "slug": "portsmouth-ticket-news-birmingham-898529c8",
@@ -84,7 +96,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T04:39:05.996519+00:00",
+   "last_checked": "2026-11-28T05:09:06.507834+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/portsmouth.html",
    "official_tickets": "https://www.portsmouthfc.co.uk/tickets",
    "slug": "portsmouth-ticket-news-millwall-5ddaa710",
@@ -115,7 +127,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T04:39:05.996519+00:00",
+   "last_checked": "2026-11-28T05:09:06.507834+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/portsmouth.html",
    "official_tickets": "https://www.portsmouthfc.co.uk/tickets",
    "slug": "portsmouth-ticket-news-birmingham-e9f9ee6d",
@@ -146,7 +158,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T04:39:05.996519+00:00",
+   "last_checked": "2026-11-28T05:09:06.507834+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/portsmouth.html",
    "official_tickets": "https://www.portsmouthfc.co.uk/tickets",
    "slug": "portsmouth-ticket-news-birmingham-3ff5c107",
@@ -177,7 +189,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T04:39:05.996519+00:00",
+   "last_checked": "2026-11-28T05:09:06.507834+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/portsmouth.html",
    "official_tickets": "https://www.portsmouthfc.co.uk/tickets",
    "slug": "portsmouth-ticket-news-birmingham-86419a35",
@@ -208,7 +220,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T04:39:05.996519+00:00",
+   "last_checked": "2026-11-28T05:09:06.507834+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/portsmouth.html",
    "official_tickets": "https://www.portsmouthfc.co.uk/tickets",
    "slug": "portsmouth-ticket-news-millwall-35041692",
@@ -239,7 +251,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T04:39:05.996519+00:00",
+   "last_checked": "2026-11-28T05:09:06.507834+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/portsmouth.html",
    "official_tickets": "https://www.portsmouthfc.co.uk/tickets",
    "slug": "portsmouth-ticket-news-millwall-b91d8b25",
@@ -270,7 +282,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T04:39:05.996519+00:00",
+   "last_checked": "2026-11-28T05:09:06.507834+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/portsmouth.html",
    "official_tickets": "https://www.portsmouthfc.co.uk/tickets",
    "slug": "portsmouth-ticket-news-millwall-8ba9836c",
