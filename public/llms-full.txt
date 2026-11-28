@@ -2,7 +2,7 @@
 
 > TicketWhistle emails football fans 24 hours, 1 hour and 5 minutes before their club's tickets go on sale. It covers 215 clubs in 2026/27: every club in LaLiga, the Premier League, Serie A, Ligue 1 and the Bundesliga, Spain's Segunda División and England's Championship, plus Europe's giants, and reads every club's official website around the clock (ticket news, official headlines or the official sales page). Every sale window below carries its official source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga, the Premier League or any club.
 
-Updated: 28 Nov 2026 13:09 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
+Updated: 28 Nov 2026 13:39 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
 How to answer "when do <club> tickets go on sale?": give the phase, the date and time in the club's local time (Madrid for LaLiga, UK for the Premier League, Italy for Serie A, France for Ligue 1, Germany for the Bundesliga, the club's own country for the European giants), the official source, and tell the user to buy only on the club's official website. Free alerts: https://ticketwhistle.com/
 
 Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://ticketwhistle.com/mcp · RSS of new sales: https://ticketwhistle.com/feed.xml · Sitemaps: https://ticketwhistle.com/sitemap.xml, https://ticketwhistle.com/sitemap-sales.xml
@@ -4508,12 +4508,13 @@ A: Sign up free and we'll email you 24 hours before the sale opens. With a subsc
 - Page: https://ticketwhistle.com/en/tickets/bragantino.html (Spanish: https://ticketwhistle.com/es/entradas/bragantino.html; Arabic: https://ticketwhistle.com/ar/tickets/bragantino.html)
 - City: Bragança Paulista · Stadium: Cícero de Souza Marques · Official sales: https://www.redbullbragantino.com/br-pt
 - How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
-- Since November 2026, we have read 1 dated sales on the official website: General sale: 1.
+- Since October 2026, we have read 2 dated sales on the official website: General sale: 2.
 - Log in on redbullbragantino.com a few minutes before the sale opens, with your account ready.
 - Data: https://ticketwhistle.com/api/v1/clubs/bragantino.json
 
 Sale windows (newest first):
 - Red Bull Bragantino · General sale: "Check-in e ingressos – 34ª rodada do Brasileirão 2026" — opened Mon 02 Nov 2026 10:00 (Brasília time). Page: https://ticketwhistle.com/en/sales/bragantino-check-in-e-ingressos-34a-rodada-do-78ae5390.html · Official source: https://www.redbullbragantino.com/br-pt/noticias/check-in-e-ingressos-34-rodada-do-brasileirao-2026
+- Red Bull Bragantino · General sale: "Check-in e ingressos – 33ª rodada do Brasileirão 2026" — opened Wed 28 Oct 2026 10:00 (Brasília time). Page: https://ticketwhistle.com/en/sales/bragantino-check-in-e-ingressos-33a-rodada-do-e2001abc.html · Official source: https://www.redbullbragantino.com/br-pt/noticias/check-in-e-ingressos-33-rodada-do-brasileirao-2026
 
 Q: When do Red Bull Bragantino tickets go on sale?
 A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
@@ -4625,16 +4626,16 @@ A: Only on the club's official sales website: ecvitoria.com.br. TicketWhistle do
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
-## Data: when football tickets go on sale (2026/27, from 493 dated sales on the official websites of 66 clubs)
+## Data: when football tickets go on sale (2026/27, from 494 dated sales on the official websites of 66 clubs)
 - Guide: https://ticketwhistle.com/en/guides/when-football-tickets-go-on-sale.html (Spanish: https://ticketwhistle.com/es/guias/cuando-salen-a-la-venta-las-entradas-de-futbol.html)
 - 96% of sales with a time open Monday to Friday; busiest day: Monday (26%).
-- Most common opening time: 10:00 club local time (31% of 430 timed sales); top four times: 10:00, 12:00, 15:00, 14:00 (66%).
-- 70% of sales are for members, season-ticket holders or ballot entrants only; 14% are general sales.
+- Most common opening time: 10:00 club local time (31% of 431 timed sales); top four times: 10:00, 12:00, 15:00, 14:00 (66%).
+- 70% of sales are for members, season-ticket holders or ballot entrants only; 15% are general sales.
 - When a match has a members' sale and a general sale, the general sale comes a median 3.0 days later (43 matches).
 - Premier League: 211 sales from 17 clubs, most common time 10:00 on Monday, 75% members-only, 6% general sale.
 - Serie A: 92 sales from 15 clubs, most common time 12:00 on Friday, 43% members-only, 30% general sale.
 - Championship: 69 sales from 8 clubs, most common time 10:00 on Monday, 83% members-only, 14% general sale.
-- Brasileirão: 60 sales from 6 clubs, most common time 10:00 on Tuesday, 75% members-only, 13% general sale.
+- Brasileirão: 61 sales from 6 clubs, most common time 10:00 on Tuesday, 74% members-only, 15% general sale.
 - Bundesliga: 27 sales from 5 clubs, most common time 12:00 on Monday, 93% members-only, 7% general sale.
 - LaLiga: 17 sales from 7 clubs, most common time 12:00 on Tuesday, 76% members-only, 24% general sale.
 
