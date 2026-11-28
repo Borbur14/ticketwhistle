@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T06:24:44.973223+00:00",
- "last_scan": "2026-11-28T06:09:06.783731+00:00",
+ "generated_at": "2026-11-28T06:55:19.158433+00:00",
+ "last_scan": "2026-11-28T06:39:06.541192+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "clubs": [
   {
@@ -1394,6 +1394,47 @@
    }
   },
   {
+   "id": "shakhtar",
+   "name": "Shakhtar Donetsk",
+   "name_ar": "شاختار دونيتسك",
+   "league": "Europe's giants",
+   "country": "UKR",
+   "timezone": "Europe/Kyiv",
+   "city": "Lviv",
+   "stadium": "Arena Lviv",
+   "european_competition": "UCL",
+   "colors": [
+    "#F37021",
+    "#111111",
+    "#F37021"
+   ],
+   "flag_css": "linear-gradient(90deg,#F37021 0.0% 20.0%,#111111 20.0% 40.0%,#F37021 40.0% 60.0%,#111111 60.0% 80.0%,#F37021 80.0% 100.0%)",
+   "official_site": "https://shakhtar.com",
+   "official_tickets": "https://tickets.shakhtar.com/",
+   "route": "direct",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/shakhtar.html",
+    "en": "https://ticketwhistle.com/en/tickets/shakhtar.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/shakhtar.html",
+    "it": "https://ticketwhistle.com/it/biglietti/shakhtar.html",
+    "fr": "https://ticketwhistle.com/fr/billets/shakhtar.html",
+    "de": "https://ticketwhistle.com/de/tickets/shakhtar.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 5,
+    "since": "2026-10",
+    "phases": {
+     "member_sale": 3,
+     "general_sale": 2
+    },
+    "mostly": "general",
+    "usual_time": "10:00",
+    "usual_time_count": 3,
+    "timed": 3
+   }
+  },
+  {
    "id": "stuttgart",
    "name": "VfB Stuttgart",
    "name_ar": "شتوتغارت",
@@ -1828,6 +1869,390 @@
      "accessibility": 1,
      "member_sale": 1
     }
+   }
+  },
+  {
+   "id": "rangers",
+   "name": "Rangers",
+   "name_ar": "رينجرز",
+   "league": "Europe's giants",
+   "country": "SCO",
+   "timezone": "Europe/London",
+   "city": "Glasgow",
+   "stadium": "Ibrox Stadium",
+   "european_competition": null,
+   "colors": [
+    "#1B458F",
+    "#FFFFFF",
+    "#D2122E"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#D2122E 9% 15%,#1B458F 15%)",
+   "official_site": "https://www.rangers.co.uk",
+   "official_tickets": "https://tickets.rangers.co.uk/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/rangers.html",
+    "en": "https://ticketwhistle.com/en/tickets/rangers.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/rangers.html",
+    "it": "https://ticketwhistle.com/it/biglietti/rangers.html",
+    "fr": "https://ticketwhistle.com/fr/billets/rangers.html",
+    "de": "https://ticketwhistle.com/de/tickets/rangers.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "red-star",
+   "name": "Red Star Belgrade",
+   "name_ar": "النجم الأحمر",
+   "league": "Europe's giants",
+   "country": "SRB",
+   "timezone": "Europe/Belgrade",
+   "city": "Beograd",
+   "stadium": "Rajko Mitić",
+   "european_competition": "UECL",
+   "colors": [
+    "#D2122E",
+    "#FFFFFF",
+    "#D2122E"
+   ],
+   "flag_css": "linear-gradient(90deg,#D2122E 0.0% 20.0%,#FFFFFF 20.0% 40.0%,#D2122E 40.0% 60.0%,#FFFFFF 60.0% 80.0%,#D2122E 80.0% 100.0%)",
+   "official_site": "https://www.crvenazvezdafk.com",
+   "official_tickets": "https://crvenazvezda.iticket.rs/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/red-star.html",
+    "en": "https://ticketwhistle.com/en/tickets/red-star.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/red-star.html",
+    "it": "https://ticketwhistle.com/it/biglietti/red-star.html",
+    "fr": "https://ticketwhistle.com/fr/billets/red-star.html",
+    "de": "https://ticketwhistle.com/de/tickets/red-star.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "partizan",
+   "name": "Partizan",
+   "name_ar": "بارتيزان",
+   "league": "Europe's giants",
+   "country": "SRB",
+   "timezone": "Europe/Belgrade",
+   "city": "Beograd",
+   "stadium": "Stadion Partizana",
+   "european_competition": null,
+   "colors": [
+    "#111111",
+    "#FFFFFF",
+    "#111111"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0.0% 20.0%,#FFFFFF 20.0% 40.0%,#111111 40.0% 60.0%,#FFFFFF 60.0% 80.0%,#111111 80.0% 100.0%)",
+   "official_site": "https://www.partizan.rs",
+   "official_tickets": "https://www.ticketline.rs/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/partizan.html",
+    "en": "https://ticketwhistle.com/en/tickets/partizan.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/partizan.html",
+    "it": "https://ticketwhistle.com/it/biglietti/partizan.html",
+    "fr": "https://ticketwhistle.com/fr/billets/partizan.html",
+    "de": "https://ticketwhistle.com/de/tickets/partizan.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "anderlecht",
+   "name": "RSC Anderlecht",
+   "name_ar": "أندرلخت",
+   "league": "Europe's giants",
+   "country": "BEL",
+   "timezone": "Europe/Brussels",
+   "city": "Brussel",
+   "stadium": "Lotto Park",
+   "european_competition": "UEL",
+   "colors": [
+    "#4B2E83",
+    "#FFFFFF",
+    "#4B2E83"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#4B2E83 9%)",
+   "official_site": "https://www.rsca.be",
+   "official_tickets": "https://www.rsca.be/nl/ticketing/match-tickets",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/anderlecht.html",
+    "en": "https://ticketwhistle.com/en/tickets/anderlecht.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/anderlecht.html",
+    "it": "https://ticketwhistle.com/it/biglietti/anderlecht.html",
+    "fr": "https://ticketwhistle.com/fr/billets/anderlecht.html",
+    "de": "https://ticketwhistle.com/de/tickets/anderlecht.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "olympiacos",
+   "name": "Olympiacos",
+   "name_ar": "أولمبياكوس",
+   "league": "Europe's giants",
+   "country": "GRE",
+   "timezone": "Europe/Athens",
+   "city": "Piraeus",
+   "stadium": "Karaiskakis Stadium",
+   "european_competition": "UEL",
+   "colors": [
+    "#D2122E",
+    "#FFFFFF",
+    "#D2122E"
+   ],
+   "flag_css": "linear-gradient(90deg,#D2122E 0.0% 20.0%,#FFFFFF 20.0% 40.0%,#D2122E 40.0% 60.0%,#FFFFFF 60.0% 80.0%,#D2122E 80.0% 100.0%)",
+   "official_site": "https://www.olympiacos.org",
+   "official_tickets": "https://olympiacos.more.com/gr-en/tickets/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/olympiacos.html",
+    "en": "https://ticketwhistle.com/en/tickets/olympiacos.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/olympiacos.html",
+    "it": "https://ticketwhistle.com/it/biglietti/olympiacos.html",
+    "fr": "https://ticketwhistle.com/fr/billets/olympiacos.html",
+    "de": "https://ticketwhistle.com/de/tickets/olympiacos.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "dynamo-kyiv",
+   "name": "Dynamo Kyiv",
+   "name_ar": "دينامو كييف",
+   "league": "Europe's giants",
+   "country": "UKR",
+   "timezone": "Europe/Kyiv",
+   "city": "Kyiv",
+   "stadium": "Valeriy Lobanovskyi Stadium",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#0047AB",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#0047AB 0% 9%,#FFFFFF 9%)",
+   "official_site": "https://fcdynamo.com",
+   "official_tickets": "https://kyiv.ticketsbox.com/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/dynamo-kyiv.html",
+    "en": "https://ticketwhistle.com/en/tickets/dynamo-kyiv.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/dynamo-kyiv.html",
+    "it": "https://ticketwhistle.com/it/biglietti/dynamo-kyiv.html",
+    "fr": "https://ticketwhistle.com/fr/billets/dynamo-kyiv.html",
+    "de": "https://ticketwhistle.com/de/tickets/dynamo-kyiv.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "dinamo-zagreb",
+   "name": "Dinamo Zagreb",
+   "name_ar": "دينامو زغرب",
+   "league": "Europe's giants",
+   "country": "CRO",
+   "timezone": "Europe/Zagreb",
+   "city": "Zagreb",
+   "stadium": "Stadion Maksimir",
+   "european_competition": "UEL",
+   "colors": [
+    "#0046AD",
+    "#FFFFFF",
+    "#0046AD"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#0046AD 9%)",
+   "official_site": "https://gnkdinamo.hr",
+   "official_tickets": "https://gnkdinamo.hr/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/dinamo-zagreb.html",
+    "en": "https://ticketwhistle.com/en/tickets/dinamo-zagreb.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/dinamo-zagreb.html",
+    "it": "https://ticketwhistle.com/it/biglietti/dinamo-zagreb.html",
+    "fr": "https://ticketwhistle.com/fr/billets/dinamo-zagreb.html",
+    "de": "https://ticketwhistle.com/de/tickets/dinamo-zagreb.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "copenhagen",
+   "name": "FC Copenhagen",
+   "name_ar": "كوبنهاغن",
+   "league": "Europe's giants",
+   "country": "DEN",
+   "timezone": "Europe/Copenhagen",
+   "city": "København",
+   "stadium": "Parken",
+   "european_competition": "UECL",
+   "colors": [
+    "#FFFFFF",
+    "#003DA5",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#003DA5 0% 9%,#FFFFFF 9%)",
+   "official_site": "https://fck.dk",
+   "official_tickets": "https://billet.fck.dk/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/copenhagen.html",
+    "en": "https://ticketwhistle.com/en/tickets/copenhagen.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/copenhagen.html",
+    "it": "https://ticketwhistle.com/it/biglietti/copenhagen.html",
+    "fr": "https://ticketwhistle.com/fr/billets/copenhagen.html",
+    "de": "https://ticketwhistle.com/de/tickets/copenhagen.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "brondby",
+   "name": "Brøndby IF",
+   "name_ar": "بروندبي",
+   "league": "Europe's giants",
+   "country": "DEN",
+   "timezone": "Europe/Copenhagen",
+   "city": "Brøndby",
+   "stadium": "Brøndby Stadion",
+   "european_competition": null,
+   "colors": [
+    "#FFD100",
+    "#002F6C",
+    "#FFD100"
+   ],
+   "flag_css": "linear-gradient(90deg,#002F6C 0% 9%,#FFD100 9%)",
+   "official_site": "https://brondby.com",
+   "official_tickets": "https://billet.brondby.com/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/brondby.html",
+    "en": "https://ticketwhistle.com/en/tickets/brondby.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/brondby.html",
+    "it": "https://ticketwhistle.com/it/biglietti/brondby.html",
+    "fr": "https://ticketwhistle.com/fr/billets/brondby.html",
+    "de": "https://ticketwhistle.com/de/tickets/brondby.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "malmo",
+   "name": "Malmö FF",
+   "name_ar": "مالمو",
+   "league": "Europe's giants",
+   "country": "SWE",
+   "timezone": "Europe/Stockholm",
+   "city": "Malmö",
+   "stadium": "Eleda Stadion",
+   "european_competition": null,
+   "colors": [
+    "#7CC1E7",
+    "#FFFFFF",
+    "#7CC1E7"
+   ],
+   "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#7CC1E7 9%)",
+   "official_site": "https://www.mff.se",
+   "official_tickets": "https://www.mff.se/biljett/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/malmo.html",
+    "en": "https://ticketwhistle.com/en/tickets/malmo.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/malmo.html",
+    "it": "https://ticketwhistle.com/it/biglietti/malmo.html",
+    "fr": "https://ticketwhistle.com/fr/billets/malmo.html",
+    "de": "https://ticketwhistle.com/de/tickets/malmo.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "bodo-glimt",
+   "name": "Bodø/Glimt",
+   "name_ar": "بودو غليمت",
+   "league": "Europe's giants",
+   "country": "NOR",
+   "timezone": "Europe/Oslo",
+   "city": "Bodø",
+   "stadium": "Aspmyra Stadion",
+   "european_competition": "UCL",
+   "colors": [
+    "#FFE500",
+    "#111111",
+    "#FFE500"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0% 9%,#FFE500 9%)",
+   "official_site": "https://www.glimt.no",
+   "official_tickets": "https://www.glimt.no/billetter",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/bodo-glimt.html",
+    "en": "https://ticketwhistle.com/en/tickets/bodo-glimt.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/bodo-glimt.html",
+    "it": "https://ticketwhistle.com/it/biglietti/bodo-glimt.html",
+    "fr": "https://ticketwhistle.com/fr/billets/bodo-glimt.html",
+    "de": "https://ticketwhistle.com/de/tickets/bodo-glimt.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
+   }
+  },
+  {
+   "id": "rosenborg",
+   "name": "Rosenborg",
+   "name_ar": "روزنبورغ",
+   "league": "Europe's giants",
+   "country": "NOR",
+   "timezone": "Europe/Oslo",
+   "city": "Trondheim",
+   "stadium": "Lerkendal Stadion",
+   "european_competition": null,
+   "colors": [
+    "#FFFFFF",
+    "#111111",
+    "#FFFFFF"
+   ],
+   "flag_css": "linear-gradient(90deg,#111111 0% 9%,#FFFFFF 9%)",
+   "official_site": "https://www.rbk.no",
+   "official_tickets": "https://billett.rbk.no/",
+   "route": "headline",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/entradas/rosenborg.html",
+    "en": "https://ticketwhistle.com/en/tickets/rosenborg.html",
+    "ar": "https://ticketwhistle.com/ar/tickets/rosenborg.html",
+    "it": "https://ticketwhistle.com/it/biglietti/rosenborg.html",
+    "fr": "https://ticketwhistle.com/fr/billets/rosenborg.html",
+    "de": "https://ticketwhistle.com/de/tickets/rosenborg.html"
+   },
+   "official_alternatives": [],
+   "sale_patterns": {
+    "sales": 0
    }
   },
   {
@@ -5523,7 +5948,9 @@
     "psv",
     "feyenoord",
     "galatasaray",
-    "fenerbahce"
+    "fenerbahce",
+    "shakhtar",
+    "bodo-glimt"
    ],
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-champions-league.html",
@@ -5556,7 +5983,10 @@
     "leverkusen",
     "benfica",
     "besiktas",
-    "celtic"
+    "celtic",
+    "anderlecht",
+    "olympiacos",
+    "dinamo-zagreb"
    ],
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-europa-league.html",
@@ -5580,7 +6010,9 @@
     "atalanta",
     "monaco",
     "freiburg",
-    "ajax"
+    "ajax",
+    "red-star",
+    "copenhagen"
    ],
    "pages": {
     "es": "https://ticketwhistle.com/es/entradas-conference-league.html",

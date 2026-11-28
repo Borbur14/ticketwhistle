@@ -1,0 +1,41 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-28T06:55:19.158433+00:00",
+ "last_scan": "2026-11-28T06:39:06.541192+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "malmo",
+  "name": "Malmö FF",
+  "name_ar": "مالمو",
+  "league": "Europe's giants",
+  "country": "SWE",
+  "timezone": "Europe/Stockholm",
+  "city": "Malmö",
+  "stadium": "Eleda Stadion",
+  "european_competition": null,
+  "colors": [
+   "#7CC1E7",
+   "#FFFFFF",
+   "#7CC1E7"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#7CC1E7 9%)",
+  "official_site": "https://www.mff.se",
+  "official_tickets": "https://www.mff.se/biljett/",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/malmo.html",
+   "en": "https://ticketwhistle.com/en/tickets/malmo.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/malmo.html",
+   "it": "https://ticketwhistle.com/it/biglietti/malmo.html",
+   "fr": "https://ticketwhistle.com/fr/billets/malmo.html",
+   "de": "https://ticketwhistle.com/de/tickets/malmo.html"
+  },
+  "official_alternatives": [],
+  "sale_patterns": {
+   "sales": 0
+  }
+ },
+ "windows": []
+}

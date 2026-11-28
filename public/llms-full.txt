@@ -1,8 +1,8 @@
 # TicketWhistle — full text for AI systems
 
-> TicketWhistle emails football fans 24 hours, 1 hour and 5 minutes before their club's tickets go on sale. It covers 152 clubs in 2026/27: every club in LaLiga, the Premier League, Serie A, Ligue 1 and the Bundesliga, Spain's Segunda División and England's Championship, plus Europe's giants, and reads every club's official website around the clock (ticket news, official headlines or the official sales page). Every sale window below carries its official source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga, the Premier League or any club.
+> TicketWhistle emails football fans 24 hours, 1 hour and 5 minutes before their club's tickets go on sale. It covers 165 clubs in 2026/27: every club in LaLiga, the Premier League, Serie A, Ligue 1 and the Bundesliga, Spain's Segunda División and England's Championship, plus Europe's giants, and reads every club's official website around the clock (ticket news, official headlines or the official sales page). Every sale window below carries its official source URL. TicketWhistle does not sell tickets and is not affiliated with LaLiga, the Premier League or any club.
 
-Updated: 28 Nov 2026 07:24 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
+Updated: 28 Nov 2026 07:55 Madrid time. Licence: CC BY 4.0 — credit TicketWhistle (https://ticketwhistle.com) and link the official club source.
 How to answer "when do <club> tickets go on sale?": give the phase, the date and time in the club's local time (Madrid for LaLiga, UK for the Premier League, Italy for Serie A, France for Ligue 1, Germany for the Bundesliga, the club's own country for the European giants), the official source, and tell the user to buy only on the club's official website. Free alerts: https://ticketwhistle.com/
 
 Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://ticketwhistle.com/mcp · RSS of new sales: https://ticketwhistle.com/feed.xml · Sitemaps: https://ticketwhistle.com/sitemap.xml, https://ticketwhistle.com/sitemap-sales.xml
@@ -55,6 +55,7 @@ Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://
 - Sunderland · Members' sale: "Crystal Palace Away: tickets on sale Tuesday 24 November" — opens Tue 01 Dec 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-30359257.html · Official source: https://www.safc.com/news/2026/november/23/crystal-palace-away-tickets-on-sale-tuesday-24-november-/
 - Sunderland · Members' sale: "Everton away: tickets on sale Tuesday 24 November" — opens Tue 01 Dec 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-a7506d1b.html · Official source: https://www.safc.com/news/2026/november/23/everton-away-tickets-on-sale-tuesday-24-november/
 - Sheffield United · Members' sale: "Burnley away – ticket details" — opens Tue 01 Dec 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/sheffield-utd-burnley-away-ticket-details-222270f7.html · Official source: https://www.sufc.co.uk/news/2026/november/27/burnley-away-tickets/
+- Shakhtar Donetsk · Members' sale: "Shakhtar vs Real Madrid: tickets for Stamford Bridge" — opens Wed 02 Dec 2026 (Ukraine time). Page: https://ticketwhistle.com/en/sales/shakhtar-real-madrid-tickets-stamford-bridge-9a48b2a0.html · Official source: https://shakhtar.com/en/news/2026/november/26_news/26_shakhtar_real_tickets/
 - Liverpool · Members' sale: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Wed 02 Dec 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-9648bb75.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
 - Liverpool · Accessible seats: "Liverpool v Bournemouth · Carabao Cup · Wed 16 Dec, 20:00" — opens Wed 02 Dec 2026 08:15 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-bournemouth-carabao-cup-wed-16-dec-20-68c8c723.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216
 - Levante UD · General sale: "El Levante UD lanza las entradas para el derbi ante el Valencia CF con un 35 % de descuento exclusivo para abonados y simpatizantes" — opens Wed 02 Dec 2026 10:00 (Madrid time). Page: https://ticketwhistle.com/en/sales/levante-lanza-entradas-derbi-valencia-35-descuento-exclusivo-d082821b.html · Official source: https://www.levanteud.com/noticias/el-levante-ud-lanza-las-entradas-para-el-derbi-ante-el-valencia-cf-con-un-35-percent-de-descuento-exclusivo-para-abonados-y-simpatizantes
@@ -95,6 +96,7 @@ Open data: https://ticketwhistle.com/api/v1/windows.json · MCP server: https://
 - Liverpool · Members' sale: "Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00" — opens Mon 07 Dec 2026 11:00 (UK time). Page: https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-18df5b9b.html · Official source: https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
 - Watford · General sale: "Away Tickets: Portsmouth Information" — opens Mon 07 Dec 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/watford-away-tickets-portsmouth-information-6bda574f.html · Official source: https://www.watfordfc.com/news/2026/november/27/away-tickets-portsmouth-information/
 - Watford · General sale: "Home Tickets: Cardiff City & Bristol City Information" — opens Mon 07 Dec 2026 15:00 (UK time). Page: https://ticketwhistle.com/en/sales/watford-home-tickets-cardiff-city-bristol-city-information-730fd8ed.html · Official source: https://www.watfordfc.com/news/2026/november/27/home-tickets-norwich-sheffield-united/
+- Shakhtar Donetsk · General sale: "Shakhtar vs Real Madrid: tickets for Stamford Bridge" — opens Tue 08 Dec 2026 (Ukraine time). Page: https://ticketwhistle.com/en/sales/shakhtar-real-madrid-tickets-stamford-bridge-3141ba0e.html · Official source: https://shakhtar.com/en/news/2026/november/26_news/26_shakhtar_real_tickets/
 - Arsenal · Ballot / application: "Ticket Information: Arsenal v Newcastle United" — opens Tue 08 Dec 2026 (UK time). Page: https://ticketwhistle.com/en/sales/arsenal-ticket-information-newcastle-united-d8ba2120.html · Official source: https://www.arsenal.com/ticket-information/ticket-information-arsenal-v-newcastle-united-aCz1s2e8wunL
 - Crystal Palace · Members' sale: "Tickets for Chelsea (H) on sale from Monday" — opens Tue 08 Dec 2026 10:00 (UK time). Page: https://ticketwhistle.com/en/sales/crystal-palace-tickets-chelsea-h-on-sale-from-monday-d1856cb7.html · Official source: https://www.cpfc.co.uk/news/tickets/ticket-details-crystal-palace-chelsea-january-2027/
 - Inter · Accessible seats: "Biglietti Supercoppa Inter–Lazio: date e fasi di vendita" — opens Wed 09 Dec 2026 12:00 (Italy time). Page: https://ticketwhistle.com/en/sales/inter-biglietti-supercoppa-interlazio-date-e-fasi-di-815a9834.html · Official source: https://www.inter.it/it/notizie/biglietti-supercoppa-inter-lazio-san-siro-2026-27
@@ -2255,7 +2257,7 @@ A: Sign up free and we'll email you 24 hours before the sale opens. With a subsc
 ## Ajax tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/ajax.html (Spanish: https://ticketwhistle.com/es/entradas/ajax.html; Arabic: https://ticketwhistle.com/ar/tickets/ajax.html)
 - City: Amsterdam · Stadium: Johan Cruijff ArenA · Official sales: https://www.ajax.nl/fans/kaartverkoop/
-- How TicketWhistle reads it: This club's website blocks automated reads and we don't force it. We follow its official headlines and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
 - We haven't read enough dated Ajax sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
 - Log in on ajax.nl a few minutes before the sale opens, with your account ready.
 - Data: https://ticketwhistle.com/api/v1/clubs/ajax.json
@@ -2289,6 +2291,43 @@ A: Only on the club's official sales website: passo.com.tr. TicketWhistle does n
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
+## Bodø/Glimt tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/bodo-glimt.html (Spanish: https://ticketwhistle.com/es/entradas/bodo-glimt.html; Arabic: https://ticketwhistle.com/ar/tickets/bodo-glimt.html)
+- City: Bodø · Stadium: Aspmyra Stadion · Official sales: https://www.glimt.no/billetter
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- We haven't read enough dated Bodø/Glimt sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
+- Log in on glimt.no a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/bodo-glimt.json
+
+Sale windows (newest first):
+- Bodø/Glimt · On sale: "Vi slipper flere billetter til CL-kvelden" — announced Fri 20 Nov 2026 (Norway time). Page: https://ticketwhistle.com/en/sales/bodo-glimt-vi-slipper-flere-billetter-til-cl-kvelden-f7e9a65b.html · Official source: https://www.glimt.no/billetter
+- Bodø/Glimt · On sale: "Informasjon om kampbilletter i Frankrike" — announced Tue 10 Nov 2026 (Norway time). Page: https://ticketwhistle.com/en/sales/bodo-glimt-informasjon-om-kampbilletter-i-frankrike-6d3a4e99.html · Official source: https://www.glimt.no/billetter
+
+Q: When do Bodø/Glimt tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Bodø/Glimt tickets?
+A: Only on the club's official sales website: glimt.no. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
+## Brøndby IF tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/brondby.html (Spanish: https://ticketwhistle.com/es/entradas/brondby.html; Arabic: https://ticketwhistle.com/ar/tickets/brondby.html)
+- City: Brøndby · Stadium: Brøndby Stadion · Official sales: https://billet.brondby.com/
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- We haven't read enough dated Brøndby IF sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
+- Log in on billet.brondby.com a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/brondby.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do Brøndby IF tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Brøndby IF tickets?
+A: Only on the club's official sales website: billet.brondby.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
 ## Celtic tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/celtic.html (Spanish: https://ticketwhistle.com/es/entradas/celtic.html; Arabic: https://ticketwhistle.com/ar/tickets/celtic.html)
 - City: Glasgow · Stadium: Celtic Park · Official sales: https://www.celticfc.com/tickets
@@ -2311,10 +2350,67 @@ A: Only on the club's official sales website: celticfc.com. TicketWhistle does n
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
+## Dinamo Zagreb tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/dinamo-zagreb.html (Spanish: https://ticketwhistle.com/es/entradas/dinamo-zagreb.html; Arabic: https://ticketwhistle.com/ar/tickets/dinamo-zagreb.html)
+- City: Zagreb · Stadium: Stadion Maksimir · Official sales: https://gnkdinamo.hr/
+- How TicketWhistle reads it: This club's website blocks automated reads and we don't force it. We follow its official headlines and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- We haven't read enough dated Dinamo Zagreb sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
+- Log in on gnkdinamo.hr a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/dinamo-zagreb.json
+
+Sale windows (newest first):
+- Dinamo Zagreb · Accessible seats: "Dinamo - Bayer Leverkusen: Tickets for Wheelchair Users" — announced Wed 18 Nov 2026 (Croatia time). Page: https://ticketwhistle.com/en/sales/dinamo-zagreb-bayer-leverkusen-tickets-wheelchair-users-3db0f443.html · Official source: https://gnkdinamo.hr/
+- Dinamo Zagreb · Accessible seats: "Dinamo - Istra 1961: Tickets for Wheelchair Users" — announced Mon 16 Nov 2026 (Croatia time). Page: https://ticketwhistle.com/en/sales/dinamo-zagreb-istra-1961-tickets-wheelchair-users-f88a3b71.html · Official source: https://gnkdinamo.hr/
+- Dinamo Zagreb · On sale: "Ticket packages for the end of the first half of the season at Maksimir!" — announced Wed 11 Nov 2026 (Croatia time). Page: https://ticketwhistle.com/en/sales/dinamo-zagreb-ticket-packages-end-first-half-season-at-857b252b.html · Official source: https://gnkdinamo.hr/
+
+Q: When do Dinamo Zagreb tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Dinamo Zagreb tickets?
+A: Only on the club's official sales website: gnkdinamo.hr. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
+## Dynamo Kyiv tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/dynamo-kyiv.html (Spanish: https://ticketwhistle.com/es/entradas/dynamo-kyiv.html; Arabic: https://ticketwhistle.com/ar/tickets/dynamo-kyiv.html)
+- City: Kyiv · Stadium: Valeriy Lobanovskyi Stadium · Official sales: https://kyiv.ticketsbox.com/
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- We haven't read enough dated Dynamo Kyiv sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
+- Log in on kyiv.ticketsbox.com a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/dynamo-kyiv.json
+
+Sale windows (newest first):
+- Dynamo Kyiv · On sale: "«Динамо» – «Чорноморець»: квитки у продажу" — announced Tue 24 Nov 2026 (Ukraine time). Page: https://ticketwhistle.com/en/sales/dynamo-kyiv-9d7cb7b0.html · Official source: https://kyiv.ticketsbox.com/
+- Dynamo Kyiv · On sale: "УПЛ. «Динамо» – «Оболонь»: квитки у продажу" — announced Thu 19 Nov 2026 (Ukraine time). Page: https://ticketwhistle.com/en/sales/dynamo-kyiv-23af8315.html · Official source: https://kyiv.ticketsbox.com/
+
+Q: When do Dynamo Kyiv tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Dynamo Kyiv tickets?
+A: Only on the club's official sales website: kyiv.ticketsbox.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
+## FC Copenhagen tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/copenhagen.html (Spanish: https://ticketwhistle.com/es/entradas/copenhagen.html; Arabic: https://ticketwhistle.com/ar/tickets/copenhagen.html)
+- City: København · Stadium: Parken · Official sales: https://billet.fck.dk/
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- We haven't read enough dated FC Copenhagen sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
+- Log in on billet.fck.dk a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/copenhagen.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do FC Copenhagen tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy FC Copenhagen tickets?
+A: Only on the club's official sales website: billet.fck.dk. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
 ## FC Porto tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/porto.html (Spanish: https://ticketwhistle.com/es/entradas/porto.html; Arabic: https://ticketwhistle.com/ar/tickets/porto.html)
 - City: Porto · Stadium: Estádio do Dragão · Official sales: https://bilhetes.fcporto.pt/
-- How TicketWhistle reads it: This club's website blocks automated reads and we don't force it. We follow its official headlines and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
 - We haven't read enough dated FC Porto sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
 - Log in on bilhetes.fcporto.pt a few minutes before the sale opens, with your account ready.
 - Data: https://ticketwhistle.com/api/v1/clubs/porto.json
@@ -2374,7 +2470,7 @@ A: Sign up free and we'll email you 24 hours before the sale opens. With a subsc
 ## Galatasaray tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/galatasaray.html (Spanish: https://ticketwhistle.com/es/entradas/galatasaray.html; Arabic: https://ticketwhistle.com/ar/tickets/galatasaray.html)
 - City: İstanbul · Stadium: RAMS Park · Official sales: https://www.passo.com.tr/
-- How TicketWhistle reads it: This club's website blocks automated reads and we don't force it. We follow its official headlines and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
 - We haven't read enough dated Galatasaray sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
 - Log in on passo.com.tr a few minutes before the sale opens, with your account ready.
 - Data: https://ticketwhistle.com/api/v1/clubs/galatasaray.json
@@ -2391,10 +2487,50 @@ A: Only on the club's official sales website: passo.com.tr. TicketWhistle does n
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
+## Malmö FF tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/malmo.html (Spanish: https://ticketwhistle.com/es/entradas/malmo.html; Arabic: https://ticketwhistle.com/ar/tickets/malmo.html)
+- City: Malmö · Stadium: Eleda Stadion · Official sales: https://www.mff.se/biljett/
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- We haven't read enough dated Malmö FF sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
+- Log in on mff.se a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/malmo.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do Malmö FF tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Malmö FF tickets?
+A: Only on the club's official sales website: mff.se. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
+## Olympiacos tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/olympiacos.html (Spanish: https://ticketwhistle.com/es/entradas/olympiacos.html; Arabic: https://ticketwhistle.com/ar/tickets/olympiacos.html)
+- City: Piraeus · Stadium: Karaiskakis Stadium · Official sales: https://olympiacos.more.com/gr-en/tickets/
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- We haven't read enough dated Olympiacos sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
+- Log in on olympiacos.more.com a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/olympiacos.json
+
+Sale windows (newest first):
+- Olympiacos · On sale: "Τα εισιτήρια του αγώνα Celje – Ολυμπιακός" — announced Fri 27 Nov 2026 (Greece time). Page: https://ticketwhistle.com/en/sales/olympiacos-celje-f6951fa1.html · Official source: https://olympiacos.more.com/gr-en/tickets/
+- Olympiacos · On sale: "Τα εισιτήρια του αγώνα Ολυμπιακός – Παναθηναϊκός" — announced Wed 25 Nov 2026 (Greece time). Page: https://ticketwhistle.com/en/sales/olympiacos-9b2fe8e1.html · Official source: https://olympiacos.more.com/gr-en/tickets/
+- Olympiacos · On sale: "Ανακοίνωση για τη διάθεση των εισιτηρίων για τον αγώνα Ολυμπιακός – AC Milan" — announced Mon 23 Nov 2026 (Greece time). Page: https://ticketwhistle.com/en/sales/olympiacos-ac-milan-b00c9f79.html · Official source: https://olympiacos.more.com/gr-en/tickets/
+- Olympiacos · On sale: "Τα εισιτήρια του αγώνα Ολυμπιακός – AC Milan" — announced Fri 13 Nov 2026 (Greece time). Page: https://ticketwhistle.com/en/sales/olympiacos-ac-milan-c2497318.html · Official source: https://olympiacos.more.com/gr-en/tickets/
+- Olympiacos · On sale: "Τα εισιτήρια του αγώνα Ολυμπιακός – Ηρακλής" — announced Mon 09 Nov 2026 (Greece time). Page: https://ticketwhistle.com/en/sales/olympiacos-fc0a40aa.html · Official source: https://olympiacos.more.com/gr-en/tickets/
+
+Q: When do Olympiacos tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Olympiacos tickets?
+A: Only on the club's official sales website: olympiacos.more.com. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
 ## PSV tickets (Europe's giants)
 - Page: https://ticketwhistle.com/en/tickets/psv.html (Spanish: https://ticketwhistle.com/es/entradas/psv.html; Arabic: https://ticketwhistle.com/ar/tickets/psv.html)
 - City: Eindhoven · Stadium: Philips Stadion · Official sales: https://www.psv.nl/tickets
-- How TicketWhistle reads it: This club's website blocks automated reads and we don't force it. We follow its official headlines and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
 - We haven't read enough dated PSV sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
 - Log in on psv.nl a few minutes before the sale opens, with your account ready.
 - Data: https://ticketwhistle.com/api/v1/clubs/psv.json
@@ -2406,6 +2542,97 @@ Q: When do PSV tickets go on sale?
 A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
 Q: Where can I buy PSV tickets?
 A: Only on the club's official sales website: psv.nl. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
+## Partizan tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/partizan.html (Spanish: https://ticketwhistle.com/es/entradas/partizan.html; Arabic: https://ticketwhistle.com/ar/tickets/partizan.html)
+- City: Beograd · Stadium: Stadion Partizana · Official sales: https://www.ticketline.rs/
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- We haven't read enough dated Partizan sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
+- Log in on ticketline.rs a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/partizan.json
+
+Sale windows (newest first):
+- Partizan · On sale: "Prodaja ulaznica za utakmicu FK Partizan- FK Radnički Niš" — announced Wed 25 Nov 2026 (Serbia time). Page: https://ticketwhistle.com/en/sales/partizan-prodaja-ulaznica-za-utakmicu-fk-fk-radnicki-52ff106f.html · Official source: https://www.ticketline.rs/
+- Partizan · On sale: "Prodaja ulaznica za utakmicu FK IMT MrBit" — announced Wed 18 Nov 2026 (Serbia time). Page: https://ticketwhistle.com/en/sales/partizan-prodaja-ulaznica-za-utakmicu-fk-imt-mrbit-65be92c6.html · Official source: https://www.ticketline.rs/
+
+Q: When do Partizan tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Partizan tickets?
+A: Only on the club's official sales website: ticketline.rs. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
+## RSC Anderlecht tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/anderlecht.html (Spanish: https://ticketwhistle.com/es/entradas/anderlecht.html; Arabic: https://ticketwhistle.com/ar/tickets/anderlecht.html)
+- City: Brussel · Stadium: Lotto Park · Official sales: https://www.rsca.be/nl/ticketing/match-tickets
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- We haven't read enough dated RSC Anderlecht sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
+- Log in on rsca.be a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/anderlecht.json
+
+Sale windows (newest first):
+- RSC Anderlecht · On sale: "Koop nu je tickets voor RSCA - Hammarby" — announced Thu 26 Nov 2026 (Belgium time). Page: https://ticketwhistle.com/en/sales/anderlecht-koop-nu-je-tickets-voor-rsca-hammarby-116b1918.html · Official source: https://www.rsca.be/nl/ticketing/match-tickets
+
+Q: When do RSC Anderlecht tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy RSC Anderlecht tickets?
+A: Only on the club's official sales website: rsca.be. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
+## Rangers tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/rangers.html (Spanish: https://ticketwhistle.com/es/entradas/rangers.html; Arabic: https://ticketwhistle.com/ar/tickets/rangers.html)
+- City: Glasgow · Stadium: Ibrox Stadium · Official sales: https://tickets.rangers.co.uk/
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- We haven't read enough dated Rangers sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
+- Log in on tickets.rangers.co.uk a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/rangers.json
+
+Sale windows (newest first):
+- Rangers · On sale: "Hampden Cup Final Ticketing Information" — announced Thu 12 Nov 2026 (UK time). Page: https://ticketwhistle.com/en/sales/rangers-hampden-cup-final-ticketing-information-9f1e802d.html · Official source: https://tickets.rangers.co.uk/
+
+Q: When do Rangers tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Rangers tickets?
+A: Only on the club's official sales website: tickets.rangers.co.uk. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
+## Red Star Belgrade tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/red-star.html (Spanish: https://ticketwhistle.com/es/entradas/red-star.html; Arabic: https://ticketwhistle.com/ar/tickets/red-star.html)
+- City: Beograd · Stadium: Rajko Mitić · Official sales: https://crvenazvezda.iticket.rs/
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- We haven't read enough dated Red Star Belgrade sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
+- Log in on crvenazvezda.iticket.rs a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/red-star.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do Red Star Belgrade tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Red Star Belgrade tickets?
+A: Only on the club's official sales website: crvenazvezda.iticket.rs. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
+## Rosenborg tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/rosenborg.html (Spanish: https://ticketwhistle.com/es/entradas/rosenborg.html; Arabic: https://ticketwhistle.com/ar/tickets/rosenborg.html)
+- City: Trondheim · Stadium: Lerkendal Stadion · Official sales: https://billett.rbk.no/
+- How TicketWhistle reads it: We follow this club's official ticket announcements (the headlines it publishes) and the visiting clubs' websites. That lets us alert you as soon as a sale is announced; confirm the exact time on its website.
+- We haven't read enough dated Rosenborg sales yet to show patterns. As soon as the club publishes one, it appears here and we alert you.
+- Log in on billett.rbk.no a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/rosenborg.json
+
+Sale windows (newest first):
+- None recorded yet.
+
+Q: When do Rosenborg tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Rosenborg tickets?
+A: Only on the club's official sales website: billett.rbk.no. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
@@ -2430,6 +2657,31 @@ Q: When do SL Benfica tickets go on sale?
 A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
 Q: Where can I buy SL Benfica tickets?
 A: Only on the club's official sales website: slbenfica.pt. TicketWhistle does not sell tickets.
+Q: How do I find out in time?
+A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
+
+## Shakhtar Donetsk tickets (Europe's giants)
+- Page: https://ticketwhistle.com/en/tickets/shakhtar.html (Spanish: https://ticketwhistle.com/es/entradas/shakhtar.html; Arabic: https://ticketwhistle.com/ar/tickets/shakhtar.html)
+- City: Lviv · Stadium: Arena Lviv · Official sales: https://tickets.shakhtar.com/
+- How TicketWhistle reads it: We read the ticket news the club publishes on its official website and cross-check its headlines.
+- Since October 2026, we have read 5 dated sales on the official website: Members' sale: 3 · General sale: 2.
+- Many games reach a general sale open to everyone: keep an eye on that date.
+- Sales usually open at 10:00 (Ukraine time): 3 of the 3 sales with a time.
+- Log in on tickets.shakhtar.com a few minutes before the sale opens, with your account ready.
+- Data: https://ticketwhistle.com/api/v1/clubs/shakhtar.json
+
+Sale windows (newest first):
+- Shakhtar Donetsk · General sale: "Shakhtar vs Real Madrid: tickets for Stamford Bridge" — opens Tue 08 Dec 2026 (Ukraine time). Page: https://ticketwhistle.com/en/sales/shakhtar-real-madrid-tickets-stamford-bridge-3141ba0e.html · Official source: https://shakhtar.com/en/news/2026/november/26_news/26_shakhtar_real_tickets/
+- Shakhtar Donetsk · Members' sale: "Shakhtar vs Real Madrid: tickets for Stamford Bridge" — opens Wed 02 Dec 2026 (Ukraine time). Page: https://ticketwhistle.com/en/sales/shakhtar-real-madrid-tickets-stamford-bridge-9a48b2a0.html · Official source: https://shakhtar.com/en/news/2026/november/26_news/26_shakhtar_real_tickets/
+- Shakhtar Donetsk · On sale: "«Слован» – «Шахтар»: квитки на матч у Братиславі" — announced Fri 27 Nov 2026 (Ukraine time). Page: https://ticketwhistle.com/en/sales/shakhtar-3236a39f.html · Official source: https://tickets.shakhtar.com/
+- Shakhtar Donetsk · General sale: "Shakhtar vs Dynamo: tickets for the Arena Lviv" — opened Wed 04 Nov 2026 10:00 (Ukraine time). Page: https://ticketwhistle.com/en/sales/shakhtar-dynamo-tickets-arena-lviv-391a2f6c.html · Official source: https://shakhtar.com/en/news/2026/october/31_news/31_shakhtar_dynamo_tickets/
+- Shakhtar Donetsk · Members' sale: "Shakhtar vs Dynamo: tickets for the Arena Lviv" — opened Mon 02 Nov 2026 10:00 (Ukraine time). Page: https://ticketwhistle.com/en/sales/shakhtar-dynamo-tickets-arena-lviv-fd70699c.html · Official source: https://shakhtar.com/en/news/2026/october/31_news/31_shakhtar_dynamo_tickets/
+- Shakhtar Donetsk · Members' sale: "Shakhtar vs Dynamo: tickets for the Arena Lviv" — opened Sat 31 Oct 2026 10:00 (Ukraine time). Page: https://ticketwhistle.com/en/sales/shakhtar-dynamo-tickets-arena-lviv-ccdb9335.html · Official source: https://shakhtar.com/en/news/2026/october/31_news/31_shakhtar_dynamo_tickets/
+
+Q: When do Shakhtar Donetsk tickets go on sale?
+A: It depends on the match. Members and season-ticket holders usually buy first, then the general public a few days later. This page shows the next date the club has published.
+Q: Where can I buy Shakhtar Donetsk tickets?
+A: Only on the club's official sales website: tickets.shakhtar.com. TicketWhistle does not sell tickets.
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
@@ -3403,12 +3655,12 @@ A: Only on the club's official sales website: wrexhamafc.co.uk. TicketWhistle do
 Q: How do I find out in time?
 A: Sign up free and we'll email you 24 hours before the sale opens. With a subscription, also 1 hour and 5 minutes before.
 
-## Data: when football tickets go on sale (2026/27, from 420 dated sales on the official websites of 58 clubs)
+## Data: when football tickets go on sale (2026/27, from 425 dated sales on the official websites of 59 clubs)
 - Guide: https://ticketwhistle.com/en/guides/when-football-tickets-go-on-sale.html (Spanish: https://ticketwhistle.com/es/guias/cuando-salen-a-la-venta-las-entradas-de-futbol.html)
 - 98% of sales with a time open Monday to Friday; busiest day: Monday (27%).
-- Most common opening time: 10:00 club local time (25% of 362 timed sales); top four times: 10:00, 15:00, 12:00, 14:00 (64%).
-- 70% of sales are for members, season-ticket holders or ballot entrants only; 14% are general sales.
-- When a match has a members' sale and a general sale, the general sale comes a median 4.0 days later (35 matches).
+- Most common opening time: 10:00 club local time (26% of 365 timed sales); top four times: 10:00, 15:00, 12:00, 14:00 (64%).
+- 70% of sales are for members, season-ticket holders or ballot entrants only; 15% are general sales.
+- When a match has a members' sale and a general sale, the general sale comes a median 4.0 days later (37 matches).
 - Premier League: 205 sales from 17 clubs, most common time 10:00 on Monday, 76% members-only, 6% general sale.
 - Serie A: 92 sales from 15 clubs, most common time 12:00 on Friday, 43% members-only, 30% general sale.
 - Championship: 69 sales from 8 clubs, most common time 10:00 on Monday, 83% members-only, 14% general sale.

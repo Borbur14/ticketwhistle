@@ -1,0 +1,73 @@
+{
+ "publisher": "TicketWhistle",
+ "site": "https://ticketwhistle.com",
+ "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
+ "generated_at": "2026-11-28T06:55:19.158433+00:00",
+ "last_scan": "2026-11-28T06:39:06.541192+00:00",
+ "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
+ "club": {
+  "id": "rangers",
+  "name": "Rangers",
+  "name_ar": "رينجرز",
+  "league": "Europe's giants",
+  "country": "SCO",
+  "timezone": "Europe/London",
+  "city": "Glasgow",
+  "stadium": "Ibrox Stadium",
+  "european_competition": null,
+  "colors": [
+   "#1B458F",
+   "#FFFFFF",
+   "#D2122E"
+  ],
+  "flag_css": "linear-gradient(90deg,#FFFFFF 0% 9%,#D2122E 9% 15%,#1B458F 15%)",
+  "official_site": "https://www.rangers.co.uk",
+  "official_tickets": "https://tickets.rangers.co.uk/",
+  "route": "headline",
+  "pages": {
+   "es": "https://ticketwhistle.com/es/entradas/rangers.html",
+   "en": "https://ticketwhistle.com/en/tickets/rangers.html",
+   "ar": "https://ticketwhistle.com/ar/tickets/rangers.html",
+   "it": "https://ticketwhistle.com/it/biglietti/rangers.html",
+   "fr": "https://ticketwhistle.com/fr/billets/rangers.html",
+   "de": "https://ticketwhistle.com/de/tickets/rangers.html"
+  },
+  "official_alternatives": [],
+  "sale_patterns": {
+   "sales": 0
+  }
+ },
+ "windows": [
+  {
+   "id": "9f1e802d51f5c734",
+   "club_id": "rangers",
+   "club": "Rangers",
+   "title": "Hampden Cup Final Ticketing Information",
+   "phase": "on_sale",
+   "phase_label_en": "On sale",
+   "opens_at": null,
+   "announced_at": "2026-11-12T08:00:00+00:00",
+   "has_time": false,
+   "timezone": "Europe/London",
+   "league": "Europe's giants",
+   "competition": null,
+   "status": "on_sale_or_announced",
+   "source_url": "https://tickets.rangers.co.uk/",
+   "source_kind": "headline",
+   "two_sources": false,
+   "first_seen": "2026-11-28T06:39:06.541192+00:00",
+   "last_checked": "2026-11-28T06:39:06.541192+00:00",
+   "club_page": "https://ticketwhistle.com/en/tickets/rangers.html",
+   "official_tickets": "https://tickets.rangers.co.uk/",
+   "slug": "rangers-hampden-cup-final-ticketing-information-9f1e802d",
+   "pages": {
+    "es": "https://ticketwhistle.com/es/ventas/rangers-hampden-cup-final-ticketing-information-9f1e802d.html",
+    "en": "https://ticketwhistle.com/en/sales/rangers-hampden-cup-final-ticketing-information-9f1e802d.html",
+    "ar": "https://ticketwhistle.com/ar/sales/rangers-hampden-cup-final-ticketing-information-9f1e802d.html",
+    "it": "https://ticketwhistle.com/it/vendite/rangers-hampden-cup-final-ticketing-information-9f1e802d.html",
+    "fr": "https://ticketwhistle.com/fr/ventes/rangers-hampden-cup-final-ticketing-information-9f1e802d.html",
+    "de": "https://ticketwhistle.com/de/verkauf/rangers-hampden-cup-final-ticketing-information-9f1e802d.html"
+   }
+  }
+ ]
+}
