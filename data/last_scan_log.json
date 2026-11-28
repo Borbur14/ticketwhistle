@@ -1,13 +1,13 @@
 {
- "brighton": [
-  "https://www.brightonandhovealbion.com 200",
+ "man-utd": [
+  "https://www.manutd.com/sitemaps/sitemap/0.xml 200",
   "gnews 200"
  ],
  "spurs": [
   "https://www.tottenhamhotspur.com/news/1076534/ticket-information-on-sale-dates-for-our-202627-premier-league-home-fixtures 200"
  ],
- "man-utd": [
-  "https://www.manutd.com/sitemaps/sitemap/0.xml 200",
+ "brighton": [
+  "https://www.brightonandhovealbion.com 200",
   "gnews 200"
  ],
  "man-city": [
@@ -21,30 +21,80 @@
   "https://www.psg.fr/sitemap.xml 200",
   "gnews 200"
  ],
+ "crystal-palace": [
+  "https://www.cpfc.co.uk/news/tickets/ 200"
+ ],
  "barcelona": [
   "https://www.fcbarcelona.com/en/tickets/football/regular/champions-league 200",
   "gnews 200"
  ],
- "brentford": [
-  "https://www.brentfordfc.com/sitemaps/sitemap/0.xml 200"
- ],
  "chelsea": [
   "https://www.chelseafc.com/en/sitemap.xml 200"
- ],
- "crystal-palace": [
-  "https://www.cpfc.co.uk/news/tickets/ 200"
  ],
  "leeds": [
   "https://www.leedsunited.com/sitemaps/sitemap/0.xml 200"
  ],
- "newcastle": [
-  "https://www.newcastleunited.com/sitemaps/latest-news-sitemap.xml 200"
+ "brentford": [
+  "https://www.brentfordfc.com/sitemaps/sitemap/0.xml 200"
  ],
  "aston-villa": [
   "https://www.avfc.co.uk/news/tickets 200"
  ],
  "liverpool": [
   "https://www.liverpoolfc.com/tickets?category=mens 200"
+ ],
+ "newcastle": [
+  "https://www.newcastleunited.com/sitemaps/latest-news-sitemap.xml 200"
+ ],
+ "dortmund": [
+  "https://www.bvb.de/de/en/tickets/ticket-information/presale-schedule.html 200",
+  "gnews 200"
+ ],
+ "atletico": [
+  "https://www.atleticodemadrid.com 403",
+  "gnews 200"
+ ],
+ "arsenal": [
+  "https://www.arsenal.com/sitemaps/articles/sitemap.xml 200"
+ ],
+ "ipswich": [
+  "https://www.itfc.co.uk/sitemap.xml 200",
+  "gnews 200"
+ ],
+ "bayern": [
+  "https://fcbayern.com/de/news/ticketing ERROR ReadTimeout",
+  "gnews 200"
+ ],
+ "stuttgart": [
+  "https://www.vfb.de/sitemap.xml 200",
+  "gnews 200"
+ ],
+ "inter": [
+  "https://www.inter.it/it/notizie/categoria/stadio-e-biglietti 200",
+  "gnews 200"
+ ],
+ "sporting": [
+  "gnews 200"
+ ],
+ "napoli": [
+  "https://sscnapoli.it/news/ 200",
+  "gnews 200"
+ ],
+ "como": [
+  "https://comofootball.com/sitemap.xml 200",
+  "gnews 200"
+ ],
+ "galatasaray": [
+  "gnews 200"
+ ],
+ "fenerbahce": [
+  "gnews 200"
+ ],
+ "psv": [
+  "gnews 200"
+ ],
+ "besiktas": [
+  "gnews 200"
  ],
  "lille": [
   "https://www.losc.fr/actualites 200",
@@ -54,33 +104,11 @@
   "https://www.asroma.com/sitemaps/news-sitemap-it.xml 200",
   "gnews 200"
  ],
- "arsenal": [
-  "https://www.arsenal.com/sitemaps/articles/sitemap.xml 200"
- ],
- "atletico": [
-  "https://www.atleticodemadrid.com 403",
+ "lens": [
+  "https://www.rclens.fr/sitemap.club-fr.xml 200",
   "gnews 200"
  ],
- "stuttgart": [
-  "https://www.vfb.de/sitemap.xml 200",
-  "gnews 200"
- ],
- "ipswich": [
-  "https://www.itfc.co.uk/sitemap.xml 200",
-  "gnews 200"
- ],
- "inter": [
-  "https://www.inter.it/it/notizie/categoria/stadio-e-biglietti 200",
-  "gnews 200"
- ],
- "porto": [
-  "gnews 200"
- ],
- "psv": [
-  "gnews 200"
- ],
- "dortmund": [
-  "https://www.bvb.de/de/en/tickets/ticket-information/presale-schedule.html 200",
+ "feyenoord": [
   "gnews 200"
  ],
  "villarreal": [
@@ -90,201 +118,201 @@
  "ajax": [
   "gnews 200"
  ],
- "galatasaray": [
-  "gnews 200"
- ],
- "fenerbahce": [
-  "gnews 200"
- ],
  "betis": [
   "https://www.realbetisbalompie.es/noticias 200",
   "gnews 200"
  ],
- "napoli": [
-  "https://sscnapoli.it/news/ 200",
-  "gnews 200"
- ],
  "benfica": [
-  "gnews 200"
- ],
- "besiktas": [
-  "gnews 200"
- ],
- "como": [
-  "https://comofootball.com/sitemap.xml 200",
-  "gnews 200"
- ],
- "bayern": [
-  "https://fcbayern.com/de/news/ticketing ERROR ReadTimeout",
-  "gnews 200"
- ],
- "feyenoord": [
-  "gnews 200"
- ],
- "leipzig": [
-  "https://www.rbleipzig.com/de/news/ 200",
-  "gnews 200"
- ],
- "sporting": [
-  "gnews 200"
- ],
- "athletic": [
-  "https://www.athletic-club.eus 403",
-  "gnews 200"
- ],
- "alaves": [
-  "https://www.deportivoalaves.com/sitemap-deportivo-alaves.xml 200",
-  "gnews 200"
- ],
- "lens": [
-  "https://www.rclens.fr/sitemap.club-fr.xml 200",
-  "gnews 200"
- ],
- "deportivo": [
-  "https://www.rcdeportivo.es/es/sitemap.xml 200",
-  "gnews 200"
- ],
- "levante": [
-  "https://www.levanteud.com/noticias 200",
-  "gnews 200"
- ],
- "espanyol": [
-  "https://www.rcdespanyol.com/es/noticias 200",
-  "gnews 200"
- ],
- "rayo": [
-  "https://www.rayovallecano.es/noticias 200",
   "gnews 200"
  ],
  "celtic": [
   "https://www.celticfc.com/googlenews.xml 200",
   "gnews 200"
  ],
- "getafe": [
-  "https://www.getafecf.com/noticias 200",
+ "porto": [
   "gnews 200"
  ],
- "sevilla": [
-  "https://sevillafc.es/sitemap/sitemap1.xml.gz 200",
+ "leipzig": [
+  "https://www.rbleipzig.com/de/news/ 200",
   "gnews 200"
  ],
- "malaga": [
-  "https://www.malagacf.com/noticias 200",
+ "alaves": [
+  "https://www.deportivoalaves.com/sitemap-deportivo-alaves.xml 200",
   "gnews 200"
  ],
- "elche": [
-  "https://www.elchecf.es/noticias 200",
+ "athletic": [
+  "https://www.athletic-club.eus 403",
   "gnews 200"
  ],
  "celta": [
   "https://rccelta.es/sitemap_index.xml 200",
   "gnews 200"
  ],
- "valencia": [
-  "https://www.valenciacf.com/entradas 200",
+ "levante": [
+  "https://www.levanteud.com/noticias 200",
   "gnews 200"
  ],
- "real-sociedad": [
-  "https://www.realsociedad.eus/es/noticias 200",
+ "getafe": [
+  "https://www.getafecf.com/noticias 200",
   "gnews 200"
  ],
- "fiorentina": [
-  "https://www.acffiorentina.com/ticketing/prima-squadra-maschile 200",
-  "gnews 200"
- ],
- "atalanta": [
-  "https://www.atalanta.it/sitemap-article.xml 200",
+ "espanyol": [
+  "https://www.rcdespanyol.com/es/noticias 200",
   "gnews 200"
  ],
  "osasuna": [
   "https://www.osasuna.es/sitemap.xml 200",
   "gnews 200"
  ],
- "racing": [
-  "https://realracingclub.es/sitemap.xml 200",
-  "gnews 200"
- ],
- "genoa": [
-  "https://genoacfc.it 200",
-  "gnews 200"
- ],
- "marseille": [
-  "https://www.om.fr/news-sitemap.xml 200",
-  "gnews 200"
- ],
- "angers": [
-  "https://www.angers-sco.fr/sitemap_index.xml 200",
-  "gnews 200"
- ],
- "brest": [
-  "https://www.sb29.bzh/fr_fr,sitemap.xml 200",
-  "gnews 200"
- ],
- "bologna": [
-  "https://www.bolognafc.it/biglietti/ 200",
-  "gnews 200"
- ],
- "le-mans": [
+ "atalanta": [
+  "https://www.atalanta.it/sitemap-article.xml 200",
   "gnews 200"
  ],
  "cagliari": [
   "https://www.cagliaricalcio.com 200",
   "gnews 200"
  ],
+ "elche": [
+  "https://www.elchecf.es/noticias 200",
+  "gnews 200"
+ ],
+ "real-sociedad": [
+  "https://www.realsociedad.eus/es/noticias 200",
+  "gnews 200"
+ ],
+ "deportivo": [
+  "https://www.rcdeportivo.es/es/sitemap.xml 200",
+  "gnews 200"
+ ],
+ "racing": [
+  "https://realracingclub.es/sitemap.xml 200",
+  "gnews 200"
+ ],
+ "auxerre": [
+  "gnews 200"
+ ],
+ "sevilla": [
+  "https://sevillafc.es/sitemap/sitemap1.xml.gz 200",
+  "gnews 200"
+ ],
+ "le-mans": [
+  "gnews 200"
+ ],
+ "malaga": [
+  "https://www.malagacf.com/noticias 200",
+  "gnews 200"
+ ],
+ "rayo": [
+  "https://www.rayovallecano.es/noticias 200",
+  "gnews 200"
+ ],
+ "lyon": [
+  "gnews 200"
+ ],
+ "angers": [
+  "https://www.angers-sco.fr/sitemap_index.xml 200",
+  "gnews 200"
+ ],
+ "valencia": [
+  "https://www.valenciacf.com/entradas 200",
+  "gnews 200"
+ ],
  "le-havre": [
   "https://hac.football/fr/posts 200",
+  "gnews 200"
+ ],
+ "bologna": [
+  "https://www.bolognafc.it/biglietti/ 200",
+  "gnews 200"
+ ],
+ "genoa": [
+  "https://genoacfc.it 200",
+  "gnews 200"
+ ],
+ "brest": [
+  "https://www.sb29.bzh/fr_fr,sitemap.xml 200",
+  "gnews 200"
+ ],
+ "nice": [
+  "gnews 200"
+ ],
+ "strasbourg": [
   "gnews 200"
  ],
  "frosinone": [
   "https://www.frosinonecalcio.com/sitemap_index.xml 200",
   "gnews 200"
  ],
- "auxerre": [
-  "gnews 200"
- ],
- "lyon": [
-  "gnews 200"
- ],
- "juventus": [
-  "https://www.juventus.com/it/xml-sitemap/sitemap_site.xml 200",
-  "gnews 200"
- ],
- "paris-fc": [
-  "https://www.parisfc.fr/sitemap_index.xml 200",
-  "gnews 200"
- ],
- "bremen": [
-  "gnews 200"
- ],
- "nice": [
-  "gnews 200"
- ],
- "toulouse": [
-  "gnews 200"
- ],
- "troyes": [
-  "https://www.estac.fr/sitemap_index.xml 200",
-  "gnews 200"
- ],
  "lorient": [
   "https://www.fclorient.bzh/sitemap_index.xml 200",
+  "gnews 200"
+ ],
+ "fiorentina": [
+  "https://www.acffiorentina.com/ticketing/prima-squadra-maschile 200",
   "gnews 200"
  ],
  "rennes": [
   "https://www.staderennais.com/actualites/supporters 404",
   "gnews 200"
  ],
+ "marseille": [
+  "https://www.om.fr/news-sitemap.xml 200",
+  "gnews 200"
+ ],
+ "bremen": [
+  "gnews 200"
+ ],
  "freiburg": [
   "gnews 200"
  ],
- "strasbourg": [
+ "frankfurt": [
+  "gnews 200"
+ ],
+ "toulouse": [
+  "gnews 200"
+ ],
+ "augsburg": [
+  "https://www.fcaugsburg.de/search/tag/tickets 200",
   "gnews 200"
  ],
  "gladbach": [
   "gnews 200"
  ],
+ "paris-fc": [
+  "https://www.parisfc.fr/sitemap_index.xml 200",
+  "gnews 200"
+ ],
  "monaco": [
   "https://www.asmonaco.com/sitemap.club-fr.xml 200",
+  "gnews 200"
+ ],
+ "schalke": [
+  "gnews 200"
+ ],
+ "elversberg": [
+  "https://www.sv07elversberg.de/sitemap_index.xml 200",
+  "gnews 200"
+ ],
+ "hamburg": [
+  "https://www.hsv.de/sitemap.xml 200",
+  "gnews 200"
+ ],
+ "juventus": [
+  "https://www.juventus.com/it/xml-sitemap/sitemap_site.xml 200",
+  "gnews 200"
+ ],
+ "troyes": [
+  "https://www.estac.fr/sitemap_index.xml 200",
+  "gnews 200"
+ ],
+ "paderborn": [
+  "https://www.scp07.de/Newsarchiv/ 200",
+  "gnews 200"
+ ],
+ "hoffenheim": [
+  "gnews 200"
+ ],
+ "mainz": [
   "gnews 200"
  ],
  "union-berlin": [
@@ -294,179 +322,116 @@
   "https://www.bayer04.de/sitemap/sitemap.xml 200",
   "gnews 200"
  ],
- "frankfurt": [
-  "gnews 200"
- ],
- "augsburg": [
-  "https://www.fcaugsburg.de/search/tag/tickets 200",
-  "gnews 200"
- ],
- "paderborn": [
-  "https://www.scp07.de/Newsarchiv/ 200",
-  "gnews 200"
- ],
- "monza": [
-  "https://www.acmonza.com/ 200",
-  "gnews 200"
- ],
- "hamburg": [
-  "https://www.hsv.de/sitemap.xml 200",
-  "gnews 200"
- ],
- "hoffenheim": [
-  "gnews 200"
- ],
  "koeln": [
-  "gnews 200"
- ],
- "elversberg": [
-  "https://www.sv07elversberg.de/sitemap_index.xml 200",
-  "gnews 200"
- ],
- "mainz": [
-  "gnews 200"
- ],
- "schalke": [
-  "gnews 200"
- ],
- "sassuolo": [
-  "https://www.sassuolocalcio.it/sitemap_index.xml 200",
-  "gnews 200"
- ],
- "cadiz": [
-  "gnews 200"
- ],
- "milan": [
-  "https://www.acmilan.com/it/news/articoli/ticketing 200",
-  "gnews 200"
- ],
- "lazio": [
-  "https://www.sslazio.it/it/news/biglietteria 200",
-  "gnews 200"
- ],
- "castellon": [
-  "gnews 200"
- ],
- "lecce": [
-  "https://uslecce.it/sitemap_index.xml 200",
-  "gnews 200"
- ],
- "parma": [
-  "https://www.parmacalcio1913.com/sitemap_index.xml 200",
-  "gnews 200"
- ],
- "venezia": [
-  "https://www.veneziafc.it/sitemap-article.xml 200",
-  "gnews 200"
- ],
- "eibar": [
-  "gnews 200"
- ],
- "celta-b": [
-  "gnews 200"
- ],
- "udinese": [
-  "https://www.udinese.it/news/biglietti 200",
-  "gnews 200"
- ],
- "albacete": [
-  "gnews 200"
- ],
- "girona": [
-  "gnews 200"
- ],
- "oviedo": [
-  "gnews 200"
- ],
- "leganes": [
-  "gnews 200"
- ],
- "andorra": [
-  "gnews 200"
- ],
- "almeria": [
   "gnews 200"
  ],
  "torino": [
   "https://www.torinofc.it/news/biglietteria 200",
   "gnews 200"
  ],
- "burgos": [
+ "albacete": [
   "gnews 200"
  ],
- "tenerife": [
+ "udinese": [
+  "https://www.udinese.it/news/biglietti 200",
   "gnews 200"
  ],
- "cordoba": [
+ "parma": [
+  "https://www.parmacalcio1913.com/sitemap_index.xml 200",
   "gnews 200"
  ],
- "sporting-gijon": [
+ "lecce": [
+  "https://uslecce.it/sitemap_index.xml 200",
   "gnews 200"
  ],
- "eldense": [
-  "gnews 200"
- ],
- "las-palmas": [
+ "venezia": [
+  "https://www.veneziafc.it/sitemap-article.xml 200",
   "gnews 200"
  ],
  "ceuta": [
   "gnews 200"
  ],
- "granada": [
+ "sassuolo": [
+  "https://www.sassuolocalcio.it/sitemap_index.xml 200",
   "gnews 200"
  ],
- "valladolid": [
+ "castellon": [
   "gnews 200"
  ],
- "charlton": [
+ "eldense": [
+  "gnews 200"
+ ],
+ "milan": [
+  "https://www.acmilan.com/it/news/articoli/ticketing 200",
+  "gnews 200"
+ ],
+ "burgos": [
+  "gnews 200"
+ ],
+ "andorra": [
+  "gnews 200"
+ ],
+ "girona": [
+  "gnews 200"
+ ],
+ "cordoba": [
   "gnews 200"
  ],
  "real-sociedad-b": [
   "gnews 200"
  ],
+ "granada": [
+  "gnews 200"
+ ],
  "mallorca": [
   "gnews 200"
  ],
- "stoke": [
+ "lazio": [
+  "https://www.sslazio.it/it/news/biglietteria 200",
   "gnews 200"
  ],
- "lincoln": [
+ "monza": [
+  "https://www.acmonza.com/ 200",
   "gnews 200"
  ],
- "birmingham": [
+ "tenerife": [
+  "gnews 200"
+ ],
+ "almeria": [
+  "gnews 200"
+ ],
+ "celta-b": [
+  "gnews 200"
+ ],
+ "cadiz": [
+  "gnews 200"
+ ],
+ "bristol-city": [
   "gnews 200"
  ],
  "burnley": [
+  "gnews 200"
+ ],
+ "birmingham": [
   "gnews 200"
  ],
  "sabadell": [
   "https://www.cesabadellfc.com/sitemap.xml 200",
   "gnews 200"
  ],
- "bolton": [
+ "oviedo": [
   "gnews 200"
  ],
- "qpr": [
+ "las-palmas": [
   "gnews 200"
  ],
- "bristol-city": [
+ "eibar": [
   "gnews 200"
  ],
- "derby": [
+ "leganes": [
   "gnews 200"
  ],
- "west-brom": [
-  "gnews 200"
- ],
- "southampton": [
-  "https://www.southamptonfc.com/en/news-sitemap.xml 200",
-  "gnews 200"
- ],
- "cardiff": [
-  "gnews 200"
- ],
- "norwich": [
-  "https://www.canaries.co.uk/sitemap.xml 200",
+ "valladolid": [
   "gnews 200"
  ],
  "swansea": [
@@ -475,7 +440,42 @@
  "west-ham": [
   "gnews 200"
  ],
+ "qpr": [
+  "gnews 200"
+ ],
+ "bolton": [
+  "gnews 200"
+ ],
+ "sporting-gijon": [
+  "gnews 200"
+ ],
+ "cardiff": [
+  "gnews 200"
+ ],
+ "southampton": [
+  "https://www.southamptonfc.com/en/news-sitemap.xml 200",
+  "gnews 200"
+ ],
+ "derby": [
+  "gnews 200"
+ ],
+ "lincoln": [
+  "gnews 200"
+ ],
+ "stoke": [
+  "gnews 200"
+ ],
+ "charlton": [
+  "gnews 200"
+ ],
+ "west-brom": [
+  "gnews 200"
+ ],
  "wolves": [
+  "gnews 200"
+ ],
+ "norwich": [
+  "https://www.canaries.co.uk/sitemap.xml 200",
   "gnews 200"
  ],
  "bournemouth": [

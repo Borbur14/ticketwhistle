@@ -1,0 +1,9 @@
+2026-11-28
+1140 urls
+api.indexnow.org 200
+www.bing.com 200
+yandex.com 200
+search.seznam.cz 200
+searchadvisor.naver.com 200
+indexnow.yep.com 200
+indexnow.amazonbot.amazon 200

@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T05:54:41.849588+00:00",
- "last_scan": "2026-11-28T05:39:06.086530+00:00",
+ "generated_at": "2026-11-28T06:24:44.973223+00:00",
+ "last_scan": "2026-11-28T06:09:06.783731+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "clubs": [
   {
@@ -1454,17 +1454,17 @@
    },
    "official_alternatives": [],
    "sale_patterns": {
-    "sales": 13,
-    "since": "2025-11",
+    "sales": 7,
+    "since": "2026-06",
     "phases": {
-     "general_sale": 5,
-     "member_sale": 5,
-     "on_sale": 3
+     "general_sale": 3,
+     "on_sale": 2,
+     "member_sale": 2
     },
     "mostly": "general",
     "usual_time": "15:00",
-    "usual_time_count": 6,
-    "timed": 12,
+    "usual_time_count": 4,
+    "timed": 7,
     "usual_weekday": 4
    }
   },
@@ -1497,18 +1497,12 @@
    },
    "official_alternatives": [],
    "sale_patterns": {
-    "sales": 7,
-    "since": "2025-09",
+    "sales": 2,
+    "since": "2026-06",
     "phases": {
-     "member_sale": 4,
-     "general_sale": 2,
-     "on_sale": 1
-    },
-    "mostly": "general",
-    "usual_time": "11:00",
-    "usual_time_count": 5,
-    "timed": 6,
-    "usual_weekday": 3
+     "member_sale": 1,
+     "general_sale": 1
+    }
    }
   },
   {
@@ -1870,13 +1864,7 @@
     }
    ],
    "sale_patterns": {
-    "sales": 8,
-    "since": "2025-11",
-    "phases": {
-     "ballot": 4,
-     "member_sale": 4
-    },
-    "mostly": "members"
+    "sales": 0
    }
   },
   {
@@ -2950,11 +2938,7 @@
    },
    "official_alternatives": [],
    "sale_patterns": {
-    "sales": 2,
-    "since": "2023-09",
-    "phases": {
-     "general_sale": 2
-    }
+    "sales": 0
    }
   },
   {
@@ -3662,14 +3646,13 @@
    },
    "official_alternatives": [],
    "sale_patterns": {
-    "sales": 11,
-    "since": "2010-01",
+    "sales": 8,
+    "since": "2026-11",
     "phases": {
-     "member_sale": 6,
-     "on_sale": 4,
+     "member_sale": 5,
+     "on_sale": 2,
      "general_sale": 1
     },
-    "mostly": "general",
     "usual_time": "12:00",
     "usual_time_count": 4,
     "timed": 7,
