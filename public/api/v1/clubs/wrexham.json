@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "wrexham",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/wrexham.html",
    "it": "https://ticketwhistle.com/it/biglietti/wrexham.html",
    "fr": "https://ticketwhistle.com/fr/billets/wrexham.html",
-   "de": "https://ticketwhistle.com/de/tickets/wrexham.html"
+   "de": "https://ticketwhistle.com/de/tickets/wrexham.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/wrexham.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -66,7 +67,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/wrexham.html",
    "official_tickets": "https://www.wrexhamafc.co.uk/tickets",
    "slug": "wrexham-stoke-city-afc-ticket-travel-information-631cad3d",
@@ -76,7 +77,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/wrexham-stoke-city-afc-ticket-travel-information-631cad3d.html",
     "it": "https://ticketwhistle.com/it/vendite/wrexham-stoke-city-afc-ticket-travel-information-631cad3d.html",
     "fr": "https://ticketwhistle.com/fr/ventes/wrexham-stoke-city-afc-ticket-travel-information-631cad3d.html",
-    "de": "https://ticketwhistle.com/de/verkauf/wrexham-stoke-city-afc-ticket-travel-information-631cad3d.html"
+    "de": "https://ticketwhistle.com/de/verkauf/wrexham-stoke-city-afc-ticket-travel-information-631cad3d.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/wrexham-stoke-city-afc-ticket-travel-information-631cad3d.html"
    }
   },
   {
@@ -97,7 +99,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/wrexham.html",
    "official_tickets": "https://www.wrexhamafc.co.uk/tickets",
    "slug": "wrexham-stoke-city-afc-ticket-travel-information-4e607255",
@@ -107,7 +109,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/wrexham-stoke-city-afc-ticket-travel-information-4e607255.html",
     "it": "https://ticketwhistle.com/it/vendite/wrexham-stoke-city-afc-ticket-travel-information-4e607255.html",
     "fr": "https://ticketwhistle.com/fr/ventes/wrexham-stoke-city-afc-ticket-travel-information-4e607255.html",
-    "de": "https://ticketwhistle.com/de/verkauf/wrexham-stoke-city-afc-ticket-travel-information-4e607255.html"
+    "de": "https://ticketwhistle.com/de/verkauf/wrexham-stoke-city-afc-ticket-travel-information-4e607255.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/wrexham-stoke-city-afc-ticket-travel-information-4e607255.html"
    }
   },
   {
@@ -128,7 +131,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/wrexham.html",
    "official_tickets": "https://www.wrexhamafc.co.uk/tickets",
    "slug": "wrexham-stoke-city-afc-ticket-travel-information-90f07bf4",
@@ -138,7 +141,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/wrexham-stoke-city-afc-ticket-travel-information-90f07bf4.html",
     "it": "https://ticketwhistle.com/it/vendite/wrexham-stoke-city-afc-ticket-travel-information-90f07bf4.html",
     "fr": "https://ticketwhistle.com/fr/ventes/wrexham-stoke-city-afc-ticket-travel-information-90f07bf4.html",
-    "de": "https://ticketwhistle.com/de/verkauf/wrexham-stoke-city-afc-ticket-travel-information-90f07bf4.html"
+    "de": "https://ticketwhistle.com/de/verkauf/wrexham-stoke-city-afc-ticket-travel-information-90f07bf4.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/wrexham-stoke-city-afc-ticket-travel-information-90f07bf4.html"
    }
   },
   {
@@ -159,7 +163,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/wrexham.html",
    "official_tickets": "https://www.wrexhamafc.co.uk/tickets",
    "slug": "wrexham-stoke-city-afc-ticket-travel-information-a6b88841",
@@ -169,7 +173,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/wrexham-stoke-city-afc-ticket-travel-information-a6b88841.html",
     "it": "https://ticketwhistle.com/it/vendite/wrexham-stoke-city-afc-ticket-travel-information-a6b88841.html",
     "fr": "https://ticketwhistle.com/fr/ventes/wrexham-stoke-city-afc-ticket-travel-information-a6b88841.html",
-    "de": "https://ticketwhistle.com/de/verkauf/wrexham-stoke-city-afc-ticket-travel-information-a6b88841.html"
+    "de": "https://ticketwhistle.com/de/verkauf/wrexham-stoke-city-afc-ticket-travel-information-a6b88841.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/wrexham-stoke-city-afc-ticket-travel-information-a6b88841.html"
    }
   },
   {
@@ -190,7 +195,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/wrexham.html",
    "official_tickets": "https://www.wrexhamafc.co.uk/tickets",
    "slug": "wrexham-bolton-wanderers-afc-ticket-travel-information-05189473",
@@ -200,7 +205,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/wrexham-bolton-wanderers-afc-ticket-travel-information-05189473.html",
     "it": "https://ticketwhistle.com/it/vendite/wrexham-bolton-wanderers-afc-ticket-travel-information-05189473.html",
     "fr": "https://ticketwhistle.com/fr/ventes/wrexham-bolton-wanderers-afc-ticket-travel-information-05189473.html",
-    "de": "https://ticketwhistle.com/de/verkauf/wrexham-bolton-wanderers-afc-ticket-travel-information-05189473.html"
+    "de": "https://ticketwhistle.com/de/verkauf/wrexham-bolton-wanderers-afc-ticket-travel-information-05189473.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/wrexham-bolton-wanderers-afc-ticket-travel-information-05189473.html"
    }
   },
   {
@@ -221,7 +227,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/wrexham.html",
    "official_tickets": "https://www.wrexhamafc.co.uk/tickets",
    "slug": "wrexham-bolton-wanderers-afc-ticket-travel-information-204b9e76",
@@ -231,7 +237,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/wrexham-bolton-wanderers-afc-ticket-travel-information-204b9e76.html",
     "it": "https://ticketwhistle.com/it/vendite/wrexham-bolton-wanderers-afc-ticket-travel-information-204b9e76.html",
     "fr": "https://ticketwhistle.com/fr/ventes/wrexham-bolton-wanderers-afc-ticket-travel-information-204b9e76.html",
-    "de": "https://ticketwhistle.com/de/verkauf/wrexham-bolton-wanderers-afc-ticket-travel-information-204b9e76.html"
+    "de": "https://ticketwhistle.com/de/verkauf/wrexham-bolton-wanderers-afc-ticket-travel-information-204b9e76.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/wrexham-bolton-wanderers-afc-ticket-travel-information-204b9e76.html"
    }
   },
   {
@@ -252,7 +259,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/wrexham.html",
    "official_tickets": "https://www.wrexhamafc.co.uk/tickets",
    "slug": "wrexham-norwich-city-afc-ticket-travel-information-b7c312d1",
@@ -262,7 +269,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/wrexham-norwich-city-afc-ticket-travel-information-b7c312d1.html",
     "it": "https://ticketwhistle.com/it/vendite/wrexham-norwich-city-afc-ticket-travel-information-b7c312d1.html",
     "fr": "https://ticketwhistle.com/fr/ventes/wrexham-norwich-city-afc-ticket-travel-information-b7c312d1.html",
-    "de": "https://ticketwhistle.com/de/verkauf/wrexham-norwich-city-afc-ticket-travel-information-b7c312d1.html"
+    "de": "https://ticketwhistle.com/de/verkauf/wrexham-norwich-city-afc-ticket-travel-information-b7c312d1.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/wrexham-norwich-city-afc-ticket-travel-information-b7c312d1.html"
    }
   },
   {
@@ -283,7 +291,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/wrexham.html",
    "official_tickets": "https://www.wrexhamafc.co.uk/tickets",
    "slug": "wrexham-norwich-city-afc-ticket-travel-information-648025e5",
@@ -293,7 +301,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/wrexham-norwich-city-afc-ticket-travel-information-648025e5.html",
     "it": "https://ticketwhistle.com/it/vendite/wrexham-norwich-city-afc-ticket-travel-information-648025e5.html",
     "fr": "https://ticketwhistle.com/fr/ventes/wrexham-norwich-city-afc-ticket-travel-information-648025e5.html",
-    "de": "https://ticketwhistle.com/de/verkauf/wrexham-norwich-city-afc-ticket-travel-information-648025e5.html"
+    "de": "https://ticketwhistle.com/de/verkauf/wrexham-norwich-city-afc-ticket-travel-information-648025e5.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/wrexham-norwich-city-afc-ticket-travel-information-648025e5.html"
    }
   }
  ]

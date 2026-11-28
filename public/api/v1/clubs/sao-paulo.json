@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "sao-paulo",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/sao-paulo.html",
    "it": "https://ticketwhistle.com/it/biglietti/sao-paulo.html",
    "fr": "https://ticketwhistle.com/fr/billets/sao-paulo.html",
-   "de": "https://ticketwhistle.com/de/tickets/sao-paulo.html"
+   "de": "https://ticketwhistle.com/de/tickets/sao-paulo.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/sao-paulo.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -65,7 +66,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d1d26fc6",
@@ -75,7 +76,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d1d26fc6.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d1d26fc6.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d1d26fc6.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d1d26fc6.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d1d26fc6.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d1d26fc6.html"
    }
   },
   {
@@ -96,7 +98,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-8b64a2a6",
@@ -106,7 +108,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-8b64a2a6.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-8b64a2a6.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-8b64a2a6.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-8b64a2a6.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-8b64a2a6.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-8b64a2a6.html"
    }
   },
   {
@@ -127,7 +130,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-e7309cb6",
@@ -137,7 +140,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-e7309cb6.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-e7309cb6.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-e7309cb6.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-e7309cb6.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-e7309cb6.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-e7309cb6.html"
    }
   },
   {
@@ -158,7 +162,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d608fa31",
@@ -168,7 +172,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d608fa31.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d608fa31.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d608fa31.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d608fa31.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d608fa31.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d608fa31.html"
    }
   },
   {
@@ -189,7 +194,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bca1db9b",
@@ -199,7 +204,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bca1db9b.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bca1db9b.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bca1db9b.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bca1db9b.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bca1db9b.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bca1db9b.html"
    }
   },
   {
@@ -220,7 +226,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bacde15a",
@@ -230,7 +236,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bacde15a.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bacde15a.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bacde15a.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bacde15a.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bacde15a.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-bacde15a.html"
    }
   },
   {
@@ -251,7 +258,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-8e1a43c0",
@@ -261,7 +268,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-8e1a43c0.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-8e1a43c0.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-8e1a43c0.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-8e1a43c0.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-8e1a43c0.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-8e1a43c0.html"
    }
   },
   {
@@ -282,7 +290,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-e3772aab",
@@ -292,7 +300,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-e3772aab.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-e3772aab.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-e3772aab.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-e3772aab.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-e3772aab.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-e3772aab.html"
    }
   },
   {
@@ -313,7 +322,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-997d1937",
@@ -323,7 +332,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-997d1937.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-997d1937.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-997d1937.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-997d1937.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-997d1937.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-997d1937.html"
    }
   },
   {
@@ -344,7 +354,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-56763578",
@@ -354,7 +364,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-56763578.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-56763578.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-56763578.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-56763578.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-56763578.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-56763578.html"
    }
   },
   {
@@ -375,7 +386,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-c0ced66f",
@@ -385,7 +396,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-c0ced66f.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-c0ced66f.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-c0ced66f.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-c0ced66f.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-c0ced66f.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-remo-pelo-campeonato-brasileiro-spfc-c0ced66f.html"
    }
   },
   {
@@ -406,7 +418,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-db2c455a",
@@ -416,7 +428,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-db2c455a.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-db2c455a.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-db2c455a.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-db2c455a.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-db2c455a.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-db2c455a.html"
    }
   },
   {
@@ -437,7 +450,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-4cb29b28",
@@ -447,7 +460,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-4cb29b28.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-4cb29b28.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-4cb29b28.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-4cb29b28.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-4cb29b28.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-4cb29b28.html"
    }
   },
   {
@@ -468,7 +482,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-8436f71d",
@@ -478,7 +492,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-8436f71d.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-8436f71d.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-8436f71d.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-8436f71d.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-8436f71d.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-8436f71d.html"
    }
   },
   {
@@ -499,7 +514,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-d98c0a3d",
@@ -509,7 +524,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-d98c0a3d.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-d98c0a3d.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-d98c0a3d.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-d98c0a3d.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-d98c0a3d.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-d98c0a3d.html"
    }
   },
   {
@@ -530,7 +546,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-b9d3bfce",
@@ -540,7 +556,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-b9d3bfce.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-b9d3bfce.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-b9d3bfce.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-b9d3bfce.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-b9d3bfce.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-fluminense-pelo-campeonato-brasileiro-spfc-b9d3bfce.html"
    }
   },
   {
@@ -561,7 +578,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-55c3c412",
@@ -571,7 +588,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-55c3c412.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-55c3c412.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-55c3c412.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-55c3c412.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-55c3c412.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-55c3c412.html"
    }
   },
   {
@@ -592,7 +610,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-c43afcb7",
@@ -602,7 +620,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-c43afcb7.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-c43afcb7.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-c43afcb7.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-c43afcb7.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-c43afcb7.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-c43afcb7.html"
    }
   },
   {
@@ -623,7 +642,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-a34845d3",
@@ -633,7 +652,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-a34845d3.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-a34845d3.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-a34845d3.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-a34845d3.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-a34845d3.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-a34845d3.html"
    }
   },
   {
@@ -654,7 +674,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sao-paulo.html",
    "official_tickets": "https://www.saopaulofc.net",
    "slug": "sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-59d5f806",
@@ -664,7 +684,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-59d5f806.html",
     "it": "https://ticketwhistle.com/it/vendite/sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-59d5f806.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-59d5f806.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-59d5f806.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-59d5f806.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sao-paulo-ingressos-x-vasco-pelo-campeonato-brasileiro-spfc-59d5f806.html"
    }
   }
  ]

@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "parma",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/parma.html",
    "it": "https://ticketwhistle.com/it/biglietti/parma.html",
    "fr": "https://ticketwhistle.com/fr/billets/parma.html",
-   "de": "https://ticketwhistle.com/de/tickets/parma.html"
+   "de": "https://ticketwhistle.com/de/tickets/parma.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/parma.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -67,7 +68,7 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/parma.html",
    "official_tickets": "https://www.parmacalcio1913.com/tickets/",
    "slug": "parma-serie-enilive-fiorentina-info-prevendita-biglietti-96de539e",
@@ -77,7 +78,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/parma-serie-enilive-fiorentina-info-prevendita-biglietti-96de539e.html",
     "it": "https://ticketwhistle.com/it/vendite/parma-serie-enilive-fiorentina-info-prevendita-biglietti-96de539e.html",
     "fr": "https://ticketwhistle.com/fr/ventes/parma-serie-enilive-fiorentina-info-prevendita-biglietti-96de539e.html",
-    "de": "https://ticketwhistle.com/de/verkauf/parma-serie-enilive-fiorentina-info-prevendita-biglietti-96de539e.html"
+    "de": "https://ticketwhistle.com/de/verkauf/parma-serie-enilive-fiorentina-info-prevendita-biglietti-96de539e.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/parma-serie-enilive-fiorentina-info-prevendita-biglietti-96de539e.html"
    }
   },
   {
@@ -98,7 +100,7 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/parma.html",
    "official_tickets": "https://www.parmacalcio1913.com/tickets/",
    "slug": "parma-serie-enilive-roma-info-prevendita-biglietti-3988777b",
@@ -108,7 +110,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/parma-serie-enilive-roma-info-prevendita-biglietti-3988777b.html",
     "it": "https://ticketwhistle.com/it/vendite/parma-serie-enilive-roma-info-prevendita-biglietti-3988777b.html",
     "fr": "https://ticketwhistle.com/fr/ventes/parma-serie-enilive-roma-info-prevendita-biglietti-3988777b.html",
-    "de": "https://ticketwhistle.com/de/verkauf/parma-serie-enilive-roma-info-prevendita-biglietti-3988777b.html"
+    "de": "https://ticketwhistle.com/de/verkauf/parma-serie-enilive-roma-info-prevendita-biglietti-3988777b.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/parma-serie-enilive-roma-info-prevendita-biglietti-3988777b.html"
    }
   },
   {
@@ -129,7 +132,7 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/parma.html",
    "official_tickets": "https://www.parmacalcio1913.com/tickets/",
    "slug": "parma-serie-enilive-roma-ticket-sales-info-f5c1786c",
@@ -139,7 +142,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/parma-serie-enilive-roma-ticket-sales-info-f5c1786c.html",
     "it": "https://ticketwhistle.com/it/vendite/parma-serie-enilive-roma-ticket-sales-info-f5c1786c.html",
     "fr": "https://ticketwhistle.com/fr/ventes/parma-serie-enilive-roma-ticket-sales-info-f5c1786c.html",
-    "de": "https://ticketwhistle.com/de/verkauf/parma-serie-enilive-roma-ticket-sales-info-f5c1786c.html"
+    "de": "https://ticketwhistle.com/de/verkauf/parma-serie-enilive-roma-ticket-sales-info-f5c1786c.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/parma-serie-enilive-roma-ticket-sales-info-f5c1786c.html"
    }
   },
   {
@@ -160,7 +164,7 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/parma.html",
    "official_tickets": "https://www.parmacalcio1913.com/tickets/",
    "slug": "parma-serie-enilive-roma-ticket-sales-info-8ae31f9f",
@@ -170,7 +174,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/parma-serie-enilive-roma-ticket-sales-info-8ae31f9f.html",
     "it": "https://ticketwhistle.com/it/vendite/parma-serie-enilive-roma-ticket-sales-info-8ae31f9f.html",
     "fr": "https://ticketwhistle.com/fr/ventes/parma-serie-enilive-roma-ticket-sales-info-8ae31f9f.html",
-    "de": "https://ticketwhistle.com/de/verkauf/parma-serie-enilive-roma-ticket-sales-info-8ae31f9f.html"
+    "de": "https://ticketwhistle.com/de/verkauf/parma-serie-enilive-roma-ticket-sales-info-8ae31f9f.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/parma-serie-enilive-roma-ticket-sales-info-8ae31f9f.html"
    }
   },
   {
@@ -191,7 +196,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/parma.html",
    "official_tickets": "https://www.parmacalcio1913.com/tickets/",
    "slug": "parma-serie-enilive-roma-ticket-sales-info-a6fc7a32",
@@ -201,7 +206,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/parma-serie-enilive-roma-ticket-sales-info-a6fc7a32.html",
     "it": "https://ticketwhistle.com/it/vendite/parma-serie-enilive-roma-ticket-sales-info-a6fc7a32.html",
     "fr": "https://ticketwhistle.com/fr/ventes/parma-serie-enilive-roma-ticket-sales-info-a6fc7a32.html",
-    "de": "https://ticketwhistle.com/de/verkauf/parma-serie-enilive-roma-ticket-sales-info-a6fc7a32.html"
+    "de": "https://ticketwhistle.com/de/verkauf/parma-serie-enilive-roma-ticket-sales-info-a6fc7a32.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/parma-serie-enilive-roma-ticket-sales-info-a6fc7a32.html"
    }
   },
   {
@@ -222,7 +228,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/parma.html",
    "official_tickets": "https://www.parmacalcio1913.com/tickets/",
    "slug": "parma-serie-enilive-roma-ticket-sales-info-36c7e0cd",
@@ -232,7 +238,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/parma-serie-enilive-roma-ticket-sales-info-36c7e0cd.html",
     "it": "https://ticketwhistle.com/it/vendite/parma-serie-enilive-roma-ticket-sales-info-36c7e0cd.html",
     "fr": "https://ticketwhistle.com/fr/ventes/parma-serie-enilive-roma-ticket-sales-info-36c7e0cd.html",
-    "de": "https://ticketwhistle.com/de/verkauf/parma-serie-enilive-roma-ticket-sales-info-36c7e0cd.html"
+    "de": "https://ticketwhistle.com/de/verkauf/parma-serie-enilive-roma-ticket-sales-info-36c7e0cd.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/parma-serie-enilive-roma-ticket-sales-info-36c7e0cd.html"
    }
   }
  ]

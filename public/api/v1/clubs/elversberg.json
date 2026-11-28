@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "elversberg",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/elversberg.html",
    "it": "https://ticketwhistle.com/it/biglietti/elversberg.html",
    "fr": "https://ticketwhistle.com/fr/billets/elversberg.html",
-   "de": "https://ticketwhistle.com/de/tickets/elversberg.html"
+   "de": "https://ticketwhistle.com/de/tickets/elversberg.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/elversberg.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -66,7 +67,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/elversberg.html",
    "official_tickets": "https://sv07elversberg.de/ursapharm-arena/tickets/",
    "slug": "elversberg-tickets-fur-die-heimspiele-gegen-den-hamburger-273898cd",
@@ -76,7 +77,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/elversberg-tickets-fur-die-heimspiele-gegen-den-hamburger-273898cd.html",
     "it": "https://ticketwhistle.com/it/vendite/elversberg-tickets-fur-die-heimspiele-gegen-den-hamburger-273898cd.html",
     "fr": "https://ticketwhistle.com/fr/ventes/elversberg-tickets-fur-die-heimspiele-gegen-den-hamburger-273898cd.html",
-    "de": "https://ticketwhistle.com/de/verkauf/elversberg-tickets-fur-die-heimspiele-gegen-den-hamburger-273898cd.html"
+    "de": "https://ticketwhistle.com/de/verkauf/elversberg-tickets-fur-die-heimspiele-gegen-den-hamburger-273898cd.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/elversberg-tickets-fur-die-heimspiele-gegen-den-hamburger-273898cd.html"
    }
   },
   {
@@ -97,7 +99,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/elversberg.html",
    "official_tickets": "https://sv07elversberg.de/ursapharm-arena/tickets/",
    "slug": "elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-1589d0db",
@@ -107,7 +109,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-1589d0db.html",
     "it": "https://ticketwhistle.com/it/vendite/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-1589d0db.html",
     "fr": "https://ticketwhistle.com/fr/ventes/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-1589d0db.html",
-    "de": "https://ticketwhistle.com/de/verkauf/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-1589d0db.html"
+    "de": "https://ticketwhistle.com/de/verkauf/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-1589d0db.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-1589d0db.html"
    }
   },
   {
@@ -128,7 +131,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/elversberg.html",
    "official_tickets": "https://sv07elversberg.de/ursapharm-arena/tickets/",
    "slug": "elversberg-tickets-fur-die-heimspiele-gegen-den-sc-c1403486",
@@ -138,7 +141,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/elversberg-tickets-fur-die-heimspiele-gegen-den-sc-c1403486.html",
     "it": "https://ticketwhistle.com/it/vendite/elversberg-tickets-fur-die-heimspiele-gegen-den-sc-c1403486.html",
     "fr": "https://ticketwhistle.com/fr/ventes/elversberg-tickets-fur-die-heimspiele-gegen-den-sc-c1403486.html",
-    "de": "https://ticketwhistle.com/de/verkauf/elversberg-tickets-fur-die-heimspiele-gegen-den-sc-c1403486.html"
+    "de": "https://ticketwhistle.com/de/verkauf/elversberg-tickets-fur-die-heimspiele-gegen-den-sc-c1403486.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/elversberg-tickets-fur-die-heimspiele-gegen-den-sc-c1403486.html"
    }
   },
   {
@@ -159,7 +163,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/elversberg.html",
    "official_tickets": "https://sv07elversberg.de/ursapharm-arena/tickets/",
    "slug": "elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-ce26de15",
@@ -169,7 +173,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-ce26de15.html",
     "it": "https://ticketwhistle.com/it/vendite/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-ce26de15.html",
     "fr": "https://ticketwhistle.com/fr/ventes/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-ce26de15.html",
-    "de": "https://ticketwhistle.com/de/verkauf/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-ce26de15.html"
+    "de": "https://ticketwhistle.com/de/verkauf/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-ce26de15.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-beim-ce26de15.html"
    }
   },
   {
@@ -190,7 +195,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/elversberg.html",
    "official_tickets": "https://sv07elversberg.de/ursapharm-arena/tickets/",
    "slug": "elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-bei-f6012d9c",
@@ -200,7 +205,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-bei-f6012d9c.html",
     "it": "https://ticketwhistle.com/it/vendite/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-bei-f6012d9c.html",
     "fr": "https://ticketwhistle.com/fr/ventes/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-bei-f6012d9c.html",
-    "de": "https://ticketwhistle.com/de/verkauf/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-bei-f6012d9c.html"
+    "de": "https://ticketwhistle.com/de/verkauf/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-bei-f6012d9c.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/elversberg-ticket-vvk-und-fanbus-zum-auswartsspiel-bei-f6012d9c.html"
    }
   }
  ]

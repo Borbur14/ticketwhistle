@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "coritiba",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/coritiba.html",
    "it": "https://ticketwhistle.com/it/biglietti/coritiba.html",
    "fr": "https://ticketwhistle.com/fr/billets/coritiba.html",
-   "de": "https://ticketwhistle.com/de/tickets/coritiba.html"
+   "de": "https://ticketwhistle.com/de/tickets/coritiba.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/coritiba.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -56,7 +57,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/coritiba.html",
    "official_tickets": "https://coritiba.com.br",
    "slug": "coritiba-check-in-e-ingressos-x-flamengo-3dffe9bd",
@@ -66,7 +67,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/coritiba-check-in-e-ingressos-x-flamengo-3dffe9bd.html",
     "it": "https://ticketwhistle.com/it/vendite/coritiba-check-in-e-ingressos-x-flamengo-3dffe9bd.html",
     "fr": "https://ticketwhistle.com/fr/ventes/coritiba-check-in-e-ingressos-x-flamengo-3dffe9bd.html",
-    "de": "https://ticketwhistle.com/de/verkauf/coritiba-check-in-e-ingressos-x-flamengo-3dffe9bd.html"
+    "de": "https://ticketwhistle.com/de/verkauf/coritiba-check-in-e-ingressos-x-flamengo-3dffe9bd.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/coritiba-check-in-e-ingressos-x-flamengo-3dffe9bd.html"
    }
   },
   {
@@ -87,7 +89,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-28T10:50:56.748258+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/coritiba.html",
    "official_tickets": "https://coritiba.com.br",
    "slug": "coritiba-check-in-e-ingressos-x-santos-d85d656c",
@@ -97,7 +99,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/coritiba-check-in-e-ingressos-x-santos-d85d656c.html",
     "it": "https://ticketwhistle.com/it/vendite/coritiba-check-in-e-ingressos-x-santos-d85d656c.html",
     "fr": "https://ticketwhistle.com/fr/ventes/coritiba-check-in-e-ingressos-x-santos-d85d656c.html",
-    "de": "https://ticketwhistle.com/de/verkauf/coritiba-check-in-e-ingressos-x-santos-d85d656c.html"
+    "de": "https://ticketwhistle.com/de/verkauf/coritiba-check-in-e-ingressos-x-santos-d85d656c.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/coritiba-check-in-e-ingressos-x-santos-d85d656c.html"
    }
   }
  ]

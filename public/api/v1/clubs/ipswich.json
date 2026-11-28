@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "ipswich",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/ipswich.html",
    "it": "https://ticketwhistle.com/it/biglietti/ipswich.html",
    "fr": "https://ticketwhistle.com/fr/billets/ipswich.html",
-   "de": "https://ticketwhistle.com/de/tickets/ipswich.html"
+   "de": "https://ticketwhistle.com/de/tickets/ipswich.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/ipswich.html"
   },
   "official_alternatives": [
    {
@@ -61,7 +62,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T10:50:56.748258+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/ipswich.html",
    "official_tickets": "https://tickets.itfc.co.uk/",
    "slug": "ipswich-ticket-details-arsenal-3bde662c",
@@ -71,7 +72,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/ipswich-ticket-details-arsenal-3bde662c.html",
     "it": "https://ticketwhistle.com/it/vendite/ipswich-ticket-details-arsenal-3bde662c.html",
     "fr": "https://ticketwhistle.com/fr/ventes/ipswich-ticket-details-arsenal-3bde662c.html",
-    "de": "https://ticketwhistle.com/de/verkauf/ipswich-ticket-details-arsenal-3bde662c.html"
+    "de": "https://ticketwhistle.com/de/verkauf/ipswich-ticket-details-arsenal-3bde662c.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/ipswich-ticket-details-arsenal-3bde662c.html"
    }
   },
   {
@@ -92,7 +94,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/ipswich.html",
    "official_tickets": "https://tickets.itfc.co.uk/",
    "slug": "ipswich-tickets-site-itfc-co-uk-when-21d-59196d79",
@@ -102,7 +104,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/ipswich-tickets-site-itfc-co-uk-when-21d-59196d79.html",
     "it": "https://ticketwhistle.com/it/vendite/ipswich-tickets-site-itfc-co-uk-when-21d-59196d79.html",
     "fr": "https://ticketwhistle.com/fr/ventes/ipswich-tickets-site-itfc-co-uk-when-21d-59196d79.html",
-    "de": "https://ticketwhistle.com/de/verkauf/ipswich-tickets-site-itfc-co-uk-when-21d-59196d79.html"
+    "de": "https://ticketwhistle.com/de/verkauf/ipswich-tickets-site-itfc-co-uk-when-21d-59196d79.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/ipswich-tickets-site-itfc-co-uk-when-21d-59196d79.html"
    }
   },
   {
@@ -123,7 +126,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/ipswich.html",
    "official_tickets": "https://tickets.itfc.co.uk/",
    "slug": "ipswich-ticket-details-chelsea-h-eab24a7a",
@@ -133,7 +136,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/ipswich-ticket-details-chelsea-h-eab24a7a.html",
     "it": "https://ticketwhistle.com/it/vendite/ipswich-ticket-details-chelsea-h-eab24a7a.html",
     "fr": "https://ticketwhistle.com/fr/ventes/ipswich-ticket-details-chelsea-h-eab24a7a.html",
-    "de": "https://ticketwhistle.com/de/verkauf/ipswich-ticket-details-chelsea-h-eab24a7a.html"
+    "de": "https://ticketwhistle.com/de/verkauf/ipswich-ticket-details-chelsea-h-eab24a7a.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/ipswich-ticket-details-chelsea-h-eab24a7a.html"
    }
   },
   {
@@ -154,7 +158,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/ipswich.html",
    "official_tickets": "https://tickets.itfc.co.uk/",
    "slug": "ipswich-ticket-details-brighton-f0c88626",
@@ -164,7 +168,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/ipswich-ticket-details-brighton-f0c88626.html",
     "it": "https://ticketwhistle.com/it/vendite/ipswich-ticket-details-brighton-f0c88626.html",
     "fr": "https://ticketwhistle.com/fr/ventes/ipswich-ticket-details-brighton-f0c88626.html",
-    "de": "https://ticketwhistle.com/de/verkauf/ipswich-ticket-details-brighton-f0c88626.html"
+    "de": "https://ticketwhistle.com/de/verkauf/ipswich-ticket-details-brighton-f0c88626.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/ipswich-ticket-details-brighton-f0c88626.html"
    }
   },
   {
@@ -185,7 +190,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/ipswich.html",
    "official_tickets": "https://tickets.itfc.co.uk/",
    "slug": "ipswich-ticket-details-brentford-h-54ec1329",
@@ -195,7 +200,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/ipswich-ticket-details-brentford-h-54ec1329.html",
     "it": "https://ticketwhistle.com/it/vendite/ipswich-ticket-details-brentford-h-54ec1329.html",
     "fr": "https://ticketwhistle.com/fr/ventes/ipswich-ticket-details-brentford-h-54ec1329.html",
-    "de": "https://ticketwhistle.com/de/verkauf/ipswich-ticket-details-brentford-h-54ec1329.html"
+    "de": "https://ticketwhistle.com/de/verkauf/ipswich-ticket-details-brentford-h-54ec1329.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/ipswich-ticket-details-brentford-h-54ec1329.html"
    }
   }
  ]

@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "augsburg",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/augsburg.html",
    "it": "https://ticketwhistle.com/it/biglietti/augsburg.html",
    "fr": "https://ticketwhistle.com/fr/billets/augsburg.html",
-   "de": "https://ticketwhistle.com/de/tickets/augsburg.html"
+   "de": "https://ticketwhistle.com/de/tickets/augsburg.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/augsburg.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -66,7 +67,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/augsburg.html",
    "official_tickets": "https://www.fcaugsburg.de/page/ticket-heimspiele-15",
    "slug": "augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-4ec97129",
@@ -76,7 +77,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-4ec97129.html",
     "it": "https://ticketwhistle.com/it/vendite/augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-4ec97129.html",
     "fr": "https://ticketwhistle.com/fr/ventes/augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-4ec97129.html",
-    "de": "https://ticketwhistle.com/de/verkauf/augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-4ec97129.html"
+    "de": "https://ticketwhistle.com/de/verkauf/augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-4ec97129.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-4ec97129.html"
    }
   },
   {
@@ -97,7 +99,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/augsburg.html",
    "official_tickets": "https://www.fcaugsburg.de/page/ticket-heimspiele-15",
    "slug": "augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-fc3c93ac",
@@ -107,7 +109,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-fc3c93ac.html",
     "it": "https://ticketwhistle.com/it/vendite/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-fc3c93ac.html",
     "fr": "https://ticketwhistle.com/fr/ventes/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-fc3c93ac.html",
-    "de": "https://ticketwhistle.com/de/verkauf/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-fc3c93ac.html"
+    "de": "https://ticketwhistle.com/de/verkauf/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-fc3c93ac.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-fc3c93ac.html"
    }
   },
   {
@@ -128,7 +131,7 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/augsburg.html",
    "official_tickets": "https://www.fcaugsburg.de/page/ticket-heimspiele-15",
    "slug": "augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-e97122b3",
@@ -138,7 +141,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-e97122b3.html",
     "it": "https://ticketwhistle.com/it/vendite/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-e97122b3.html",
     "fr": "https://ticketwhistle.com/fr/ventes/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-e97122b3.html",
-    "de": "https://ticketwhistle.com/de/verkauf/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-e97122b3.html"
+    "de": "https://ticketwhistle.com/de/verkauf/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-e97122b3.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/augsburg-auswarts-dabei-sein-vorverkauf-fur-stuttgart-hamburg-e97122b3.html"
    }
   },
   {
@@ -159,7 +163,7 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/augsburg.html",
    "official_tickets": "https://www.fcaugsburg.de/page/ticket-heimspiele-15",
    "slug": "augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-61cad823",
@@ -169,7 +173,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-61cad823.html",
     "it": "https://ticketwhistle.com/it/vendite/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-61cad823.html",
     "fr": "https://ticketwhistle.com/fr/ventes/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-61cad823.html",
-    "de": "https://ticketwhistle.com/de/verkauf/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-61cad823.html"
+    "de": "https://ticketwhistle.com/de/verkauf/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-61cad823.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-61cad823.html"
    }
   },
   {
@@ -190,7 +195,7 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/augsburg.html",
    "official_tickets": "https://www.fcaugsburg.de/page/ticket-heimspiele-15",
    "slug": "augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-d5d0bf12",
@@ -200,7 +205,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-d5d0bf12.html",
     "it": "https://ticketwhistle.com/it/vendite/augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-d5d0bf12.html",
     "fr": "https://ticketwhistle.com/fr/ventes/augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-d5d0bf12.html",
-    "de": "https://ticketwhistle.com/de/verkauf/augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-d5d0bf12.html"
+    "de": "https://ticketwhistle.com/de/verkauf/augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-d5d0bf12.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/augsburg-vorverkaufsstart-bochum-im-pokal-dortmund-in-der-d5d0bf12.html"
    }
   },
   {
@@ -221,7 +227,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/augsburg.html",
    "official_tickets": "https://www.fcaugsburg.de/page/ticket-heimspiele-15",
    "slug": "augsburg-koln-paderborn-gladbach-vorverkauf-fur-heimspiel-trio-dd9383a2",
@@ -231,7 +237,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/augsburg-koln-paderborn-gladbach-vorverkauf-fur-heimspiel-trio-dd9383a2.html",
     "it": "https://ticketwhistle.com/it/vendite/augsburg-koln-paderborn-gladbach-vorverkauf-fur-heimspiel-trio-dd9383a2.html",
     "fr": "https://ticketwhistle.com/fr/ventes/augsburg-koln-paderborn-gladbach-vorverkauf-fur-heimspiel-trio-dd9383a2.html",
-    "de": "https://ticketwhistle.com/de/verkauf/augsburg-koln-paderborn-gladbach-vorverkauf-fur-heimspiel-trio-dd9383a2.html"
+    "de": "https://ticketwhistle.com/de/verkauf/augsburg-koln-paderborn-gladbach-vorverkauf-fur-heimspiel-trio-dd9383a2.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/augsburg-koln-paderborn-gladbach-vorverkauf-fur-heimspiel-trio-dd9383a2.html"
    }
   },
   {
@@ -252,7 +259,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/augsburg.html",
    "official_tickets": "https://www.fcaugsburg.de/page/ticket-heimspiele-15",
    "slug": "augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-57145821",
@@ -262,7 +269,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-57145821.html",
     "it": "https://ticketwhistle.com/it/vendite/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-57145821.html",
     "fr": "https://ticketwhistle.com/fr/ventes/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-57145821.html",
-    "de": "https://ticketwhistle.com/de/verkauf/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-57145821.html"
+    "de": "https://ticketwhistle.com/de/verkauf/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-57145821.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-57145821.html"
    }
   },
   {
@@ -283,7 +291,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/augsburg.html",
    "official_tickets": "https://www.fcaugsburg.de/page/ticket-heimspiele-15",
    "slug": "augsburg-dfb-pokal-tickets-fur-das-spiel-bei-b7170ef0",
@@ -293,7 +301,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/augsburg-dfb-pokal-tickets-fur-das-spiel-bei-b7170ef0.html",
     "it": "https://ticketwhistle.com/it/vendite/augsburg-dfb-pokal-tickets-fur-das-spiel-bei-b7170ef0.html",
     "fr": "https://ticketwhistle.com/fr/ventes/augsburg-dfb-pokal-tickets-fur-das-spiel-bei-b7170ef0.html",
-    "de": "https://ticketwhistle.com/de/verkauf/augsburg-dfb-pokal-tickets-fur-das-spiel-bei-b7170ef0.html"
+    "de": "https://ticketwhistle.com/de/verkauf/augsburg-dfb-pokal-tickets-fur-das-spiel-bei-b7170ef0.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/augsburg-dfb-pokal-tickets-fur-das-spiel-bei-b7170ef0.html"
    }
   },
   {
@@ -314,7 +323,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/augsburg.html",
    "official_tickets": "https://www.fcaugsburg.de/page/ticket-heimspiele-15",
    "slug": "augsburg-dfb-pokal-tickets-fur-das-spiel-bei-ed455a16",
@@ -324,7 +333,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/augsburg-dfb-pokal-tickets-fur-das-spiel-bei-ed455a16.html",
     "it": "https://ticketwhistle.com/it/vendite/augsburg-dfb-pokal-tickets-fur-das-spiel-bei-ed455a16.html",
     "fr": "https://ticketwhistle.com/fr/ventes/augsburg-dfb-pokal-tickets-fur-das-spiel-bei-ed455a16.html",
-    "de": "https://ticketwhistle.com/de/verkauf/augsburg-dfb-pokal-tickets-fur-das-spiel-bei-ed455a16.html"
+    "de": "https://ticketwhistle.com/de/verkauf/augsburg-dfb-pokal-tickets-fur-das-spiel-bei-ed455a16.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/augsburg-dfb-pokal-tickets-fur-das-spiel-bei-ed455a16.html"
    }
   },
   {
@@ -345,7 +355,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/augsburg.html",
    "official_tickets": "https://www.fcaugsburg.de/page/ticket-heimspiele-15",
    "slug": "augsburg-vorverkauf-fur-spiel-in-elversberg-startet-2ebdb174",
@@ -355,7 +365,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/augsburg-vorverkauf-fur-spiel-in-elversberg-startet-2ebdb174.html",
     "it": "https://ticketwhistle.com/it/vendite/augsburg-vorverkauf-fur-spiel-in-elversberg-startet-2ebdb174.html",
     "fr": "https://ticketwhistle.com/fr/ventes/augsburg-vorverkauf-fur-spiel-in-elversberg-startet-2ebdb174.html",
-    "de": "https://ticketwhistle.com/de/verkauf/augsburg-vorverkauf-fur-spiel-in-elversberg-startet-2ebdb174.html"
+    "de": "https://ticketwhistle.com/de/verkauf/augsburg-vorverkauf-fur-spiel-in-elversberg-startet-2ebdb174.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/augsburg-vorverkauf-fur-spiel-in-elversberg-startet-2ebdb174.html"
    }
   }
  ]

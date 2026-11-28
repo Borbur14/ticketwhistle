@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "cordoba",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/cordoba.html",
    "it": "https://ticketwhistle.com/it/biglietti/cordoba.html",
    "fr": "https://ticketwhistle.com/fr/billets/cordoba.html",
-   "de": "https://ticketwhistle.com/de/tickets/cordoba.html"
+   "de": "https://ticketwhistle.com/de/tickets/cordoba.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/cordoba.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -56,7 +57,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T23:56:43.897680+00:00",
-   "last_checked": "2026-11-28T07:09:06.172278+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/cordoba.html",
    "official_tickets": "https://entradas.cordobacf.com/",
    "slug": "cordoba-entradas-visitantes-desplazamiento-elda-8b890aef",
@@ -66,7 +67,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/cordoba-entradas-visitantes-desplazamiento-elda-8b890aef.html",
     "it": "https://ticketwhistle.com/it/vendite/cordoba-entradas-visitantes-desplazamiento-elda-8b890aef.html",
     "fr": "https://ticketwhistle.com/fr/ventes/cordoba-entradas-visitantes-desplazamiento-elda-8b890aef.html",
-    "de": "https://ticketwhistle.com/de/verkauf/cordoba-entradas-visitantes-desplazamiento-elda-8b890aef.html"
+    "de": "https://ticketwhistle.com/de/verkauf/cordoba-entradas-visitantes-desplazamiento-elda-8b890aef.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/cordoba-entradas-visitantes-desplazamiento-elda-8b890aef.html"
    }
   },
   {
@@ -97,7 +99,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/cordoba-entradas-cordobesistas-cadiz-segunda-asignacion-localidades-5f21f3d5.html",
     "it": "https://ticketwhistle.com/it/vendite/cordoba-entradas-cordobesistas-cadiz-segunda-asignacion-localidades-5f21f3d5.html",
     "fr": "https://ticketwhistle.com/fr/ventes/cordoba-entradas-cordobesistas-cadiz-segunda-asignacion-localidades-5f21f3d5.html",
-    "de": "https://ticketwhistle.com/de/verkauf/cordoba-entradas-cordobesistas-cadiz-segunda-asignacion-localidades-5f21f3d5.html"
+    "de": "https://ticketwhistle.com/de/verkauf/cordoba-entradas-cordobesistas-cadiz-segunda-asignacion-localidades-5f21f3d5.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/cordoba-entradas-cordobesistas-cadiz-segunda-asignacion-localidades-5f21f3d5.html"
    }
   },
   {
@@ -118,7 +121,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/cordoba.html",
    "official_tickets": "https://entradas.cordobacf.com/",
    "slug": "cordoba-venta-entradas-real-sporting-promocion-abonados-6cb711e0",
@@ -128,7 +131,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/cordoba-venta-entradas-real-sporting-promocion-abonados-6cb711e0.html",
     "it": "https://ticketwhistle.com/it/vendite/cordoba-venta-entradas-real-sporting-promocion-abonados-6cb711e0.html",
     "fr": "https://ticketwhistle.com/fr/ventes/cordoba-venta-entradas-real-sporting-promocion-abonados-6cb711e0.html",
-    "de": "https://ticketwhistle.com/de/verkauf/cordoba-venta-entradas-real-sporting-promocion-abonados-6cb711e0.html"
+    "de": "https://ticketwhistle.com/de/verkauf/cordoba-venta-entradas-real-sporting-promocion-abonados-6cb711e0.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/cordoba-venta-entradas-real-sporting-promocion-abonados-6cb711e0.html"
    }
   },
   {
@@ -149,7 +153,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/cordoba.html",
    "official_tickets": "https://entradas.cordobacf.com/",
    "slug": "cordoba-entradas-cordobesistas-cadiz-primer-listado-abonados-adjudicatarios-038929ee",
@@ -159,7 +163,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/cordoba-entradas-cordobesistas-cadiz-primer-listado-abonados-adjudicatarios-038929ee.html",
     "it": "https://ticketwhistle.com/it/vendite/cordoba-entradas-cordobesistas-cadiz-primer-listado-abonados-adjudicatarios-038929ee.html",
     "fr": "https://ticketwhistle.com/fr/ventes/cordoba-entradas-cordobesistas-cadiz-primer-listado-abonados-adjudicatarios-038929ee.html",
-    "de": "https://ticketwhistle.com/de/verkauf/cordoba-entradas-cordobesistas-cadiz-primer-listado-abonados-adjudicatarios-038929ee.html"
+    "de": "https://ticketwhistle.com/de/verkauf/cordoba-entradas-cordobesistas-cadiz-primer-listado-abonados-adjudicatarios-038929ee.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/cordoba-entradas-cordobesistas-cadiz-primer-listado-abonados-adjudicatarios-038929ee.html"
    }
   },
   {
@@ -180,7 +185,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/cordoba.html",
    "official_tickets": "https://entradas.cordobacf.com/",
    "slug": "cordoba-abre-plazo-solicitud-entradas-desplazamiento-cadiz-cfd42a22",
@@ -190,7 +195,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/cordoba-abre-plazo-solicitud-entradas-desplazamiento-cadiz-cfd42a22.html",
     "it": "https://ticketwhistle.com/it/vendite/cordoba-abre-plazo-solicitud-entradas-desplazamiento-cadiz-cfd42a22.html",
     "fr": "https://ticketwhistle.com/fr/ventes/cordoba-abre-plazo-solicitud-entradas-desplazamiento-cadiz-cfd42a22.html",
-    "de": "https://ticketwhistle.com/de/verkauf/cordoba-abre-plazo-solicitud-entradas-desplazamiento-cadiz-cfd42a22.html"
+    "de": "https://ticketwhistle.com/de/verkauf/cordoba-abre-plazo-solicitud-entradas-desplazamiento-cadiz-cfd42a22.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/cordoba-abre-plazo-solicitud-entradas-desplazamiento-cadiz-cfd42a22.html"
    }
   },
   {
@@ -211,7 +217,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/cordoba.html",
    "official_tickets": "https://entradas.cordobacf.com/",
    "slug": "cordoba-venta-entradas-real-oviedo-0cc536f8",
@@ -221,7 +227,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/cordoba-venta-entradas-real-oviedo-0cc536f8.html",
     "it": "https://ticketwhistle.com/it/vendite/cordoba-venta-entradas-real-oviedo-0cc536f8.html",
     "fr": "https://ticketwhistle.com/fr/ventes/cordoba-venta-entradas-real-oviedo-0cc536f8.html",
-    "de": "https://ticketwhistle.com/de/verkauf/cordoba-venta-entradas-real-oviedo-0cc536f8.html"
+    "de": "https://ticketwhistle.com/de/verkauf/cordoba-venta-entradas-real-oviedo-0cc536f8.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/cordoba-venta-entradas-real-oviedo-0cc536f8.html"
    }
   }
  ]

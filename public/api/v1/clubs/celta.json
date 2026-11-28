@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "celta",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/celta.html",
    "it": "https://ticketwhistle.com/it/biglietti/celta.html",
    "fr": "https://ticketwhistle.com/fr/billets/celta.html",
-   "de": "https://ticketwhistle.com/de/tickets/celta.html"
+   "de": "https://ticketwhistle.com/de/tickets/celta.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/celta.html"
   },
   "official_alternatives": [
    {
@@ -65,7 +66,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
    "official_tickets": "https://rccelta.es/entradas/",
    "slug": "celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce",
@@ -75,7 +76,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html",
     "it": "https://ticketwhistle.com/it/vendite/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html",
     "fr": "https://ticketwhistle.com/fr/ventes/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html",
-    "de": "https://ticketwhistle.com/de/verkauf/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html"
+    "de": "https://ticketwhistle.com/de/verkauf/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/celta-venta-entradas-partido-copa-rey-arosa-sc-5181f2ce.html"
    }
   },
   {
@@ -96,7 +98,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
    "official_tickets": "https://rccelta.es/entradas/",
    "slug": "celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf",
@@ -106,7 +108,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html",
     "it": "https://ticketwhistle.com/it/vendite/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html",
     "fr": "https://ticketwhistle.com/fr/ventes/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html",
-    "de": "https://ticketwhistle.com/de/verkauf/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html"
+    "de": "https://ticketwhistle.com/de/verkauf/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/celta-abre-proceso-solicitud-entradas-partido-marsella-e627c1bf.html"
    }
   },
   {
@@ -137,7 +140,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html",
     "it": "https://ticketwhistle.com/it/vendite/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html",
     "fr": "https://ticketwhistle.com/fr/ventes/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html",
-    "de": "https://ticketwhistle.com/de/verkauf/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html"
+    "de": "https://ticketwhistle.com/de/verkauf/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/celta-xa-disponibles-as-entradas-apoiar-o-no-eb90d952.html"
    }
   },
   {
@@ -168,7 +172,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html",
     "it": "https://ticketwhistle.com/it/vendite/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html",
     "fr": "https://ticketwhistle.com/fr/ventes/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html",
-    "de": "https://ticketwhistle.com/de/verkauf/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html"
+    "de": "https://ticketwhistle.com/de/verkauf/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/celta-ya-disponibles-entradas-apoyar-camp-nou-fb4fc614.html"
    }
   },
   {
@@ -189,7 +194,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
    "official_tickets": "https://rccelta.es/entradas/",
    "slug": "celta-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-a9a116ea",
@@ -199,7 +204,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/celta-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-a9a116ea.html",
     "it": "https://ticketwhistle.com/it/vendite/celta-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-a9a116ea.html",
     "fr": "https://ticketwhistle.com/fr/ventes/celta-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-a9a116ea.html",
-    "de": "https://ticketwhistle.com/de/verkauf/celta-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-a9a116ea.html"
+    "de": "https://ticketwhistle.com/de/verkauf/celta-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-a9a116ea.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/celta-fortuna-real-valladolid-disponibles-entradas-cita-ineludible-a9a116ea.html"
    }
   },
   {
@@ -220,7 +226,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/celta.html",
    "official_tickets": "https://rccelta.es/entradas/",
    "slug": "celta-ultima-noche-europea-2026-abanca-balaidos-ya-47a174af",
@@ -230,7 +236,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/celta-ultima-noche-europea-2026-abanca-balaidos-ya-47a174af.html",
     "it": "https://ticketwhistle.com/it/vendite/celta-ultima-noche-europea-2026-abanca-balaidos-ya-47a174af.html",
     "fr": "https://ticketwhistle.com/fr/ventes/celta-ultima-noche-europea-2026-abanca-balaidos-ya-47a174af.html",
-    "de": "https://ticketwhistle.com/de/verkauf/celta-ultima-noche-europea-2026-abanca-balaidos-ya-47a174af.html"
+    "de": "https://ticketwhistle.com/de/verkauf/celta-ultima-noche-europea-2026-abanca-balaidos-ya-47a174af.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/celta-ultima-noche-europea-2026-abanca-balaidos-ya-47a174af.html"
    }
   },
   {
@@ -261,7 +268,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/celta-entradas-venta-villarreal-063fd3bc.html",
     "it": "https://ticketwhistle.com/it/vendite/celta-entradas-venta-villarreal-063fd3bc.html",
     "fr": "https://ticketwhistle.com/fr/ventes/celta-entradas-venta-villarreal-063fd3bc.html",
-    "de": "https://ticketwhistle.com/de/verkauf/celta-entradas-venta-villarreal-063fd3bc.html"
+    "de": "https://ticketwhistle.com/de/verkauf/celta-entradas-venta-villarreal-063fd3bc.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/celta-entradas-venta-villarreal-063fd3bc.html"
    }
   }
  ]

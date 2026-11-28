@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "arsenal",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/arsenal.html",
    "it": "https://ticketwhistle.com/it/biglietti/arsenal.html",
    "fr": "https://ticketwhistle.com/fr/billets/arsenal.html",
-   "de": "https://ticketwhistle.com/de/tickets/arsenal.html"
+   "de": "https://ticketwhistle.com/de/tickets/arsenal.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/arsenal.html"
   },
   "official_alternatives": [
    {
@@ -76,7 +77,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-crystal-palace-4308a59a",
@@ -86,7 +87,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-crystal-palace-4308a59a.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-crystal-palace-4308a59a.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-crystal-palace-4308a59a.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-crystal-palace-4308a59a.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-crystal-palace-4308a59a.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-crystal-palace-4308a59a.html"
    }
   },
   {
@@ -107,7 +109,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-sabah-630aaff3",
@@ -117,7 +119,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-sabah-630aaff3.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-sabah-630aaff3.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-sabah-630aaff3.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-sabah-630aaff3.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-sabah-630aaff3.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-sabah-630aaff3.html"
    }
   },
   {
@@ -138,7 +141,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-sabah-3ce8e794",
@@ -148,7 +151,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-sabah-3ce8e794.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-sabah-3ce8e794.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-sabah-3ce8e794.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-sabah-3ce8e794.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-sabah-3ce8e794.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-sabah-3ce8e794.html"
    }
   },
   {
@@ -169,7 +173,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-newcastle-united-d8ba2120",
@@ -179,7 +183,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-newcastle-united-d8ba2120.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-newcastle-united-d8ba2120.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-newcastle-united-d8ba2120.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-newcastle-united-d8ba2120.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-newcastle-united-d8ba2120.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-newcastle-united-d8ba2120.html"
    }
   },
   {
@@ -200,7 +205,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-sabah-5f464e87",
@@ -210,7 +215,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-sabah-5f464e87.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-sabah-5f464e87.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-sabah-5f464e87.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-sabah-5f464e87.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-sabah-5f464e87.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-sabah-5f464e87.html"
    }
   },
   {
@@ -231,7 +237,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-newcastle-united-bcf6f803",
@@ -241,7 +247,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-newcastle-united-bcf6f803.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-newcastle-united-bcf6f803.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-newcastle-united-bcf6f803.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-newcastle-united-bcf6f803.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-newcastle-united-bcf6f803.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-newcastle-united-bcf6f803.html"
    }
   },
   {
@@ -262,7 +269,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-sabah-965c4813",
@@ -272,7 +279,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-sabah-965c4813.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-sabah-965c4813.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-sabah-965c4813.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-sabah-965c4813.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-sabah-965c4813.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-sabah-965c4813.html"
    }
   },
   {
@@ -293,7 +301,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-newcastle-united-8ffde009",
@@ -303,7 +311,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-newcastle-united-8ffde009.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-newcastle-united-8ffde009.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-newcastle-united-8ffde009.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-newcastle-united-8ffde009.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-newcastle-united-8ffde009.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-newcastle-united-8ffde009.html"
    }
   },
   {
@@ -324,7 +333,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-manchester-united-caebe4cb",
@@ -334,7 +343,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-manchester-united-caebe4cb.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-manchester-united-caebe4cb.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-manchester-united-caebe4cb.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-manchester-united-caebe4cb.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-manchester-united-caebe4cb.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-manchester-united-caebe4cb.html"
    }
   },
   {
@@ -355,7 +365,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-manchester-united-0b63616f",
@@ -365,7 +375,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-manchester-united-0b63616f.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-manchester-united-0b63616f.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-manchester-united-0b63616f.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-manchester-united-0b63616f.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-manchester-united-0b63616f.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-manchester-united-0b63616f.html"
    }
   },
   {
@@ -386,7 +397,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-manchester-united-732b5d24",
@@ -396,7 +407,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-manchester-united-732b5d24.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-manchester-united-732b5d24.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-manchester-united-732b5d24.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-manchester-united-732b5d24.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-manchester-united-732b5d24.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-manchester-united-732b5d24.html"
    }
   },
   {
@@ -417,7 +429,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-sabah-b163bb11",
@@ -427,7 +439,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-sabah-b163bb11.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-sabah-b163bb11.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-sabah-b163bb11.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-sabah-b163bb11.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-sabah-b163bb11.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-sabah-b163bb11.html"
    }
   },
   {
@@ -448,7 +461,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/arsenal.html",
    "official_tickets": "https://www.arsenal.com/tickets",
    "slug": "arsenal-ticket-information-sabah-5a8d8f98",
@@ -458,7 +471,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/arsenal-ticket-information-sabah-5a8d8f98.html",
     "it": "https://ticketwhistle.com/it/vendite/arsenal-ticket-information-sabah-5a8d8f98.html",
     "fr": "https://ticketwhistle.com/fr/ventes/arsenal-ticket-information-sabah-5a8d8f98.html",
-    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-sabah-5a8d8f98.html"
+    "de": "https://ticketwhistle.com/de/verkauf/arsenal-ticket-information-sabah-5a8d8f98.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/arsenal-ticket-information-sabah-5a8d8f98.html"
    }
   }
  ]

@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "southampton",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/southampton.html",
    "it": "https://ticketwhistle.com/it/biglietti/southampton.html",
    "fr": "https://ticketwhistle.com/fr/billets/southampton.html",
-   "de": "https://ticketwhistle.com/de/tickets/southampton.html"
+   "de": "https://ticketwhistle.com/de/tickets/southampton.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/southampton.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -56,7 +57,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/southampton.html",
    "official_tickets": "https://www.southamptonfc.com",
    "slug": "southampton-west-ham-h-tickets-on-sale-to-985dc657",
@@ -66,7 +67,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/southampton-west-ham-h-tickets-on-sale-to-985dc657.html",
     "it": "https://ticketwhistle.com/it/vendite/southampton-west-ham-h-tickets-on-sale-to-985dc657.html",
     "fr": "https://ticketwhistle.com/fr/ventes/southampton-west-ham-h-tickets-on-sale-to-985dc657.html",
-    "de": "https://ticketwhistle.com/de/verkauf/southampton-west-ham-h-tickets-on-sale-to-985dc657.html"
+    "de": "https://ticketwhistle.com/de/verkauf/southampton-west-ham-h-tickets-on-sale-to-985dc657.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/southampton-west-ham-h-tickets-on-sale-to-985dc657.html"
    }
   },
   {
@@ -87,7 +89,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/southampton.html",
    "official_tickets": "https://www.southamptonfc.com",
    "slug": "southampton-ticket-exchange-final-chance-middlesbrough-h-7cfb19d3",
@@ -97,7 +99,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/southampton-ticket-exchange-final-chance-middlesbrough-h-7cfb19d3.html",
     "it": "https://ticketwhistle.com/it/vendite/southampton-ticket-exchange-final-chance-middlesbrough-h-7cfb19d3.html",
     "fr": "https://ticketwhistle.com/fr/ventes/southampton-ticket-exchange-final-chance-middlesbrough-h-7cfb19d3.html",
-    "de": "https://ticketwhistle.com/de/verkauf/southampton-ticket-exchange-final-chance-middlesbrough-h-7cfb19d3.html"
+    "de": "https://ticketwhistle.com/de/verkauf/southampton-ticket-exchange-final-chance-middlesbrough-h-7cfb19d3.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/southampton-ticket-exchange-final-chance-middlesbrough-h-7cfb19d3.html"
    }
   },
   {
@@ -118,7 +121,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/southampton.html",
    "official_tickets": "https://www.southamptonfc.com",
    "slug": "southampton-98-tickets-sold-middlesbrough-clash-4e614d2a",
@@ -128,7 +131,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/southampton-98-tickets-sold-middlesbrough-clash-4e614d2a.html",
     "it": "https://ticketwhistle.com/it/vendite/southampton-98-tickets-sold-middlesbrough-clash-4e614d2a.html",
     "fr": "https://ticketwhistle.com/fr/ventes/southampton-98-tickets-sold-middlesbrough-clash-4e614d2a.html",
-    "de": "https://ticketwhistle.com/de/verkauf/southampton-98-tickets-sold-middlesbrough-clash-4e614d2a.html"
+    "de": "https://ticketwhistle.com/de/verkauf/southampton-98-tickets-sold-middlesbrough-clash-4e614d2a.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/southampton-98-tickets-sold-middlesbrough-clash-4e614d2a.html"
    }
   }
  ]

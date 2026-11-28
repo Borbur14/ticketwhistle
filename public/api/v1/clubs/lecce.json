@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "lecce",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/lecce.html",
    "it": "https://ticketwhistle.com/it/biglietti/lecce.html",
    "fr": "https://ticketwhistle.com/fr/billets/lecce.html",
-   "de": "https://ticketwhistle.com/de/tickets/lecce.html"
+   "de": "https://ticketwhistle.com/de/tickets/lecce.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/lecce.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -56,7 +57,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/lecce.html",
    "official_tickets": "https://uslecce.it/biglietteria/",
    "slug": "lecce-atalanta-info-biglietteria-ddc98bc4",
@@ -66,7 +67,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/lecce-atalanta-info-biglietteria-ddc98bc4.html",
     "it": "https://ticketwhistle.com/it/vendite/lecce-atalanta-info-biglietteria-ddc98bc4.html",
     "fr": "https://ticketwhistle.com/fr/ventes/lecce-atalanta-info-biglietteria-ddc98bc4.html",
-    "de": "https://ticketwhistle.com/de/verkauf/lecce-atalanta-info-biglietteria-ddc98bc4.html"
+    "de": "https://ticketwhistle.com/de/verkauf/lecce-atalanta-info-biglietteria-ddc98bc4.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/lecce-atalanta-info-biglietteria-ddc98bc4.html"
    }
   }
  ]

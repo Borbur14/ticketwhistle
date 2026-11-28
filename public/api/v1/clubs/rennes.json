@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "rennes",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/rennes.html",
    "it": "https://ticketwhistle.com/it/biglietti/rennes.html",
    "fr": "https://ticketwhistle.com/fr/billets/rennes.html",
-   "de": "https://ticketwhistle.com/de/tickets/rennes.html"
+   "de": "https://ticketwhistle.com/de/tickets/rennes.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/rennes.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -56,7 +57,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T11:38:58.640933+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/rennes.html",
    "official_tickets": "https://billetterie.staderennais.com/",
    "slug": "rennes-ouverture-billetterie-pour-tfc-srfc-ce-vendredi-6fc31041",
@@ -66,7 +67,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/rennes-ouverture-billetterie-pour-tfc-srfc-ce-vendredi-6fc31041.html",
     "it": "https://ticketwhistle.com/it/vendite/rennes-ouverture-billetterie-pour-tfc-srfc-ce-vendredi-6fc31041.html",
     "fr": "https://ticketwhistle.com/fr/ventes/rennes-ouverture-billetterie-pour-tfc-srfc-ce-vendredi-6fc31041.html",
-    "de": "https://ticketwhistle.com/de/verkauf/rennes-ouverture-billetterie-pour-tfc-srfc-ce-vendredi-6fc31041.html"
+    "de": "https://ticketwhistle.com/de/verkauf/rennes-ouverture-billetterie-pour-tfc-srfc-ce-vendredi-6fc31041.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/rennes-ouverture-billetterie-pour-tfc-srfc-ce-vendredi-6fc31041.html"
    }
   }
  ]

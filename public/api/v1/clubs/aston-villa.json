@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "aston-villa",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/aston-villa.html",
    "it": "https://ticketwhistle.com/it/biglietti/aston-villa.html",
    "fr": "https://ticketwhistle.com/fr/billets/aston-villa.html",
-   "de": "https://ticketwhistle.com/de/tickets/aston-villa.html"
+   "de": "https://ticketwhistle.com/de/tickets/aston-villa.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/aston-villa.html"
   },
   "official_alternatives": [
    {
@@ -72,7 +73,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-leeds-united-ticket-details-f4c683c9",
@@ -82,7 +83,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-leeds-united-ticket-details-f4c683c9.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-leeds-united-ticket-details-f4c683c9.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-leeds-united-ticket-details-f4c683c9.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-leeds-united-ticket-details-f4c683c9.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-leeds-united-ticket-details-f4c683c9.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-leeds-united-ticket-details-f4c683c9.html"
    }
   },
   {
@@ -103,7 +105,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-leeds-united-ticket-details-8ddc83ba",
@@ -113,7 +115,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-leeds-united-ticket-details-8ddc83ba.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-leeds-united-ticket-details-8ddc83ba.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-leeds-united-ticket-details-8ddc83ba.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-leeds-united-ticket-details-8ddc83ba.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-leeds-united-ticket-details-8ddc83ba.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-leeds-united-ticket-details-8ddc83ba.html"
    }
   },
   {
@@ -134,7 +137,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-chelsea-ticket-details-002c33ae",
@@ -144,7 +147,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-chelsea-ticket-details-002c33ae.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-chelsea-ticket-details-002c33ae.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-chelsea-ticket-details-002c33ae.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-chelsea-ticket-details-002c33ae.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-chelsea-ticket-details-002c33ae.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-chelsea-ticket-details-002c33ae.html"
    }
   },
   {
@@ -165,7 +169,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-chelsea-ticket-details-31573d48",
@@ -175,7 +179,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-chelsea-ticket-details-31573d48.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-chelsea-ticket-details-31573d48.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-chelsea-ticket-details-31573d48.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-chelsea-ticket-details-31573d48.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-chelsea-ticket-details-31573d48.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-chelsea-ticket-details-31573d48.html"
    }
   },
   {
@@ -196,7 +201,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-chelsea-ticket-details-376b24ef",
@@ -206,7 +211,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-chelsea-ticket-details-376b24ef.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-chelsea-ticket-details-376b24ef.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-chelsea-ticket-details-376b24ef.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-chelsea-ticket-details-376b24ef.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-chelsea-ticket-details-376b24ef.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-chelsea-ticket-details-376b24ef.html"
    }
   },
   {
@@ -227,7 +233,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-chelsea-ticket-details-9425747b",
@@ -237,7 +243,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-chelsea-ticket-details-9425747b.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-chelsea-ticket-details-9425747b.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-chelsea-ticket-details-9425747b.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-chelsea-ticket-details-9425747b.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-chelsea-ticket-details-9425747b.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-chelsea-ticket-details-9425747b.html"
    }
   },
   {
@@ -258,7 +265,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-chelsea-ticket-details-b536605e",
@@ -268,7 +275,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-chelsea-ticket-details-b536605e.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-chelsea-ticket-details-b536605e.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-chelsea-ticket-details-b536605e.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-chelsea-ticket-details-b536605e.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-chelsea-ticket-details-b536605e.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-chelsea-ticket-details-b536605e.html"
    }
   },
   {
@@ -299,7 +307,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-crystal-palace-ticket-details-e0f22b63.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-crystal-palace-ticket-details-e0f22b63.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-crystal-palace-ticket-details-e0f22b63.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-crystal-palace-ticket-details-e0f22b63.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-crystal-palace-ticket-details-e0f22b63.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-crystal-palace-ticket-details-e0f22b63.html"
    }
   },
   {
@@ -320,7 +329,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-coventry-city-ticket-details-1d2fc8f4",
@@ -330,7 +339,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-coventry-city-ticket-details-1d2fc8f4.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-coventry-city-ticket-details-1d2fc8f4.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-coventry-city-ticket-details-1d2fc8f4.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-coventry-city-ticket-details-1d2fc8f4.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-coventry-city-ticket-details-1d2fc8f4.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-coventry-city-ticket-details-1d2fc8f4.html"
    }
   },
   {
@@ -351,7 +361,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-paris-saint-germain-ticket-details-0bef40e9",
@@ -361,7 +371,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-paris-saint-germain-ticket-details-0bef40e9.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-paris-saint-germain-ticket-details-0bef40e9.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-paris-saint-germain-ticket-details-0bef40e9.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-paris-saint-germain-ticket-details-0bef40e9.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-paris-saint-germain-ticket-details-0bef40e9.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-paris-saint-germain-ticket-details-0bef40e9.html"
    }
   },
   {
@@ -382,7 +393,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-coventry-city-ticket-details-313ab292",
@@ -392,7 +403,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-coventry-city-ticket-details-313ab292.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-coventry-city-ticket-details-313ab292.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-coventry-city-ticket-details-313ab292.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-coventry-city-ticket-details-313ab292.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-coventry-city-ticket-details-313ab292.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-coventry-city-ticket-details-313ab292.html"
    }
   },
   {
@@ -413,7 +425,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-paris-saint-germain-ticket-details-bf3e7cf5",
@@ -423,7 +435,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-paris-saint-germain-ticket-details-bf3e7cf5.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-paris-saint-germain-ticket-details-bf3e7cf5.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-paris-saint-germain-ticket-details-bf3e7cf5.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-paris-saint-germain-ticket-details-bf3e7cf5.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-paris-saint-germain-ticket-details-bf3e7cf5.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-paris-saint-germain-ticket-details-bf3e7cf5.html"
    }
   },
   {
@@ -444,7 +457,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-galatasaray-ticket-details-d2261c20",
@@ -454,7 +467,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-galatasaray-ticket-details-d2261c20.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-galatasaray-ticket-details-d2261c20.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-galatasaray-ticket-details-d2261c20.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-galatasaray-ticket-details-d2261c20.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-galatasaray-ticket-details-d2261c20.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-galatasaray-ticket-details-d2261c20.html"
    }
   },
   {
@@ -475,7 +489,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-coventry-city-ticket-details-ab8e1746",
@@ -485,7 +499,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-coventry-city-ticket-details-ab8e1746.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-coventry-city-ticket-details-ab8e1746.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-coventry-city-ticket-details-ab8e1746.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-coventry-city-ticket-details-ab8e1746.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-coventry-city-ticket-details-ab8e1746.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-coventry-city-ticket-details-ab8e1746.html"
    }
   },
   {
@@ -506,7 +521,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-galatasaray-ticket-details-66ce5908",
@@ -516,7 +531,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-galatasaray-ticket-details-66ce5908.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-galatasaray-ticket-details-66ce5908.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-galatasaray-ticket-details-66ce5908.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-galatasaray-ticket-details-66ce5908.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-galatasaray-ticket-details-66ce5908.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-galatasaray-ticket-details-66ce5908.html"
    }
   },
   {
@@ -537,7 +553,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-coventry-city-ticket-details-8a5cfb42",
@@ -547,7 +563,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-coventry-city-ticket-details-8a5cfb42.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-coventry-city-ticket-details-8a5cfb42.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-coventry-city-ticket-details-8a5cfb42.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-coventry-city-ticket-details-8a5cfb42.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-coventry-city-ticket-details-8a5cfb42.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-coventry-city-ticket-details-8a5cfb42.html"
    }
   },
   {
@@ -568,7 +585,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-galatasaray-ticket-details-3d0e0f0c",
@@ -578,7 +595,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-galatasaray-ticket-details-3d0e0f0c.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-galatasaray-ticket-details-3d0e0f0c.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-galatasaray-ticket-details-3d0e0f0c.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-galatasaray-ticket-details-3d0e0f0c.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-galatasaray-ticket-details-3d0e0f0c.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-galatasaray-ticket-details-3d0e0f0c.html"
    }
   },
   {
@@ -599,7 +617,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-coventry-city-ticket-details-ec0d4fd9",
@@ -609,7 +627,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-coventry-city-ticket-details-ec0d4fd9.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-coventry-city-ticket-details-ec0d4fd9.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-coventry-city-ticket-details-ec0d4fd9.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-coventry-city-ticket-details-ec0d4fd9.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-coventry-city-ticket-details-ec0d4fd9.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-coventry-city-ticket-details-ec0d4fd9.html"
    }
   },
   {
@@ -630,7 +649,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-paris-saint-germain-ticket-details-8f25f341",
@@ -640,7 +659,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-paris-saint-germain-ticket-details-8f25f341.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-paris-saint-germain-ticket-details-8f25f341.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-paris-saint-germain-ticket-details-8f25f341.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-paris-saint-germain-ticket-details-8f25f341.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-paris-saint-germain-ticket-details-8f25f341.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-paris-saint-germain-ticket-details-8f25f341.html"
    }
   },
   {
@@ -661,7 +681,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-galatasaray-ticket-details-fe9f113c",
@@ -671,7 +691,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-galatasaray-ticket-details-fe9f113c.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-galatasaray-ticket-details-fe9f113c.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-galatasaray-ticket-details-fe9f113c.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-galatasaray-ticket-details-fe9f113c.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-galatasaray-ticket-details-fe9f113c.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-galatasaray-ticket-details-fe9f113c.html"
    }
   },
   {
@@ -692,7 +713,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T06:43:28.919662+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/aston-villa.html",
    "official_tickets": "https://tickets.avfc.co.uk/",
    "slug": "aston-villa-galatasaray-ticket-details-c1c1dda2",
@@ -702,7 +723,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-galatasaray-ticket-details-c1c1dda2.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-galatasaray-ticket-details-c1c1dda2.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-galatasaray-ticket-details-c1c1dda2.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-galatasaray-ticket-details-c1c1dda2.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-galatasaray-ticket-details-c1c1dda2.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-galatasaray-ticket-details-c1c1dda2.html"
    }
   },
   {
@@ -733,7 +755,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/aston-villa-crystal-palace-ticket-details-351adc0a.html",
     "it": "https://ticketwhistle.com/it/vendite/aston-villa-crystal-palace-ticket-details-351adc0a.html",
     "fr": "https://ticketwhistle.com/fr/ventes/aston-villa-crystal-palace-ticket-details-351adc0a.html",
-    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-crystal-palace-ticket-details-351adc0a.html"
+    "de": "https://ticketwhistle.com/de/verkauf/aston-villa-crystal-palace-ticket-details-351adc0a.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/aston-villa-crystal-palace-ticket-details-351adc0a.html"
    }
   }
  ]

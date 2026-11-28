@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "preston",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/preston.html",
    "it": "https://ticketwhistle.com/it/biglietti/preston.html",
    "fr": "https://ticketwhistle.com/fr/billets/preston.html",
-   "de": "https://ticketwhistle.com/de/tickets/preston.html"
+   "de": "https://ticketwhistle.com/de/tickets/preston.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/preston.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -62,7 +63,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/preston.html",
    "official_tickets": "https://www.pnefc.net/tickets",
    "slug": "preston-tickets-burnley-58f43a6e",
@@ -72,7 +73,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/preston-tickets-burnley-58f43a6e.html",
     "it": "https://ticketwhistle.com/it/vendite/preston-tickets-burnley-58f43a6e.html",
     "fr": "https://ticketwhistle.com/fr/ventes/preston-tickets-burnley-58f43a6e.html",
-    "de": "https://ticketwhistle.com/de/verkauf/preston-tickets-burnley-58f43a6e.html"
+    "de": "https://ticketwhistle.com/de/verkauf/preston-tickets-burnley-58f43a6e.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/preston-tickets-burnley-58f43a6e.html"
    }
   },
   {
@@ -93,7 +95,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/preston.html",
    "official_tickets": "https://www.pnefc.net/tickets",
    "slug": "preston-tickets-burnley-4aadec14",
@@ -103,7 +105,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/preston-tickets-burnley-4aadec14.html",
     "it": "https://ticketwhistle.com/it/vendite/preston-tickets-burnley-4aadec14.html",
     "fr": "https://ticketwhistle.com/fr/ventes/preston-tickets-burnley-4aadec14.html",
-    "de": "https://ticketwhistle.com/de/verkauf/preston-tickets-burnley-4aadec14.html"
+    "de": "https://ticketwhistle.com/de/verkauf/preston-tickets-burnley-4aadec14.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/preston-tickets-burnley-4aadec14.html"
    }
   },
   {
@@ -124,7 +127,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/preston.html",
    "official_tickets": "https://www.pnefc.net/tickets",
    "slug": "preston-tickets-burnley-36974cea",
@@ -134,7 +137,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/preston-tickets-burnley-36974cea.html",
     "it": "https://ticketwhistle.com/it/vendite/preston-tickets-burnley-36974cea.html",
     "fr": "https://ticketwhistle.com/fr/ventes/preston-tickets-burnley-36974cea.html",
-    "de": "https://ticketwhistle.com/de/verkauf/preston-tickets-burnley-36974cea.html"
+    "de": "https://ticketwhistle.com/de/verkauf/preston-tickets-burnley-36974cea.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/preston-tickets-burnley-36974cea.html"
    }
   },
   {
@@ -155,7 +159,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/preston.html",
    "official_tickets": "https://www.pnefc.net/tickets",
    "slug": "preston-tickets-burnley-e5d5a622",
@@ -165,7 +169,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/preston-tickets-burnley-e5d5a622.html",
     "it": "https://ticketwhistle.com/it/vendite/preston-tickets-burnley-e5d5a622.html",
     "fr": "https://ticketwhistle.com/fr/ventes/preston-tickets-burnley-e5d5a622.html",
-    "de": "https://ticketwhistle.com/de/verkauf/preston-tickets-burnley-e5d5a622.html"
+    "de": "https://ticketwhistle.com/de/verkauf/preston-tickets-burnley-e5d5a622.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/preston-tickets-burnley-e5d5a622.html"
    }
   },
   {
@@ -186,7 +191,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/preston.html",
    "official_tickets": "https://www.pnefc.net/tickets",
    "slug": "preston-tickets-burnley-0c553702",
@@ -196,7 +201,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/preston-tickets-burnley-0c553702.html",
     "it": "https://ticketwhistle.com/it/vendite/preston-tickets-burnley-0c553702.html",
     "fr": "https://ticketwhistle.com/fr/ventes/preston-tickets-burnley-0c553702.html",
-    "de": "https://ticketwhistle.com/de/verkauf/preston-tickets-burnley-0c553702.html"
+    "de": "https://ticketwhistle.com/de/verkauf/preston-tickets-burnley-0c553702.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/preston-tickets-burnley-0c553702.html"
    }
   }
  ]

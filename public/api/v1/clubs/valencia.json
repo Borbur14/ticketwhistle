@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "valencia",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/valencia.html",
    "it": "https://ticketwhistle.com/it/biglietti/valencia.html",
    "fr": "https://ticketwhistle.com/fr/billets/valencia.html",
-   "de": "https://ticketwhistle.com/de/tickets/valencia.html"
+   "de": "https://ticketwhistle.com/de/tickets/valencia.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/valencia.html"
   },
   "official_alternatives": [
    {
@@ -61,7 +62,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T10:38:58.816650+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
    "official_tickets": "https://www.valenciacf.com/entradas",
    "slug": "valencia-ya-venta-entradas-publico-visitante-partido-real-c53591cc",
@@ -71,7 +72,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/valencia-ya-venta-entradas-publico-visitante-partido-real-c53591cc.html",
     "it": "https://ticketwhistle.com/it/vendite/valencia-ya-venta-entradas-publico-visitante-partido-real-c53591cc.html",
     "fr": "https://ticketwhistle.com/fr/ventes/valencia-ya-venta-entradas-publico-visitante-partido-real-c53591cc.html",
-    "de": "https://ticketwhistle.com/de/verkauf/valencia-ya-venta-entradas-publico-visitante-partido-real-c53591cc.html"
+    "de": "https://ticketwhistle.com/de/verkauf/valencia-ya-venta-entradas-publico-visitante-partido-real-c53591cc.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/valencia-ya-venta-entradas-publico-visitante-partido-real-c53591cc.html"
    }
   },
   {
@@ -92,7 +94,7 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
    "official_tickets": "https://www.valenciacf.com/entradas",
    "slug": "valencia-osasuna-0b3bc67a",
@@ -102,7 +104,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/valencia-osasuna-0b3bc67a.html",
     "it": "https://ticketwhistle.com/it/vendite/valencia-osasuna-0b3bc67a.html",
     "fr": "https://ticketwhistle.com/fr/ventes/valencia-osasuna-0b3bc67a.html",
-    "de": "https://ticketwhistle.com/de/verkauf/valencia-osasuna-0b3bc67a.html"
+    "de": "https://ticketwhistle.com/de/verkauf/valencia-osasuna-0b3bc67a.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/valencia-osasuna-0b3bc67a.html"
    }
   },
   {
@@ -123,7 +126,7 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
    "official_tickets": "https://www.valenciacf.com/entradas",
    "slug": "valencia-espanyol-f15e69fe",
@@ -133,7 +136,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/valencia-espanyol-f15e69fe.html",
     "it": "https://ticketwhistle.com/it/vendite/valencia-espanyol-f15e69fe.html",
     "fr": "https://ticketwhistle.com/fr/ventes/valencia-espanyol-f15e69fe.html",
-    "de": "https://ticketwhistle.com/de/verkauf/valencia-espanyol-f15e69fe.html"
+    "de": "https://ticketwhistle.com/de/verkauf/valencia-espanyol-f15e69fe.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/valencia-espanyol-f15e69fe.html"
    }
   },
   {
@@ -154,7 +158,7 @@
    "source_kind": "platform",
    "two_sources": false,
    "first_seen": "2026-11-26T13:39:03.898096+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/valencia.html",
    "official_tickets": "https://www.valenciacf.com/entradas",
    "slug": "valencia-malaga-c53a432d",
@@ -164,7 +168,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/valencia-malaga-c53a432d.html",
     "it": "https://ticketwhistle.com/it/vendite/valencia-malaga-c53a432d.html",
     "fr": "https://ticketwhistle.com/fr/ventes/valencia-malaga-c53a432d.html",
-    "de": "https://ticketwhistle.com/de/verkauf/valencia-malaga-c53a432d.html"
+    "de": "https://ticketwhistle.com/de/verkauf/valencia-malaga-c53a432d.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/valencia-malaga-c53a432d.html"
    }
   }
  ]

@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "napoli",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/napoli.html",
    "it": "https://ticketwhistle.com/it/biglietti/napoli.html",
    "fr": "https://ticketwhistle.com/fr/billets/napoli.html",
-   "de": "https://ticketwhistle.com/de/tickets/napoli.html"
+   "de": "https://ticketwhistle.com/de/tickets/napoli.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/napoli.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -68,7 +69,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/napoli.html",
    "official_tickets": "https://sscnapoli.ticketone.it/",
    "slug": "napoli-milan-tutte-le-info-per-i-biglietti-661dc251",
@@ -78,7 +79,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/napoli-milan-tutte-le-info-per-i-biglietti-661dc251.html",
     "it": "https://ticketwhistle.com/it/vendite/napoli-milan-tutte-le-info-per-i-biglietti-661dc251.html",
     "fr": "https://ticketwhistle.com/fr/ventes/napoli-milan-tutte-le-info-per-i-biglietti-661dc251.html",
-    "de": "https://ticketwhistle.com/de/verkauf/napoli-milan-tutte-le-info-per-i-biglietti-661dc251.html"
+    "de": "https://ticketwhistle.com/de/verkauf/napoli-milan-tutte-le-info-per-i-biglietti-661dc251.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/napoli-milan-tutte-le-info-per-i-biglietti-661dc251.html"
    }
   },
   {
@@ -99,7 +101,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/napoli.html",
    "official_tickets": "https://sscnapoli.ticketone.it/",
    "slug": "napoli-milan-tutte-le-info-per-i-biglietti-1d936175",
@@ -109,7 +111,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/napoli-milan-tutte-le-info-per-i-biglietti-1d936175.html",
     "it": "https://ticketwhistle.com/it/vendite/napoli-milan-tutte-le-info-per-i-biglietti-1d936175.html",
     "fr": "https://ticketwhistle.com/fr/ventes/napoli-milan-tutte-le-info-per-i-biglietti-1d936175.html",
-    "de": "https://ticketwhistle.com/de/verkauf/napoli-milan-tutte-le-info-per-i-biglietti-1d936175.html"
+    "de": "https://ticketwhistle.com/de/verkauf/napoli-milan-tutte-le-info-per-i-biglietti-1d936175.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/napoli-milan-tutte-le-info-per-i-biglietti-1d936175.html"
    }
   },
   {
@@ -130,7 +133,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/napoli.html",
    "official_tickets": "https://sscnapoli.ticketone.it/",
    "slug": "napoli-brugge-tutte-le-info-per-i-biglietti-d3bf80ba",
@@ -140,7 +143,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/napoli-brugge-tutte-le-info-per-i-biglietti-d3bf80ba.html",
     "it": "https://ticketwhistle.com/it/vendite/napoli-brugge-tutte-le-info-per-i-biglietti-d3bf80ba.html",
     "fr": "https://ticketwhistle.com/fr/ventes/napoli-brugge-tutte-le-info-per-i-biglietti-d3bf80ba.html",
-    "de": "https://ticketwhistle.com/de/verkauf/napoli-brugge-tutte-le-info-per-i-biglietti-d3bf80ba.html"
+    "de": "https://ticketwhistle.com/de/verkauf/napoli-brugge-tutte-le-info-per-i-biglietti-d3bf80ba.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/napoli-brugge-tutte-le-info-per-i-biglietti-d3bf80ba.html"
    }
   },
   {
@@ -161,7 +165,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/napoli.html",
    "official_tickets": "https://sscnapoli.ticketone.it/",
    "slug": "napoli-brugge-tutte-le-info-per-i-biglietti-e445047b",
@@ -171,7 +175,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/napoli-brugge-tutte-le-info-per-i-biglietti-e445047b.html",
     "it": "https://ticketwhistle.com/it/vendite/napoli-brugge-tutte-le-info-per-i-biglietti-e445047b.html",
     "fr": "https://ticketwhistle.com/fr/ventes/napoli-brugge-tutte-le-info-per-i-biglietti-e445047b.html",
-    "de": "https://ticketwhistle.com/de/verkauf/napoli-brugge-tutte-le-info-per-i-biglietti-e445047b.html"
+    "de": "https://ticketwhistle.com/de/verkauf/napoli-brugge-tutte-le-info-per-i-biglietti-e445047b.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/napoli-brugge-tutte-le-info-per-i-biglietti-e445047b.html"
    }
   },
   {
@@ -192,7 +197,7 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/napoli.html",
    "official_tickets": "https://sscnapoli.ticketone.it/",
    "slug": "napoli-milan-tutte-le-info-per-i-biglietti-5423d609",
@@ -202,7 +207,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/napoli-milan-tutte-le-info-per-i-biglietti-5423d609.html",
     "it": "https://ticketwhistle.com/it/vendite/napoli-milan-tutte-le-info-per-i-biglietti-5423d609.html",
     "fr": "https://ticketwhistle.com/fr/ventes/napoli-milan-tutte-le-info-per-i-biglietti-5423d609.html",
-    "de": "https://ticketwhistle.com/de/verkauf/napoli-milan-tutte-le-info-per-i-biglietti-5423d609.html"
+    "de": "https://ticketwhistle.com/de/verkauf/napoli-milan-tutte-le-info-per-i-biglietti-5423d609.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/napoli-milan-tutte-le-info-per-i-biglietti-5423d609.html"
    }
   },
   {
@@ -223,7 +229,7 @@
    "source_kind": "article",
    "two_sources": true,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/napoli.html",
    "official_tickets": "https://sscnapoli.ticketone.it/",
    "slug": "napoli-brugge-tutte-le-info-per-i-biglietti-9c835a3d",
@@ -233,7 +239,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/napoli-brugge-tutte-le-info-per-i-biglietti-9c835a3d.html",
     "it": "https://ticketwhistle.com/it/vendite/napoli-brugge-tutte-le-info-per-i-biglietti-9c835a3d.html",
     "fr": "https://ticketwhistle.com/fr/ventes/napoli-brugge-tutte-le-info-per-i-biglietti-9c835a3d.html",
-    "de": "https://ticketwhistle.com/de/verkauf/napoli-brugge-tutte-le-info-per-i-biglietti-9c835a3d.html"
+    "de": "https://ticketwhistle.com/de/verkauf/napoli-brugge-tutte-le-info-per-i-biglietti-9c835a3d.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/napoli-brugge-tutte-le-info-per-i-biglietti-9c835a3d.html"
    }
   },
   {
@@ -254,7 +261,7 @@
    "source_kind": "headline",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/napoli.html",
    "official_tickets": "https://sscnapoli.ticketone.it/",
    "slug": "napoli-torino-tutte-le-info-per-i-biglietti-35d83248",
@@ -264,7 +271,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/napoli-torino-tutte-le-info-per-i-biglietti-35d83248.html",
     "it": "https://ticketwhistle.com/it/vendite/napoli-torino-tutte-le-info-per-i-biglietti-35d83248.html",
     "fr": "https://ticketwhistle.com/fr/ventes/napoli-torino-tutte-le-info-per-i-biglietti-35d83248.html",
-    "de": "https://ticketwhistle.com/de/verkauf/napoli-torino-tutte-le-info-per-i-biglietti-35d83248.html"
+    "de": "https://ticketwhistle.com/de/verkauf/napoli-torino-tutte-le-info-per-i-biglietti-35d83248.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/napoli-torino-tutte-le-info-per-i-biglietti-35d83248.html"
    }
   }
  ]

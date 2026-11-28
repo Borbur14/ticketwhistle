@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "sunderland",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/sunderland.html",
    "it": "https://ticketwhistle.com/it/biglietti/sunderland.html",
    "fr": "https://ticketwhistle.com/fr/billets/sunderland.html",
-   "de": "https://ticketwhistle.com/de/tickets/sunderland.html"
+   "de": "https://ticketwhistle.com/de/tickets/sunderland.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/sunderland.html"
   },
   "official_alternatives": [
    {
@@ -72,7 +73,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-crystal-palace-away-tickets-on-sale-tuesday-30359257",
@@ -82,7 +83,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-30359257.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-crystal-palace-away-tickets-on-sale-tuesday-30359257.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-crystal-palace-away-tickets-on-sale-tuesday-30359257.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-30359257.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-30359257.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-crystal-palace-away-tickets-on-sale-tuesday-30359257.html"
    }
   },
   {
@@ -103,7 +105,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-everton-away-tickets-on-sale-tuesday-24-a7506d1b",
@@ -113,7 +115,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-a7506d1b.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-everton-away-tickets-on-sale-tuesday-24-a7506d1b.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-everton-away-tickets-on-sale-tuesday-24-a7506d1b.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-a7506d1b.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-a7506d1b.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-everton-away-tickets-on-sale-tuesday-24-a7506d1b.html"
    }
   },
   {
@@ -134,7 +137,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-crystal-palace-away-tickets-on-sale-tuesday-d593442f",
@@ -144,7 +147,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d593442f.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d593442f.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d593442f.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d593442f.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d593442f.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d593442f.html"
    }
   },
   {
@@ -165,7 +169,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-everton-away-tickets-on-sale-tuesday-24-0843361f",
@@ -175,7 +179,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-0843361f.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-everton-away-tickets-on-sale-tuesday-24-0843361f.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-everton-away-tickets-on-sale-tuesday-24-0843361f.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-0843361f.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-0843361f.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-everton-away-tickets-on-sale-tuesday-24-0843361f.html"
    }
   },
   {
@@ -196,7 +201,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-crystal-palace-away-tickets-on-sale-tuesday-51dba321",
@@ -206,7 +211,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-51dba321.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-crystal-palace-away-tickets-on-sale-tuesday-51dba321.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-crystal-palace-away-tickets-on-sale-tuesday-51dba321.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-51dba321.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-51dba321.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-crystal-palace-away-tickets-on-sale-tuesday-51dba321.html"
    }
   },
   {
@@ -227,7 +233,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-everton-away-tickets-on-sale-tuesday-24-828e4029",
@@ -237,7 +243,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-828e4029.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-everton-away-tickets-on-sale-tuesday-24-828e4029.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-everton-away-tickets-on-sale-tuesday-24-828e4029.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-828e4029.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-828e4029.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-everton-away-tickets-on-sale-tuesday-24-828e4029.html"
    }
   },
   {
@@ -258,7 +265,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-crystal-palace-away-tickets-on-sale-tuesday-38d00d49",
@@ -268,7 +275,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-38d00d49.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-crystal-palace-away-tickets-on-sale-tuesday-38d00d49.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-crystal-palace-away-tickets-on-sale-tuesday-38d00d49.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-38d00d49.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-38d00d49.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-crystal-palace-away-tickets-on-sale-tuesday-38d00d49.html"
    }
   },
   {
@@ -289,7 +297,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-everton-away-tickets-on-sale-tuesday-24-f0245712",
@@ -299,7 +307,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-f0245712.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-everton-away-tickets-on-sale-tuesday-24-f0245712.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-everton-away-tickets-on-sale-tuesday-24-f0245712.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-f0245712.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-f0245712.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-everton-away-tickets-on-sale-tuesday-24-f0245712.html"
    }
   },
   {
@@ -320,7 +329,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-crystal-palace-away-tickets-on-sale-tuesday-d6ab0e52",
@@ -330,7 +339,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d6ab0e52.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d6ab0e52.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d6ab0e52.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d6ab0e52.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d6ab0e52.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-crystal-palace-away-tickets-on-sale-tuesday-d6ab0e52.html"
    }
   },
   {
@@ -351,7 +361,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-everton-away-tickets-on-sale-tuesday-24-617d637c",
@@ -361,7 +371,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-617d637c.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-everton-away-tickets-on-sale-tuesday-24-617d637c.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-everton-away-tickets-on-sale-tuesday-24-617d637c.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-617d637c.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-617d637c.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-everton-away-tickets-on-sale-tuesday-24-617d637c.html"
    }
   },
   {
@@ -382,7 +393,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-crystal-palace-away-tickets-on-sale-tuesday-047c3499",
@@ -392,7 +403,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-047c3499.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-crystal-palace-away-tickets-on-sale-tuesday-047c3499.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-crystal-palace-away-tickets-on-sale-tuesday-047c3499.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-047c3499.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-047c3499.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-crystal-palace-away-tickets-on-sale-tuesday-047c3499.html"
    }
   },
   {
@@ -413,7 +425,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-everton-away-tickets-on-sale-tuesday-24-9843ead6",
@@ -423,7 +435,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-9843ead6.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-everton-away-tickets-on-sale-tuesday-24-9843ead6.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-everton-away-tickets-on-sale-tuesday-24-9843ead6.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-9843ead6.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-9843ead6.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-everton-away-tickets-on-sale-tuesday-24-9843ead6.html"
    }
   },
   {
@@ -444,7 +457,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-all-latest-afc-ticket-information-319c10e7",
@@ -454,7 +467,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-all-latest-afc-ticket-information-319c10e7.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-all-latest-afc-ticket-information-319c10e7.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-all-latest-afc-ticket-information-319c10e7.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-all-latest-afc-ticket-information-319c10e7.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-all-latest-afc-ticket-information-319c10e7.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-all-latest-afc-ticket-information-319c10e7.html"
    }
   },
   {
@@ -475,7 +489,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-crystal-palace-away-tickets-on-sale-tuesday-2d333520",
@@ -485,7 +499,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-2d333520.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-crystal-palace-away-tickets-on-sale-tuesday-2d333520.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-crystal-palace-away-tickets-on-sale-tuesday-2d333520.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-2d333520.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-2d333520.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-crystal-palace-away-tickets-on-sale-tuesday-2d333520.html"
    }
   },
   {
@@ -506,7 +521,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-crystal-palace-away-tickets-on-sale-tuesday-e3cddb64",
@@ -516,7 +531,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-e3cddb64.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-crystal-palace-away-tickets-on-sale-tuesday-e3cddb64.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-crystal-palace-away-tickets-on-sale-tuesday-e3cddb64.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-e3cddb64.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-e3cddb64.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-crystal-palace-away-tickets-on-sale-tuesday-e3cddb64.html"
    }
   },
   {
@@ -537,7 +553,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-everton-away-tickets-on-sale-tuesday-24-ce480527",
@@ -547,7 +563,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-ce480527.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-everton-away-tickets-on-sale-tuesday-24-ce480527.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-everton-away-tickets-on-sale-tuesday-24-ce480527.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-ce480527.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-ce480527.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-everton-away-tickets-on-sale-tuesday-24-ce480527.html"
    }
   },
   {
@@ -568,7 +585,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-everton-away-tickets-on-sale-tuesday-24-f6f504ff",
@@ -578,7 +595,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-f6f504ff.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-everton-away-tickets-on-sale-tuesday-24-f6f504ff.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-everton-away-tickets-on-sale-tuesday-24-f6f504ff.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-f6f504ff.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-f6f504ff.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-everton-away-tickets-on-sale-tuesday-24-f6f504ff.html"
    }
   },
   {
@@ -599,7 +617,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-crystal-palace-away-tickets-on-sale-tuesday-8f296f54",
@@ -609,7 +627,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-8f296f54.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-crystal-palace-away-tickets-on-sale-tuesday-8f296f54.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-crystal-palace-away-tickets-on-sale-tuesday-8f296f54.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-8f296f54.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-8f296f54.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-crystal-palace-away-tickets-on-sale-tuesday-8f296f54.html"
    }
   },
   {
@@ -630,7 +649,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-everton-away-tickets-on-sale-tuesday-24-61b9064e",
@@ -640,7 +659,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-61b9064e.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-everton-away-tickets-on-sale-tuesday-24-61b9064e.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-everton-away-tickets-on-sale-tuesday-24-61b9064e.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-61b9064e.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-61b9064e.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-everton-away-tickets-on-sale-tuesday-24-61b9064e.html"
    }
   },
   {
@@ -661,7 +681,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-all-latest-afc-ticket-information-0d391797",
@@ -671,7 +691,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-all-latest-afc-ticket-information-0d391797.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-all-latest-afc-ticket-information-0d391797.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-all-latest-afc-ticket-information-0d391797.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-all-latest-afc-ticket-information-0d391797.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-all-latest-afc-ticket-information-0d391797.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-all-latest-afc-ticket-information-0d391797.html"
    }
   },
   {
@@ -692,7 +713,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-all-latest-afc-ticket-information-fa335423",
@@ -702,7 +723,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-all-latest-afc-ticket-information-fa335423.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-all-latest-afc-ticket-information-fa335423.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-all-latest-afc-ticket-information-fa335423.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-all-latest-afc-ticket-information-fa335423.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-all-latest-afc-ticket-information-fa335423.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-all-latest-afc-ticket-information-fa335423.html"
    }
   },
   {
@@ -723,7 +745,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-crystal-palace-away-tickets-on-sale-tuesday-f2b9fd29",
@@ -733,7 +755,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-f2b9fd29.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-crystal-palace-away-tickets-on-sale-tuesday-f2b9fd29.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-crystal-palace-away-tickets-on-sale-tuesday-f2b9fd29.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-f2b9fd29.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-f2b9fd29.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-crystal-palace-away-tickets-on-sale-tuesday-f2b9fd29.html"
    }
   },
   {
@@ -754,7 +777,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-crystal-palace-away-tickets-on-sale-tuesday-71feac0f",
@@ -764,7 +787,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-71feac0f.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-crystal-palace-away-tickets-on-sale-tuesday-71feac0f.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-crystal-palace-away-tickets-on-sale-tuesday-71feac0f.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-71feac0f.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-71feac0f.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-crystal-palace-away-tickets-on-sale-tuesday-71feac0f.html"
    }
   },
   {
@@ -785,7 +809,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-everton-away-tickets-on-sale-tuesday-24-6c4d5d06",
@@ -795,7 +819,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-6c4d5d06.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-everton-away-tickets-on-sale-tuesday-24-6c4d5d06.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-everton-away-tickets-on-sale-tuesday-24-6c4d5d06.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-6c4d5d06.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-6c4d5d06.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-everton-away-tickets-on-sale-tuesday-24-6c4d5d06.html"
    }
   },
   {
@@ -816,7 +841,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-everton-away-tickets-on-sale-tuesday-24-cebb2115",
@@ -826,7 +851,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-cebb2115.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-everton-away-tickets-on-sale-tuesday-24-cebb2115.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-everton-away-tickets-on-sale-tuesday-24-cebb2115.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-cebb2115.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-cebb2115.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-everton-away-tickets-on-sale-tuesday-24-cebb2115.html"
    }
   },
   {
@@ -847,7 +873,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-tickets-what-s-on-sale-this-week-42527f28",
@@ -857,7 +883,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-tickets-what-s-on-sale-this-week-42527f28.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-tickets-what-s-on-sale-this-week-42527f28.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-tickets-what-s-on-sale-this-week-42527f28.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-tickets-what-s-on-sale-this-week-42527f28.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-tickets-what-s-on-sale-this-week-42527f28.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-tickets-what-s-on-sale-this-week-42527f28.html"
    }
   },
   {
@@ -878,7 +905,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-tickets-what-s-on-sale-this-week-5f7e6c69",
@@ -888,7 +915,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-tickets-what-s-on-sale-this-week-5f7e6c69.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-tickets-what-s-on-sale-this-week-5f7e6c69.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-tickets-what-s-on-sale-this-week-5f7e6c69.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-tickets-what-s-on-sale-this-week-5f7e6c69.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-tickets-what-s-on-sale-this-week-5f7e6c69.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-tickets-what-s-on-sale-this-week-5f7e6c69.html"
    }
   },
   {
@@ -909,7 +937,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-crystal-palace-away-tickets-on-sale-tuesday-09151840",
@@ -919,7 +947,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-crystal-palace-away-tickets-on-sale-tuesday-09151840.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-crystal-palace-away-tickets-on-sale-tuesday-09151840.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-crystal-palace-away-tickets-on-sale-tuesday-09151840.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-09151840.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-crystal-palace-away-tickets-on-sale-tuesday-09151840.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-crystal-palace-away-tickets-on-sale-tuesday-09151840.html"
    }
   },
   {
@@ -940,7 +969,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-everton-away-tickets-on-sale-tuesday-24-d8d98c61",
@@ -950,7 +979,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-everton-away-tickets-on-sale-tuesday-24-d8d98c61.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-everton-away-tickets-on-sale-tuesday-24-d8d98c61.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-everton-away-tickets-on-sale-tuesday-24-d8d98c61.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-d8d98c61.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-everton-away-tickets-on-sale-tuesday-24-d8d98c61.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-everton-away-tickets-on-sale-tuesday-24-d8d98c61.html"
    }
   },
   {
@@ -971,7 +1001,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-all-latest-afc-ticket-information-14ba3087",
@@ -981,7 +1011,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-all-latest-afc-ticket-information-14ba3087.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-all-latest-afc-ticket-information-14ba3087.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-all-latest-afc-ticket-information-14ba3087.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-all-latest-afc-ticket-information-14ba3087.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-all-latest-afc-ticket-information-14ba3087.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-all-latest-afc-ticket-information-14ba3087.html"
    }
   },
   {
@@ -1002,7 +1033,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T09:38:58.890979+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sunderland.html",
    "official_tickets": "https://www.safc.com/tickets",
    "slug": "sunderland-tickets-what-s-on-sale-this-week-9554e9ca",
@@ -1012,7 +1043,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sunderland-tickets-what-s-on-sale-this-week-9554e9ca.html",
     "it": "https://ticketwhistle.com/it/vendite/sunderland-tickets-what-s-on-sale-this-week-9554e9ca.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sunderland-tickets-what-s-on-sale-this-week-9554e9ca.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sunderland-tickets-what-s-on-sale-this-week-9554e9ca.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sunderland-tickets-what-s-on-sale-this-week-9554e9ca.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sunderland-tickets-what-s-on-sale-this-week-9554e9ca.html"
    }
   }
  ]

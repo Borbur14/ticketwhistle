@@ -2,8 +2,8 @@
  "publisher": "TicketWhistle",
  "site": "https://ticketwhistle.com",
  "license": "CC BY 4.0 — credit TicketWhistle and link the official source",
- "generated_at": "2026-11-28T11:39:12.644774+00:00",
- "last_scan": "2026-11-28T11:20:56.679229+00:00",
+ "generated_at": "2026-11-28T12:09:17.407832+00:00",
+ "last_scan": "2026-11-28T11:50:56.300547+00:00",
  "note": "Read from official club websites. Not affiliated with any league, UEFA or any club. Times: opens_at is ISO 8601 with offset; 'timezone' is the club's local zone. 'competition' is UCL / UEL / UECL for a European tie, else null. Always confirm on the official page before buying.",
  "club": {
   "id": "sheffield-utd",
@@ -30,7 +30,8 @@
    "ar": "https://ticketwhistle.com/ar/tickets/sheffield-utd.html",
    "it": "https://ticketwhistle.com/it/biglietti/sheffield-utd.html",
    "fr": "https://ticketwhistle.com/fr/billets/sheffield-utd.html",
-   "de": "https://ticketwhistle.com/de/tickets/sheffield-utd.html"
+   "de": "https://ticketwhistle.com/de/tickets/sheffield-utd.html",
+   "pt": "https://ticketwhistle.com/pt/ingressos/sheffield-utd.html"
   },
   "official_alternatives": [],
   "sale_patterns": {
@@ -62,7 +63,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-middlesbrough-home-ticket-details-36650fdd",
@@ -72,7 +73,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-middlesbrough-home-ticket-details-36650fdd.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-middlesbrough-home-ticket-details-36650fdd.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-middlesbrough-home-ticket-details-36650fdd.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-middlesbrough-home-ticket-details-36650fdd.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-middlesbrough-home-ticket-details-36650fdd.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-middlesbrough-home-ticket-details-36650fdd.html"
    }
   },
   {
@@ -93,7 +95,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-away-ticket-details-770d8ef5",
@@ -103,7 +105,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-away-ticket-details-770d8ef5.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-away-ticket-details-770d8ef5.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-away-ticket-details-770d8ef5.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-770d8ef5.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-770d8ef5.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-away-ticket-details-770d8ef5.html"
    }
   },
   {
@@ -124,7 +127,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-away-ticket-details-9f1aa4d4",
@@ -134,7 +137,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-away-ticket-details-9f1aa4d4.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-away-ticket-details-9f1aa4d4.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-away-ticket-details-9f1aa4d4.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-9f1aa4d4.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-9f1aa4d4.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-away-ticket-details-9f1aa4d4.html"
    }
   },
   {
@@ -155,7 +159,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-away-ticket-details-45dd82b1",
@@ -165,7 +169,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-away-ticket-details-45dd82b1.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-away-ticket-details-45dd82b1.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-away-ticket-details-45dd82b1.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-45dd82b1.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-45dd82b1.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-away-ticket-details-45dd82b1.html"
    }
   },
   {
@@ -186,7 +191,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-away-ticket-details-7431ccf2",
@@ -196,7 +201,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-away-ticket-details-7431ccf2.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-away-ticket-details-7431ccf2.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-away-ticket-details-7431ccf2.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-7431ccf2.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-7431ccf2.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-away-ticket-details-7431ccf2.html"
    }
   },
   {
@@ -217,7 +223,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-away-ticket-details-222270f7",
@@ -227,7 +233,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-away-ticket-details-222270f7.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-away-ticket-details-222270f7.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-away-ticket-details-222270f7.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-222270f7.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-222270f7.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-away-ticket-details-222270f7.html"
    }
   },
   {
@@ -248,7 +255,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-away-ticket-details-0cee9a49",
@@ -258,7 +265,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-away-ticket-details-0cee9a49.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-away-ticket-details-0cee9a49.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-away-ticket-details-0cee9a49.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-0cee9a49.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-0cee9a49.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-away-ticket-details-0cee9a49.html"
    }
   },
   {
@@ -279,7 +287,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-away-ticket-details-e5da258d",
@@ -289,7 +297,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-away-ticket-details-e5da258d.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-away-ticket-details-e5da258d.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-away-ticket-details-e5da258d.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-e5da258d.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-e5da258d.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-away-ticket-details-e5da258d.html"
    }
   },
   {
@@ -310,7 +319,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-away-ticket-details-d11166a6",
@@ -320,7 +329,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-away-ticket-details-d11166a6.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-away-ticket-details-d11166a6.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-away-ticket-details-d11166a6.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-d11166a6.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-d11166a6.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-away-ticket-details-d11166a6.html"
    }
   },
   {
@@ -341,7 +351,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-away-ticket-details-55b19aae",
@@ -351,7 +361,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-away-ticket-details-55b19aae.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-away-ticket-details-55b19aae.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-away-ticket-details-55b19aae.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-55b19aae.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-55b19aae.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-away-ticket-details-55b19aae.html"
    }
   },
   {
@@ -372,7 +383,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-away-ticket-details-01d33263",
@@ -382,7 +393,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-away-ticket-details-01d33263.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-away-ticket-details-01d33263.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-away-ticket-details-01d33263.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-01d33263.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-01d33263.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-away-ticket-details-01d33263.html"
    }
   },
   {
@@ -403,7 +415,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-away-ticket-details-77b3ed10",
@@ -413,7 +425,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-away-ticket-details-77b3ed10.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-away-ticket-details-77b3ed10.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-away-ticket-details-77b3ed10.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-77b3ed10.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-77b3ed10.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-away-ticket-details-77b3ed10.html"
    }
   },
   {
@@ -434,7 +447,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-away-ticket-details-39ce4520",
@@ -444,7 +457,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-away-ticket-details-39ce4520.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-away-ticket-details-39ce4520.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-away-ticket-details-39ce4520.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-39ce4520.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-away-ticket-details-39ce4520.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-away-ticket-details-39ce4520.html"
    }
   },
   {
@@ -465,7 +479,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-middlesbrough-home-ticket-details-13f7a16a",
@@ -475,7 +489,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-middlesbrough-home-ticket-details-13f7a16a.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-middlesbrough-home-ticket-details-13f7a16a.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-middlesbrough-home-ticket-details-13f7a16a.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-middlesbrough-home-ticket-details-13f7a16a.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-middlesbrough-home-ticket-details-13f7a16a.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-middlesbrough-home-ticket-details-13f7a16a.html"
    }
   },
   {
@@ -496,7 +511,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-derby-county-away-ticket-details-d20ee145",
@@ -506,7 +521,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-derby-county-away-ticket-details-d20ee145.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-derby-county-away-ticket-details-d20ee145.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-derby-county-away-ticket-details-d20ee145.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-d20ee145.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-d20ee145.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-derby-county-away-ticket-details-d20ee145.html"
    }
   },
   {
@@ -527,7 +543,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-derby-county-away-ticket-details-ebf3be2a",
@@ -537,7 +553,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-derby-county-away-ticket-details-ebf3be2a.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-derby-county-away-ticket-details-ebf3be2a.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-derby-county-away-ticket-details-ebf3be2a.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-ebf3be2a.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-ebf3be2a.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-derby-county-away-ticket-details-ebf3be2a.html"
    }
   },
   {
@@ -558,7 +575,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-derby-county-away-ticket-details-35bbc891",
@@ -568,7 +585,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-derby-county-away-ticket-details-35bbc891.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-derby-county-away-ticket-details-35bbc891.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-derby-county-away-ticket-details-35bbc891.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-35bbc891.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-35bbc891.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-derby-county-away-ticket-details-35bbc891.html"
    }
   },
   {
@@ -589,7 +607,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-derby-county-away-ticket-details-af94df89",
@@ -599,7 +617,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-derby-county-away-ticket-details-af94df89.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-derby-county-away-ticket-details-af94df89.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-derby-county-away-ticket-details-af94df89.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-af94df89.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-af94df89.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-derby-county-away-ticket-details-af94df89.html"
    }
   },
   {
@@ -620,7 +639,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-derby-county-away-ticket-details-0cf2ed41",
@@ -630,7 +649,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-derby-county-away-ticket-details-0cf2ed41.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-derby-county-away-ticket-details-0cf2ed41.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-derby-county-away-ticket-details-0cf2ed41.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-0cf2ed41.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-0cf2ed41.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-derby-county-away-ticket-details-0cf2ed41.html"
    }
   },
   {
@@ -651,7 +671,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-derby-county-away-ticket-details-3a644674",
@@ -661,7 +681,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-derby-county-away-ticket-details-3a644674.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-derby-county-away-ticket-details-3a644674.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-derby-county-away-ticket-details-3a644674.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-3a644674.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-3a644674.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-derby-county-away-ticket-details-3a644674.html"
    }
   },
   {
@@ -682,7 +703,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-derby-county-away-ticket-details-7240f2ec",
@@ -692,7 +713,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-derby-county-away-ticket-details-7240f2ec.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-derby-county-away-ticket-details-7240f2ec.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-derby-county-away-ticket-details-7240f2ec.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-7240f2ec.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-7240f2ec.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-derby-county-away-ticket-details-7240f2ec.html"
    }
   },
   {
@@ -713,7 +735,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-derby-county-away-ticket-details-cf97914c",
@@ -723,7 +745,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-derby-county-away-ticket-details-cf97914c.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-derby-county-away-ticket-details-cf97914c.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-derby-county-away-ticket-details-cf97914c.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-cf97914c.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-cf97914c.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-derby-county-away-ticket-details-cf97914c.html"
    }
   },
   {
@@ -744,7 +767,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-derby-county-away-ticket-details-f07622b8",
@@ -754,7 +777,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-derby-county-away-ticket-details-f07622b8.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-derby-county-away-ticket-details-f07622b8.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-derby-county-away-ticket-details-f07622b8.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-f07622b8.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-f07622b8.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-derby-county-away-ticket-details-f07622b8.html"
    }
   },
   {
@@ -775,7 +799,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-derby-county-away-ticket-details-db473288",
@@ -785,7 +809,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-derby-county-away-ticket-details-db473288.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-derby-county-away-ticket-details-db473288.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-derby-county-away-ticket-details-db473288.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-db473288.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-db473288.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-derby-county-away-ticket-details-db473288.html"
    }
   },
   {
@@ -806,7 +831,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-derby-county-away-ticket-details-ae7686f5",
@@ -816,7 +841,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-derby-county-away-ticket-details-ae7686f5.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-derby-county-away-ticket-details-ae7686f5.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-derby-county-away-ticket-details-ae7686f5.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-ae7686f5.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-ae7686f5.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-derby-county-away-ticket-details-ae7686f5.html"
    }
   },
   {
@@ -837,7 +863,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-derby-county-away-ticket-details-51940f23",
@@ -847,7 +873,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-derby-county-away-ticket-details-51940f23.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-derby-county-away-ticket-details-51940f23.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-derby-county-away-ticket-details-51940f23.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-51940f23.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-derby-county-away-ticket-details-51940f23.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-derby-county-away-ticket-details-51940f23.html"
    }
   },
   {
@@ -868,7 +895,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-home-tickets-kids-quid-76c3f250",
@@ -878,7 +905,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-home-tickets-kids-quid-76c3f250.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-home-tickets-kids-quid-76c3f250.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-home-tickets-kids-quid-76c3f250.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-home-tickets-kids-quid-76c3f250.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-home-tickets-kids-quid-76c3f250.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-home-tickets-kids-quid-76c3f250.html"
    }
   },
   {
@@ -899,7 +927,7 @@
    "source_kind": "article",
    "two_sources": false,
    "first_seen": "2026-11-27T19:26:43.211697+00:00",
-   "last_checked": "2026-11-28T11:20:56.679229+00:00",
+   "last_checked": "2026-11-28T11:50:56.300547+00:00",
    "club_page": "https://ticketwhistle.com/en/tickets/sheffield-utd.html",
    "official_tickets": "https://www.sufc.co.uk/category/tickets",
    "slug": "sheffield-utd-burnley-home-tickets-kids-quid-bceb52f3",
@@ -909,7 +937,8 @@
     "ar": "https://ticketwhistle.com/ar/sales/sheffield-utd-burnley-home-tickets-kids-quid-bceb52f3.html",
     "it": "https://ticketwhistle.com/it/vendite/sheffield-utd-burnley-home-tickets-kids-quid-bceb52f3.html",
     "fr": "https://ticketwhistle.com/fr/ventes/sheffield-utd-burnley-home-tickets-kids-quid-bceb52f3.html",
-    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-home-tickets-kids-quid-bceb52f3.html"
+    "de": "https://ticketwhistle.com/de/verkauf/sheffield-utd-burnley-home-tickets-kids-quid-bceb52f3.html",
+    "pt": "https://ticketwhistle.com/pt/vendas/sheffield-utd-burnley-home-tickets-kids-quid-bceb52f3.html"
    }
   }
  ]
