@@ -13,8 +13,7 @@ Full text for AI systems: https://ticketwhistle.com/llms-full.txt · New sales f
 - OpenAPI: https://ticketwhistle.com/openapi.json
 - MCP server (streamable HTTP): https://ticketwhistle.com/mcp — tools: upcoming_ticket_sales, get_club_ticket_windows, list_clubs
 
-## Next sales (snapshot 28 Nov 2026 13:39 Madrid · 12:39 UK)
-- [Fluminense: On sale — Informações de ingressos para Red Bull Bragantino x Fluminense](https://ticketwhistle.com/en/sales/fluminense-informacoes-ingressos-red-bull-bragantino-x-acc29710.html) — opens Sat 28 Nov 2026 10:00 Brasília time — official source https://www.fluminense.com.br/noticia/brasileirao-2026-informacoes-de-ingressos-para-red-bull-bragantino-x-fluminense
+## Next sales (snapshot 28 Nov 2026 14:09 Madrid · 13:09 UK)
 - [AFC Bournemouth: Members' sale — Ticket & points drop information: Aston Villa (H)](https://ticketwhistle.com/en/sales/bournemouth-ticket-points-drop-information-aston-villa-h-5a7e3d5a.html) — opens Sun 29 Nov 2026 00:00 UK time — official source https://www.afcb.co.uk/news/2026/november/23/ticket-points-drop-information-aston-villa-h/
 - [FC Augsburg: Members' sale — Vorverkauf: Auswärts in Leipzig und Sinsheim](https://ticketwhistle.com/en/sales/augsburg-vorverkauf-auswarts-in-leipzig-und-sinsheim-61cad823.html) — opens Sun 29 Nov 2026 17:30 Germany time — official source https://www.fcaugsburg.de/article/vorverkauf-auswaerts-in-leipzig-und-sinsheim-23554
 - [São Paulo: Members' sale — Ingressos para São Paulo x Corinthians, pelo Brasileirão - SPFC](https://ticketwhistle.com/en/sales/sao-paulo-ingressos-x-corinthians-pelo-brasileirao-spfc-d608fa31.html) — opens Sun 29 Nov 2026 16:00 Brasília time — official source https://www.saopaulofc.net/ingressos-para-sao-paulo-x-corinthians-pelo-brasileirao-2/
@@ -34,6 +33,7 @@ Full text for AI systems: https://ticketwhistle.com/llms-full.txt · New sales f
 - [Watford: Members' sale — Away Tickets: QPR Information](https://ticketwhistle.com/en/sales/watford-away-tickets-qpr-information-1eb47c92.html) — opens Mon 30 Nov 2026 10:00 UK time — official source https://www.watfordfc.com/news/2026/november/20/away-tickets-qpr-information/
 - [Wrexham AFC: Members' sale — Stoke City vs Wrexham AFC Ticket & Travel Information](https://ticketwhistle.com/en/sales/wrexham-stoke-city-afc-ticket-travel-information-a6b88841.html) — opens Mon 30 Nov 2026 10:00 UK time — official source https://www.wrexhamafc.co.uk/news/2026/november/27/stoke-city-vs-wrexham-afc-ticket---travel-information/
 - [Nottingham Forest: Members' sale — Ticket Details – Fulham (H)](https://ticketwhistle.com/en/sales/forest-ticket-details-fulham-h-25b8b73d.html) — opens Mon 30 Nov 2026 10:00 UK time — official source https://www.nottinghamforest.co.uk/news/2026/november/28/ticket-details---fulham--h-/
+- [Liverpool: Registration — Liverpool v Leeds United · Premier League · Sat 12 Dec, 15:00](https://ticketwhistle.com/en/sales/liverpool-leeds-united-premier-league-sat-12-dec-bbcdba04.html) — opens Mon 30 Nov 2026 11:00 UK time — official source https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27
 
 Every sale also has its own page: https://ticketwhistle.com/en/sales/<slug>.html (Spanish: /es/ventas/, Arabic: /ar/sales/). All of them: https://ticketwhistle.com/sitemap-sales.xml
 
